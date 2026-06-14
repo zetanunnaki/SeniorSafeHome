@@ -6,9 +6,10 @@
   "scripts": {
     "enrich": "node scripts/enrich.mjs",
     "gen:placeholders": "node scripts/gen-placeholders.mjs",
+    "gen:llms": "node scripts/gen-llms.mjs",
     "predev": "node scripts/enrich.mjs",
     "dev": "next dev",
-    "prebuild": "node scripts/enrich.mjs",
+    "prebuild": "node scripts/enrich.mjs && node scripts/gen-llms.mjs",
     "build": "next build",
     "postbuild": "node scripts/postbuild.mjs",
     "start": "next start",
