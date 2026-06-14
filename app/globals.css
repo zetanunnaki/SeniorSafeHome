@@ -101,7 +101,9 @@
   .prose-ssh ol {
     @apply ml-5 list-decimal space-y-2 marker:font-semibold marker:text-brand-600;
   }
-  .prose-ssh a {
+  /* Style prose links, but never the affiliate/CTA buttons (which set their own
+     white text on a colored pill). */
+  .prose-ssh a:not([class*='btn-']) {
     @apply font-medium text-brand-700 underline decoration-brand-300 underline-offset-2 hover:decoration-brand-600;
   }
   .prose-ssh blockquote {
