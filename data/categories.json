@@ -158,5 +158,13 @@
     "shortDescription": "Powered and portable bath lifts that gently lower and raise a senior into the tub at the push of a button — for independent, safe bathing.",
     "intro": "A powered bath lift lets a senior who can no longer lower and raise themselves enjoy a full bath again — safely and independently, with no caregiver lifting required. The seat lowers into the tub at the push of a waterproof button and raises back up when bathing is done. We focus on stable suction or multi-point bases, waterproof (IP-rated) construction, battery life, weight capacity, and safety logic that won't strand the user at the bottom of the tub. If stepping over the tub wall is the harder problem, a [transfer bench](/categories/transfer-benches) may suit better.",
     "icon": "bathlift"
+  },
+  {
+    "slug": "transport-wheelchairs",
+    "name": "Transport Wheelchairs",
+    "cluster": "mobility-transfer",
+    "shortDescription": "Lightweight, caregiver-pushed folding wheelchairs that make outings, appointments, and travel easier — compact enough for any car trunk.",
+    "intro": "A transport wheelchair is the lighter, more compact cousin of a standard wheelchair: it has small rear wheels and is pushed by a caregiver rather than self-propelled, so it folds smaller and weighs far less — ideal for appointments, errands, and travel. We compare folding transport chairs on weight, seat width and comfort, brakes, weight capacity, and how compactly they fold for the car. (If the user needs to wheel themselves, a self-propelled wheelchair with large rear wheels is the better fit.)",
+    "icon": "wheelchair"
   }
 ]

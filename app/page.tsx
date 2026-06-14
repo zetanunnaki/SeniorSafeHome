@@ -382,6 +382,7 @@ function categoryEmoji(slug: string): string {
     'door-wander-alarms': '🚪',
     'overbed-tables': '🍽️',
     'bath-lifts': '🛁',
+    'transport-wheelchairs': '♿',
   };
   return map[slug] || '🏠';
 }

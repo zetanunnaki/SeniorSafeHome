@@ -7069,5 +7069,314 @@
     "reviewSlug": null,
     "lastManualReview": "2026-06-14",
     "asinSource": "searchItems"
+  },
+  {
+    "id": "drive-expedition-transport-wheelchair",
+    "name": "Drive Medical Expedition Lightweight Transport Wheelchair",
+    "brand": "Drive Medical",
+    "category": "transport-wheelchairs",
+    "subCategory": "lightweight",
+    "amazonUrl": "https://www.amazon.com/s?k=Drive%20Medical%20Expedition%20lightweight%20folding%20transport%20wheelchair&tag=seniorsaferhome-20",
+    "asin": "B00537S944",
+    "editorialImageFallback": "/images/products/drive-expedition-transport-wheelchair.svg",
+    "shortDescription": "An ultralight 19 lb aluminum transport chair with curb-assist and companion loop-lock brakes — the best all-around lightweight pick.",
+    "badge": "Best Overall",
+    "price": 139.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 6568,
+    "features": [
+      "Ultralight 19 lb aluminum frame",
+      "300 lb capacity",
+      "Curb-assist + loop-lock brakes",
+      "Padded armrests, fold-down footrests"
+    ],
+    "pros": [
+      "Very light to lift into a car",
+      "Curb-assist for uneven ground",
+      "Compact rear-lever fold"
+    ],
+    "cons": [
+      "Small wheels need fairly smooth surfaces"
+    ],
+    "bestFor": [
+      "appointments and errands",
+      "post-surgery outings",
+      "travel"
+    ],
+    "specs": {
+      "weight": "19 lb",
+      "capacity": "300 lb",
+      "frame": "Aluminum",
+      "brakes": "Loop-lock"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "carex-transport-wheelchair",
+    "name": "Carex Transport Wheelchair (19\" Seat)",
+    "brand": "Carex",
+    "category": "transport-wheelchairs",
+    "subCategory": "standard",
+    "amazonUrl": "https://www.amazon.com/s?k=Carex%20transport%20wheelchair%2019%20inch%20seat%20folding&tag=seniorsaferhome-20",
+    "asin": "B008XI2UBI",
+    "editorialImageFallback": "/images/products/carex-transport-wheelchair.svg",
+    "shortDescription": "A reliable, affordable transport chair with a 19-inch seat, oversized 8-inch wheels, and a fold-to-10-inch width for compact car storage.",
+    "badge": "Best Budget",
+    "price": 94.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 4893,
+    "features": [
+      "25 lb, 300 lb capacity",
+      "19\" seat, oversized 8\" wheels",
+      "Push-to-lock brakes + seat belt",
+      "Folds to 10\" wide"
+    ],
+    "pros": [
+      "Lowest price, well-reviewed",
+      "Roomy 19\" seat",
+      "Folds very compactly"
+    ],
+    "cons": [
+      "Heavier than aluminum models"
+    ],
+    "bestFor": [
+      "budget buyers",
+      "occasional outings",
+      "compact storage"
+    ],
+    "specs": {
+      "weight": "25 lb",
+      "capacity": "300 lb",
+      "seat": "19 in",
+      "wheels": "8 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "medline-ultralight-transport-wheelchair",
+    "name": "Medline Ultralight Transport Wheelchair",
+    "brand": "Medline",
+    "category": "transport-wheelchairs",
+    "subCategory": "lightweight",
+    "amazonUrl": "https://www.amazon.com/s?k=Medline%20ultra%20lightweight%20transport%20wheelchair%2015%20lb%20cup%20holder&tag=seniorsaferhome-20",
+    "asin": "B001MBCS6K",
+    "editorialImageFallback": "/images/products/medline-ultralight-transport-wheelchair.svg",
+    "shortDescription": "At just 15 lb, the lightest chair here — with a 19-inch seat, desk-length cushioned armrests, and an included cup holder for easy travel.",
+    "badge": "Lightest",
+    "price": 176.15,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 7731,
+    "features": [
+      "Only 15 lb",
+      "300 lb capacity, 19\" seat",
+      "Desk-length cushioned armrests",
+      "Cup holder + swing-away footrests"
+    ],
+    "pros": [
+      "Easiest to lift and carry",
+      "Comfortable padded armrests",
+      "Cup holder included"
+    ],
+    "cons": [
+      "Pricier than steel chairs"
+    ],
+    "bestFor": [
+      "frequent travel",
+      "caregivers who lift often",
+      "lightweight handling"
+    ],
+    "specs": {
+      "weight": "15 lb",
+      "capacity": "300 lb",
+      "seat": "19 in",
+      "extras": "Cup holder"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "medline-handbrake-transport-wheelchair",
+    "name": "Medline Foldable Transport Wheelchair with Handbrakes",
+    "brand": "Medline",
+    "category": "transport-wheelchairs",
+    "subCategory": "standard",
+    "amazonUrl": "https://www.amazon.com/s?k=Medline%20foldable%20transport%20wheelchair%20handbrakes%2012%20inch%20wheels&tag=seniorsaferhome-20",
+    "asin": "B007WA1ZG4",
+    "editorialImageFallback": "/images/products/medline-handbrake-transport-wheelchair.svg",
+    "shortDescription": "The most-reviewed chair here, with easy-squeeze caregiver handbrakes, larger 12-inch rear wheels for a smoother ride, and no assembly required.",
+    "badge": "Best Handbrakes",
+    "price": 169.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 12663,
+    "features": [
+      "Easy-squeeze handbrakes",
+      "12\" rear + swivel front wheels",
+      "300 lb capacity, 19\" seat",
+      "Seat belt; no assembly"
+    ],
+    "pros": [
+      "Caregiver handbrakes for control",
+      "Smoother ride on bigger wheels",
+      "Ready to use out of box"
+    ],
+    "cons": [
+      "25 lb — mid-weight"
+    ],
+    "bestFor": [
+      "hills and ramps",
+      "longer pushes",
+      "caregiver control"
+    ],
+    "specs": {
+      "weight": "25 lb",
+      "capacity": "300 lb",
+      "wheels": "12 in rear",
+      "brakes": "Handbrakes"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "drive-folding-transport-wheelchair",
+    "name": "Drive Medical Lightweight Folding Transport Wheelchair",
+    "brand": "Drive Medical",
+    "category": "transport-wheelchairs",
+    "subCategory": "standard",
+    "amazonUrl": "https://www.amazon.com/s?k=Drive%20Medical%20lightweight%20folding%20transport%20wheelchair%208%20inch%20wheels&tag=seniorsaferhome-20",
+    "asin": "B002VWK4AQ",
+    "editorialImageFallback": "/images/products/drive-folding-transport-wheelchair.svg",
+    "shortDescription": "A simple, dependable steel transport chair with swing-away footrests and a padded nylon seat that folds flat in seconds.",
+    "badge": "Most Affordable Drive",
+    "price": 103.94,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 10509,
+    "features": [
+      "26 lb steel frame",
+      "250 lb capacity, 8\" wheels",
+      "Swing-away footrests",
+      "Padded nylon seat, folds flat"
+    ],
+    "pros": [
+      "Trusted, heavily reviewed",
+      "Folds flat fast",
+      "Great price"
+    ],
+    "cons": [
+      "250 lb capacity",
+      "Steel adds weight"
+    ],
+    "bestFor": [
+      "everyday transport",
+      "budget buyers",
+      "quick folding"
+    ],
+    "specs": {
+      "weight": "26 lb",
+      "capacity": "250 lb",
+      "frame": "Steel",
+      "wheels": "8 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "drive-silver-sport-transport-wheelchair",
+    "name": "Drive Medical Silver Sport 1 Transport Wheelchair",
+    "brand": "Drive Medical",
+    "category": "transport-wheelchairs",
+    "subCategory": "standard",
+    "amazonUrl": "https://www.amazon.com/s?k=Drive%20Medical%20Silver%20Sport%201%20folding%20transport%20wheelchair&tag=seniorsaferhome-20",
+    "asin": "B001HOI7AS",
+    "editorialImageFallback": "/images/products/drive-silver-sport-transport-wheelchair.svg",
+    "shortDescription": "A robust transport chair with full padded armrests, removable swing-away footrests, and a 3-year warranty — built to last.",
+    "badge": "Most Durable",
+    "price": 115,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 8029,
+    "features": [
+      "300 lb capacity",
+      "Push-to-lock brakes",
+      "Full padded armrests",
+      "Removable footrests, 3-yr warranty"
+    ],
+    "pros": [
+      "Highly rated and sturdy",
+      "3-year warranty",
+      "Comfortable armrests"
+    ],
+    "cons": [
+      "Heaviest pick (37.6 lb)"
+    ],
+    "bestFor": [
+      "durability",
+      "heavier daily use",
+      "long-term ownership"
+    ],
+    "specs": {
+      "weight": "37.6 lb",
+      "capacity": "300 lb",
+      "warranty": "3 yr",
+      "brakes": "Push-to-lock"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "karman-s115-transport-wheelchair",
+    "name": "Karman S-115 Ultralight Ergonomic Transport Wheelchair",
+    "brand": "Karman Healthcare",
+    "category": "transport-wheelchairs",
+    "subCategory": "premium",
+    "amazonUrl": "https://www.amazon.com/s?k=Karman%20Healthcare%20S-115%20ultra%20lightweight%20ergonomic%20transport%20wheelchair&tag=seniorsaferhome-20",
+    "asin": "B008YX2LRK",
+    "editorialImageFallback": "/images/products/karman-s115-transport-wheelchair.svg",
+    "shortDescription": "A premium 22 lb aircraft-grade aluminum chair with patented S-Shape ergonomic seating and flat-free wheels that never need air — for all-day comfort.",
+    "badge": "Premium Ergonomic",
+    "price": 603,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "features": [
+      "Aircraft-grade aluminum, 22 lb",
+      "Patented S-Shape ergonomic seat",
+      "Flat-free 14\" rear + 7\" front wheels",
+      "Breathable mesh, lifetime frame warranty"
+    ],
+    "pros": [
+      "Ergonomic seating for long use",
+      "Maintenance-free flat-free tires",
+      "Lifetime frame warranty"
+    ],
+    "cons": [
+      "Premium price",
+      "250 lb capacity"
+    ],
+    "bestFor": [
+      "all-day comfort",
+      "long-term daily use",
+      "posture support"
+    ],
+    "specs": {
+      "weight": "22 lb",
+      "capacity": "250 lb",
+      "seat": "S-Shape ergonomic",
+      "wheels": "Flat-free"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   }
 ]
