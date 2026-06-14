@@ -45,5 +45,53 @@
       { "label": "Visual footprint", "a": "More noticeable", "b": "Compact and low-profile" },
       { "label": "Best for", "a": "Restless sleepers, more support needed", "b": "Steady seniors needing a handhold" }
     ]
+  },
+  {
+    "slug": "raised-toilet-seat-vs-toilet-safety-frame",
+    "title": "Raised Toilet Seat vs. Toilet Safety Frame: Which Does a Senior Need?",
+    "description": "Compare bolt-on raised toilet seats with freestanding toilet safety frames on height, support, and whether you can modify the toilet.",
+    "category": "bathroom-safety",
+    "productIds": ["bemis-raised-toilet-seat", "homland-toilet-safety-frame"],
+    "summary": "Choose a raised toilet seat when you want to add height and can attach to the toilet — it reduces how far the senior lowers and lifts. Choose a freestanding safety frame when you can't modify the toilet (renters) or you mainly need sturdy support arms around the existing toilet.",
+    "verdictA": "Best for adding height with secure, attached arms.",
+    "verdictB": "Best when you can't modify the toilet and want support arms.",
+    "points": [
+      { "label": "Adds seat height", "a": "Yes (3–5 inches)", "b": "Not by itself — adds support, not height" },
+      { "label": "Attaches to toilet", "a": "Yes (bolt-on or clamp)", "b": "No — freestanding around the toilet" },
+      { "label": "Best for renters", "a": "Clamp-on models only", "b": "Ideal — nothing attached" },
+      { "label": "Support arms", "a": "Built in on many models", "b": "Yes — that's the main feature" }
+    ]
+  },
+  {
+    "slug": "corded-vs-cordless-phone-seniors",
+    "title": "Corded vs. Cordless Phone for Seniors: Which Is Safer?",
+    "description": "Compare corded and amplified cordless phones for seniors on reliability, hearing support, and whole-home convenience.",
+    "category": "communication",
+    "productIds": ["att-cd4930-phone", "vtech-sn5147-phone"],
+    "summary": "A corded phone never needs charging and keeps working in a power outage, so it's the most reliable choice for a fixed spot near where the senior sits. An amplified cordless phone offers louder sound and whole-home mobility. Many families keep one of each.",
+    "verdictA": "Best for outage-proof reliability in a fixed location.",
+    "verdictB": "Best for whole-home use and the loudest amplification.",
+    "points": [
+      { "label": "Works in a power outage", "a": "Yes — line-powered", "b": "Only with battery backup" },
+      { "label": "Needs charging", "a": "No", "b": "Yes (handset battery)" },
+      { "label": "Mobility around the home", "a": "Stays in one spot", "b": "Carry it anywhere" },
+      { "label": "Amplification", "a": "Audio-assist boost", "b": "Up to 50 dB boost + loud ringer" }
+    ]
+  },
+  {
+    "slug": "mobile-medical-alert-vs-caregiver-pager",
+    "title": "Mobile Medical Alert vs. Caregiver Pager: Which Should You Buy?",
+    "description": "Compare a monitored mobile medical alert with a no-monthly-fee caregiver pager, and learn which fits a senior's living situation.",
+    "category": "medical-alert",
+    "productIds": ["medical-guardian-mini", "calltou-caregiver-pager"],
+    "summary": "Choose a monitored mobile medical alert when the senior lives alone or goes out — it connects to a 24/7 response center that can dispatch help anywhere. Choose a no-fee caregiver pager only when someone is usually home: it alerts that caregiver, but does not call 911.",
+    "verdictA": "Best for living alone — summons professional help anywhere.",
+    "verdictB": "Best when a caregiver is home — no monthly fee.",
+    "points": [
+      { "label": "Dispatches emergency help", "a": "Yes — 24/7 monitoring center", "b": "No — alerts a caregiver only" },
+      { "label": "Monthly fee", "a": "Yes (monitoring)", "b": "None" },
+      { "label": "Works away from home", "a": "Yes — cellular + GPS", "b": "No — within ~500 ft" },
+      { "label": "Best for", "a": "Seniors living alone or active", "b": "Caregiver present in the home" }
+    ]
   }
 ]
