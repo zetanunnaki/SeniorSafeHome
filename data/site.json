@@ -1,0 +1,45 @@
+{
+  "name": "SeniorSafeHome",
+  "domain": "seniorsafehome.com",
+  "url": "https://seniorsafehome.com",
+  "tagline": "Helping aging adults stay safe, comfortable, and independent at home.",
+  "description": "Practical product recommendations, hands-on reviews, and safety guides for families and caregivers choosing home safety products for seniors.",
+  "amazonTag": "seniorsafehome-20",
+  "logoText": "SeniorSafeHome",
+  "email": "hello@seniorsafehome.com",
+  "publisher": "SeniorSafeHome Editorial Team",
+  "foundingYear": 2026,
+  "social": {
+    "twitter": "@seniorsafehome"
+  },
+  "disclosure": "SeniorSafeHome is reader-supported. As an Amazon Associate, we may earn from qualifying purchases at no extra cost to you.",
+  "disclosureShort": "As an Amazon Associate we earn from qualifying purchases.",
+  "nav": [
+    { "label": "Best Picks", "href": "/best" },
+    { "label": "Reviews", "href": "/reviews" },
+    { "label": "Guides", "href": "/guides" },
+    { "label": "Categories", "href": "/categories" },
+    { "label": "Compare", "href": "/compare" },
+    { "label": "Gift Guides", "href": "/gift-guides" }
+  ],
+  "footerLinks": {
+    "Content": [
+      { "label": "Best Picks", "href": "/best" },
+      { "label": "Reviews", "href": "/reviews" },
+      { "label": "Guides", "href": "/guides" },
+      { "label": "Gift Guides", "href": "/gift-guides" },
+      { "label": "Glossary", "href": "/glossary" },
+      { "label": "Topics", "href": "/topics" }
+    ],
+    "Company": [
+      { "label": "About", "href": "/about" },
+      { "label": "Contact", "href": "/contact" },
+      { "label": "Editorial Policy", "href": "/editorial-policy" }
+    ],
+    "Legal": [
+      { "label": "Affiliate Disclosure", "href": "/affiliate-disclosure" },
+      { "label": "Privacy Policy", "href": "/privacy-policy" },
+      { "label": "Terms of Use", "href": "/terms" }
+    ]
+  }
+}

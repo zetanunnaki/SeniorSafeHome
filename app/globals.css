@@ -1,0 +1,122 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-surface text-ink antialiased;
+    font-family: var(--font-sans), system-ui, sans-serif;
+    font-size: 1.0625rem;
+    line-height: 1.7;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display), system-ui, sans-serif;
+    /* Color is inherited (ink on light sections, white on dark) so headings
+       stay legible on both. Components set an explicit color where needed. */
+    @apply font-bold tracking-tight;
+    text-wrap: balance;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-brand-600 ring-offset-2 ring-offset-surface;
+  }
+
+  a {
+    @apply text-brand-700 underline-offset-2;
+  }
+
+  ::selection {
+    background: theme('colors.brand.200');
+    color: theme('colors.ink.DEFAULT');
+  }
+}
+
+@layer components {
+  /* --- Editorial accent word used inside large headings --- */
+  .accent {
+    font-family: var(--font-serif), Georgia, serif;
+    font-style: italic;
+    font-weight: 500;
+    @apply text-brand-600;
+  }
+  .accent-light {
+    font-family: var(--font-serif), Georgia, serif;
+    font-style: italic;
+    font-weight: 500;
+    @apply text-brand-300;
+  }
+
+  /* --- Pill buttons (matches reference) --- */
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-brand-700 px-7 py-3.5 text-base font-semibold text-white shadow-sm transition hover:bg-brand-800 focus-visible:ring-2 focus-visible:ring-brand-600 focus-visible:ring-offset-2;
+  }
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border border-ink/15 bg-white px-7 py-3.5 text-base font-semibold text-ink transition hover:border-ink/30 hover:bg-cream;
+  }
+  /* Secondary button on dark backgrounds */
+  .btn-on-dark {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border border-white/25 bg-white/10 px-7 py-3.5 text-base font-semibold text-white transition hover:bg-white/20;
+  }
+
+  .container-ssh {
+    @apply mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Small uppercase eyebrow label */
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.18em] text-brand-700;
+  }
+  .eyebrow-light {
+    @apply text-xs font-semibold uppercase tracking-[0.18em] text-brand-300;
+  }
+
+  /* --- Editorial body copy used by MDX content --- */
+  .prose-ssh {
+    @apply max-w-prose text-[1.075rem] leading-relaxed text-ink-soft;
+  }
+  .prose-ssh > * + * {
+    @apply mt-5;
+  }
+  .prose-ssh h2 {
+    @apply mt-12 scroll-mt-28 text-[1.7rem] text-ink sm:text-3xl;
+  }
+  .prose-ssh h3 {
+    @apply mt-9 scroll-mt-28 text-xl text-ink sm:text-2xl;
+  }
+  .prose-ssh p {
+    @apply leading-relaxed;
+  }
+  .prose-ssh ul {
+    @apply ml-5 list-disc space-y-2 marker:text-brand-500;
+  }
+  .prose-ssh ol {
+    @apply ml-5 list-decimal space-y-2 marker:font-semibold marker:text-brand-600;
+  }
+  .prose-ssh a {
+    @apply font-medium text-brand-700 underline decoration-brand-300 underline-offset-2 hover:decoration-brand-600;
+  }
+  .prose-ssh blockquote {
+    @apply border-l-4 border-brand-300 pl-4 italic text-ink-muted;
+  }
+  .prose-ssh code {
+    @apply rounded bg-cream px-1.5 py-0.5 text-[0.95em];
+  }
+}
+
+@layer utilities {
+  /* Subtle dotted texture for dark sections (adds depth vs. flat color) */
+  .bg-night-texture {
+    background-color: theme('colors.night.DEFAULT');
+    background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+    background-size: 22px 22px;
+  }
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "slug": "shower-chair-vs-transfer-bench",
+    "title": "Shower Chair vs. Transfer Bench: Which Is Safer for Seniors?",
+    "description": "A plain-language comparison of shower chairs and transfer benches, with clear guidance on which is right for your bathroom and mobility level.",
+    "category": "bathroom-safety",
+    "productIds": ["medline-shower-chair", "drive-medical-transfer-bench"],
+    "summary": "Choose a shower chair if your senior can safely step over the tub wall or uses a walk-in shower. Choose a transfer bench if stepping over the tub edge is risky — the bench lets them sit and slide across instead.",
+    "verdictA": "Best when stepping into the shower is already safe and space is tight.",
+    "verdictB": "Best when stepping over a tub wall is the main fall risk.",
+    "points": [
+      { "label": "Tub entry safety", "a": "Requires stepping over the tub wall", "b": "Eliminates stepping over the wall — sit and slide" },
+      { "label": "Footprint", "a": "Compact, fits inside the tub or stall", "b": "Larger; straddles the tub wall" },
+      { "label": "Best shower type", "a": "Walk-in showers and shallow tubs", "b": "Standard bathtubs with high walls" },
+      { "label": "Typical price", "a": "Lower", "b": "Higher" }
+    ]
+  },
+  {
+    "slug": "medical-alert-pendant-vs-smartwatch",
+    "title": "Medical Alert Pendant vs. Smartwatch: Which Should a Senior Wear?",
+    "description": "Compare classic medical alert pendants with smartwatch-style alert devices on battery life, fall detection, comfort, and stigma.",
+    "category": "medical-alert",
+    "productIds": ["medical-guardian-mini", "bay-alarm-smartwatch"],
+    "summary": "Pick a pendant-style mobile unit for the longest battery life and optional automatic fall detection. Pick a smartwatch-style device if your senior resists wearing an obvious medical pendant and will reliably charge it daily.",
+    "verdictA": "Best for battery life and fall detection.",
+    "verdictB": "Best for discreet, everyday wear.",
+    "points": [
+      { "label": "Battery life", "a": "Several days per charge", "b": "About one day per charge" },
+      { "label": "Fall detection", "a": "Available as an add-on", "b": "Usually not available" },
+      { "label": "Discreetness", "a": "Recognizable as a medical device", "b": "Looks like a normal smartwatch" },
+      { "label": "Extra features", "a": "Focused on emergency help", "b": "Step and activity tracking" }
+    ]
+  },
+  {
+    "slug": "bed-rail-vs-bedside-handle",
+    "title": "Bed Rails vs. Bedside Handles: Which Helps Seniors More?",
+    "description": "Understand the difference between full-length bed rails and compact bedside handles, and which is safer for getting in and out of bed.",
+    "category": "bedroom-safety",
+    "productIds": ["rms-bed-rail"],
+    "summary": "A full-length bed rail offers more surface to grip and can help prevent rolling out of bed. A compact bedside handle (assist rail) is less obtrusive and best for seniors who mainly need a sturdy handhold when sitting up and standing.",
+    "verdictA": "Best for roll-out prevention and a long gripping surface.",
+    "verdictB": "Best for a discreet handhold when standing up.",
+    "points": [
+      { "label": "Roll-out protection", "a": "Better — longer barrier", "b": "Minimal" },
+      { "label": "Visual footprint", "a": "More noticeable", "b": "Compact and low-profile" },
+      { "label": "Best for", "a": "Restless sleepers, more support needed", "b": "Steady seniors needing a handhold" }
+    ]
+  }
+]

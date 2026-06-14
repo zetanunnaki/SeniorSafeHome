@@ -1,0 +1,65 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Allow one concurrent deployment.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # --- Deployment config (set these as repo Variables/Secrets) ---
+      # For a custom apex domain, set CUSTOM_DOMAIN and leave BASE_PATH empty.
+      # For a project site at https://USER.github.io/REPO, set BASE_PATH=/REPO.
+      NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL || 'https://seniorsafehome.com' }}
+      NEXT_PUBLIC_BASE_PATH: ${{ vars.BASE_PATH }}
+      NEXT_PUBLIC_CUSTOM_DOMAIN: ${{ vars.CUSTOM_DOMAIN }}
+      NEXT_PUBLIC_AMAZON_TAG: ${{ vars.AMAZON_TAG || 'seniorsafehome-20' }}
+      # --- Build-time Amazon enrichment (optional secrets; build works without) ---
+      AMAZON_ACCESS_KEY: ${{ secrets.AMAZON_ACCESS_KEY }}
+      AMAZON_SECRET_KEY: ${{ secrets.AMAZON_SECRET_KEY }}
+      AMAZON_PARTNER_TAG: ${{ secrets.AMAZON_PARTNER_TAG || vars.AMAZON_TAG }}
+      AMAZON_HOST: ${{ vars.AMAZON_HOST || 'webservices.amazon.com' }}
+      AMAZON_REGION: ${{ vars.AMAZON_REGION || 'us-east-1' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build static site (runs Amazon enrichment via prebuild)
+        run: npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

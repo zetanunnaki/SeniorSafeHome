@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "grab-bars",
+    "name": "Grab Bars",
+    "cluster": "bathroom-safety",
+    "shortDescription": "Wall-mounted and suction grab bars for safer transfers in bathrooms and beyond.",
+    "intro": "Grab bars are one of the highest-impact, lowest-cost upgrades for preventing falls. The right bar gives a senior a stable handhold exactly where balance is hardest — stepping into a tub, rising from the toilet, or steadying on a slick floor. We focus on weight-rated, properly anchored bars and explain where suction models are appropriate and where they are not.",
+    "icon": "grip"
+  },
+  {
+    "slug": "shower-chairs",
+    "name": "Shower Chairs",
+    "cluster": "bathroom-safety",
+    "shortDescription": "Stable, height-adjustable seating for safer, less tiring bathing.",
+    "intro": "A shower chair lets a senior bathe sitting down, which dramatically reduces fall risk and fatigue. We prioritize stability, weight capacity, drainage, and adjustable, non-slip legs so the chair stays put on a wet floor.",
+    "icon": "chair"
+  },
+  {
+    "slug": "transfer-benches",
+    "name": "Transfer Benches",
+    "cluster": "mobility-transfer",
+    "shortDescription": "Bench seats that bridge the tub wall for safe sit-and-slide entry.",
+    "intro": "Transfer benches solve the single most dangerous moment in bathing — stepping over a tub wall. The senior sits on the outside half, then slides across, never lifting a leg over a slick edge. We look for sturdy frames, smooth seats, and secure tub-wall positioning.",
+    "icon": "bench"
+  },
+  {
+    "slug": "raised-toilet-seats",
+    "name": "Raised Toilet Seats",
+    "cluster": "bathroom-safety",
+    "shortDescription": "Added seat height to make sitting and standing easier and safer.",
+    "intro": "A raised toilet seat reduces how far a senior has to lower and lift their body, easing strain on hips and knees and lowering fall risk. We evaluate locking mechanisms, weight capacity, and optional support arms.",
+    "icon": "seat"
+  },
+  {
+    "slug": "bed-rails",
+    "name": "Bed Rails",
+    "cluster": "bedroom-safety",
+    "shortDescription": "Bedside support handles and rails for safer getting in and out of bed.",
+    "intro": "Bed rails give a senior something solid to grip when getting in or out of bed and help prevent rolling out during sleep. We emphasize secure mounting, gap safety, and models suited to home (not hospital) beds.",
+    "icon": "bed"
+  },
+  {
+    "slug": "medical-alert-systems",
+    "name": "Medical Alert Systems",
+    "cluster": "medical-alert",
+    "shortDescription": "Help-at-the-push-of-a-button devices for seniors living independently.",
+    "intro": "A medical alert system summons help when a senior cannot reach a phone. We compare in-home vs. mobile units, fall detection, monitoring fees, and battery life, with a focus on reliability and ease of use under stress.",
+    "icon": "alert"
+  },
+  {
+    "slug": "pill-organizers",
+    "name": "Pill Organizers",
+    "cluster": "medication",
+    "shortDescription": "Daily and weekly organizers that make medication routines clear and safe.",
+    "intro": "Medication errors are a common, preventable hazard for seniors. A good organizer makes it obvious whether a dose was taken. We look at compartment size, lid security, readability, and optional reminder features.",
+    "icon": "pill"
+  },
+  {
+    "slug": "non-slip-bath-mats",
+    "name": "Non-Slip Bath Mats",
+    "cluster": "bathroom-safety",
+    "shortDescription": "High-grip mats that keep tub and shower floors safer underfoot.",
+    "intro": "A quality non-slip mat is the cheapest fall-prevention tool in the bathroom. We evaluate suction strength, drainage, mildew resistance, and how well each mat grips real tub surfaces.",
+    "icon": "mat"
+  },
+  {
+    "slug": "large-button-phones",
+    "name": "Large-Button Phones",
+    "cluster": "communication",
+    "shortDescription": "Easy-to-see, easy-to-hear phones for seniors with vision or hearing loss.",
+    "intro": "Large-button phones keep seniors connected and able to call for help. We prioritize button size and contrast, amplified volume, photo speed-dial, and hearing-aid compatibility.",
+    "icon": "phone"
+  },
+  {
+    "slug": "reachers-dressing-aids",
+    "name": "Reachers & Dressing Aids",
+    "cluster": "mobility-transfer",
+    "shortDescription": "Tools that extend reach so seniors can dress and retrieve items safely.",
+    "intro": "Reachers and dressing aids help seniors stay independent without bending, stretching, or climbing — common causes of falls. We assess grip strength, length, locking joints, and ease of use for arthritic hands.",
+    "icon": "reacher"
+  }
+]

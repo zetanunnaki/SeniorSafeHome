@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "bathroom-safety",
+    "name": "Bathroom Safety",
+    "description": "The bathroom is the most common room for senior falls. Explore grab bars, shower chairs, transfer benches, raised toilet seats, and non-slip mats — plus the guides that tie them together.",
+    "categories": ["grab-bars", "shower-chairs", "transfer-benches", "raised-toilet-seats", "non-slip-bath-mats"]
+  },
+  {
+    "slug": "bedroom-safety",
+    "name": "Bedroom Safety",
+    "description": "Safe transfers in and out of bed, nighttime lighting, and reducing nighttime fall risk for aging adults.",
+    "categories": ["bed-rails"]
+  },
+  {
+    "slug": "fall-prevention",
+    "name": "Fall Prevention",
+    "description": "A whole-home approach to reducing falls — the leading cause of injury for older adults — through products, home modifications, and routines.",
+    "categories": ["grab-bars", "non-slip-bath-mats", "shower-chairs", "bed-rails"]
+  },
+  {
+    "slug": "mobility-transfer",
+    "name": "Mobility & Transfer Aids",
+    "description": "Aids that make moving, reaching, and transferring safer and less tiring for seniors.",
+    "categories": ["transfer-benches", "reachers-dressing-aids"]
+  },
+  {
+    "slug": "medical-alert",
+    "name": "Medical Alert Systems",
+    "description": "Devices and services that summon help fast when a senior living independently needs it.",
+    "categories": ["medical-alert-systems"]
+  },
+  {
+    "slug": "medication",
+    "name": "Medication Organization",
+    "description": "Tools and routines that make managing daily medications safer and clearer.",
+    "categories": ["pill-organizers"]
+  },
+  {
+    "slug": "communication",
+    "name": "Communication Devices",
+    "description": "Phones and devices that keep seniors connected and able to call for help.",
+    "categories": ["large-button-phones"]
+  },
+  {
+    "slug": "gifts",
+    "name": "Safety Gifts for Seniors",
+    "description": "Thoughtful gifts for aging parents that quietly improve safety, comfort, and independence.",
+    "categories": ["medical-alert-systems", "large-button-phones", "pill-organizers"]
+  }
+]
