@@ -26,10 +26,8 @@ jobs:
       NEXT_PUBLIC_BASE_PATH: ${{ vars.BASE_PATH }}
       NEXT_PUBLIC_CUSTOM_DOMAIN: ${{ vars.CUSTOM_DOMAIN }}
       NEXT_PUBLIC_AMAZON_TAG: ${{ vars.AMAZON_TAG || 'seniorsaferhome-20' }}
-      # --- Build-time Amazon enrichment (optional secrets; build works without) ---
-      AMAZON_CREATORS_CLIENT_ID: ${{ secrets.AMAZON_CREATORS_CLIENT_ID }}
-      AMAZON_CREATORS_CLIENT_SECRET: ${{ secrets.AMAZON_CREATORS_CLIENT_SECRET }}
-      AMAZON_PARTNER_TAG: ${{ secrets.AMAZON_PARTNER_TAG || vars.AMAZON_TAG }}
+      # No Amazon credentials needed in CI. Product images/prices are enriched
+      # locally via `npm run enrich` and committed in data/products.enriched.json.
     steps:
       - name: Checkout
         uses: actions/checkout@v4

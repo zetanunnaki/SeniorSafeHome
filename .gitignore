@@ -28,8 +28,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts.bak
 
-# generated enrichment artifact (regenerated each build)
-/data/products.enriched.json
+# NOTE: data/products.enriched.json IS committed. It holds the real Amazon
+# image URLs/prices from a local `npm run enrich` run, so deploys need no
+# credentials. Re-run enrich locally and commit to refresh.
 
 # playwright / screenshots
 .playwright-mcp/

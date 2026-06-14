@@ -106,9 +106,16 @@ async function main() {
   const products = JSON.parse(fs.readFileSync(SRC, 'utf8'));
 
   if (!hasCreds) {
-    console.log('[enrich] No Creators API credentials — using editorial fallback images.');
+    // No credentials in this environment (e.g. CI). Keep the committed
+    // products.enriched.json, which already holds real image URLs/prices from a
+    // local enrichment run — so deploys need NO secrets. Only write a fallback
+    // if the enriched file is missing entirely (fresh checkout safety net).
+    if (fs.existsSync(OUT)) {
+      console.log('[enrich] No credentials — keeping committed products.enriched.json (real data).');
+      return;
+    }
+    console.log('[enrich] No credentials and no enriched file — writing editorial fallback.');
     fs.writeFileSync(OUT, JSON.stringify(products.map(fallback), null, 2));
-    console.log(`[enrich] Wrote ${products.length} products (fallback).`);
     return;
   }
 
