@@ -376,6 +376,11 @@ function categoryEmoji(slug: string): string {
     canes: '🦯',
     'bedside-commodes': '🚻',
     'motion-sensor-night-lights': '💡',
+    'compression-socks': '🧦',
+    'low-vision-magnifiers': '🔍',
+    'stair-safety': '🪜',
+    'door-wander-alarms': '🚪',
+    'overbed-tables': '🍽️',
   };
   return map[slug] || '🏠';
 }

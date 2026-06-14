@@ -5264,5 +5264,1678 @@
     "reviewSlug": null,
     "lastManualReview": "2026-06-14",
     "asinSource": "searchItems"
+  },
+  {
+    "id": "physix-gear-compression-socks",
+    "name": "Physix Gear Compression Socks (20-30 mmHg)",
+    "brand": "Physix Gear",
+    "category": "compression-socks",
+    "subCategory": "medical-grade",
+    "amazonUrl": "https://www.amazon.com/s?k=Physix%20Gear%20compression%20socks%2020-30%20mmHg&tag=seniorsaferhome-20",
+    "asin": "B07RLNDBMJ",
+    "editorialImageFallback": "/images/products/physix-gear-compression-socks.svg",
+    "shortDescription": "The most-reviewed medical-grade compression sock on Amazon: firm graduated support with a seamless toe.",
+    "badge": "Best Overall",
+    "price": 18.82,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 94609,
+    "features": [
+      "Firm 20-30 mmHg graduated",
+      "Seamless toe",
+      "Moisture-wicking",
+      "For nurses, runners, travel"
+    ],
+    "pros": [
+      "Proven, hugely reviewed",
+      "True graduated compression",
+      "Comfortable seamless toe"
+    ],
+    "cons": [
+      "Firm — check with a doctor first"
+    ],
+    "bestFor": [
+      "varicose veins",
+      "swelling",
+      "recovery"
+    ],
+    "specs": {
+      "compression": "20-30 mmHg",
+      "toe": "Seamless",
+      "fit": "Knee-high",
+      "material": "Moisture-wicking"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "charmking-compression-socks",
+    "name": "CHARMKING Compression Socks (8-Pack)",
+    "brand": "CHARMKING",
+    "category": "compression-socks",
+    "subCategory": "everyday",
+    "amazonUrl": "https://www.amazon.com/s?k=CHARMKING%20compression%20socks%208%20pack%2015-20%20mmHg&tag=seniorsaferhome-20",
+    "asin": "B071RRHYJ8",
+    "editorialImageFallback": "/images/products/charmking-compression-socks.svg",
+    "shortDescription": "An 8-pack of cushioned 15-20 mmHg everyday socks — one of the most popular on Amazon.",
+    "badge": "Most Popular",
+    "price": 19.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 88926,
+    "features": [
+      "15-20 mmHg graduated",
+      "Moisture-wicking, odor-free",
+      "Cushioned, machine washable",
+      "Unisex 8-pack"
+    ],
+    "pros": [
+      "Great value 8-pack",
+      "Comfortable cushioning",
+      "Hugely popular"
+    ],
+    "cons": [
+      "Moderate compression only"
+    ],
+    "bestFor": [
+      "everyday wear",
+      "long travel",
+      "standing all day"
+    ],
+    "specs": {
+      "compression": "15-20 mmHg",
+      "count": "8 pairs",
+      "fit": "Knee-high",
+      "material": "Cushioned"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "blueenjoy-copper-compression-socks",
+    "name": "BLUEENJOY Copper Compression Socks (6-Pack)",
+    "brand": "BLUEENJOY",
+    "category": "compression-socks",
+    "subCategory": "everyday",
+    "amazonUrl": "https://www.amazon.com/s?k=BLUEENJOY%20copper%20compression%20socks%2020-30%20mmHg%206%20pack&tag=seniorsaferhome-20",
+    "asin": "B07ZFH52XG",
+    "editorialImageFallback": "/images/products/blueenjoy-copper-compression-socks.svg",
+    "shortDescription": "Copper-infused, moisture-wicking 20-30 mmHg socks with a discreet, work-friendly look.",
+    "badge": "Best Copper",
+    "price": 18.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 48013,
+    "features": [
+      "20-30 mmHg, copper-infused",
+      "Moisture-wicking, 360° stretch",
+      "Targeted compression zones",
+      "Discreet design"
+    ],
+    "pros": [
+      "Firm support",
+      "Copper for odor control",
+      "Discreet for work"
+    ],
+    "cons": [
+      "Firm — check with a doctor"
+    ],
+    "bestFor": [
+      "firm support",
+      "work",
+      "travel"
+    ],
+    "specs": {
+      "compression": "20-30 mmHg",
+      "count": "6 pairs",
+      "material": "Copper-infused",
+      "fit": "Knee-high"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "fenglaoda-compression-socks",
+    "name": "fenglaoda Knee-High Compression Socks (8-Pack)",
+    "brand": "fenglaoda",
+    "category": "compression-socks",
+    "subCategory": "everyday",
+    "amazonUrl": "https://www.amazon.com/s?k=fenglaoda%20compression%20socks%208%20pack%2020-30%20mmHg&tag=seniorsaferhome-20",
+    "asin": "B0B2ZY6LV1",
+    "editorialImageFallback": "/images/products/fenglaoda-compression-socks.svg",
+    "shortDescription": "20-30 mmHg socks with non-slip ribbing, a thickened heel and toe, and arch support for long shifts.",
+    "badge": "Best for Nurses",
+    "price": 21.84,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 17002,
+    "features": [
+      "20-30 mmHg",
+      "Non-slip ribbing",
+      "Thickened heel/toe + arch support",
+      "Breathable 8-pack"
+    ],
+    "pros": [
+      "Firm support",
+      "Durable reinforced heel/toe",
+      "Stays up well"
+    ],
+    "cons": [
+      "Firm — check with a doctor"
+    ],
+    "bestFor": [
+      "nurses",
+      "travel",
+      "running"
+    ],
+    "specs": {
+      "compression": "20-30 mmHg",
+      "count": "8 pairs",
+      "support": "Arch + reinforced heel/toe",
+      "fit": "Knee-high"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "iseasoo-compression-socks",
+    "name": "Iseasoo Compression Socks (4-Pack)",
+    "brand": "Iseasoo",
+    "category": "compression-socks",
+    "subCategory": "everyday",
+    "amazonUrl": "https://www.amazon.com/s?k=Iseasoo%20compression%20socks%204%20pack%20wide%20top%20band&tag=seniorsaferhome-20",
+    "asin": "B0925SHFQN",
+    "editorialImageFallback": "/images/products/iseasoo-compression-socks.svg",
+    "shortDescription": "A wide comfort top band that won’t pinch or roll, with durable graduated compression.",
+    "badge": "Best No-Pinch Band",
+    "price": 9.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 9744,
+    "features": [
+      "Graduated compression",
+      "Wide no-pinch top band",
+      "Assorted colors",
+      "Durable nylon"
+    ],
+    "pros": [
+      "Top band stays put",
+      "Doesn't dig in",
+      "Affordable 4-pack"
+    ],
+    "cons": [
+      "Compression level varies by use"
+    ],
+    "bestFor": [
+      "all-day comfort",
+      "high-impact sports",
+      "long shifts"
+    ],
+    "specs": {
+      "compression": "Graduated",
+      "count": "4 pairs",
+      "topBand": "Wide no-pinch",
+      "material": "Nylon"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "actinput-compression-socks",
+    "name": "ACTINPUT Copper Compression Socks (4-Pack)",
+    "brand": "ACTINPUT",
+    "category": "compression-socks",
+    "subCategory": "everyday",
+    "amazonUrl": "https://www.amazon.com/s?k=ACTINPUT%20copper%20compression%20socks%2015-20%20mmHg%20wide%20calf&tag=seniorsaferhome-20",
+    "asin": "B083TWBKZJ",
+    "editorialImageFallback": "/images/products/actinput-compression-socks.svg",
+    "shortDescription": "Copper-infused 15-20 mmHg knee-highs with an extended size range for wider calves.",
+    "badge": "Best for Wide Calves",
+    "price": 9.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 6548,
+    "features": [
+      "15-20 mmHg, copper-infused",
+      "Secure knee-high calf fit",
+      "Extended sizes for wider calves",
+      "Moisture-wicking"
+    ],
+    "pros": [
+      "Fits wider calves",
+      "Gentle moderate compression",
+      "Good value"
+    ],
+    "cons": [
+      "Moderate compression only"
+    ],
+    "bestFor": [
+      "wider calves",
+      "office workers",
+      "travel"
+    ],
+    "specs": {
+      "compression": "15-20 mmHg",
+      "count": "4 pairs",
+      "material": "Copper-infused",
+      "fit": "Knee-high (wide)"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "laite-hebe-compression-socks",
+    "name": "Laite Hebe Compression Socks (4-Pack)",
+    "brand": "Laite Hebe",
+    "category": "compression-socks",
+    "subCategory": "everyday",
+    "amazonUrl": "https://www.amazon.com/s?k=Laite%20Hebe%20compression%20socks%204%20pack%20graduated&tag=seniorsaferhome-20",
+    "asin": "B0GSVD7QYT",
+    "editorialImageFallback": "/images/products/laite-hebe-compression-socks.svg",
+    "shortDescription": "Four-zone graduated compression with temperature-control fabric and fashionable styles, at a budget price.",
+    "badge": "Best Budget",
+    "price": 9.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 6240,
+    "features": [
+      "4-zone graduated compression",
+      "Temperature-control fabric",
+      "85% nylon",
+      "Fashionable styles"
+    ],
+    "pros": [
+      "Inexpensive 4-pack",
+      "Comfortable fabric",
+      "Nice patterns"
+    ],
+    "cons": [
+      "Lighter-duty build"
+    ],
+    "bestFor": [
+      "budget everyday",
+      "nurses",
+      "pregnancy"
+    ],
+    "specs": {
+      "compression": "Graduated (4-zone)",
+      "count": "4 pairs",
+      "material": "85% nylon",
+      "fit": "Knee-high"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "sockwell-womens-circulator",
+    "name": "Sockwell Women's Circulator Merino Compression Socks",
+    "brand": "Sockwell",
+    "category": "compression-socks",
+    "subCategory": "merino-wool",
+    "amazonUrl": "https://www.amazon.com/s?k=Sockwell%20womens%20circulator%20merino%20wool%20compression%20socks&tag=seniorsaferhome-20",
+    "asin": "B005P4N3KA",
+    "editorialImageFallback": "/images/products/sockwell-womens-circulator.svg",
+    "shortDescription": "A merino-wool-and-bamboo blend with 15-20 mmHg compression, arch support, and a cushioned sole — made in the USA.",
+    "badge": "Best Merino Wool",
+    "price": 32.95,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 5181,
+    "features": [
+      "15-20 mmHg",
+      "Merino wool + bamboo rayon",
+      "Turn-welt top, arch support",
+      "Cushioned sole, made in USA"
+    ],
+    "pros": [
+      "Temperature-regulating wool",
+      "Very comfortable",
+      "Premium made-in-USA build"
+    ],
+    "cons": [
+      "Premium price"
+    ],
+    "bestFor": [
+      "travel",
+      "all-day comfort",
+      "temperature control"
+    ],
+    "specs": {
+      "compression": "15-20 mmHg",
+      "material": "Merino wool + bamboo",
+      "sole": "Cushioned",
+      "origin": "Made in USA"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "sockwell-mens-circulator",
+    "name": "Sockwell Men's Circulator Merino Compression Socks",
+    "brand": "Sockwell",
+    "category": "compression-socks",
+    "subCategory": "merino-wool",
+    "amazonUrl": "https://www.amazon.com/s?k=Sockwell%20mens%20circulator%20merino%20wool%20compression%20socks&tag=seniorsaferhome-20",
+    "asin": "B0G66D6XRD",
+    "editorialImageFallback": "/images/products/sockwell-mens-circulator.svg",
+    "shortDescription": "A men’s merino-wool blend with 15-20 mmHg compression, four zones, and natural odor control — made in the USA.",
+    "badge": "Best Merino (Men’s)",
+    "price": 32.95,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 1816,
+    "features": [
+      "15-20 mmHg",
+      "Merino wool blend",
+      "4 compression zones, Accu-fit",
+      "Odor control, made in USA"
+    ],
+    "pros": [
+      "Temperature-regulating",
+      "Natural odor control",
+      "Premium build"
+    ],
+    "cons": [
+      "Premium price"
+    ],
+    "bestFor": [
+      "everyday",
+      "travel",
+      "temperature control"
+    ],
+    "specs": {
+      "compression": "15-20 mmHg",
+      "material": "Merino wool blend",
+      "zones": "4",
+      "origin": "Made in USA"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "futuro-dress-compression-socks",
+    "name": "FUTURO Men’s Dress Compression Socks (20-30 mmHg)",
+    "brand": "FUTURO",
+    "category": "compression-socks",
+    "subCategory": "dress",
+    "amazonUrl": "https://www.amazon.com/s?k=FUTURO%20mens%20dress%20compression%20socks%2020-30%20mmHg&tag=seniorsaferhome-20",
+    "asin": "B07FLTQX89",
+    "editorialImageFallback": "/images/products/futuro-dress-compression-socks.svg",
+    "shortDescription": "Firm 20-30 mmHg compression in a professional dress-sock look, from the trusted 3M/FUTURO brand.",
+    "badge": "Best Dress Sock",
+    "price": 8.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 1914,
+    "features": [
+      "Firm 20-30 mmHg",
+      "Dress-sock appearance",
+      "Energizing graduated compression",
+      "Trusted 3M/FUTURO brand"
+    ],
+    "pros": [
+      "Looks like a normal dress sock",
+      "Firm medical-grade support",
+      "Recognized brand"
+    ],
+    "cons": [
+      "Firm — check with a doctor"
+    ],
+    "bestFor": [
+      "office/professional wear",
+      "moderate leg pain"
+    ],
+    "specs": {
+      "compression": "20-30 mmHg",
+      "look": "Dress sock",
+      "brand": "3M FUTURO",
+      "fit": "Knee-high"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "magnipros-6x-rechargeable-magnifier",
+    "name": "MagniPros 6X Rechargeable Page Magnifier",
+    "brand": "MagniPros",
+    "category": "low-vision-magnifiers",
+    "subCategory": "page",
+    "amazonUrl": "https://www.amazon.com/s?k=MagniPros%206X%20rechargeable%20handheld%20page%20magnifier%20LED&tag=seniorsaferhome-20",
+    "asin": "B07S5RZJDR",
+    "editorialImageFallback": "/images/products/magnipros-6x-rechargeable-magnifier.svg",
+    "shortDescription": "A patented rectangular lens that mimics natural left-to-right reading, with anti-glare LEDs and 8–12 hr battery.",
+    "badge": "Best Overall",
+    "price": 23.95,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 6081,
+    "features": [
+      "Patented 6X rectangular reading lens",
+      "3 color light modes",
+      "Anti-glare SMD LEDs",
+      "8–12 hr rechargeable battery"
+    ],
+    "pros": [
+      "Natural reading shape",
+      "Bright, glare-free light",
+      "No battery cost"
+    ],
+    "cons": [
+      "Larger than pocket models"
+    ],
+    "bestFor": [
+      "extended reading",
+      "mail and books",
+      "low vision"
+    ],
+    "specs": {
+      "magnification": "6X",
+      "lens": "Rectangular",
+      "power": "USB rechargeable",
+      "light": "Anti-glare LED"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "nazano-handheld-magnifier",
+    "name": "Nazano 3X Illuminated Handheld Magnifier",
+    "brand": "Nazano",
+    "category": "low-vision-magnifiers",
+    "subCategory": "handheld",
+    "amazonUrl": "https://www.amazon.com/s?k=Nazano%203X%20illuminated%20handheld%20magnifying%20glass%20LED&tag=seniorsaferhome-20",
+    "asin": "B08PP4RJ5J",
+    "editorialImageFallback": "/images/products/nazano-handheld-magnifier.svg",
+    "shortDescription": "A budget handheld with a 3.15-inch double glass lens and 12 bright LEDs — great for prescriptions and labels.",
+    "badge": "Best Budget",
+    "price": 9.69,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 20986,
+    "features": [
+      "3.15\" double glass lens",
+      "12 ultra-bright LEDs",
+      "Scratch-resistant lens",
+      "Ergonomic grip (2 AA)"
+    ],
+    "pros": [
+      "Very affordable",
+      "Bright and clear",
+      "Easy to hold"
+    ],
+    "cons": [
+      "Uses AA batteries"
+    ],
+    "bestFor": [
+      "reading print",
+      "prescriptions",
+      "macular degeneration"
+    ],
+    "specs": {
+      "magnification": "3X",
+      "lens": "3.15\" glass",
+      "power": "2 AA",
+      "leds": "12"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "jmh-handheld-magnifier",
+    "name": "JMH 3X Handheld LED Magnifier",
+    "brand": "JMH",
+    "category": "low-vision-magnifiers",
+    "subCategory": "handheld",
+    "amazonUrl": "https://www.amazon.com/s?k=JMH%203X%20handheld%20LED%20magnifier%203%20color%20modes&tag=seniorsaferhome-20",
+    "asin": "B088KJRZ1W",
+    "editorialImageFallback": "/images/products/jmh-handheld-magnifier.svg",
+    "shortDescription": "An 80mm glass lens with 18 LEDs in three color modes and stepless dimming — versatile and affordable.",
+    "badge": "Best Handheld",
+    "price": 9.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 15463,
+    "features": [
+      "80mm glass lens",
+      "18 LEDs, 3 color modes",
+      "Stepless dimmable",
+      "Includes carrying bag"
+    ],
+    "pros": [
+      "Adjustable light color/brightness",
+      "Clear glass lens",
+      "Comes with a bag"
+    ],
+    "cons": [
+      "Uses batteries"
+    ],
+    "bestFor": [
+      "pill bottles",
+      "newspapers",
+      "everyday reading"
+    ],
+    "specs": {
+      "magnification": "3X",
+      "lens": "80mm glass",
+      "leds": "18",
+      "modes": "3 color"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "aixpi-large-magnifier",
+    "name": "AIXPI 3X Large 5\" Illuminated Magnifier",
+    "brand": "AIXPI",
+    "category": "low-vision-magnifiers",
+    "subCategory": "handheld",
+    "amazonUrl": "https://www.amazon.com/s?k=AIXPI%203X%20large%205%20inch%20illuminated%20magnifier%20UV%20light&tag=seniorsaferhome-20",
+    "asin": "B07G55FSPX",
+    "editorialImageFallback": "/images/products/aixpi-large-magnifier.svg",
+    "shortDescription": "An extra-large 5-inch distortion-free lens with 24 LEDs plus a UV light, yet ultralight at 200g.",
+    "badge": "Best Large Lens",
+    "price": 17.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 1203,
+    "features": [
+      "Extra-large 5\" lens",
+      "24 LEDs + 1 UV light",
+      "Distortion-free",
+      "Ultralight 200g (3 AAA)"
+    ],
+    "pros": [
+      "Big viewing area",
+      "Very light to hold",
+      "UV light for currency/stamps"
+    ],
+    "cons": [
+      "Uses AAA batteries"
+    ],
+    "bestFor": [
+      "wide viewing",
+      "reading large areas",
+      "hobbies"
+    ],
+    "specs": {
+      "magnification": "3X",
+      "lens": "5\"",
+      "leds": "24 + UV",
+      "weight": "200 g"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "gaborish-rechargeable-magnifier",
+    "name": "GABORISH 10X/20X/45X Rechargeable Magnifier",
+    "brand": "GABORISH",
+    "category": "low-vision-magnifiers",
+    "subCategory": "page",
+    "amazonUrl": "https://www.amazon.com/s?k=GABORISH%2010X%2020X%2045X%20rechargeable%20illuminated%20magnifier&tag=seniorsaferhome-20",
+    "asin": "B0DC69PWQH",
+    "editorialImageFallback": "/images/products/gaborish-rechargeable-magnifier.svg",
+    "shortDescription": "Three magnification levels (10X/20X/45X) in one, with a 5.2-inch shatterproof lens and 37 LEDs.",
+    "badge": "Highest Magnification",
+    "price": 24.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 836,
+    "features": [
+      "10X / 20X / 45X in one",
+      "5.2\" shatterproof optical lens",
+      "37 LEDs, 3 light modes",
+      "USB rechargeable"
+    ],
+    "pros": [
+      "Very high magnification",
+      "Shatterproof lens",
+      "Rechargeable"
+    ],
+    "cons": [
+      "High magnification needs a steady hand"
+    ],
+    "bestFor": [
+      "severe low vision",
+      "fine detail",
+      "macular degeneration"
+    ],
+    "specs": {
+      "magnification": "10X/20X/45X",
+      "lens": "5.2\" shatterproof",
+      "leds": "37",
+      "power": "USB rechargeable"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "akkycvs-folding-magnifier",
+    "name": "AKKYCVS 5X Folding Rechargeable Page Magnifier",
+    "brand": "AKKYCVS",
+    "category": "low-vision-magnifiers",
+    "subCategory": "page",
+    "amazonUrl": "https://www.amazon.com/s?k=AKKYCVS%205X%20folding%20rechargeable%20LED%20page%20magnifier&tag=seniorsaferhome-20",
+    "asin": "B0D6G4PMTB",
+    "editorialImageFallback": "/images/products/akkycvs-folding-magnifier.svg",
+    "shortDescription": "A folding handle for easy storage, a 4.72x3\" rectangular lens, and 12 dimmable LEDs with USB-C charging.",
+    "badge": "Best Portable",
+    "price": 18.89,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 1494,
+    "features": [
+      "Foldable handle for storage",
+      "4.72\"×3\" rectangular lens",
+      "12 dimmable LEDs",
+      "USB-C rechargeable"
+    ],
+    "pros": [
+      "Folds away compactly",
+      "Adjustable brightness",
+      "Lightweight"
+    ],
+    "cons": [
+      "Acrylic lens (not glass)"
+    ],
+    "bestFor": [
+      "travel",
+      "reading on the go",
+      "low vision"
+    ],
+    "specs": {
+      "magnification": "5X",
+      "lens": "4.72×3\"",
+      "leds": "12 dimmable",
+      "power": "USB-C"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "krstlv-desk-lamp-magnifier",
+    "name": "Krstlv 10X LED Desk Magnifying Lamp",
+    "brand": "Krstlv",
+    "category": "low-vision-magnifiers",
+    "subCategory": "desk-lamp",
+    "amazonUrl": "https://www.amazon.com/s?k=Krstlv%2010X%20LED%20desk%20magnifying%20lamp%20gooseneck%20stand&tag=seniorsaferhome-20",
+    "asin": "B0CRB4K3DW",
+    "editorialImageFallback": "/images/products/krstlv-desk-lamp-magnifier.svg",
+    "shortDescription": "A hands-free 4.3-inch HD glass lens on a flexible gooseneck, with 5 color modes and a metal tool-tray base.",
+    "badge": "Best Hands-Free Desk",
+    "price": 29.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 1617,
+    "features": [
+      "4.3\" HD glass lens",
+      "360° flexible 12.6\" gooseneck",
+      "5 color modes + dimming",
+      "Metal base / tool tray"
+    ],
+    "pros": [
+      "Hands-free for crafts",
+      "Bright, adjustable light",
+      "Stable base"
+    ],
+    "cons": [
+      "AC-powered (corded)"
+    ],
+    "bestFor": [
+      "needlework",
+      "hobbies",
+      "repairs"
+    ],
+    "specs": {
+      "magnification": "10X",
+      "lens": "4.3\" glass",
+      "arm": "360° gooseneck",
+      "power": "AC"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "guoubuo-headset-magnifier",
+    "name": "GUOUBUO Rechargeable Headset Magnifier",
+    "brand": "GUOUBUO",
+    "category": "low-vision-magnifiers",
+    "subCategory": "wearable",
+    "amazonUrl": "https://www.amazon.com/s?k=GUOUBUO%20rechargeable%20magnifying%20headset%20glasses%20LED&tag=seniorsaferhome-20",
+    "asin": "B0GG9ZC4TV",
+    "editorialImageFallback": "/images/products/guoubuo-headset-magnifier.svg",
+    "shortDescription": "A head-mounted magnifier with four detachable lenses and a directional LED — both hands free for close work.",
+    "badge": "Best Wearable",
+    "price": 19.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 1558,
+    "features": [
+      "4 detachable lenses (1.5X–5X)",
+      "Adjustable directional LED",
+      "3.5–7 hr battery, USB-C",
+      "Fits over prescription glasses"
+    ],
+    "pros": [
+      "Hands completely free",
+      "Multiple magnification levels",
+      "Works over glasses"
+    ],
+    "cons": [
+      "Headset can feel bulky"
+    ],
+    "bestFor": [
+      "jewelry/sewing",
+      "crafts",
+      "detailed close work"
+    ],
+    "specs": {
+      "magnification": "1.5X–5X",
+      "type": "Head-mounted",
+      "power": "USB-C",
+      "light": "Directional LED"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "eyoyo-video-magnifier",
+    "name": "Eyoyo 3.5\" Electronic Video Magnifier",
+    "brand": "Eyoyo",
+    "category": "low-vision-magnifiers",
+    "subCategory": "electronic",
+    "amazonUrl": "https://www.amazon.com/s?k=Eyoyo%203.5%20inch%20digital%20electronic%20video%20magnifier%20low%20vision&tag=seniorsaferhome-20",
+    "asin": "B07XHL2JBC",
+    "editorialImageFallback": "/images/products/eyoyo-video-magnifier.svg",
+    "shortDescription": "A digital video magnifier with 2X–25X zoom and 8 high-contrast color modes — the gold standard for severe low vision.",
+    "badge": "Best Electronic",
+    "price": 79.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 417,
+    "features": [
+      "2X–25X zoom",
+      "8 color modes (white-on-black, etc.)",
+      "Screen freeze + snapshot",
+      "AV output to TV, 3+ hr battery"
+    ],
+    "pros": [
+      "High-contrast modes aid macular degeneration",
+      "Very high zoom",
+      "Freeze and view on a TV"
+    ],
+    "cons": [
+      "Pricier than optical magnifiers"
+    ],
+    "bestFor": [
+      "severe low vision",
+      "macular degeneration",
+      "high contrast needs"
+    ],
+    "specs": {
+      "magnification": "2X–25X",
+      "screen": "3.5\"",
+      "modes": "8 color",
+      "output": "AV to TV"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "cosy-homeer-carpet-stair-treads",
+    "name": "COSY HOMEER Carpet Stair Treads (15-Pack)",
+    "brand": "COSY HOMEER",
+    "category": "stair-safety",
+    "subCategory": "carpet-treads",
+    "amazonUrl": "https://www.amazon.com/s?k=COSY%20HOMEER%20carpet%20stair%20treads%20non%20slip%2015%20pack&tag=seniorsaferhome-20",
+    "asin": "B09M7WWTFP",
+    "editorialImageFallback": "/images/products/cosy-homeer-carpet-stair-treads.svg",
+    "shortDescription": "The highest-rated indoor carpet treads we found — fluffy, soft underfoot, with a grippy TPE backing that survives 30+ washes.",
+    "badge": "Best Overall",
+    "price": 76.49,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 8211,
+    "features": [
+      "Fluffy water-resistant polyester",
+      "Non-slip TPE backing (holds 30+ washes)",
+      "Peel & stick, no sticky residue",
+      "Fade- and shed-resistant, 28\"×9\""
+    ],
+    "pros": [
+      "Soft and quiet underfoot",
+      "Strong, residue-free grip",
+      "Holds up to washing"
+    ],
+    "cons": [
+      "Priciest set in our roundup"
+    ],
+    "bestFor": [
+      "indoor wooden stairs",
+      "noise reduction",
+      "homes with pets"
+    ],
+    "specs": {
+      "type": "Carpet tread",
+      "size": "28×9 in",
+      "pack": "15",
+      "backing": "TPE non-slip"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "mbigm-carpet-stair-treads",
+    "name": "MBIGM Non-Slip Carpet Stair Treads (15-Pack)",
+    "brand": "MBIGM",
+    "category": "stair-safety",
+    "subCategory": "carpet-treads",
+    "amazonUrl": "https://www.amazon.com/s?k=MBIGM%20non%20slip%20carpet%20stair%20treads%2015%20pack&tag=seniorsaferhome-20",
+    "asin": "B0BTPQTFJR",
+    "editorialImageFallback": "/images/products/mbigm-carpet-stair-treads.svg",
+    "shortDescription": "Our best-value carpet tread: a 3-layer build with a TPU non-skid bottom, machine washable, and cuttable to fit your stairs.",
+    "badge": "Best Value",
+    "price": 41.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 8566,
+    "features": [
+      "3-layer construction + TPU non-skid base",
+      "Machine washable, water-resistant",
+      "Can be cut to fit",
+      "8\"×30\" standard tread"
+    ],
+    "pros": [
+      "Excellent price per tread",
+      "Most-reviewed set we found",
+      "Trimmable for odd stairs"
+    ],
+    "cons": [
+      "Thinner pile than premium picks"
+    ],
+    "bestFor": [
+      "indoor stairs",
+      "budget whole-staircase coverage",
+      "easy cleaning"
+    ],
+    "specs": {
+      "type": "Carpet tread",
+      "size": "8×30 in",
+      "pack": "15",
+      "backing": "TPU non-skid"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "kooteta-carpet-stair-treads",
+    "name": "KOOTETA Non-Slip Carpet Stair Treads (15-Pack)",
+    "brand": "KOOTETA",
+    "category": "stair-safety",
+    "subCategory": "carpet-treads",
+    "amazonUrl": "https://www.amazon.com/s?k=KOOTETA%20non%20slip%20carpet%20stair%20treads%20waterproof%2015%20pack&tag=seniorsaferhome-20",
+    "asin": "B0CCNF224L",
+    "editorialImageFallback": "/images/products/kooteta-carpet-stair-treads.svg",
+    "shortDescription": "High-pile, waterproof treads with a self-adhesive TPR backing that adds noise and thermal insulation on hard stairs.",
+    "badge": "Best for Quiet",
+    "price": 39.98,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 3241,
+    "features": [
+      "High-pile soft polyester",
+      "Waterproof self-adhesive TPR backing",
+      "Noise + thermal insulation",
+      "Fits wood, tile, marble; machine washable"
+    ],
+    "pros": [
+      "Plush and warm underfoot",
+      "Cuts stair noise noticeably",
+      "Sticks to many surfaces"
+    ],
+    "cons": [
+      "Adhesive is single-use once placed"
+    ],
+    "bestFor": [
+      "quiet nighttime trips",
+      "hard tile/marble stairs",
+      "comfort"
+    ],
+    "specs": {
+      "type": "Carpet tread",
+      "size": "8×30 in",
+      "pack": "15",
+      "backing": "TPR adhesive"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "ottomanson-rubber-stair-treads",
+    "name": "Ottomanson Outdoor Rubber Stair Treads (5-Pack)",
+    "brand": "Ottomanson",
+    "category": "stair-safety",
+    "subCategory": "rubber-treads",
+    "amazonUrl": "https://www.amazon.com/s?k=Ottomanson%20outdoor%20rubber%20stair%20treads%20waterproof%205%20pack&tag=seniorsaferhome-20",
+    "asin": "B09WJJ6KMS",
+    "editorialImageFallback": "/images/products/ottomanson-rubber-stair-treads.svg",
+    "shortDescription": "Heavy-duty waterproof rubber treads built for porches, decks, and concrete steps — they shrug off rain, snow, and ice.",
+    "badge": "Best Outdoor",
+    "price": 31.54,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 2394,
+    "features": [
+      "Heavy-duty waterproof rubber",
+      "Weatherproof: rain, snow, ice",
+      "Best grip on concrete/brick/stone",
+      "Hose-clean, 10\"×30\""
+    ],
+    "pros": [
+      "True all-weather grip",
+      "Easy to rinse clean",
+      "Decorative scroll design"
+    ],
+    "cons": [
+      "Not soft like carpet treads"
+    ],
+    "bestFor": [
+      "outdoor steps",
+      "porches and decks",
+      "concrete/brick stairs"
+    ],
+    "specs": {
+      "type": "Rubber tread",
+      "size": "10×30 in",
+      "pack": "5",
+      "use": "Outdoor/all-weather"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "metty-2step-stair-handrail",
+    "name": "Metty Metal Adjustable 2-Step Stair Handrail",
+    "brand": "Metty",
+    "category": "stair-safety",
+    "subCategory": "handrail",
+    "amazonUrl": "https://www.amazon.com/s?k=Metty%20metal%20adjustable%20stair%20handrail%20wrought%20iron%201-5%20steps&tag=seniorsaferhome-20",
+    "asin": "B09JWV5926",
+    "editorialImageFallback": "/images/products/metty-2step-stair-handrail.svg",
+    "shortDescription": "A wrought-iron handrail rated to 600 lb with an adjustable 0–45° angle that fits 1–5 steps without cutting — installs with the included kit.",
+    "badge": "Most Versatile",
+    "price": 47.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 3134,
+    "features": [
+      "600 lb capacity wrought iron",
+      "Adjustable angle 0°–45° (fits 1–5 steps)",
+      "Anti-rust painted finish",
+      "Complete installation kit included"
+    ],
+    "pros": [
+      "Fits most short staircases",
+      "Very strong and stable",
+      "No cutting required"
+    ],
+    "cons": [
+      "Requires drilling to mount"
+    ],
+    "bestFor": [
+      "front steps",
+      "indoor or outdoor stairs",
+      "1–5 step runs"
+    ],
+    "specs": {
+      "type": "Handrail",
+      "capacity": "600 lb",
+      "steps": "1–5",
+      "mount": "Wall/post, drilled"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "sahans-ushape-grab-rail",
+    "name": "Sahans U-Shape 16\" Wall-Mount Grab Rail",
+    "brand": "Sahans",
+    "category": "stair-safety",
+    "subCategory": "handrail",
+    "amazonUrl": "https://www.amazon.com/s?k=Sahans%20U-shape%20wall%20mount%20stair%20grab%20rail%20handrail%2016%20inch&tag=seniorsaferhome-20",
+    "asin": "B0DJ8V8VMS",
+    "editorialImageFallback": "/images/products/sahans-ushape-grab-rail.svg",
+    "shortDescription": "A smooth U-shaped grab rail in powder-coated steel for the 1–3 entry steps at a door, porch, or garage — the highest-rated handrail we found.",
+    "badge": "Best Grab Rail",
+    "price": 27.99,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 284,
+    "features": [
+      "Smooth U-shaped grip",
+      "Heavy-duty powder-coated steel",
+      "Indoor/outdoor (porch, garage)",
+      "6 screws + expansion tubes included"
+    ],
+    "pros": [
+      "Highest rating in the roundup",
+      "Comfortable, secure grip",
+      "Quick to install"
+    ],
+    "cons": [
+      "Best for short 1–3 step runs"
+    ],
+    "bestFor": [
+      "entry steps",
+      "doorways",
+      "garage/porch"
+    ],
+    "specs": {
+      "type": "Grab rail",
+      "size": "16 in",
+      "steps": "1–3",
+      "finish": "Powder-coated"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "lukloy-stair-balusters",
+    "name": "LukLoy Freestanding U-Shape Stair Balusters (6-Pack)",
+    "brand": "LukLoy",
+    "category": "stair-safety",
+    "subCategory": "stair-rail-kit",
+    "amazonUrl": "https://www.amazon.com/s?k=LukLoy%20freestanding%20U-shape%20stair%20balusters%20railing%20kit&tag=seniorsaferhome-20",
+    "asin": "B0DSVZG2VV",
+    "editorialImageFallback": "/images/products/lukloy-stair-balusters.svg",
+    "shortDescription": "A no-wall-needed railing kit: modern 36\" iron balusters with an adjustable top plate for floor or stair mounting that passes the 4-inch ball safety test.",
+    "badge": "Best Freestanding Kit",
+    "price": 144.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 52,
+    "features": [
+      "Modern U-shaped iron balusters, 36\"",
+      "Adjustable plate: floor or stair mount",
+      "Passes 4-inch ball safety test",
+      "Matte black corrosion-resistant coat"
+    ],
+    "pros": [
+      "No wall required",
+      "Code-style 4-inch spacing",
+      "Sturdy and modern"
+    ],
+    "cons": [
+      "Most involved installation",
+      "Higher price"
+    ],
+    "bestFor": [
+      "open staircases",
+      "no wall to mount to",
+      "full railing runs"
+    ],
+    "specs": {
+      "type": "Railing kit",
+      "height": "36 in",
+      "pack": "6",
+      "mount": "Floor or stair"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "yistech-caregiver-door-alarm",
+    "name": "YisTech Caregiver Door Alarm (3 Sensors + 2 Receivers)",
+    "brand": "YisTech",
+    "category": "door-wander-alarms",
+    "subCategory": "door-chime",
+    "amazonUrl": "https://www.amazon.com/s?k=YisTech%20caregiver%20pager%20door%20alarm%20dementia%203%20sensor%202%20receiver&tag=seniorsaferhome-20",
+    "asin": "B09JZ989NQ",
+    "editorialImageFallback": "/images/products/yistech-caregiver-door-alarm.svg",
+    "shortDescription": "Purpose-built for dementia monitoring: assign a different chime to each door so you instantly know which one opened, across a 260 ft range.",
+    "badge": "Best for Dementia",
+    "price": 35.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 340,
+    "features": [
+      "58 ringtones, 5 volume levels (0–110 dB)",
+      "Per-door chime ID + LED visual alert",
+      "260 ft range, expandable to 20 sensors",
+      "Plug-in receivers + battery sensors"
+    ],
+    "pros": [
+      "Tells you which door opened",
+      "Loud with visual alert",
+      "Multi-receiver coverage"
+    ],
+    "cons": [
+      "Sensors use batteries"
+    ],
+    "bestFor": [
+      "dementia care",
+      "multi-door homes",
+      "caregivers in another room"
+    ],
+    "specs": {
+      "type": "Door chime",
+      "range": "260 ft",
+      "sensors": "3",
+      "receivers": "2"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "metak-door-chime",
+    "name": "METAK Wireless Door Open Chime Alarm",
+    "brand": "METAK",
+    "category": "door-wander-alarms",
+    "subCategory": "door-chime",
+    "amazonUrl": "https://www.amazon.com/s?k=METAK%20wireless%20door%20chime%20alarm%20open%20contact%20sensor&tag=seniorsaferhome-20",
+    "asin": "B09PH9HCPG",
+    "editorialImageFallback": "/images/products/metak-door-chime.svg",
+    "shortDescription": "A pre-paired, ready-out-of-the-box door chime with a 500 ft range and 1–2 year battery life — the simplest way to monitor one key door.",
+    "badge": "Best Single-Door",
+    "price": 15.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 2009,
+    "features": [
+      "Pre-paired, ready to use",
+      "500 ft range, 58 chimes",
+      "120 dB max volume",
+      "1–2 yr ultra-low-power battery"
+    ],
+    "pros": [
+      "No setup needed",
+      "Long battery life",
+      "Affordable"
+    ],
+    "cons": [
+      "One sensor in base kit"
+    ],
+    "bestFor": [
+      "front or basement door",
+      "simple monitoring",
+      "long battery life"
+    ],
+    "specs": {
+      "type": "Door chime",
+      "range": "500 ft",
+      "volume": "120 dB",
+      "sensors": "1"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "ultrapro-ge-door-alarm-4pack",
+    "name": "UltraPro (GE) Door & Window Alarm (4-Pack)",
+    "brand": "GE / UltraPro",
+    "category": "door-wander-alarms",
+    "subCategory": "contact-alarm",
+    "amazonUrl": "https://www.amazon.com/s?k=UltraPro%20GE%20door%20window%20alarm%204%20pack%20120dB%20chime&tag=seniorsaferhome-20",
+    "asin": "B00FGPM1SS",
+    "editorialImageFallback": "/images/products/ultrapro-ge-door-alarm-4pack.svg",
+    "shortDescription": "Four of the same trusted GE alarms with a low-battery LED and CHIME or ALARM modes — enough to cover the key doors of a small home.",
+    "badge": "Best Small Home",
+    "price": 20.14,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 11508,
+    "features": [
+      "120 dB, 3-mode switch",
+      "Low-battery LED indicator",
+      "Batteries pre-installed",
+      "Wireless tape install"
+    ],
+    "pros": [
+      "Covers several doors",
+      "Reliable GE design",
+      "Chime or full alarm"
+    ],
+    "cons": [
+      "No remote pager"
+    ],
+    "bestFor": [
+      "small homes",
+      "doors + windows",
+      "apartments"
+    ],
+    "specs": {
+      "type": "Contact alarm",
+      "volume": "120 dB",
+      "modes": "Off/Chime/Alarm",
+      "pack": "4"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "ultrapro-ge-door-alarm-5pack",
+    "name": "UltraPro (GE) Door & Window Alarm (5-Pack)",
+    "brand": "GE / UltraPro",
+    "category": "door-wander-alarms",
+    "subCategory": "contact-alarm",
+    "amazonUrl": "https://www.amazon.com/s?k=UltraPro%20GE%20door%20window%20alarm%205%20pack%20120dB%20lifetime%20warranty&tag=seniorsaferhome-20",
+    "asin": "B08PCDZTVD",
+    "editorialImageFallback": "/images/products/ultrapro-ge-door-alarm-5pack.svg",
+    "shortDescription": "A five-pack of the most-reviewed door/window alarms on Amazon — a battery test button, low-battery LED, and lifetime warranty for whole-home coverage.",
+    "badge": "Best for Whole Home",
+    "price": 21.15,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 16771,
+    "features": [
+      "120 dB, 3-mode switch",
+      "Battery test button + low-battery LED",
+      "Double-sided tape, no wiring",
+      "Lifetime warranty"
+    ],
+    "pros": [
+      "Best per-unit value",
+      "Cover every exterior door",
+      "Lifetime warranty"
+    ],
+    "cons": [
+      "No remote pager"
+    ],
+    "bestFor": [
+      "whole-home coverage",
+      "multiple exits",
+      "value"
+    ],
+    "specs": {
+      "type": "Contact alarm",
+      "volume": "120 dB",
+      "modes": "Off/Chime/Alarm",
+      "pack": "5"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "amhey-motion-door-chime",
+    "name": "AMHEY Wireless Motion Sensor Door Chime",
+    "brand": "AMHEY",
+    "category": "door-wander-alarms",
+    "subCategory": "motion-sensor",
+    "amazonUrl": "https://www.amazon.com/s?k=AMHEY%20wireless%20motion%20sensor%20door%20chime%20PIR%20caregiver%20alert&tag=seniorsaferhome-20",
+    "asin": "B09QPNYGVH",
+    "editorialImageFallback": "/images/products/amhey-motion-door-chime.svg",
+    "shortDescription": "A PIR motion sensor that alerts you as a loved one approaches the door — before they ever touch the handle — across a 500 ft range.",
+    "badge": "Best Motion Sensor",
+    "price": 22.66,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 926,
+    "features": [
+      "PIR detects approach (16–26 ft / 110°)",
+      "500 ft range to receiver",
+      "32 chimes, 5 volume levels (0–110 dB)",
+      "Expandable to 20+ sensors"
+    ],
+    "pros": [
+      "Warns before the door opens",
+      "No contact sensor to defeat",
+      "Adjustable volume + LED"
+    ],
+    "cons": [
+      "Needs careful placement to avoid false triggers"
+    ],
+    "bestFor": [
+      "early-warning wandering alerts",
+      "hallways near exits",
+      "layered setups"
+    ],
+    "specs": {
+      "type": "Motion sensor",
+      "range": "500 ft",
+      "detection": "16–26 ft / 110°",
+      "volume": "110 dB"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "sti-6400-exit-stopper",
+    "name": "STI-6400 Exit Stopper Multifunction Door Alarm",
+    "brand": "STI",
+    "category": "door-wander-alarms",
+    "subCategory": "exit-stopper",
+    "amazonUrl": "https://www.amazon.com/s?k=STI-6400%20exit%20stopper%20multifunction%20door%20alarm%20key%20override&tag=seniorsaferhome-20",
+    "asin": "B0006AZDII",
+    "editorialImageFallback": "/images/products/sti-6400-exit-stopper.svg",
+    "shortDescription": "A professional-grade \"stop sign\" exit alarm with a key-operated override and four alarm durations — the standard for memory-care units and group homes.",
+    "badge": "Best for Memory Care",
+    "price": 76.28,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 509,
+    "features": [
+      "105 dB with visual stop-sign deterrent",
+      "4 durations (10 beeps / 30 s / 3 min / continuous)",
+      "Key-operated override for authorized exits",
+      "Indestructible polycarbonate, 3-yr warranty"
+    ],
+    "pros": [
+      "Visual + audible deterrent",
+      "Staff key override",
+      "Built to last"
+    ],
+    "cons": [
+      "Most expensive option",
+      "9V battery"
+    ],
+    "bestFor": [
+      "memory care units",
+      "group homes",
+      "high wandering risk"
+    ],
+    "specs": {
+      "type": "Exit stopper",
+      "volume": "105 dB",
+      "override": "Key",
+      "power": "9V battery"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "vaunn-overbed-table-walnut",
+    "name": "Vaunn Medical Adjustable Overbed Table (Walnut)",
+    "brand": "Vaunn",
+    "category": "overbed-tables",
+    "subCategory": "rolling",
+    "amazonUrl": "https://www.amazon.com/s?k=Vaunn%20medical%20adjustable%20overbed%20table%20walnut%20rolling&tag=seniorsaferhome-20",
+    "asin": "B00QMNTMXA",
+    "editorialImageFallback": "/images/products/vaunn-overbed-table-walnut.svg",
+    "shortDescription": "The hospital-and-home favorite: a 30\"×15\" walnut top with spring-loaded infinite height adjustment and an H-base that rolls under most beds and wheelchairs.",
+    "badge": "Best Overall",
+    "price": 69.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 28974,
+    "features": [
+      "30\"×15\" walnut laminate top",
+      "Spring-loaded height 28.5\"–40.5\"",
+      "H-style base + 2\" locking casters",
+      "Chrome-plated steel, 45 lb capacity"
+    ],
+    "pros": [
+      "Trusted hospital design",
+      "Smooth infinite height adjust",
+      "Stable H-base rolls under beds"
+    ],
+    "cons": [
+      "45 lb top capacity"
+    ],
+    "bestFor": [
+      "eating in bed",
+      "recovery at home",
+      "wheelchair users"
+    ],
+    "specs": {
+      "top": "30×15 in",
+      "height": "28.5–40.5 in",
+      "base": "H-style",
+      "capacity": "45 lb"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "vaunn-overbed-table-black",
+    "name": "Vaunn Medical Adjustable Overbed Table (Black)",
+    "brand": "Vaunn",
+    "category": "overbed-tables",
+    "subCategory": "rolling",
+    "amazonUrl": "https://www.amazon.com/s?k=Vaunn%20medical%20adjustable%20overbed%20table%20black%20rolling&tag=seniorsaferhome-20",
+    "asin": "B0DWG1P145",
+    "editorialImageFallback": "/images/products/vaunn-overbed-table-black.svg",
+    "shortDescription": "The same trusted Vaunn table in sleek black, with a textured anti-slip surface, welded tubular steel, and locking wheels at wheelchair-friendly height.",
+    "badge": "Best in Black",
+    "price": 66.49,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 28974,
+    "features": [
+      "Textured anti-slip top",
+      "Chrome-plated welded tubular steel",
+      "Spring-loaded height adjust",
+      "Locking wheels, wheelchair-compatible"
+    ],
+    "pros": [
+      "Modern black finish",
+      "Anti-slip surface",
+      "Same reliable Vaunn build"
+    ],
+    "cons": [
+      "45 lb top capacity"
+    ],
+    "bestFor": [
+      "modern bedrooms",
+      "wheelchair height",
+      "recovery"
+    ],
+    "specs": {
+      "top": "30×15 in",
+      "height": "28.5–40.5 in",
+      "base": "H-style",
+      "finish": "Black"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "medical-king-overbed-table",
+    "name": "Medical King Adjustable Overbed Table",
+    "brand": "Medical King",
+    "category": "overbed-tables",
+    "subCategory": "rolling",
+    "amazonUrl": "https://www.amazon.com/s?k=Medical%20King%20adjustable%20overbed%20bedside%20table%20200%20lb&tag=seniorsaferhome-20",
+    "asin": "B0DK4D3BBT",
+    "editorialImageFallback": "/images/products/medical-king-overbed-table.svg",
+    "shortDescription": "A dark-walnut aluminum-and-wood table with a heavy 200 lb top capacity and spring-loaded height adjustment — built for seniors and patients.",
+    "badge": "Strongest Top",
+    "price": 59.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 918,
+    "features": [
+      "Dark walnut aluminum + wood top (30\"×15.5\")",
+      "Spring-loaded height 28.5\"–40.5\"",
+      "200 lb top capacity",
+      "Smooth rolling wheels"
+    ],
+    "pros": [
+      "Very high top capacity",
+      "Sturdy aluminum frame",
+      "Roomy surface"
+    ],
+    "cons": [
+      "Fewer reviews than Vaunn/Drive"
+    ],
+    "bestFor": [
+      "heavier loads",
+      "seniors and patients",
+      "eating in bed"
+    ],
+    "specs": {
+      "top": "30×15.5 in",
+      "height": "28.5–40.5 in",
+      "capacity": "200 lb",
+      "frame": "Aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "sweetcrispy-overbed-table",
+    "name": "Sweetcrispy Rolling Overbed Table with Tilt Top",
+    "brand": "Sweetcrispy",
+    "category": "overbed-tables",
+    "subCategory": "tilt",
+    "amazonUrl": "https://www.amazon.com/s?k=Sweetcrispy%20rolling%20overbed%20bedside%20table%20tilt%20top%20white&tag=seniorsaferhome-20",
+    "asin": "B0FWJMVJNT",
+    "editorialImageFallback": "/images/products/sweetcrispy-overbed-table.svg",
+    "shortDescription": "A modern white table with an adjustable, tilting top for reading or laptops, on four rolling wheels that fit over most standard beds.",
+    "badge": "Best Tilt-Top",
+    "price": 54.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 745,
+    "features": [
+      "Adjustable height + tilting top",
+      "Modern white, wipe-clean finish",
+      "4 rolling wheels",
+      "33 lb capacity"
+    ],
+    "pros": [
+      "Tilt top eases neck strain",
+      "Clean modern look",
+      "Fits most beds"
+    ],
+    "cons": [
+      "Lighter-duty than medical models"
+    ],
+    "bestFor": [
+      "reading and tablets",
+      "laptops in bed",
+      "modern bedrooms"
+    ],
+    "specs": {
+      "top": "Tilting",
+      "capacity": "33 lb",
+      "wheels": "4",
+      "finish": "White"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "tigerdad-overbed-table-king-queen",
+    "name": "TigerDad Overbed Table for King/Queen Beds",
+    "brand": "TigerDad",
+    "category": "overbed-tables",
+    "subCategory": "adjustable-length",
+    "amazonUrl": "https://www.amazon.com/s?k=TigerDad%20overbed%20table%20king%20queen%20adjustable%20length%20350%20lb&tag=seniorsaferhome-20",
+    "asin": "B07N62KV8D",
+    "editorialImageFallback": "/images/products/tigerdad-overbed-table-king-queen.svg",
+    "shortDescription": "A cross-bed table whose legs straddle the mattress, spanning 55\"–83\" in length and supporting 350 lb — the answer for queen and king beds.",
+    "badge": "Best for Large Beds",
+    "price": 99.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 2625,
+    "features": [
+      "Length spans 55\"–83\"",
+      "Height 25.6\"–37.4\"",
+      "15 mm MDF top, 350 lb capacity",
+      "1.5\" locking casters"
+    ],
+    "pros": [
+      "Fits queen and king beds",
+      "Very high capacity",
+      "Legs clear the mattress"
+    ],
+    "cons": [
+      "Larger footprint to store"
+    ],
+    "bestFor": [
+      "king/queen beds",
+      "heavier loads",
+      "couples"
+    ],
+    "specs": {
+      "length": "55–83 in",
+      "height": "25.6–37.4 in",
+      "capacity": "350 lb",
+      "top": "15 mm MDF"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "arlopu-overbed-table-queen",
+    "name": "Arlopu Queen-Size Overbed Table with 360° Wheels",
+    "brand": "Arlopu",
+    "category": "overbed-tables",
+    "subCategory": "adjustable-length",
+    "amazonUrl": "https://www.amazon.com/s?k=Arlopu%20queen%20size%20overbed%20table%20360%20wheels%20baffle%20350%20lb&tag=seniorsaferhome-20",
+    "asin": "B0CQ4ZX4R1",
+    "editorialImageFallback": "/images/products/arlopu-overbed-table-queen.svg",
+    "shortDescription": "An enormous 70.8\"×16\" cross-bed surface with a raised 3.9\" baffle so items do not slide off, on four lockable 360° wheels for twin to queen beds.",
+    "badge": "Biggest Surface",
+    "price": 84,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 247,
+    "features": [
+      "Huge 70.8\"×16\" surface",
+      "3.9\" baffle prevents items falling",
+      "350 lb capacity",
+      "4 lockable 360° wheels"
+    ],
+    "pros": [
+      "Massive work surface",
+      "Baffle keeps items in place",
+      "Fits up to queen beds"
+    ],
+    "cons": [
+      "Newer listing, fewer reviews"
+    ],
+    "bestFor": [
+      "large work surface",
+      "hobbies in bed",
+      "twin–queen beds"
+    ],
+    "specs": {
+      "top": "70.8×16 in",
+      "capacity": "350 lb",
+      "wheels": "360° lockable",
+      "baffle": "3.9 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   }
 ]

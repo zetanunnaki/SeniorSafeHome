@@ -110,5 +110,45 @@
     "shortDescription": "Plug-in, rechargeable stick-on, and ceiling motion lights that switch on automatically for safer nighttime trips.",
     "intro": "Most nighttime falls happen in the dark on the way to the bathroom. Motion-activated night lights remove that risk by lighting the path automatically — no fumbling for a switch. We look for reliable sensors, warm glare-free light, and long battery life or easy plug-in power.",
     "icon": "light"
+  },
+  {
+    "slug": "compression-socks",
+    "name": "Compression Socks",
+    "cluster": "daily-living",
+    "shortDescription": "Graduated compression socks that ease swelling, support circulation, and make long days on the feet more comfortable.",
+    "intro": "Compression socks gently squeeze the legs to support circulation, reduce swelling, and ease tired, achy legs — helpful for seniors who sit or stand for long periods, travel, or manage mild edema. We compare compression levels, materials, fit, and comfort. Always check with a doctor before using firm (20–30 mmHg) compression, especially with diabetes or circulation conditions.",
+    "icon": "sock"
+  },
+  {
+    "slug": "low-vision-magnifiers",
+    "name": "Low-Vision Magnifiers",
+    "cluster": "daily-living",
+    "shortDescription": "Illuminated handheld, page, desk-lamp, and electronic magnifiers that make reading and close work possible again.",
+    "intro": "For seniors with macular degeneration, glaucoma, or general low vision, the right magnifier restores the ability to read prescriptions, mail, and books. We compare illuminated handheld, rechargeable page, hands-free desk-lamp, wearable, and electronic video magnifiers on magnification, lighting, contrast modes, and ease of use.",
+    "icon": "magnifier"
+  },
+  {
+    "slug": "stair-safety",
+    "name": "Stair Safety",
+    "cluster": "fall-prevention",
+    "shortDescription": "Non-slip carpet and rubber stair treads, anti-slip surfaces, and easy-install handrails that make every step safer.",
+    "intro": "Stairs are one of the highest-risk areas in any home for older adults. The right combination of non-slip treads and a sturdy handrail dramatically reduces the chance of a fall. We compare soft carpet treads for indoor wooden stairs, all-weather rubber treads for porches and concrete, and easy-install wall-mount and freestanding handrails — with a focus on real grip, secure fit, and weight capacity. Physical therapists typically recommend a handrail on both sides of every staircase.",
+    "icon": "stairs"
+  },
+  {
+    "slug": "door-wander-alarms",
+    "name": "Door & Wander Alarms",
+    "cluster": "dementia-wandering",
+    "shortDescription": "Door chimes, exit alarms, motion sensors, and caregiver pagers that alert you the moment a loved one with dementia heads for the door.",
+    "intro": "For families caring for someone with dementia or Alzheimer's, wandering is one of the most frightening risks. A simple door or motion alarm gives caregivers precious seconds to respond before a loved one leaves the home unnoticed. We compare magnetic door-sensor chimes, stand-alone door/window alarms, professional exit stoppers, motion sensors that detect an approach before the door is even touched, and caregiver call pagers — chosen for reliability, loudness, and ease of use. A layered setup (door sensor + motion sensor) gives the best coverage.",
+    "icon": "alarm"
+  },
+  {
+    "slug": "overbed-tables",
+    "name": "Overbed Tables",
+    "cluster": "bedroom-safety",
+    "shortDescription": "Height-adjustable, rolling, and cross-bed tables that make eating, reading, and recovering in bed easier and safer.",
+    "intro": "An overbed table turns a bed into a comfortable, independent space for eating, reading, using a laptop, or keeping medications and water within reach during recovery. We compare hospital-trusted rolling tables, adjustable-length models that span queen and king beds, and tilt-tops for reading — focusing on stable bases, locking casters, smooth height adjustment, and weight capacity. The right table reduces the need to get up, lowering fall risk for seniors recovering at home.",
+    "icon": "table"
   }
 ]
