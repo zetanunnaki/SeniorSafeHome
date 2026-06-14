@@ -53,7 +53,7 @@
     "category": "shower-chairs",
     "subCategory": "shower-chairs",
     "amazonUrl": "https://www.amazon.com/s?k=Medline+compact+shower+chair+padded+arms&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B01MSISJKG",
     "editorialImageFallback": "/images/products/medline-compact-shower-chair.svg",
     "shortDescription": "A space-saving version of Medline's top chair, with the same padded arms and back.",
     "badge": "Best Compact",
@@ -90,7 +90,8 @@
       "material": "Aluminum / plastic"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "drive-shower-chair",
@@ -99,7 +100,7 @@
     "category": "shower-chairs",
     "subCategory": "shower-chairs",
     "amazonUrl": "https://www.amazon.com/s?k=Drive+Medical+shower+chair+removable+arms+back&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B013AX88P2",
     "editorialImageFallback": "/images/products/drive-shower-chair.svg",
     "shortDescription": "A versatile shower chair whose arms and back come off tool-free as needs change.",
     "badge": "Most Adjustable",
@@ -136,7 +137,8 @@
       "material": "Aluminum / plastic"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "drive-suction-shower-chair",
@@ -145,7 +147,7 @@
     "category": "shower-chairs",
     "subCategory": "shower-chairs",
     "amazonUrl": "https://www.amazon.com/s?k=Drive+Medical+shower+chair+suction+feet&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B002VWK0WI",
     "editorialImageFallback": "/images/products/drive-suction-shower-chair.svg",
     "shortDescription": "Suction-cup feet grip wet floors for extra security, with push-button height adjustment.",
     "badge": "Best Grip",
@@ -182,7 +184,8 @@
       "material": "Aluminum / plastic"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "homland-shower-chair",
@@ -191,7 +194,7 @@
     "category": "shower-chairs",
     "subCategory": "shower-chairs",
     "amazonUrl": "https://www.amazon.com/s?k=HOMLAND+shower+chair+500+lb+heavy+duty&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0CZHWS3DJ",
     "editorialImageFallback": "/images/products/homland-shower-chair.svg",
     "shortDescription": "A 500 lb aluminum-alloy chair with wide skid-resistant feet and removable arms and back.",
     "badge": "Best Heavy-Duty",
@@ -229,7 +232,8 @@
       "material": "Aluminum alloy"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "vfauosit-shower-chair",
@@ -238,7 +242,7 @@
     "category": "shower-chairs",
     "subCategory": "shower-chairs",
     "amazonUrl": "https://www.amazon.com/s?k=VFAUOSIT+shower+chair+550+lb&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0CZHQ681N",
     "editorialImageFallback": "/images/products/vfauosit-shower-chair.svg",
     "shortDescription": "Our highest-capacity pick at 550 lb, with a reinforced crossbar and configurable design.",
     "badge": "Highest Capacity",
@@ -275,7 +279,8 @@
       "material": "Reinforced aluminum"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "kingpavonini-shower-chair",
@@ -284,7 +289,7 @@
     "category": "shower-chairs",
     "subCategory": "shower-chairs",
     "amazonUrl": "https://www.amazon.com/s?k=KingPavonini+shower+chair+550+lb&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0G6K77Y5S",
     "editorialImageFallback": "/images/products/kingpavonini-shower-chair.svg",
     "shortDescription": "A 550 lb chair with M-shaped anti-slip padded handles and a reinforced crossing bar.",
     "badge": "Best Heavy-Duty Value",
@@ -321,7 +326,8 @@
       "material": "Reinforced aluminum"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "decoteak-teak-shower-bench",
@@ -330,7 +336,7 @@
     "category": "shower-chairs",
     "subCategory": "shower-chairs",
     "amazonUrl": "https://www.amazon.com/s?k=DecoTeak+teak+shower+bench+storage+shelf&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B009I8I93U",
     "editorialImageFallback": "/images/products/decoteak-teak-shower-bench.svg",
     "shortDescription": "Solid teak that never rusts or molds — a spa-like bench with a storage shelf.",
     "badge": "Premium Pick",
@@ -369,7 +375,8 @@
       "extras": "Storage shelf"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "medline-transfer-bench",
@@ -425,7 +432,7 @@
     "category": "transfer-benches",
     "subCategory": "transfer-benches",
     "amazonUrl": "https://www.amazon.com/s?k=Medline+padded+bamboo+transfer+bench&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B08KSKQL5X",
     "editorialImageFallback": "/images/products/medline-bamboo-transfer-bench.svg",
     "shortDescription": "A padded bamboo seat and back add comfort for longer, more relaxed bathing.",
     "badge": "Most Comfortable",
@@ -463,7 +470,8 @@
       "material": "Bamboo / aluminum"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "drive-medical-transfer-bench",
@@ -519,7 +527,7 @@
     "category": "transfer-benches",
     "subCategory": "transfer-benches",
     "amazonUrl": "https://www.amazon.com/s?k=Carex+tub+transfer+bench+handles&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B000AEGCOO",
     "editorialImageFallback": "/images/products/carex-transfer-bench.svg",
     "shortDescription": "No metal to rust or corrode, with a backrest that has two built-in handles.",
     "badge": "Best Durability",
@@ -556,7 +564,8 @@
       "material": "Non-corroding composite"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "carex-aluminum-transfer-bench",
@@ -565,7 +574,7 @@
     "category": "transfer-benches",
     "subCategory": "transfer-benches",
     "amazonUrl": "https://www.amazon.com/s?k=Carex+aluminum+transfer+bench+reversible&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B000AEGCOO",
     "editorialImageFallback": "/images/products/carex-aluminum-transfer-bench.svg",
     "shortDescription": "A lightweight, value-priced bench that disassembles quickly for storage or travel.",
     "badge": "Best Value",
@@ -603,7 +612,8 @@
       "material": "Aluminum"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "homland-transfer-bench",
@@ -612,7 +622,7 @@
     "category": "transfer-benches",
     "subCategory": "transfer-benches",
     "amazonUrl": "https://www.amazon.com/s?k=HOMLAND+transfer+bench+A-frame&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0DSMC446W",
     "editorialImageFallback": "/images/products/homland-transfer-bench.svg",
     "shortDescription": "A budget-friendly 400 lb A-frame bench, FSA/HSA eligible, with a reversible backrest.",
     "badge": "Best Budget Heavy-Duty",
@@ -649,7 +659,8 @@
       "material": "Aluminum"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "vevor-sliding-transfer-bench",
@@ -658,7 +669,7 @@
     "category": "transfer-benches",
     "subCategory": "transfer-benches",
     "amazonUrl": "https://www.amazon.com/s?k=VEVOR+sliding+transfer+bench+swivel&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0D97C1Q8L",
     "editorialImageFallback": "/images/products/vevor-sliding-transfer-bench.svg",
     "shortDescription": "A sliding, 360°-swivel seat with a safety belt for the easiest assisted transfers.",
     "badge": "Best Sliding",
@@ -695,7 +706,8 @@
       "material": "Aluminum"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "gozuna-swivel-transfer-bench",
@@ -704,7 +716,7 @@
     "category": "transfer-benches",
     "subCategory": "transfer-benches",
     "amazonUrl": "https://www.amazon.com/s?k=Gozuna+swivel+transfer+bench+padded&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0GL1G8M4L",
     "editorialImageFallback": "/images/products/gozuna-swivel-transfer-bench.svg",
     "shortDescription": "A padded 360° swivel seat that locks every 90° for safe, controlled tub transfers.",
     "badge": "Best Swivel",
@@ -742,7 +754,8 @@
       "material": "Reinforced aluminum"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "moen-homecare-24-grab-bar",
@@ -751,7 +764,7 @@
     "category": "grab-bars",
     "subCategory": "grab-bars",
     "amazonUrl": "https://www.amazon.com/s?k=Moen+Home+Care+24+inch+grab+bar+stainless&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B00084F76K",
     "editorialImageFallback": "/images/products/moen-homecare-24-grab-bar.svg",
     "shortDescription": "Our top grab bar: 500 lb stainless steel with concealed screws and a lifetime warranty.",
     "badge": "Best Overall",
@@ -789,7 +802,8 @@
       "material": "Stainless steel"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "moen-homecare-18-grab-bar",
@@ -798,7 +812,7 @@
     "category": "grab-bars",
     "subCategory": "grab-bars",
     "amazonUrl": "https://www.amazon.com/s?k=Moen+Home+Care+18+inch+grab+bar+1.5+diameter&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B000Y4S52M",
     "editorialImageFallback": "/images/products/moen-homecare-18-grab-bar.svg",
     "shortDescription": "A larger 1.5\" diameter makes this 18\" bar easier to wrap a hand around.",
     "badge": "Best Easy-Grip",
@@ -836,7 +850,8 @@
       "material": "Stainless steel"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "moen-peened-12-grab-bar",
@@ -845,7 +860,7 @@
     "category": "grab-bars",
     "subCategory": "grab-bars",
     "amazonUrl": "https://www.amazon.com/s?k=Moen+12+inch+peened+grab+bar&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B001EHTP9U",
     "editorialImageFallback": "/images/products/moen-peened-12-grab-bar.svg",
     "shortDescription": "A peened, textured finish gives the best grip for wet hands in a compact 12\" bar.",
     "badge": "Best Wet-Hand Grip",
@@ -883,7 +898,8 @@
       "material": "Stainless steel"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "moen-designer-16-grab-bar",
@@ -892,7 +908,7 @@
     "category": "grab-bars",
     "subCategory": "grab-bars",
     "amazonUrl": "https://www.amazon.com/s?k=Moen+designer+16+inch+grab+bar+brushed+nickel&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B001D1L1Z8",
     "editorialImageFallback": "/images/products/moen-designer-16-grab-bar.svg",
     "shortDescription": "Looks like a towel bar, holds like a grab bar — finger notches and a brushed-nickel finish.",
     "badge": "Best Designer",
@@ -929,7 +945,8 @@
       "material": "Stainless steel"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "moen-designer-24-grab-bar",
@@ -938,7 +955,7 @@
     "category": "grab-bars",
     "subCategory": "grab-bars",
     "amazonUrl": "https://www.amazon.com/s?k=Moen+designer+24+inch+curl+grip+grab+bar&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0013U722U",
     "editorialImageFallback": "/images/products/moen-designer-24-grab-bar.svg",
     "shortDescription": "A 24\" designer bar with a curled-grip handle and finger notches in brushed nickel.",
     "badge": null,
@@ -975,7 +992,8 @@
       "material": "Stainless steel"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "delta-contemporary-24-grab-bar",
@@ -984,7 +1002,7 @@
     "category": "grab-bars",
     "subCategory": "grab-bars",
     "amazonUrl": "https://www.amazon.com/s?k=Delta+contemporary+24+inch+grab+bar&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B00I2HHIBC",
     "editorialImageFallback": "/images/products/delta-contemporary-24-grab-bar.svg",
     "shortDescription": "A decorative, corrosion-resistant bar that looks like a designer fixture, ANSI-rated.",
     "badge": "Premium Pick",
@@ -1021,7 +1039,8 @@
       "material": "Zinc + stainless"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "delta-bronze-18-grab-bar",
@@ -1076,7 +1095,7 @@
     "category": "grab-bars",
     "subCategory": "grab-bars",
     "amazonUrl": "https://www.amazon.com/s?k=Amazon+Basics+24+inch+grab+bar+stainless&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B00084F76K",
     "editorialImageFallback": "/images/products/amazon-basics-24-grab-bar.svg",
     "shortDescription": "The value pick: 500 lb brushed stainless with thousands of strong reviews.",
     "badge": "Best Value",
@@ -1114,7 +1133,8 @@
       "material": "Brushed stainless"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "vive-12-grab-bar",
@@ -1123,7 +1143,7 @@
     "category": "grab-bars",
     "subCategory": "grab-bars",
     "amazonUrl": "https://www.amazon.com/s?k=Vive+12+inch+grab+bar+stainless&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B07CN52JYF",
     "editorialImageFallback": "/images/products/vive-12-grab-bar.svg",
     "shortDescription": "A compact, water-resistant 12\" bar with versatile angled mounting options.",
     "badge": "Best Compact",
@@ -1161,7 +1181,8 @@
       "material": "Stainless steel"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "ravinte-16-grab-bar-2pack",
@@ -1170,7 +1191,7 @@
     "category": "grab-bars",
     "subCategory": "grab-bars",
     "amazonUrl": "https://www.amazon.com/s?k=Ravinte+16+inch+grab+bar+2+pack+knurled&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0BZ41GW6Y",
     "editorialImageFallback": "/images/products/ravinte-16-grab-bar-2pack.svg",
     "shortDescription": "Two knurled-grip stainless bars — the best value when you need more than one.",
     "badge": "Best Value 2-Pack",
@@ -1208,7 +1229,8 @@
       "material": "Stainless steel"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "bemis-raised-toilet-seat",
@@ -1312,7 +1334,7 @@
     "category": "raised-toilet-seats",
     "subCategory": "toilet-safety-frames",
     "amazonUrl": "https://www.amazon.com/s?k=HOMLAND+toilet+safety+frame+adjustable&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0DSBMZMX1",
     "editorialImageFallback": "/images/products/homland-toilet-safety-frame.svg",
     "shortDescription": "A freestanding frame that adds support without modifying the toilet — height and width adjustable.",
     "badge": "Best Freestanding",
@@ -1350,7 +1372,8 @@
       "feet": "Rubber"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "medical-king-raised-toilet-seat",
@@ -1359,7 +1382,7 @@
     "category": "raised-toilet-seats",
     "subCategory": "toilet-safety-frames",
     "amazonUrl": "https://www.amazon.com/s?k=Medical+King+raised+toilet+seat+freestanding&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0DVBXQKL1",
     "editorialImageFallback": "/images/products/medical-king-raised-toilet-seat.svg",
     "shortDescription": "A freestanding unit with an extra-large padded seat that folds for travel.",
     "badge": "Best Value Freestanding",
@@ -1397,7 +1420,8 @@
       "adjust": "Height + width"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "soundfuse-raised-toilet-seat",
@@ -1406,7 +1430,7 @@
     "category": "raised-toilet-seats",
     "subCategory": "toilet-safety-frames",
     "amazonUrl": "https://www.amazon.com/s?k=Soundfuse+toilet+seat+riser+adjustable+frame&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0DN1FDKDH",
     "editorialImageFallback": "/images/products/soundfuse-raised-toilet-seat.svg",
     "shortDescription": "Six height and width levels plus a waterproof padded seat and handy organizer.",
     "badge": "Most Adjustable",
@@ -1444,7 +1468,8 @@
       "type": "Freestanding"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "gorilla-grip-bath-mat",
@@ -1500,7 +1525,7 @@
     "category": "non-slip-bath-mats",
     "subCategory": "non-slip-bath-mats",
     "amazonUrl": "https://www.amazon.com/s?k=SlipX+Solutions+Power+Grip+bath+mat&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0D9HSFFLV",
     "editorialImageFallback": "/images/products/slipx-power-grip-bath-mat.svg",
     "shortDescription": "365 oversized suction cups deliver the strongest grip for maximum security.",
     "badge": "Strongest Suction",
@@ -1538,7 +1563,8 @@
       "material": "Soft-touch vinyl"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "othway-hair-catcher-bath-mat",
@@ -1547,7 +1573,7 @@
     "category": "non-slip-bath-mats",
     "subCategory": "non-slip-bath-mats",
     "amazonUrl": "https://www.amazon.com/s?k=OTHWAY+bath+mat+hair+catcher+TPE&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0FSQZLHL7",
     "editorialImageFallback": "/images/products/othway-hair-catcher-bath-mat.svg",
     "shortDescription": "604 drain holes (the most here) plus a detachable hair catcher to protect the drain.",
     "badge": "Best Drainage",
@@ -1584,7 +1610,8 @@
       "material": "TPE"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "homerella-bath-mat",
@@ -1593,7 +1620,7 @@
     "category": "non-slip-bath-mats",
     "subCategory": "non-slip-bath-mats",
     "amazonUrl": "https://www.amazon.com/s?k=Homerella+anti+mold+bath+mat+drying+hooks&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0C7HGMPNC",
     "editorialImageFallback": "/images/products/homerella-bath-mat.svg",
     "shortDescription": "Antibacterial vinyl plus two drying hooks so the mat never sits in standing water.",
     "badge": "Best Mold-Resistant",
@@ -1630,7 +1657,8 @@
       "material": "Antibacterial vinyl"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "hargiis-bath-mat",
@@ -1639,7 +1667,7 @@
     "category": "non-slip-bath-mats",
     "subCategory": "non-slip-bath-mats",
     "amazonUrl": "https://www.amazon.com/s?k=Hargiis+bath+mat+cut+to+fit+loofah&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0DZNP14XF",
     "editorialImageFallback": "/images/products/hargiis-bath-mat.svg",
     "shortDescription": "A loofah-like, fast-drying mat you can trim to fit any tub or shower exactly.",
     "badge": "Best Customizable",
@@ -1677,7 +1705,8 @@
       "material": "PVC"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "othway-tpe-bath-mat",
@@ -1686,7 +1715,7 @@
     "category": "non-slip-bath-mats",
     "subCategory": "non-slip-bath-mats",
     "amazonUrl": "https://www.amazon.com/s?k=OTHWAY+TPE+ultra+grip+bath+mat&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0F6233N4X",
     "editorialImageFallback": "/images/products/othway-tpe-bath-mat.svg",
     "shortDescription": "Recyclable, odorless TPE that air-dries in about 30 minutes with strong grip.",
     "badge": "Best Eco / Fast-Dry",
@@ -1723,7 +1752,8 @@
       "material": "TPR/TPE (recyclable)"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "yimobra-bath-mat",
@@ -1732,7 +1762,7 @@
     "category": "non-slip-bath-mats",
     "subCategory": "non-slip-bath-mats",
     "amazonUrl": "https://www.amazon.com/s?k=Yimobra+extra+long+bath+mat+40&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0863FY3MV",
     "editorialImageFallback": "/images/products/yimobra-bath-mat.svg",
     "shortDescription": "An extra-long 40-inch mat with a pebble-like massage surface and strong suction.",
     "badge": "Best Extra-Long",
@@ -1770,7 +1800,8 @@
       "material": "BPA-free"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "amazerbath-bath-mat",
@@ -1779,7 +1810,7 @@
     "category": "non-slip-bath-mats",
     "subCategory": "non-slip-bath-mats",
     "amazonUrl": "https://www.amazon.com/s?k=AmazerBath+extra+long+clear+bath+mat&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B07B9NDRSY",
     "editorialImageFallback": "/images/products/amazerbath-bath-mat.svg",
     "shortDescription": "Budget-friendly, extra-long, and clear so it blends into the tub.",
     "badge": "Best Value",
@@ -1817,7 +1848,8 @@
       "material": "PVC"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "teeshly-bath-mat",
@@ -1826,7 +1858,7 @@
     "category": "non-slip-bath-mats",
     "subCategory": "non-slip-bath-mats",
     "amazonUrl": "https://www.amazon.com/s?k=TEESHLY+bath+mat+domed+pebble+texture&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0CFJVMD5R",
     "editorialImageFallback": "/images/products/teeshly-bath-mat.svg",
     "shortDescription": "A budget extra-long mat with a domed pebble texture for grip and gentle massage.",
     "badge": "Best Budget",
@@ -1863,7 +1895,8 @@
       "material": "Vinyl"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "bare-decor-teak-mat",
@@ -1872,7 +1905,7 @@
     "category": "non-slip-bath-mats",
     "subCategory": "non-slip-bath-mats",
     "amazonUrl": "https://www.amazon.com/s?k=Bare+Decor+Giza+teak+shower+mat&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B01MSLJXU4",
     "editorialImageFallback": "/images/products/bare-decor-teak-mat.svg",
     "shortDescription": "Solid teak that never molds or rusts — a beautiful, spa-like mat for shower floors.",
     "badge": "Premium (Showers)",
@@ -1911,7 +1944,8 @@
       "mounting": "Lay-flat (no suction)"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "medical-guardian-mini",
@@ -1920,7 +1954,7 @@
     "category": "medical-alert-systems",
     "subCategory": "mobile-alert",
     "amazonUrl": "https://www.amazon.com/s?k=Medical%20Guardian%20MGMini%20mobile%20medical%20alert&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0CHHJLTVV",
     "editorialImageFallback": "/images/products/medical-guardian-mini.svg",
     "shortDescription": "A compact under-1.2 oz mobile alert with 24/7 US operators, GPS, and up to 5-day battery.",
     "badge": "Best Mobile",
@@ -1953,7 +1987,8 @@
       "fallDetection": "Optional"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "ezy-dose-pill-organizer",
@@ -2047,7 +2082,7 @@
     "category": "bed-rails",
     "subCategory": "bed-rails",
     "amazonUrl": "https://www.amazon.com/s?k=BigDolphin%20bed%20rail%20spinnable%20leg%20curved%20handle&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0FJ1VR34G",
     "editorialImageFallback": "/images/products/bigdolphin-bed-rail.svg",
     "shortDescription": "A spinnable leg bottom self-adjusts to uneven floors, eliminating dangerous gaps.",
     "badge": "Best Gap Control",
@@ -2080,7 +2115,8 @@
       "grip": "Waterproof foam"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "bigdolphin-reinforced-bed-rail",
@@ -2089,7 +2125,7 @@
     "category": "bed-rails",
     "subCategory": "bed-rails",
     "amazonUrl": "https://www.amazon.com/s?k=BigDolphin%20reinforced%20bed%20rail%20multi-layer%20foam%20mattress%20grip&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0FJ1W7C4V",
     "editorialImageFallback": "/images/products/bigdolphin-reinforced-bed-rail.svg",
     "shortDescription": "Multi-layer non-slip foam grips the mattress, with extra reinforcement bars for stability.",
     "badge": "Best Mattress Grip",
@@ -2122,7 +2158,8 @@
       "fits": "2-10 in mattress"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "stander-ez-adjust-bed-rail",
@@ -2174,7 +2211,7 @@
     "category": "bed-rails",
     "subCategory": "bed-rails",
     "amazonUrl": "https://www.amazon.com/s?k=YrHeiper%20bed%20rail%20stabilizing%20leg&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0FC5S1X66",
     "editorialImageFallback": "/images/products/yrheiper-bed-rail.svg",
     "shortDescription": "A stabilizing floor leg plus heavy-duty tie-down straps add extra support.",
     "badge": "Best Stabilizing Leg",
@@ -2207,7 +2244,8 @@
       "grip": "Foam"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "yrheiper-compact-bed-rail",
@@ -2216,7 +2254,7 @@
     "category": "bed-rails",
     "subCategory": "bed-rails",
     "amazonUrl": "https://www.amazon.com/s?k=YrHeiper%20compact%20bed%20rail%20tie-down%20mesh%20pocket&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0FC5S1X66",
     "editorialImageFallback": "/images/products/yrheiper-compact-bed-rail.svg",
     "shortDescription": "Slides under the mattress with tie-down straps for dual-point security in a compact size.",
     "badge": "Best Compact",
@@ -2249,7 +2287,8 @@
       "extras": "Mesh pocket"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "seesmile-bed-rail",
@@ -2385,7 +2424,7 @@
     "category": "reachers-dressing-aids",
     "subCategory": "reachers",
     "amazonUrl": "https://www.amazon.com/s?k=RMS%2034%20inch%20foldable%20reacher%20grabber&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0GF4CJTT7",
     "editorialImageFallback": "/images/products/rms-foldable-reacher.svg",
     "shortDescription": "Folds compact for a walker bag or bedside, with a rotating jaw and steel-cable mechanism.",
     "badge": "Best Budget",
@@ -2419,7 +2458,8 @@
       "material": "Aluminum"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "rms-featherweight-reacher",
@@ -2428,7 +2468,7 @@
     "category": "reachers-dressing-aids",
     "subCategory": "reachers",
     "amazonUrl": "https://www.amazon.com/s?k=RMS%20featherweight%20reacher%20grabber%202%20pack%20magnetic&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B00UZHYXHO",
     "editorialImageFallback": "/images/products/rms-featherweight-reacher.svg",
     "shortDescription": "Ultra-light aluminum ideal for severe arthritis, with a wide claw and magnetic tip.",
     "badge": "Best for Severe Arthritis",
@@ -2461,7 +2501,8 @@
       "material": "Aluminum"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "kekoy-36-reacher",
@@ -2470,7 +2511,7 @@
     "category": "reachers-dressing-aids",
     "subCategory": "reachers",
     "amazonUrl": "https://www.amazon.com/s?k=Kekoy%2036%20inch%20reacher%20grabber%20360%20rotating%20claw&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0C8918FCC",
     "editorialImageFallback": "/images/products/kekoy-36-reacher.svg",
     "shortDescription": "A 360° anti-slip rotating jaw reaches awkward angles; folds under 12\" with a magnet.",
     "badge": "Best Rotating Jaw",
@@ -2503,7 +2544,8 @@
       "tip": "Magnet"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "phantawell-dressing-stick",
@@ -2512,7 +2554,7 @@
     "category": "reachers-dressing-aids",
     "subCategory": "dressing-aids",
     "amazonUrl": "https://www.amazon.com/s?k=Phantawell%20dressing%20stick%20shoe%20horn%20adjustable%20arthritis&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B09Z6S13NZ",
     "editorialImageFallback": "/images/products/phantawell-dressing-stick.svg",
     "shortDescription": "Dress without bending — an adjustable stick with an S-hook for pants, socks, and shirts.",
     "badge": "Best Dressing Stick",
@@ -2545,7 +2587,8 @@
       "use": "Wheelchair accessible"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "rms-sock-aid",
@@ -2640,7 +2683,7 @@
     "category": "pill-organizers",
     "subCategory": "pill-organizers",
     "amazonUrl": "https://www.amazon.com/s?k=AUVON%20180%20degree%20same%20side%20opening%20AM%20PM%20pill%20organizer&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0BQJ2XZWF",
     "editorialImageFallback": "/images/products/auvon-180-pill-organizer.svg",
     "shortDescription": "Lids open 180° and stay open on the same side for effortless weekly filling.",
     "badge": "Best for Easy Filling",
@@ -2674,7 +2717,8 @@
       "privacy": "Black tint"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "auvon-moisture-proof-pill-organizer",
@@ -2895,7 +2939,7 @@
     "category": "large-button-phones",
     "subCategory": "large-button-phones",
     "amazonUrl": "https://www.amazon.com/s?k=AT%26T%20CD4930%20large%20button%20corded%20phone%20answering%20machine&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0764KJ4RK",
     "editorialImageFallback": "/images/products/att-cd4930-phone.svg",
     "shortDescription": "A big-button corded phone with a tilt display, audio-assist boost, and answering machine.",
     "badge": "Best Overall Corded",
@@ -2928,7 +2972,8 @@
       "hac": "Yes"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "clarity-p300-phone",
@@ -2937,7 +2982,7 @@
     "category": "large-button-phones",
     "subCategory": "large-button-phones",
     "amazonUrl": "https://www.amazon.com/s?k=Clarity%20P300%20amplified%20phone%20photo%20memory&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B00009WCBU",
     "editorialImageFallback": "/images/products/clarity-p300-phone.svg",
     "shortDescription": "Amplifies up to 26 dB with high-frequency enhancement and 9 photo-memory buttons.",
     "badge": "Best for High-Frequency Loss",
@@ -2969,7 +3014,8 @@
       "hac": "Yes"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "serene-hd40p-phone",
@@ -2978,7 +3024,7 @@
     "category": "large-button-phones",
     "subCategory": "large-button-phones",
     "amazonUrl": "https://www.amazon.com/s?k=Serene%20Innovations%20HD40P%20amplified%20photo%20phone&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B001LK0W2O",
     "editorialImageFallback": "/images/products/serene-hd40p-phone.svg",
     "shortDescription": "Nine photo speed-dial buttons make calling intuitive for dementia and memory loss.",
     "badge": "Best for Dementia",
@@ -3011,7 +3057,8 @@
       "dialing": "9 photo buttons"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "vtech-sn5147-phone",
@@ -3063,7 +3110,7 @@
     "category": "large-button-phones",
     "subCategory": "large-button-phones",
     "amazonUrl": "https://www.amazon.com/s?k=VTech%20SN5127%20amplified%20cordless%20big%20button%20phone&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B07C4SN9C1",
     "editorialImageFallback": "/images/products/vtech-sn5127-phone.svg",
     "shortDescription": "A loud, big-button cordless phone with audio boost, photo dial, and slow message playback.",
     "badge": "Best Value Cordless",
@@ -3097,7 +3144,8 @@
       "extras": "Robocall block, slow playback"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "vtech-sn5127-bundle-phone",
@@ -3106,7 +3154,7 @@
     "category": "large-button-phones",
     "subCategory": "large-button-phones",
     "amazonUrl": "https://www.amazon.com/s?k=VTech%20SN5127%20SN5107%202%20handset%20amplified%20phone%20bundle&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B0D5P9B9SP",
     "editorialImageFallback": "/images/products/vtech-sn5127-bundle-phone.svg",
     "shortDescription": "Two handsets for whole-home coverage, with battery backup during power outages.",
     "badge": "Best Whole-Home",
@@ -3137,7 +3185,8 @@
       "backup": "Battery during outages"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "geemarc-ampli550-phone",
@@ -3146,7 +3195,7 @@
     "category": "large-button-phones",
     "subCategory": "large-button-phones",
     "amazonUrl": "https://www.amazon.com/s?k=Geemarc%20Ampli550%20amplified%20phone%20talking%20caller%20ID&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B00HH0WBUS",
     "editorialImageFallback": "/images/products/geemarc-ampli550-phone.svg",
     "shortDescription": "Up to 55 dB amplification with talking caller ID and a talking keypad for severe hearing loss.",
     "badge": "Best for Severe Loss",
@@ -3177,7 +3226,8 @@
       "extras": "Talking caller ID + keypad"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "geemarc-amplipower60-phone",
@@ -3186,7 +3236,7 @@
     "category": "large-button-phones",
     "subCategory": "large-button-phones",
     "amazonUrl": "https://www.amazon.com/s?k=Geemarc%20AmpliPOWER60%20loudest%20amplified%20phone%2065dB&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B002JFUB0S",
     "editorialImageFallback": "/images/products/geemarc-amplipower60-phone.svg",
     "shortDescription": "The loudest phone here: up to 65 dB TrueSound amplification with an extra-bright call strobe.",
     "badge": "Loudest Available",
@@ -3217,7 +3267,8 @@
       "dialing": "9 quick-dial keys"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   },
   {
     "id": "hamilton-captel-2400i-phone",
@@ -3309,7 +3360,7 @@
     "category": "medical-alert-systems",
     "subCategory": "caregiver-pager",
     "amazonUrl": "https://www.amazon.com/s?k=CallToU%20caregiver%20pager%20call%20button%20system&tag=seniorsaferhome-20",
-    "asin": "",
+    "asin": "B077SYPD5K",
     "editorialImageFallback": "/images/products/calltou-caregiver-pager.svg",
     "shortDescription": "No monthly fee — a wearable call button pages a caregiver in the same home, up to 500 ft.",
     "badge": "Best No-Fee (Caregiver Present)",
@@ -3342,6 +3393,7 @@
       "monthlyFee": "None"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14"
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   }
 ]

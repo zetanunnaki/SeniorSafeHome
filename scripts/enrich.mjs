@@ -28,6 +28,8 @@ const {
 
 const hasCreds = Boolean(AMAZON_CREATORS_CLIENT_ID && AMAZON_CREATORS_CLIENT_SECRET);
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
 const RESOURCES = [
   'images.primary.large',
   'itemInfo.title',
@@ -119,12 +121,22 @@ async function main() {
   for (let i = 0; i < valid.length; i += 10) {
     const batch = valid.slice(i, i + 10);
     const asins = batch.map((p) => p.asin);
-    try {
-      const data = await getItems(token, asins);
-      for (const item of data?.itemsResult?.items || []) byAsin.set(item.asin, mapItem(item));
-    } catch (err) {
-      console.warn(`[enrich] Batch failed (${asins.join(', ')}): ${err.message}`);
+    // Retry on throttling (HTTP 429) with backoff.
+    for (let attempt = 1; attempt <= 4; attempt++) {
+      try {
+        const data = await getItems(token, asins);
+        for (const item of data?.itemsResult?.items || []) byAsin.set(item.asin, mapItem(item));
+        break;
+      } catch (err) {
+        if (/HTTP 429|Throttle/i.test(err.message) && attempt < 4) {
+          await sleep(2000 * attempt);
+          continue;
+        }
+        console.warn(`[enrich] Batch failed (${asins.join(', ')}): ${err.message}`);
+        break;
+      }
     }
+    await sleep(1200); // stay under the rate limit between batches
   }
 
   let enriched = 0;
