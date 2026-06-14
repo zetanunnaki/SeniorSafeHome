@@ -7378,5 +7378,533 @@
     "reviewSlug": null,
     "lastManualReview": "2026-06-14",
     "asinSource": "searchItems"
+  },
+  {
+    "id": "williams-pocketalker-amplifier",
+    "name": "Williams Sound Pocketalker Ultra (Duo Pack)",
+    "brand": "Williams Sound",
+    "category": "hearing-amplifiers",
+    "subCategory": "pocket",
+    "amazonUrl": "https://www.amazon.com/s?k=Williams%20Sound%20Pocketalker%20Ultra%20personal%20amplifier%20duo&tag=seniorsaferhome-20",
+    "asin": "B003IQN8WA",
+    "editorialImageFallback": "/images/products/williams-pocketalker-amplifier.svg",
+    "shortDescription": "The 50-year industry gold standard: a simple body-worn amplifier with a big volume knob, 200-hour battery, and a 12-ft TV cord — no tiny buttons.",
+    "badge": "Best Overall",
+    "price": 202,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 2100,
+    "features": [
+      "Adjustable volume + tone",
+      "200-hr AAA battery life",
+      "Earbud + folding headphone",
+      "12-ft TV listening cord, 5-yr warranty"
+    ],
+    "pros": [
+      "Dead-simple big-knob controls",
+      "Extremely long battery life",
+      "Trusted, durable, well-supported"
+    ],
+    "cons": [
+      "Worn on the body with a cord"
+    ],
+    "bestFor": [
+      "TV and one-on-one talk",
+      "people who struggle with tiny buttons",
+      "reliability"
+    ],
+    "specs": {
+      "type": "Body-worn (PSAP)",
+      "battery": "200 hr",
+      "controls": "Volume + tone",
+      "warranty": "5 yr"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "3fp-invisible-amplifier",
+    "name": "3FP Rechargeable Invisible In-Ear Amplifier",
+    "brand": "3FP",
+    "category": "hearing-amplifiers",
+    "subCategory": "in-ear",
+    "amazonUrl": "https://www.amazon.com/s?k=3FP%20rechargeable%20digital%20invisible%20in%20ear%20hearing%20amplifier&tag=seniorsaferhome-20",
+    "asin": "B0FVW2PL68",
+    "editorialImageFallback": "/images/products/3fp-invisible-amplifier.svg",
+    "shortDescription": "The highest-rated pick here: a nearly invisible in-ear rechargeable amplifier with 2-channel sound and noise cancellation for clear, discreet daily wear.",
+    "badge": "Best Discreet",
+    "price": 79.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 581,
+    "features": [
+      "Invisible in-ear design",
+      "2-channel digital sound",
+      "Noise cancellation",
+      "Rechargeable"
+    ],
+    "pros": [
+      "Highest rating in the roundup",
+      "Very discreet",
+      "Clear sound quality"
+    ],
+    "cons": [
+      "In-ear fit not for everyone"
+    ],
+    "bestFor": [
+      "discreet everyday wear",
+      "mild amplification",
+      "conversations"
+    ],
+    "specs": {
+      "type": "In-ear (PSAP)",
+      "channels": "2",
+      "power": "Rechargeable",
+      "noise": "Cancellation"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "earcentric-easycharge-amplifier",
+    "name": "EarCentric EasyCharge Rechargeable Pair",
+    "brand": "EarCentric",
+    "category": "hearing-amplifiers",
+    "subCategory": "bte",
+    "amazonUrl": "https://www.amazon.com/s?k=EarCentric%20EasyCharge%20rechargeable%20hearing%20amplifiers%20pair%20BTE&tag=seniorsaferhome-20",
+    "asin": "B09K1RKQS6",
+    "editorialImageFallback": "/images/products/earcentric-easycharge-amplifier.svg",
+    "shortDescription": "A USA-engineered behind-the-ear pair with 20+ hours per 3-hour charge, noise reduction, and a dual charging dock — the most-reviewed amplifier here.",
+    "badge": "Best BTE Pair",
+    "price": 149,
+    "priceCurrency": "USD",
+    "rating": 4.2,
+    "reviewCount": 5200,
+    "features": [
+      "USA-engineered digital core",
+      "20+ hr battery per 3-hr charge",
+      "Nearly invisible BTE",
+      "Dual charging dock"
+    ],
+    "pros": [
+      "Comes as a pair",
+      "All-day battery",
+      "Strong review base"
+    ],
+    "cons": [
+      "BTE tube visible up close"
+    ],
+    "bestFor": [
+      "both ears",
+      "mild-moderate loss",
+      "all-day wear"
+    ],
+    "specs": {
+      "type": "Behind-the-ear (PSAP)",
+      "battery": "20+ hr",
+      "count": "Pair",
+      "power": "Rechargeable"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "superear-se7500-amplifier",
+    "name": "SuperEar SE7500 Personal Sound Amplifier",
+    "brand": "SuperEar",
+    "category": "hearing-amplifiers",
+    "subCategory": "pocket",
+    "amazonUrl": "https://www.amazon.com/s?k=SuperEar%20SE7500%20personal%20sound%20amplifier%20directional%20mic&tag=seniorsaferhome-20",
+    "asin": "B000U7XJO2",
+    "editorialImageFallback": "/images/products/superear-se7500-amplifier.svg",
+    "shortDescription": "A body-worn amplifier with 50 dB of gain and a directional mic — great for TV, lectures, worship, and birdwatching, with included earbuds and stereo headphones.",
+    "badge": "Best for TV & Events",
+    "price": 77.95,
+    "priceCurrency": "USD",
+    "rating": 4.1,
+    "reviewCount": 1300,
+    "features": [
+      "50 dB ambient gain",
+      "Directional microphone",
+      "80-hr battery, belt clip",
+      "Earbuds + stereo headphones"
+    ],
+    "pros": [
+      "Strong, clear amplification",
+      "Directional mic focuses ahead",
+      "Long battery life"
+    ],
+    "cons": [
+      "Body-worn with a cord"
+    ],
+    "bestFor": [
+      "TV and lectures",
+      "worship services",
+      "outdoor listening"
+    ],
+    "specs": {
+      "type": "Body-worn (PSAP)",
+      "gain": "50 dB",
+      "battery": "80 hr",
+      "mic": "Directional"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "iroger-rechargeable-amplifier",
+    "name": "IROGER Rechargeable Hearing Amplifier (PSAP)",
+    "brand": "IROGER",
+    "category": "hearing-amplifiers",
+    "subCategory": "bte",
+    "amazonUrl": "https://www.amazon.com/s?k=IROGER%20rechargeable%20hearing%20amplifier%20PSAP%20directional%20noise%20canceling&tag=seniorsaferhome-20",
+    "asin": "B0G4RQFW7K",
+    "editorialImageFallback": "/images/products/iroger-rechargeable-amplifier.svg",
+    "shortDescription": "A behind-the-ear amplifier with up to 65 dB gain, a directional noise-canceling mic, automatic gain control, and an exceptional 120-hour battery life.",
+    "badge": "Longest Battery",
+    "price": 99,
+    "priceCurrency": "USD",
+    "rating": 4,
+    "reviewCount": 244,
+    "features": [
+      "Up to 65 dB gain",
+      "Directional noise-canceling mic",
+      "Automatic gain control",
+      "120-hr battery, one-knob control"
+    ],
+    "pros": [
+      "Very long battery life",
+      "Simple one-knob operation",
+      "Auto gain control"
+    ],
+    "cons": [
+      "Single device, not a pair"
+    ],
+    "bestFor": [
+      "simple controls",
+      "long battery life",
+      "mild-moderate loss"
+    ],
+    "specs": {
+      "type": "Behind-the-ear (PSAP)",
+      "gain": "65 dB",
+      "battery": "120 hr",
+      "controls": "One-knob"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "manzelun-bte-amplifier",
+    "name": "Manzelun Rechargeable BTE Amplifier (Noise Cancelling)",
+    "brand": "Manzelun",
+    "category": "hearing-amplifiers",
+    "subCategory": "bte",
+    "amazonUrl": "https://www.amazon.com/s?k=Manzelun%20rechargeable%20BTE%20hearing%20amplifier%20noise%20cancelling%20lightweight&tag=seniorsaferhome-20",
+    "asin": "B0CFFFKT86",
+    "editorialImageFallback": "/images/products/manzelun-bte-amplifier.svg",
+    "shortDescription": "An ultra-light 5.5 g behind-the-ear amplifier with double noise cancellation, a 25-hour battery, and both a physical slider and volume knob — easy for seniors.",
+    "badge": "Best Budget",
+    "price": 35.89,
+    "priceCurrency": "USD",
+    "rating": 4.1,
+    "reviewCount": 492,
+    "features": [
+      "Ultra-light 5.5 g",
+      "Double noise cancellation",
+      "25-hr battery, charging case",
+      "Physical slider + volume knob"
+    ],
+    "pros": [
+      "Lowest price here",
+      "Barely felt at 5.5 g",
+      "Tactile controls"
+    ],
+    "cons": [
+      "Smaller battery than premium picks"
+    ],
+    "bestFor": [
+      "budget buyers",
+      "lightweight comfort",
+      "simple controls"
+    ],
+    "specs": {
+      "type": "Behind-the-ear (PSAP)",
+      "weight": "5.5 g",
+      "battery": "25 hr",
+      "noise": "Double cancel"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "betife-bluetooth-pill-dispenser",
+    "name": "Betife Bluetooth Automatic Pill Dispenser (28-Day)",
+    "brand": "Betife",
+    "category": "automatic-pill-dispensers",
+    "subCategory": "app-connected",
+    "amazonUrl": "https://www.amazon.com/s?k=Betife%20Bluetooth%20automatic%20pill%20dispenser%2028%20day%20app&tag=seniorsaferhome-20",
+    "asin": "B0GF16WGJG",
+    "editorialImageFallback": "/images/products/betife-bluetooth-pill-dispenser.svg",
+    "shortDescription": "The highest-rated dispenser here: 28 slots with a Bluetooth app that tracks adherence, plus six daily alarms and a light reminder for caregivers monitoring remotely.",
+    "badge": "Best App-Connected",
+    "price": 78.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 585,
+    "features": [
+      "28 slots, monthly fill",
+      "Bluetooth app adherence tracking",
+      "6 daily alarms + light reminder",
+      "Color-coded dosage rings"
+    ],
+    "pros": [
+      "Highest rating in the roundup",
+      "App alerts for caregivers",
+      "Plenty of slots"
+    ],
+    "cons": [
+      "Requires a smartphone to get full value"
+    ],
+    "bestFor": [
+      "remote caregiver monitoring",
+      "multiple daily doses",
+      "adherence tracking"
+    ],
+    "specs": {
+      "type": "App-connected",
+      "slots": "28",
+      "alarms": "6/day",
+      "connectivity": "Bluetooth"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "live-fine-pill-dispenser",
+    "name": "Live Fine 28-Day Automatic Pill Dispenser",
+    "brand": "Live Fine",
+    "category": "automatic-pill-dispensers",
+    "subCategory": "standard",
+    "amazonUrl": "https://www.amazon.com/s?k=Live%20Fine%2028%20day%20automatic%20pill%20dispenser%20LCD%20key%20lock&tag=seniorsaferhome-20",
+    "asin": "B08KJHKSP1",
+    "editorialImageFallback": "/images/products/live-fine-pill-dispenser.svg",
+    "shortDescription": "A reliable 28-day dispenser with up to nine daily reminders, an upgraded LCD, three volume levels, and a key lock — the most-reviewed model in our roundup.",
+    "badge": "Most Reviewed",
+    "price": 89.99,
+    "priceCurrency": "USD",
+    "rating": 4.2,
+    "reviewCount": 2119,
+    "features": [
+      "1X–9X daily reminders",
+      "9 dosage rings",
+      "3 volume levels + 3 beep patterns",
+      "Transparent lid, key lock"
+    ],
+    "pros": [
+      "Highly flexible dosing",
+      "Loud, adjustable alarm",
+      "Locks for safety"
+    ],
+    "cons": [
+      "Larger countertop footprint"
+    ],
+    "bestFor": [
+      "complex schedules",
+      "up to 9 doses/day",
+      "home use"
+    ],
+    "specs": {
+      "type": "Rotating 28-day",
+      "doses": "Up to 9/day",
+      "lock": "Key",
+      "display": "LCD"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "betife-2ndgen-pill-dispenser",
+    "name": "Betife 2nd Gen 28-Day Key-Lock Dispenser (Mix-Proof)",
+    "brand": "Betife",
+    "category": "automatic-pill-dispensers",
+    "subCategory": "locking",
+    "amazonUrl": "https://www.amazon.com/s?k=Betife%202nd%20gen%20automatic%20pill%20dispenser%2028%20day%20key%20lock%20mix%20proof&tag=seniorsaferhome-20",
+    "asin": "B0CKJ7GJSX",
+    "editorialImageFallback": "/images/products/betife-2ndgen-pill-dispenser.svg",
+    "shortDescription": "A dementia-safe dispenser with a mix-proof 2mm tray seal, a gyroscope that stops the alarm only on a flip-to-pour action, and an XL AM/PM display.",
+    "badge": "Best for Dementia",
+    "price": 63.99,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 130,
+    "features": [
+      "Mix-proof 2 mm tray seal",
+      "Gyroscope flip-to-pour stops alarm",
+      "XL 1.2\" AM/PM display",
+      "5,000+ cycle gearbox (4+ yr)"
+    ],
+    "pros": [
+      "Prevents wrong-dose mixing",
+      "Clear extra-large display",
+      "Built to last"
+    ],
+    "cons": [
+      "Fewer reviews than older models"
+    ],
+    "bestFor": [
+      "dementia / memory care",
+      "preventing dose errors",
+      "low vision"
+    ],
+    "specs": {
+      "type": "Locking 28-day",
+      "seal": "Mix-proof",
+      "display": "XL AM/PM",
+      "lock": "Key"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "ezimedpil-pill-dispenser",
+    "name": "EziMedPil 28-Day Locked Dispenser (Frosted Privacy Lid)",
+    "brand": "EziMedPil",
+    "category": "automatic-pill-dispensers",
+    "subCategory": "locking",
+    "amazonUrl": "https://www.amazon.com/s?k=EziMedPil%2028%20day%20locked%20automatic%20pill%20dispenser%20frosted%20privacy%20lid&tag=seniorsaferhome-20",
+    "asin": "B0F89Z5LC2",
+    "editorialImageFallback": "/images/products/ezimedpil-pill-dispenser.svg",
+    "shortDescription": "A locking dispenser with 30% more storage (24 aspirin-sized pills per slot), a built-in magnifying glass, a frosted privacy lid, and six daily alarms.",
+    "badge": "Most Capacity",
+    "price": 56.99,
+    "priceCurrency": "USD",
+    "rating": 4.1,
+    "reviewCount": 677,
+    "features": [
+      "30% more storage per slot",
+      "Built-in magnifying glass",
+      "Frosted privacy lid",
+      "6 daily alarms, 2 keys"
+    ],
+    "pros": [
+      "Holds large pill counts",
+      "Magnifier aids low vision",
+      "Privacy lid + lock"
+    ],
+    "cons": [
+      "Bulkier than standard models"
+    ],
+    "bestFor": [
+      "many or large pills",
+      "privacy",
+      "chronic-care regimens"
+    ],
+    "specs": {
+      "type": "Locking 28-day",
+      "capacity": "24 pills/slot",
+      "lid": "Frosted",
+      "lock": "Key"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "medready-1700fl-pill-dispenser",
+    "name": "MedReady 1700FL 28-Day Dispenser (Made in USA)",
+    "brand": "MedReady",
+    "category": "automatic-pill-dispensers",
+    "subCategory": "standard",
+    "amazonUrl": "https://www.amazon.com/s?k=MedReady%201700FL%2028%20day%20automatic%20pill%20dispenser%20made%20in%20USA%20battery%20backup&tag=seniorsaferhome-20",
+    "asin": "B00FK9A6PA",
+    "editorialImageFallback": "/images/products/medready-1700fl-pill-dispenser.svg",
+    "shortDescription": "A USA-made dispenser with a 72-hour battery backup for power outages, a sloped exit ramp for dexterity issues, a key lock, and flashing-light-plus-sound alarms.",
+    "badge": "Best for Reliability",
+    "price": 159,
+    "priceCurrency": "USD",
+    "rating": 4.2,
+    "reviewCount": 392,
+    "features": [
+      "Made in USA",
+      "72-hr battery backup",
+      "Sloped exit ramp (dexterity)",
+      "1–4 doses/day, key lock"
+    ],
+    "pros": [
+      "Keeps working in outages",
+      "Easy pill retrieval ramp",
+      "Trusted, satisfaction guarantee"
+    ],
+    "cons": [
+      "Higher price"
+    ],
+    "bestFor": [
+      "critical medications",
+      "power-outage protection",
+      "dexterity issues"
+    ],
+    "specs": {
+      "type": "Rotating 28-day",
+      "backup": "72 hr",
+      "doses": "1–4/day",
+      "origin": "USA"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "daviky-7day-pill-dispenser",
+    "name": "Daviky 7-Day Rechargeable Pill Dispenser (with App)",
+    "brand": "Daviky",
+    "category": "automatic-pill-dispensers",
+    "subCategory": "app-connected",
+    "amazonUrl": "https://www.amazon.com/s?k=Daviky%207%20day%20rechargeable%20automatic%20pill%20dispenser%20app%20UV&tag=seniorsaferhome-20",
+    "asin": "B0CX1NQKVB",
+    "editorialImageFallback": "/images/products/daviky-7day-pill-dispenser.svg",
+    "shortDescription": "A compact, rechargeable 7-day dispenser with app reminders, UV protection for light-sensitive meds, arthritis-friendly easy-open, and double spill protection.",
+    "badge": "Best for Travel",
+    "price": 21.99,
+    "priceCurrency": "USD",
+    "rating": 4.1,
+    "reviewCount": 304,
+    "features": [
+      "Rechargeable (~1-month battery)",
+      "App reminders",
+      "UV protection for meds",
+      "Arthritis-friendly easy-open"
+    ],
+    "pros": [
+      "Compact and travel-friendly",
+      "Rechargeable",
+      "Protects light-sensitive pills"
+    ],
+    "cons": [
+      "Only 7-day capacity"
+    ],
+    "bestFor": [
+      "travel and short trips",
+      "light-sensitive meds",
+      "compact storage"
+    ],
+    "specs": {
+      "type": "App-connected 7-day",
+      "power": "Rechargeable",
+      "protection": "UV + spill",
+      "span": "7 days"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   }
 ]

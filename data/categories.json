@@ -166,5 +166,21 @@
     "shortDescription": "Lightweight, caregiver-pushed folding wheelchairs that make outings, appointments, and travel easier — compact enough for any car trunk.",
     "intro": "A transport wheelchair is the lighter, more compact cousin of a standard wheelchair: it has small rear wheels and is pushed by a caregiver rather than self-propelled, so it folds smaller and weighs far less — ideal for appointments, errands, and travel. We compare folding transport chairs on weight, seat width and comfort, brakes, weight capacity, and how compactly they fold for the car. (If the user needs to wheel themselves, a self-propelled wheelchair with large rear wheels is the better fit.)",
     "icon": "wheelchair"
+  },
+  {
+    "slug": "hearing-amplifiers",
+    "name": "Hearing Amplifiers",
+    "cluster": "communication",
+    "shortDescription": "Personal sound amplifiers and budget-friendly hearing devices that make conversations, TV, and daily life easier to hear.",
+    "intro": "Personal sound amplification products (PSAPs) and budget hearing devices make everyday sounds — conversations, the TV, a doorbell — clearer and louder, without the cost of prescription hearing aids. We compare behind-the-ear, in-ear, and body-worn (pocket) amplifiers on amplification, noise reduction, battery life, and ease of use for older hands. Note: most products here are amplifiers, not FDA-cleared medical hearing aids. For diagnosed hearing loss, see an audiologist.",
+    "icon": "hearing"
+  },
+  {
+    "slug": "automatic-pill-dispensers",
+    "name": "Automatic Pill Dispensers",
+    "cluster": "medication",
+    "shortDescription": "Alarmed, locking automatic dispensers that release the right dose at the right time — with reminders and caregiver tracking.",
+    "intro": "An automatic pill dispenser goes beyond a simple organizer: it sounds an alarm at dose time, shows or releases only the pills due, and — on smarter models — alerts a caregiver if a dose is missed. We compare 28-day rotating dispensers, locking and privacy designs for dementia care, and app-connected models on capacity, alarm clarity, locking security, and ease of refilling. For a simpler manual option, see [pill organizers](/categories/pill-organizers).",
+    "icon": "dispenser"
   }
 ]

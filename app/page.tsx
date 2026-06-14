@@ -383,6 +383,8 @@ function categoryEmoji(slug: string): string {
     'overbed-tables': '🍽️',
     'bath-lifts': '🛁',
     'transport-wheelchairs': '♿',
+    'hearing-amplifiers': '👂',
+    'automatic-pill-dispensers': '⏰',
   };
   return map[slug] || '🏠';
 }

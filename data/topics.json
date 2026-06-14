@@ -60,7 +60,8 @@
     "name": "Medication Organization",
     "description": "Tools and routines that make managing daily medications safer and clearer.",
     "categories": [
-      "pill-organizers"
+      "pill-organizers",
+      "automatic-pill-dispensers"
     ]
   },
   {
@@ -68,7 +69,8 @@
     "name": "Communication Devices",
     "description": "Phones and devices that keep seniors connected and able to call for help.",
     "categories": [
-      "large-button-phones"
+      "large-button-phones",
+      "hearing-amplifiers"
     ]
   },
   {
