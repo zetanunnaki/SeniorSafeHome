@@ -3,7 +3,7 @@
     "slug": "bathroom-safety",
     "name": "Bathroom Safety",
     "description": "The bathroom is the most common room for senior falls. Explore grab bars, shower chairs, transfer benches, raised toilet seats, and non-slip mats — plus the guides that tie them together.",
-    "categories": ["grab-bars", "shower-chairs", "transfer-benches", "raised-toilet-seats", "non-slip-bath-mats"]
+    "categories": ["grab-bars", "shower-chairs", "transfer-benches", "raised-toilet-seats", "non-slip-bath-mats", "bedside-commodes"]
   },
   {
     "slug": "bedroom-safety",
@@ -15,13 +15,13 @@
     "slug": "fall-prevention",
     "name": "Fall Prevention",
     "description": "A whole-home approach to reducing falls — the leading cause of injury for older adults — through products, home modifications, and routines.",
-    "categories": ["grab-bars", "non-slip-bath-mats", "shower-chairs", "bed-rails"]
+    "categories": ["grab-bars", "non-slip-bath-mats", "shower-chairs", "bed-rails", "motion-sensor-night-lights"]
   },
   {
     "slug": "mobility-transfer",
     "name": "Mobility & Transfer Aids",
-    "description": "Aids that make moving, reaching, and transferring safer and less tiring for seniors.",
-    "categories": ["transfer-benches", "reachers-dressing-aids"]
+    "description": "Aids that make moving, reaching, and transferring safer and less tiring for seniors — from walkers and canes to transfer benches and reachers.",
+    "categories": ["walkers-rollators", "canes", "transfer-benches", "reachers-dressing-aids"]
   },
   {
     "slug": "medical-alert",

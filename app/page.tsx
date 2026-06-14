@@ -372,6 +372,10 @@ function categoryEmoji(slug: string): string {
     'non-slip-bath-mats': '🧼',
     'large-button-phones': '☎️',
     'reachers-dressing-aids': '🦯',
+    'walkers-rollators': '🚶',
+    canes: '🦯',
+    'bedside-commodes': '🚻',
+    'motion-sensor-night-lights': '💡',
   };
   return map[slug] || '🏠';
 }

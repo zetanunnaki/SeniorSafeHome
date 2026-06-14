@@ -1322,7 +1322,7 @@
     "editorialImageFallback": "/images/products/bemis-raised-toilet-seat.svg",
     "shortDescription": "A 1,000 lb bolt-on seat that locks permanently and never wobbles — OT-recommended, made in USA.",
     "badge": "Most Secure",
-    "price": 130.12,
+    "price": 130.11,
     "priceCurrency": "USD",
     "rating": 4.7,
     "reviewCount": 1682,
@@ -1525,7 +1525,7 @@
     "editorialImageFallback": "/images/products/soundfuse-raised-toilet-seat.svg",
     "shortDescription": "Six height and width levels plus a waterproof padded seat and handy organizer.",
     "badge": "Most Adjustable",
-    "price": 62.99,
+    "price": 69.99,
     "priceCurrency": "USD",
     "rating": 4.5,
     "reviewCount": 774,
@@ -2030,7 +2030,7 @@
     "editorialImageFallback": "/images/products/bare-decor-teak-mat.svg",
     "shortDescription": "Solid teak that never molds or rusts — a beautiful, spa-like mat for shower floors.",
     "badge": "Premium (Showers)",
-    "price": 120.86,
+    "price": 120.74,
     "priceCurrency": "USD",
     "rating": 4.8,
     "reviewCount": 945,
@@ -3136,7 +3136,7 @@
     "editorialImageFallback": "/images/products/att-cd4930-phone.svg",
     "shortDescription": "A big-button corded phone with a tilt display, audio-assist boost, and answering machine.",
     "badge": "Best Overall Corded",
-    "price": 50.59,
+    "price": 49.9,
     "priceCurrency": "USD",
     "rating": 4.4,
     "reviewCount": 14474,
@@ -3499,7 +3499,7 @@
     "editorialImageFallback": "/images/products/hamilton-captel-2400i-phone.svg",
     "shortDescription": "An ultra-clear amplified corded phone with a built-in medical alert button for emergencies.",
     "badge": "Best with Medical Alert",
-    "price": 110.97,
+    "price": 110.98,
     "priceCurrency": "USD",
     "rating": 4.3,
     "reviewCount": 1896,
@@ -3590,7 +3590,7 @@
     "editorialImageFallback": "/images/products/calltou-caregiver-pager.svg",
     "shortDescription": "No monthly fee — a wearable call button pages a caregiver in the same home, up to 500 ft.",
     "badge": "Best No-Fee (Caregiver Present)",
-    "price": 37.79,
+    "price": 33.59,
     "priceCurrency": "USD",
     "rating": 4.6,
     "reviewCount": 7141,
@@ -3622,6 +3622,2000 @@
     "lastManualReview": "2026-06-14",
     "asinSource": "searchItems",
     "image": "https://m.media-amazon.com/images/I/41RiQyFEF3L._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "drive-medical-rollator",
+    "name": "Drive Medical 4-Wheel Rollator Walker with Seat",
+    "brand": "Drive Medical",
+    "category": "walkers-rollators",
+    "subCategory": "rollators",
+    "amazonUrl": "https://www.amazon.com/dp/B00NFJX0PU?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B00NFJX0PU",
+    "editorialImageFallback": "/images/products/drive-medical-rollator.svg",
+    "shortDescription": "The most popular rollator: a sturdy steel frame, padded seat and backrest, and big 7.5-inch casters for outdoor use.",
+    "badge": "Best Overall",
+    "price": 53.32,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 50000,
+    "features": [
+      "7.5\" casters for outdoor use",
+      "Padded 12\" seat + backrest",
+      "Under-seat storage",
+      "One-handed side-to-side fold"
+    ],
+    "pros": [
+      "Hugely popular and proven",
+      "Comfortable padded seat",
+      "Lifetime warranty"
+    ],
+    "cons": [
+      "Heavier steel frame (18.6 lb)"
+    ],
+    "bestFor": [
+      "outdoor walking",
+      "everyday support"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "wheels": "7.5 in",
+      "handleHeight": "31-35 in",
+      "frame": "Steel"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/413eTQ-zO9L._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "drive-aluminum-rollator",
+    "name": "Drive Medical Aluminum Rollator",
+    "brand": "Drive Medical",
+    "category": "walkers-rollators",
+    "subCategory": "rollators",
+    "amazonUrl": "https://www.amazon.com/dp/B002VWK3EI?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B002VWK3EI",
+    "editorialImageFallback": "/images/products/drive-aluminum-rollator.svg",
+    "shortDescription": "A lightweight 13 lb aluminum rollator that is far easier to lift and maneuver than steel models.",
+    "badge": "Best Value",
+    "price": 53.32,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 7500,
+    "features": [
+      "Lightweight 13 lb aluminum",
+      "6\" soft-grip tires",
+      "Hinged adjustable backrest",
+      "Ergonomic lever height adjustment"
+    ],
+    "pros": [
+      "Much lighter than steel",
+      "Easy to handle and lift",
+      "Lifetime warranty"
+    ],
+    "cons": [
+      "Smaller 6\" wheels for rough ground"
+    ],
+    "bestFor": [
+      "easy handling",
+      "lifting into a car"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "weight": "13 lb",
+      "wheels": "6 in",
+      "frame": "Aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41oCMBNeWRL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "medline-steel-rollator",
+    "name": "Medline Steel Rollator with Seat",
+    "brand": "Medline",
+    "category": "walkers-rollators",
+    "subCategory": "rollators",
+    "amazonUrl": "https://www.amazon.com/dp/B079PG3BR3?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B079PG3BR3",
+    "editorialImageFallback": "/images/products/medline-steel-rollator.svg",
+    "shortDescription": "A hospital-trusted rollator with a larger 12x12-inch padded seat and a 350 lb capacity.",
+    "badge": "Hospital-Trusted",
+    "price": 64.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 25000,
+    "features": [
+      "6\" wheels",
+      "Padded 12\"x12\" seat + backrest",
+      "Under-seat storage",
+      "Adjustable 31-35\" handle"
+    ],
+    "pros": [
+      "Larger, comfortable seat",
+      "Trusted brand",
+      "Higher 350 lb capacity"
+    ],
+    "cons": [
+      "Heavier steel frame"
+    ],
+    "bestFor": [
+      "larger users",
+      "a roomier seat"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "wheels": "6 in",
+      "handleHeight": "31-35 in",
+      "frame": "Steel"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/418WqXZsmgL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "vocic-z21-rollator",
+    "name": "VOCIC Z21 Rollator Walker (8\" Wheels)",
+    "brand": "VOCIC",
+    "category": "walkers-rollators",
+    "subCategory": "rollators",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFGVN4LP?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0FFGVN4LP",
+    "editorialImageFallback": "/images/products/vocic-z21-rollator.svg",
+    "shortDescription": "Big 8-inch tires and an ergonomic arc seat that relieves hip pressure make this a smooth, comfortable ride.",
+    "badge": "Best for Back Pain",
+    "price": 62.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 5900,
+    "features": [
+      "8\" puncture-proof tires",
+      "Ergonomic arc seat (hip relief)",
+      "360° rotating front wheels",
+      "Dual height adjustment (handles + seat)"
+    ],
+    "pros": [
+      "Smooth on uneven ground",
+      "Relieves hip pressure",
+      "3-second fold"
+    ],
+    "cons": [
+      "Heavier at 19.4 lb"
+    ],
+    "bestFor": [
+      "hip and back pain",
+      "uneven surfaces"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "wheels": "8 in",
+      "handleHeight": "31.5-36.6 in",
+      "seatHeight": "20-22 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/411dQ+BYOJL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "homland-r2-rollator",
+    "name": "HOMLAND R2 Rollator (Memory Foam Seat)",
+    "brand": "HOMLAND",
+    "category": "walkers-rollators",
+    "subCategory": "rollators",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMJZGWXM?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0FMJZGWXM",
+    "editorialImageFallback": "/images/products/homland-r2-rollator.svg",
+    "shortDescription": "An extra-wide memory foam seat and pinch-proof folding make this one of the most comfortable rollators.",
+    "badge": "Most Comfortable",
+    "price": 23.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 4800,
+    "features": [
+      "8\" puncture-proof tires",
+      "Extra-wide memory foam seat",
+      "Pinch-proof enclosed folding points",
+      "Multi-reflective safety strips"
+    ],
+    "pros": [
+      "Very comfortable seat",
+      "Safe pinch-proof fold",
+      "Lifetime frame warranty"
+    ],
+    "cons": [
+      "Heavier at 20.4 lb"
+    ],
+    "bestFor": [
+      "comfort",
+      "longer outings"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "wheels": "8 in",
+      "heightRange": "4'7\"-6'6\"",
+      "seat": "Memory foam"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41qTBXM1buL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "homland-rw410-rollator",
+    "name": "HOMLAND RW410 All-Terrain Rollator",
+    "brand": "HOMLAND",
+    "category": "walkers-rollators",
+    "subCategory": "rollators",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPPSDNGN?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0FPPSDNGN",
+    "editorialImageFallback": "/images/products/homland-rw410-rollator.svg",
+    "shortDescription": "Reinforced aluminum and 8-inch rubber all-terrain wheels handle grass, gravel, and bumps with ease.",
+    "badge": "Best All-Terrain",
+    "price": 193.21,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 944,
+    "features": [
+      "8\" rubber all-terrain wheels",
+      "Reinforced double support bars",
+      "Memory foam seat",
+      "Removable cup holder + storage pouch"
+    ],
+    "pros": [
+      "Excellent on rough terrain",
+      "Sturdy reinforced frame",
+      "3-second fold"
+    ],
+    "cons": [
+      "Pricier"
+    ],
+    "bestFor": [
+      "grass and gravel",
+      "active outdoor use"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "wheels": "8 in rubber",
+      "handleHeight": "33-40 in",
+      "seatHeight": "20-23 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/411zRMd+imL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "helavo-upright-walker",
+    "name": "Helavo Upright Walker (All-Terrain)",
+    "brand": "Helavo",
+    "category": "walkers-rollators",
+    "subCategory": "walkers",
+    "amazonUrl": "https://www.amazon.com/dp/B0C28T59DN?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0C28T59DN",
+    "editorialImageFallback": "/images/products/helavo-upright-walker.svg",
+    "shortDescription": "An upright walker that lets a senior stand tall instead of hunching, easing shoulder and back strain.",
+    "badge": "Best Upright",
+    "price": 249.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 830,
+    "features": [
+      "Padded forearm armrests",
+      "12\" front + 10\" rear flat-free tires",
+      "Height-adjustable backrest + seat",
+      "Cup + cane holder"
+    ],
+    "pros": [
+      "Promotes upright posture",
+      "Eases shoulder/back pain",
+      "Smooth flat-free tires"
+    ],
+    "cons": [
+      "Premium price",
+      "Heavier"
+    ],
+    "bestFor": [
+      "kyphosis or hunching",
+      "Parkinson’s",
+      "back pain"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "tires": "12 in / 10 in",
+      "type": "Upright",
+      "warranty": "2 years"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41Q3r7RJfiL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "nova-getgo-petite-rollator",
+    "name": "NOVA GetGo Petite Rollator",
+    "brand": "NOVA",
+    "category": "walkers-rollators",
+    "subCategory": "rollators",
+    "amazonUrl": "https://www.amazon.com/dp/B009EGXUDA?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B009EGXUDA",
+    "editorialImageFallback": "/images/products/nova-getgo-petite-rollator.svg",
+    "shortDescription": "A narrow 22-inch, 13 lb rollator with Feather Touch brakes that need very little grip strength — ideal for shorter users.",
+    "badge": "Best for Petite",
+    "price": 196.95,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 2700,
+    "features": [
+      "Narrow 22\" frame for tight doorways",
+      "Only 13 lb",
+      "Feather Touch brakes (low grip strength)",
+      "Lock n’ Load folded-position lock"
+    ],
+    "pros": [
+      "Fits tight spaces",
+      "Easiest brakes for weak hands",
+      "Lightweight"
+    ],
+    "cons": [
+      "Premium price"
+    ],
+    "bestFor": [
+      "shorter users (4’10–’5’4)",
+      "narrow homes",
+      "severe arthritis"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "weight": "13 lb",
+      "width": "22 in",
+      "wheels": "6 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/51Hx34GpiCL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "vive-ultralight-rollator",
+    "name": "Vive Mobility Ultra-Lightweight Rollator",
+    "brand": "Vive",
+    "category": "walkers-rollators",
+    "subCategory": "rollators",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7K6T9P6?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0C7K6T9P6",
+    "editorialImageFallback": "/images/products/vive-ultralight-rollator.svg",
+    "shortDescription": "At just 9.5 lb with an open frame and no rear bars to trip over, this is the easiest rollator to lift and travel with.",
+    "badge": "Lightest",
+    "price": 99.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 899,
+    "features": [
+      "Featherweight 9.5 lb aluminum",
+      "Open frame (no rear trip bars)",
+      "Ergonomic slip-resistant grips",
+      "Arrives pre-assembled"
+    ],
+    "pros": [
+      "Lightest rollator here",
+      "No rear bars to trip over",
+      "FSA/HSA eligible"
+    ],
+    "cons": [
+      "No seat focus / travel-oriented"
+    ],
+    "bestFor": [
+      "travel",
+      "easy lifting",
+      "minimal weight"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "weight": "9.5 lb",
+      "handleHeight": "36-42 in",
+      "frame": "Aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/51My7hQk8IL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "medline-bariatric-walker",
+    "name": "Medline Bariatric Heavy-Duty Walker (500 lb)",
+    "brand": "Medline",
+    "category": "walkers-rollators",
+    "subCategory": "walkers",
+    "amazonUrl": "https://www.amazon.com/dp/B000FEE9EE?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B000FEE9EE",
+    "editorialImageFallback": "/images/products/medline-bariatric-walker.svg",
+    "shortDescription": "The highest-capacity pick at 500 lb, with an extra-wide 20.5-inch frame and easy two-button folding.",
+    "badge": "Best Bariatric",
+    "price": 79.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 2193,
+    "features": [
+      "500 lb capacity",
+      "Extra-wide 20.5\" frame",
+      "Push-button height 33.5-43.5\"",
+      "Ergonomic grips, US-made"
+    ],
+    "pros": [
+      "Highest weight capacity",
+      "Extra-wide and stable",
+      "Easy 2-button fold"
+    ],
+    "cons": [
+      "Standard walker (5\" wheels, no seat)"
+    ],
+    "bestFor": [
+      "heavier users",
+      "maximum stability"
+    ],
+    "specs": {
+      "weightCapacity": "500 lb",
+      "width": "20.5 in",
+      "handleHeight": "33.5-43.5 in",
+      "wheels": "5 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41LoE8eUfeL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "hurrycane-folding-cane",
+    "name": "HurryCane Freedom Edition Folding Cane",
+    "brand": "HurryCane",
+    "category": "canes",
+    "subCategory": "canes",
+    "amazonUrl": "https://www.amazon.com/dp/B00E9ZFBII?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B00E9ZFBII",
+    "editorialImageFallback": "/images/products/hurrycane-folding-cane.svg",
+    "shortDescription": "America's best-selling cane: a pivoting 3-point base that auto-adjusts on inclines and lets the cane stand on its own.",
+    "badge": "Best Overall",
+    "price": 28.11,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 25853,
+    "features": [
+      "SteadiGrip 3-point pivoting base",
+      "Self-standing, folds to 13.7\"",
+      "T-handle, 350 lb capacity",
+      "Lifetime warranty"
+    ],
+    "pros": [
+      "Best-selling and proven",
+      "Stands on its own",
+      "Adjusts on uneven ground"
+    ],
+    "cons": [
+      "T-handle less wrist-friendly than offset"
+    ],
+    "bestFor": [
+      "everyday light use",
+      "uneven surfaces"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "base": "3-point pivot",
+      "folds": "To 13.7 in",
+      "handle": "T-handle"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31DdKV5iKiL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "honeybull-pivot-cane",
+    "name": "HONEYBULL Folding Cane (Pivoting Base)",
+    "brand": "HONEYBULL",
+    "category": "canes",
+    "subCategory": "canes",
+    "amazonUrl": "https://www.amazon.com/dp/B07WPWBWFG?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B07WPWBWFG",
+    "editorialImageFallback": "/images/products/honeybull-pivot-cane.svg",
+    "shortDescription": "An extra-wide 3-tipped pivoting base that stands free, at a value price — ambidextrous and folds compact.",
+    "badge": "Best Value",
+    "price": 29.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 29653,
+    "features": [
+      "Extra-wide 3-tip pivoting base",
+      "Adjusts 30\"–36\", folds to 12.5\"",
+      "Free-standing, ambidextrous",
+      "2-year warranty"
+    ],
+    "pros": [
+      "Great value",
+      "Wide stable base",
+      "Folds small"
+    ],
+    "cons": [
+      "Lower 253 lb capacity"
+    ],
+    "bestFor": [
+      "everyday use",
+      "value seekers"
+    ],
+    "specs": {
+      "weightCapacity": "253 lb",
+      "base": "3-tip pivot",
+      "heightRange": "30-36 in",
+      "folds": "To 12.5 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41sR62oBkhL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "rehand-allterrain-cane",
+    "name": "REHAND All-Terrain Shock-Absorbing Cane",
+    "brand": "REHAND",
+    "category": "canes",
+    "subCategory": "canes",
+    "amazonUrl": "https://www.amazon.com/dp/B0BG8J54QH?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0BG8J54QH",
+    "editorialImageFallback": "/images/products/rehand-allterrain-cane.svg",
+    "shortDescription": "A multilayer rubber shock-absorbing base and wide cushioned palm grip ease pressure on sore joints.",
+    "badge": "Best for Joint Pain",
+    "price": 13.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 12145,
+    "features": [
+      "Shock-absorbing rubber base",
+      "Wide TPR palm grip",
+      "8 height increments (5'–6'5\")",
+      "Travel bag included"
+    ],
+    "pros": [
+      "Absorbs impact for joints",
+      "Comfortable wide grip",
+      "Wide height range"
+    ],
+    "cons": [
+      "Single-tip (less self-standing)"
+    ],
+    "bestFor": [
+      "joint pain",
+      "all-day comfort"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "base": "Shock-absorbing rubber",
+      "heightRange": "5'-6'5\"",
+      "grip": "Wide TPR"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41CMfao1NhL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "vive-folding-cane",
+    "name": "Vive Folding Cane (Ultralight)",
+    "brand": "Vive",
+    "category": "canes",
+    "subCategory": "canes",
+    "amazonUrl": "https://www.amazon.com/dp/B00RKJUPS6?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B00RKJUPS6",
+    "editorialImageFallback": "/images/products/vive-folding-cane.svg",
+    "shortDescription": "An 8-ounce ultralight folding cane that packs to 12 inches and works with quad, tripod, or ice tips.",
+    "badge": "Lightest",
+    "price": 22.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 19073,
+    "features": [
+      "Folds at 3 points to 12\"",
+      "Just 8 oz",
+      "Ergonomic grip",
+      "Compatible with quad/tripod/ice tips"
+    ],
+    "pros": [
+      "Extremely light",
+      "Packs very small",
+      "Lifetime guarantee"
+    ],
+    "cons": [
+      "Lightweight feel for heavy leaning"
+    ],
+    "bestFor": [
+      "travel",
+      "occasional use"
+    ],
+    "specs": {
+      "weight": "8 oz",
+      "folds": "To 12 in",
+      "heightRange": "33-37 in",
+      "tips": "Quad/tripod/ice compatible"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/51geTPdG51L._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "kinggear-f1-quad-cane",
+    "name": "KINGGEAR F1 Quad Cane",
+    "brand": "KINGGEAR",
+    "category": "canes",
+    "subCategory": "canes",
+    "amazonUrl": "https://www.amazon.com/dp/B078SFHFPJ?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B078SFHFPJ",
+    "editorialImageFallback": "/images/products/kinggear-f1-quad-cane.svg",
+    "shortDescription": "A 4-point all-terrain quad base plus an arthritis-friendly offset EVA foam handle, all at 1.1 lb.",
+    "badge": "Best Quad Cane",
+    "price": 20.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 16675,
+    "features": [
+      "4.3\" all-terrain quad base",
+      "Offset EVA foam handle",
+      "Self-standing, foldable",
+      "Aviation aluminum, 1.1 lb"
+    ],
+    "pros": [
+      "Excellent stability",
+      "Arthritis-friendly handle",
+      "Light and foldable"
+    ],
+    "cons": [
+      "Quad base bulkier than single tip"
+    ],
+    "bestFor": [
+      "balance support",
+      "arthritis",
+      "post-surgery"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "base": "4-point quad",
+      "weight": "1.1 lb",
+      "handle": "Offset EVA foam"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41zlzS94l5L._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "medline-quad-cane",
+    "name": "Medline Quad Cane (Small Base)",
+    "brand": "Medline",
+    "category": "canes",
+    "subCategory": "canes",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCFXF21H?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0CCFXF21H",
+    "editorialImageFallback": "/images/products/medline-quad-cane.svg",
+    "shortDescription": "A hospital-trusted self-standing quad cane with a comfort foam handle — a reliable post-surgery choice.",
+    "badge": "Hospital-Trusted",
+    "price": 19,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 1615,
+    "features": [
+      "Self-standing quad base",
+      "Comfort foam handle",
+      "Adjusts 29\"–38\"",
+      "300 lb capacity"
+    ],
+    "pros": [
+      "Trusted brand",
+      "Stable small quad base",
+      "Affordable"
+    ],
+    "cons": [
+      "Basic styling"
+    ],
+    "bestFor": [
+      "post-surgery recovery",
+      "balance support"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "base": "Small quad",
+      "heightRange": "29-38 in",
+      "handle": "Comfort foam"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31OXXOFDdtL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "asterom-derby-oak-cane",
+    "name": "Asterom Handcrafted Derby Oak Cane",
+    "brand": "Asterom",
+    "category": "canes",
+    "subCategory": "wood-canes",
+    "amazonUrl": "https://www.amazon.com/dp/B084B649FG?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B084B649FG",
+    "editorialImageFallback": "/images/products/asterom-derby-oak-cane.svg",
+    "shortDescription": "A handcarved oak cane with an ergonomic derby handle that eases wrist strain — elegant and functional.",
+    "badge": "Best Wood Cane",
+    "price": 78.9,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 4183,
+    "features": [
+      "Handcarved oak, Italian coatings",
+      "Ergonomic derby handle",
+      "Interchangeable rubber tip",
+      "Available 32\"–39\""
+    ],
+    "pros": [
+      "Beautiful, non-clinical",
+      "Wrist-friendly derby handle",
+      "Top-rated (4.8★)"
+    ],
+    "cons": [
+      "Premium price",
+      "Fixed length (choose at order)"
+    ],
+    "bestFor": [
+      "style-conscious users",
+      "wrist comfort"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "material": "Oak",
+      "handle": "Derby",
+      "length": "32-39 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/418zeFXaEJL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "carex-walnut-wood-cane",
+    "name": "Carex Classic Walnut Wood Cane",
+    "brand": "Carex",
+    "category": "canes",
+    "subCategory": "wood-canes",
+    "amazonUrl": "https://www.amazon.com/dp/B000GG7TK2?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B000GG7TK2",
+    "editorialImageFallback": "/images/products/carex-walnut-wood-cane.svg",
+    "shortDescription": "A traditional black-walnut cane with a curved handle that hooks over an arm or railing.",
+    "badge": "Best Value Wood",
+    "price": 20.72,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "features": [
+      "Black walnut finish",
+      "Curved handle hooks over arm/rail",
+      "Non-slip rubber tip",
+      "90-day warranty"
+    ],
+    "pros": [
+      "Classic look",
+      "Affordable wood cane",
+      "Handle hooks for free hands"
+    ],
+    "cons": [
+      "Lower 250 lb capacity",
+      "Not height-adjustable"
+    ],
+    "bestFor": [
+      "classic style",
+      "light everyday use"
+    ],
+    "specs": {
+      "weightCapacity": "250 lb",
+      "material": "Walnut",
+      "handle": "Curved",
+      "tip": "Non-slip rubber"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31xgVLqvnwL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "moodic-tall-cane",
+    "name": "MOODIC Extra-Tall Quad Cane",
+    "brand": "MOODIC",
+    "category": "canes",
+    "subCategory": "canes",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6937811?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0C6937811",
+    "editorialImageFallback": "/images/products/moodic-tall-cane.svg",
+    "shortDescription": "Extends to 42.5 inches for users over 5'9\", with a self-standing quad anti-slip base.",
+    "badge": "Best for Tall Users",
+    "price": 45.88,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 540,
+    "features": [
+      "Extends to 42.52\" (35–42.52\")",
+      "For users 5'9\"+",
+      "Quad anti-slip base",
+      "Folds to 16.5\""
+    ],
+    "pros": [
+      "Fits tall users",
+      "Self-standing quad base",
+      "Folds for travel"
+    ],
+    "cons": [
+      "Overkill for shorter users"
+    ],
+    "bestFor": [
+      "tall users (5'9\"+)",
+      "extra reach"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "heightRange": "35-42.52 in",
+      "base": "Quad",
+      "folds": "To 16.5 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41qEkeGSdcL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "nova-bariatric-cane",
+    "name": "NOVA Bariatric Cane (500 lb)",
+    "brand": "NOVA",
+    "category": "canes",
+    "subCategory": "canes",
+    "amazonUrl": "https://www.amazon.com/dp/B003DQS9QA?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B003DQS9QA",
+    "editorialImageFallback": "/images/products/nova-bariatric-cane.svg",
+    "shortDescription": "A 500 lb-capacity bariatric cane with an offset handle and anti-rattle lock, still just 1 lb.",
+    "badge": "Best Bariatric",
+    "price": 33.22,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 1855,
+    "features": [
+      "500 lb capacity",
+      "Offset handle",
+      "Anti-rattle lock",
+      "Lightweight 1 lb aluminum"
+    ],
+    "pros": [
+      "High capacity",
+      "Sturdy and light",
+      "Wrist strap included"
+    ],
+    "cons": [
+      "Single-tip base"
+    ],
+    "bestFor": [
+      "heavier users",
+      "wrist comfort"
+    ],
+    "specs": {
+      "weightCapacity": "500 lb",
+      "weight": "1 lb",
+      "heightRange": "30-39 in",
+      "handle": "Offset"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/317iN2NSd9L._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "skymed-bariatric-cane",
+    "name": "Sky Med Bariatric Cane (600 lb)",
+    "brand": "Sky Med",
+    "category": "canes",
+    "subCategory": "canes",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTJKMCH4?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0CTJKMCH4",
+    "editorialImageFallback": "/images/products/skymed-bariatric-cane.svg",
+    "shortDescription": "The highest-capacity cane here at 600 lb, with a contoured foam offset handle — and only 1.3 lb.",
+    "badge": "Highest Capacity",
+    "price": 29.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 206,
+    "features": [
+      "600 lb capacity",
+      "Contoured foam offset handle",
+      "Adjusts 29\"–40\"",
+      "Lifetime warranty"
+    ],
+    "pros": [
+      "Highest weight capacity",
+      "Comfortable offset handle",
+      "Very light for its strength"
+    ],
+    "cons": [
+      "Fewer reviews"
+    ],
+    "bestFor": [
+      "heaviest users",
+      "maximum strength"
+    ],
+    "specs": {
+      "weightCapacity": "600 lb",
+      "weight": "1.3 lb",
+      "heightRange": "29-40 in",
+      "handle": "Offset foam"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/21MAhOvxcxL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "foxelli-trekking-poles",
+    "name": "Foxelli Carbon Fiber Trekking Poles (2-Pack)",
+    "brand": "Foxelli",
+    "category": "canes",
+    "subCategory": "trekking-poles",
+    "amazonUrl": "https://www.amazon.com/dp/B01IC7XZ68?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B01IC7XZ68",
+    "editorialImageFallback": "/images/products/foxelli-trekking-poles.svg",
+    "shortDescription": "Ultralight 7.6 oz carbon poles with cork grips and carbide tips — stable two-pole support for active seniors on trails.",
+    "badge": "Best Trekking Poles",
+    "price": 59.97,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 8400,
+    "features": [
+      "7.6 oz per pole",
+      "Cork + EVA foam grips",
+      "Tungsten carbide tips",
+      "Flip-lock + all-terrain baskets"
+    ],
+    "pros": [
+      "Very light",
+      "Two-pole stability",
+      "All-terrain accessories"
+    ],
+    "cons": [
+      "For active/outdoor use, not indoor"
+    ],
+    "bestFor": [
+      "hiking",
+      "outdoor walking",
+      "active seniors"
+    ],
+    "specs": {
+      "weightCapacity": "265 lb",
+      "weight": "7.6 oz/pole",
+      "grips": "Cork + EVA",
+      "tips": "Tungsten carbide"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/51tNwYSNDdL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "hiker-hunger-trekking-poles",
+    "name": "Hiker Hunger Carbon Fiber Trekking Poles (2-Pack)",
+    "brand": "Hiker Hunger",
+    "category": "canes",
+    "subCategory": "trekking-poles",
+    "amazonUrl": "https://www.amazon.com/dp/B01C60REBO?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B01C60REBO",
+    "editorialImageFallback": "/images/products/hiker-hunger-trekking-poles.svg",
+    "shortDescription": "Strong 3K carbon poles with metal flip locks and cork grips, adjustable from 24\" to 55\".",
+    "badge": null,
+    "price": 59.97,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 2650,
+    "features": [
+      "3K carbon fiber",
+      "Moisture-wicking cork grips",
+      "Metal flip locks",
+      "Adjusts 24\"–55\""
+    ],
+    "pros": [
+      "Durable metal locks",
+      "Wide adjustment range",
+      "3-year warranty"
+    ],
+    "cons": [
+      "For outdoor use"
+    ],
+    "bestFor": [
+      "hiking",
+      "taller users",
+      "trails"
+    ],
+    "specs": {
+      "weightCapacity": "Trekking",
+      "grips": "Cork",
+      "locks": "Metal flip",
+      "heightRange": "24-55 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/51SHDi2rQHL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "drive-medical-3in1-commode",
+    "name": "Drive Medical 3-in-1 Steel Bedside Commode",
+    "brand": "Drive Medical",
+    "category": "bedside-commodes",
+    "subCategory": "commodes",
+    "amazonUrl": "https://www.amazon.com/dp/B001HP7AQE?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B001HP7AQE",
+    "editorialImageFallback": "/images/products/drive-medical-3in1-commode.svg",
+    "shortDescription": "The most-reviewed commode: a 3-in-1 that works as a bedside commode, raised toilet seat, or toilet safety frame.",
+    "badge": "Best Overall",
+    "price": 30.59,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 36000,
+    "features": [
+      "3-in-1: commode, raised seat, safety frame",
+      "Push-pin height 17\"–23\"",
+      "7.5 qt bucket + splash shield",
+      "Foldable corrosion-resistant steel"
+    ],
+    "pros": [
+      "Hugely popular and trusted",
+      "Three uses in one",
+      "Folds for storage"
+    ],
+    "cons": [
+      "Steel frame is heavier"
+    ],
+    "bestFor": [
+      "everyday use",
+      "value",
+      "multiple uses"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "heightRange": "17-23 in",
+      "bucket": "7.5 qt",
+      "type": "3-in-1"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31Ps2O26wWL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "drive-folding-steel-commode",
+    "name": "Drive Medical Folding Steel Commode",
+    "brand": "Drive Medical",
+    "category": "bedside-commodes",
+    "subCategory": "commodes",
+    "amazonUrl": "https://www.amazon.com/dp/B001HP7AQE?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B001HP7AQE",
+    "editorialImageFallback": "/images/products/drive-folding-steel-commode.svg",
+    "shortDescription": "A push-button-height folding steel commode with a protective cover and splash guard.",
+    "badge": "Best Push-Button",
+    "price": 30.59,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 2634,
+    "features": [
+      "Push-button height 17\"–23\"",
+      "7.5 qt bucket + cover",
+      "Splash guard",
+      "Powder-coated foldable steel"
+    ],
+    "pros": [
+      "Easy push-button adjustment",
+      "Folds flat",
+      "Durable finish"
+    ],
+    "cons": [
+      "Heavier steel"
+    ],
+    "bestFor": [
+      "easy height changes",
+      "storage"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "heightRange": "17-23 in",
+      "bucket": "7.5 qt",
+      "frame": "Powder-coated steel"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31Ps2O26wWL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "medline-elongated-commode",
+    "name": "Medline Elongated Folding Commode",
+    "brand": "Medline",
+    "category": "bedside-commodes",
+    "subCategory": "commodes",
+    "amazonUrl": "https://www.amazon.com/dp/B09YMZ1DR5?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B09YMZ1DR5",
+    "asinSource": "provided",
+    "editorialImageFallback": "/images/products/medline-elongated-commode.svg",
+    "shortDescription": "An extra-long 16.5-inch seat and 19-inch width between arms for maximum comfort for taller or larger users.",
+    "badge": "Best for Larger Users",
+    "price": 43.79,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 115,
+    "features": [
+      "Extra-long 16.5\" seat depth",
+      "19\" width between arms",
+      "Microban-treated",
+      "Compact folding steel"
+    ],
+    "pros": [
+      "Roomier for taller/larger users",
+      "Antimicrobial surfaces",
+      "Compact 21\" width"
+    ],
+    "cons": [
+      "Fewer reviews"
+    ],
+    "bestFor": [
+      "taller or larger users",
+      "men",
+      "comfort"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "seatDepth": "16.5 in",
+      "armWidth": "19 in",
+      "type": "Elongated"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "image": "https://m.media-amazon.com/images/I/314COwXjJML._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "medline-droparm-commode",
+    "name": "Medline Drop-Arm Padded Commode",
+    "brand": "Medline",
+    "category": "bedside-commodes",
+    "subCategory": "drop-arm",
+    "amazonUrl": "https://www.amazon.com/dp/B009GQ492E?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B009GQ492E",
+    "editorialImageFallback": "/images/products/medline-droparm-commode.svg",
+    "shortDescription": "Drop-down padded armrests lower for easy lateral transfers from a wheelchair, on a thick foam-padded seat.",
+    "badge": "Best Drop-Arm",
+    "price": 112.01,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 695,
+    "features": [
+      "Drop-down padded armrests",
+      "Thick foam-padded seat",
+      "Push-button height 18\"–22\"",
+      "7.5 qt bucket + splash guard"
+    ],
+    "pros": [
+      "Easy wheelchair transfers",
+      "Comfortable padded seat",
+      "Adjustable height"
+    ],
+    "cons": [
+      "Pricier"
+    ],
+    "bestFor": [
+      "wheelchair users",
+      "lateral transfers",
+      "comfort"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "arms": "Drop-down padded",
+      "heightRange": "18-22 in",
+      "seat": "Foam-padded"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/312dWIMpNCL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "dmi-bariatric-commode",
+    "name": "DMI Drop-Arm Bariatric Commode (500 lb)",
+    "brand": "DMI",
+    "category": "bedside-commodes",
+    "subCategory": "drop-arm",
+    "amazonUrl": "https://www.amazon.com/dp/B09YMXLVBT?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B09YMXLVBT",
+    "editorialImageFallback": "/images/products/dmi-bariatric-commode.svg",
+    "shortDescription": "A 500 lb drop-arm commode with an extra-wide 23-inch seat for heavier users who need side transfers.",
+    "badge": "Best Bariatric",
+    "price": 140.96,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 1246,
+    "features": [
+      "500 lb capacity",
+      "Extra-wide 23.25\" seat",
+      "Release-button drop arm",
+      "Adjustable height 20\"–24\""
+    ],
+    "pros": [
+      "High capacity",
+      "Wide seat",
+      "Easy side transfers"
+    ],
+    "cons": [
+      "Large footprint"
+    ],
+    "bestFor": [
+      "heavier users",
+      "wheelchair transfers"
+    ],
+    "specs": {
+      "weightCapacity": "500 lb",
+      "seatWidth": "23.25 in",
+      "arms": "Drop-arm",
+      "heightRange": "20-24 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31gOgCfD4ML._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "homland-dualcrossbar-commode",
+    "name": "HOMLAND Dual-Crossbar 3-in-1 Commode",
+    "brand": "HOMLAND",
+    "category": "bedside-commodes",
+    "subCategory": "commodes",
+    "amazonUrl": "https://www.amazon.com/dp/B0F223SDYF?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0F223SDYF",
+    "editorialImageFallback": "/images/products/homland-dualcrossbar-commode.svg",
+    "shortDescription": "Dual crossbars resist tipping, with a wide ergonomic seat and sit-to-stand armrests.",
+    "badge": "Most Stable",
+    "price": 59.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 389,
+    "features": [
+      "Anti-tip dual-crossbar support",
+      "Wide ergonomic seat",
+      "Sit/stand assist armrests",
+      "7.5 qt bucket + splash guard"
+    ],
+    "pros": [
+      "Very stable, anti-tip",
+      "Comfortable wide seat",
+      "Helps with standing"
+    ],
+    "cons": [
+      "Newer / fewer reviews"
+    ],
+    "bestFor": [
+      "tipping concerns",
+      "sit-to-stand help"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "support": "Dual crossbar",
+      "bucket": "7.5 qt",
+      "type": "3-in-1"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41tm-8FY+ZL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "kovevo-commode-liners",
+    "name": "Kovevo Commode Liners with Gel Pads (60-Pack)",
+    "brand": "Kovevo",
+    "category": "bedside-commodes",
+    "subCategory": "accessories",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQQJJBNL?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0BQQJJBNL",
+    "editorialImageFallback": "/images/products/kovevo-commode-liners.svg",
+    "shortDescription": "Each liner includes a super-absorbent pad that turns 35 oz of liquid into gel instantly — no bucket cleaning.",
+    "badge": "Best Liners",
+    "price": 24.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 1195,
+    "features": [
+      "Liner + super-absorbent pad",
+      "Solidifies 35 oz into gel",
+      "Universal fit, drawstring closure",
+      "Tear-resistant medical-grade LDPE"
+    ],
+    "pros": [
+      "Eliminates bucket cleaning",
+      "Gel pads contain odor",
+      "Tear-resistant"
+    ],
+    "cons": [
+      "Ongoing consumable cost"
+    ],
+    "bestFor": [
+      "easy cleanup",
+      "caregivers"
+    ],
+    "specs": {
+      "count": "60",
+      "type": "Liner + gel pad",
+      "fit": "Universal",
+      "closure": "Drawstring"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/51bgI7sebCL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "tidycare-commode-liners",
+    "name": "TidyCare Commode Liners (48-Pack)",
+    "brand": "TidyCare",
+    "category": "bedside-commodes",
+    "subCategory": "accessories",
+    "amazonUrl": "https://www.amazon.com/dp/B01N52XNSP?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B01N52XNSP",
+    "editorialImageFallback": "/images/products/tidycare-commode-liners.svg",
+    "shortDescription": "America's most popular commode liner: leak-free, drawstring seal, and universal fit to skip bucket rinsing.",
+    "badge": "Best Value Liners",
+    "price": 13.19,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 13806,
+    "features": [
+      "100% leak-free guarantee",
+      "Drawstring seal-tight closure",
+      "Universal fit",
+      "Eliminates bucket rinsing"
+    ],
+    "pros": [
+      "Very affordable",
+      "Hugely popular and proven",
+      "Leak-free"
+    ],
+    "cons": [
+      "No absorbent gel pad included"
+    ],
+    "bestFor": [
+      "budget cleanup",
+      "everyday use"
+    ],
+    "specs": {
+      "count": "48",
+      "type": "Liner",
+      "fit": "Universal",
+      "closure": "Drawstring"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41cZScE-VCL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "auvon-backlit-4pack-nightlight",
+    "name": "AUVON Backlit Plug-In Night Light (4-Pack)",
+    "brand": "AUVON",
+    "category": "motion-sensor-night-lights",
+    "subCategory": "plug-in",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4KPP41Y?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0F4KPP41Y",
+    "editorialImageFallback": "/images/products/auvon-backlit-4pack-nightlight.svg",
+    "shortDescription": "A glare-free 16-LED backlit plug-in with both motion and dusk-to-dawn modes and stepless dimming.",
+    "badge": "Best Overall",
+    "price": 29.99,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 3509,
+    "features": [
+      "Motion + dusk-to-dawn modes",
+      "16-LED glare-free backlit design",
+      "1–50 lm stepless dimming",
+      "13 ft / 120° motion range"
+    ],
+    "pros": [
+      "No glare for sleepy eyes",
+      "Two automatic modes",
+      "Fire-resistant, 2-year warranty"
+    ],
+    "cons": [
+      "Needs a wall outlet"
+    ],
+    "bestFor": [
+      "hallways",
+      "bathrooms",
+      "bedrooms"
+    ],
+    "specs": {
+      "power": "Plug-in",
+      "modes": "Motion + dusk-to-dawn",
+      "range": "13 ft / 120°",
+      "brightness": "1-50 lm"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41ZTZLWHBCL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "auvon-mini-round-nightlight",
+    "name": "AUVON Mini Round Plug-In Night Light (4-Pack)",
+    "brand": "AUVON",
+    "category": "motion-sensor-night-lights",
+    "subCategory": "plug-in",
+    "amazonUrl": "https://www.amazon.com/dp/B07MLS6H2S?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B07MLS6H2S",
+    "editorialImageFallback": "/images/products/auvon-mini-round-nightlight.svg",
+    "shortDescription": "A hugely popular compact round plug-in with motion and dusk-to-dawn modes and adjustable brightness.",
+    "badge": "Most Reviewed",
+    "price": 24.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 22233,
+    "features": [
+      "Compact round design",
+      "Motion + dusk-to-dawn modes",
+      "1–50 lm adjustable",
+      "13 ft / 120° detection"
+    ],
+    "pros": [
+      "22,000+ reviews",
+      "Small and unobtrusive",
+      "Memory function"
+    ],
+    "cons": [
+      "Needs a wall outlet"
+    ],
+    "bestFor": [
+      "hallways",
+      "whole-home coverage"
+    ],
+    "specs": {
+      "power": "Plug-in",
+      "modes": "Motion + dusk-to-dawn",
+      "range": "13 ft / 120°",
+      "brightness": "1-50 lm"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31XDS8Ey-nL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "auvon-backlit-2pack-nightlight",
+    "name": "AUVON Backlit Plug-In Night Light (2-Pack)",
+    "brand": "AUVON",
+    "category": "motion-sensor-night-lights",
+    "subCategory": "plug-in",
+    "amazonUrl": "https://www.amazon.com/dp/B0BY8DMP93?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0BY8DMP93",
+    "editorialImageFallback": "/images/products/auvon-backlit-2pack-nightlight.svg",
+    "shortDescription": "The same diffuse, glare-free backlit design in a 2-pack — gentle enough for insomnia-sensitive users.",
+    "badge": "Best for Light Sleepers",
+    "price": 18.99,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 3353,
+    "features": [
+      "16-LED glare-free backlit",
+      "Motion + dusk-to-dawn modes",
+      "1–50 lm stepless dimming",
+      "13 ft / 120° range"
+    ],
+    "pros": [
+      "Soft, diffuse light",
+      "Great for light sleepers",
+      "4.8★ rated"
+    ],
+    "cons": [
+      "Needs a wall outlet"
+    ],
+    "bestFor": [
+      "light sleepers",
+      "bedrooms"
+    ],
+    "specs": {
+      "power": "Plug-in",
+      "modes": "Motion + dusk-to-dawn",
+      "range": "13 ft / 120°",
+      "brightness": "1-50 lm"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41V3T0aU28L._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "maztek-dimmable-nightlight",
+    "name": "MAZ-TEK Dimmable Plug-In Night Light (4-Pack)",
+    "brand": "MAZ-TEK",
+    "category": "motion-sensor-night-lights",
+    "subCategory": "plug-in",
+    "amazonUrl": "https://www.amazon.com/dp/B07QXMXWFN?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B07QXMXWFN",
+    "editorialImageFallback": "/images/products/maztek-dimmable-nightlight.svg",
+    "shortDescription": "A slide-switch stepless dimmer (0–15 lm), dusk-to-dawn sensor, and a compact body that frees the second outlet.",
+    "badge": "Best Dimmable",
+    "price": 16.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 16610,
+    "features": [
+      "Slide-switch 0–15 lm dimmer",
+      "Dusk-to-dawn auto sensor",
+      "Warm white",
+      "0.5W ultra-low energy"
+    ],
+    "pros": [
+      "Precise brightness control",
+      "Doesn't block second outlet",
+      "Lifetime tech support"
+    ],
+    "cons": [
+      "Dusk-to-dawn (not motion)"
+    ],
+    "bestFor": [
+      "always-on soft light",
+      "energy savings"
+    ],
+    "specs": {
+      "power": "Plug-in",
+      "modes": "Dusk-to-dawn",
+      "brightness": "0-15 lm slider",
+      "energy": "0.5W"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31vFTwZRKSL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "llohas-budget-nightlight",
+    "name": "L LOHAS Dusk-to-Dawn Night Light (2-Pack)",
+    "brand": "L LOHAS",
+    "category": "motion-sensor-night-lights",
+    "subCategory": "plug-in",
+    "amazonUrl": "https://www.amazon.com/dp/B0BLCD42J7?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0BLCD42J7",
+    "editorialImageFallback": "/images/products/llohas-budget-nightlight.svg",
+    "shortDescription": "An ultra-budget dusk-to-dawn plug-in with soft 40-lumen white light and a tiny footprint.",
+    "badge": "Best Budget",
+    "price": 6.98,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 8204,
+    "features": [
+      "Dusk-to-dawn auto on/off",
+      "40 lumens soft white",
+      "30,000-hr LED lifespan",
+      "0.3W energy use"
+    ],
+    "pros": [
+      "Cheapest pick",
+      "Reliable auto sensor",
+      "Frees second outlet"
+    ],
+    "cons": [
+      "No motion mode",
+      "No dimming"
+    ],
+    "bestFor": [
+      "budget whole-home",
+      "soft hallway light"
+    ],
+    "specs": {
+      "power": "Plug-in",
+      "modes": "Dusk-to-dawn",
+      "brightness": "40 lm",
+      "energy": "0.3W"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31Pxx6AByLL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "sujeet-8pack-nightlight",
+    "name": "Sujeet Dusk-to-Dawn Night Light (8-Pack)",
+    "brand": "Sujeet",
+    "category": "motion-sensor-night-lights",
+    "subCategory": "plug-in",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6GJ9222?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0D6GJ9222",
+    "editorialImageFallback": "/images/products/sujeet-8pack-nightlight.svg",
+    "shortDescription": "Eight dusk-to-dawn plug-ins for whole-home coverage at a value price — warm 50-lumen light.",
+    "badge": "Best Value (8-Pack)",
+    "price": 9.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 9292,
+    "features": [
+      "8-pack for whole-home",
+      "Dusk-to-dawn auto sensor",
+      "50 lumens warm white",
+      "Compact, frees second outlet"
+    ],
+    "pros": [
+      "Outfits the whole house",
+      "Very low cost per light",
+      "Energy-efficient"
+    ],
+    "cons": [
+      "No motion mode"
+    ],
+    "bestFor": [
+      "whole-home coverage",
+      "value"
+    ],
+    "specs": {
+      "power": "Plug-in",
+      "modes": "Dusk-to-dawn",
+      "brightness": "50 lm",
+      "count": "8"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41InFdhKABL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "mcgor-10-rechargeable-nightlight",
+    "name": "MCGOR 10\" Rechargeable Motion Light (2-Pack)",
+    "brand": "MCGOR",
+    "category": "motion-sensor-night-lights",
+    "subCategory": "rechargeable",
+    "amazonUrl": "https://www.amazon.com/dp/B0BDF8CVBN?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0BDF8CVBN",
+    "editorialImageFallback": "/images/products/mcgor-10-rechargeable-nightlight.svg",
+    "shortDescription": "The most-reviewed rechargeable motion light: a magnetic 10-inch bar, USB-C charging, and 5 brightness levels.",
+    "badge": "Best Rechargeable",
+    "price": 16.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 57110,
+    "features": [
+      "5-level dimmable, 180 lm",
+      "Motion 10 ft / 120°",
+      "USB-C (7–45 days per charge)",
+      "Magnetic mount, no wiring"
+    ],
+    "pros": [
+      "No outlet needed",
+      "Long battery life",
+      "57,000+ reviews"
+    ],
+    "cons": [
+      "Recharge every few weeks"
+    ],
+    "bestFor": [
+      "closets",
+      "stairs",
+      "cabinets"
+    ],
+    "specs": {
+      "power": "USB-C rechargeable",
+      "length": "10 in",
+      "brightness": "180 lm, 5 levels",
+      "mount": "Magnetic"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41hoALePE7L._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "mcgor-147-rechargeable-nightlight",
+    "name": "MCGOR 14.7\" Rechargeable Motion Light (2-Pack)",
+    "brand": "MCGOR",
+    "category": "motion-sensor-night-lights",
+    "subCategory": "rechargeable",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9CSVSNY?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0C9CSVSNY",
+    "editorialImageFallback": "/images/products/mcgor-147-rechargeable-nightlight.svg",
+    "shortDescription": "An extra-long 14.7-inch bar with 63 LEDs for wider coverage than the 10-inch — same magnetic, USB-C design.",
+    "badge": "Best Wide Coverage",
+    "price": 24.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 57110,
+    "features": [
+      "Extra-long 14.7\" bar",
+      "63 LEDs / 180 lm",
+      "5 brightness levels",
+      "USB-C (7–45 days sensor mode)"
+    ],
+    "pros": [
+      "Wider light spread",
+      "No wiring",
+      "Long battery"
+    ],
+    "cons": [
+      "Recharge periodically"
+    ],
+    "bestFor": [
+      "long closets",
+      "wide hallways"
+    ],
+    "specs": {
+      "power": "USB-C rechargeable",
+      "length": "14.7 in",
+      "brightness": "180 lm, 5 levels",
+      "mount": "Magnetic"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41s07LoUFxL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "gritin-rechargeable-nightlight",
+    "name": "Gritin 10.2\" Rechargeable Motion Light (2-Pack)",
+    "brand": "Gritin",
+    "category": "motion-sensor-night-lights",
+    "subCategory": "rechargeable",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1C56SR1?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0F1C56SR1",
+    "editorialImageFallback": "/images/products/gritin-rechargeable-nightlight.svg",
+    "shortDescription": "Three color temperatures, five brightness levels, and an aluminum frame in a magnetic USB-C light bar.",
+    "badge": "Best Stick-On",
+    "price": 15.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 20241,
+    "features": [
+      "3 color temps + 5 brightness levels",
+      "4 modes (Night/Day/On/Off)",
+      "84 LEDs / 180 lm",
+      "Aluminum frame, USB-C (45 days)"
+    ],
+    "pros": [
+      "Adjustable color + brightness",
+      "Premium aluminum build",
+      "Long battery"
+    ],
+    "cons": [
+      "Recharge periodically"
+    ],
+    "bestFor": [
+      "closets",
+      "stairs",
+      "under-cabinet"
+    ],
+    "specs": {
+      "power": "USB-C rechargeable",
+      "colorTemps": "3000/4500/6000K",
+      "brightness": "180 lm, 5 levels",
+      "mount": "Magnetic"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/418mcll5yRL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "zioeyiue-rechargeable-nightlight",
+    "name": "ZioeYiue 10\" Rechargeable Motion Light (3-Pack)",
+    "brand": "ZioeYiue",
+    "category": "motion-sensor-night-lights",
+    "subCategory": "rechargeable",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYQSVKJR?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0GYQSVKJR",
+    "editorialImageFallback": "/images/products/zioeyiue-rechargeable-nightlight.svg",
+    "shortDescription": "A value 3-pack with 3 color temps, stepless dimming, and a 4-LED battery indicator.",
+    "badge": "Best Value Rechargeable",
+    "price": 36.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 1813,
+    "features": [
+      "3 color temps + stepless dimming",
+      "76 LEDs / 180 lm",
+      "Motion 10 ft / 120°",
+      "Battery indicator, USB-C (8–50 days)"
+    ],
+    "pros": [
+      "Three lights in the pack",
+      "Battery level indicator",
+      "Adjustable color"
+    ],
+    "cons": [
+      "Fewer reviews"
+    ],
+    "bestFor": [
+      "multiple rooms",
+      "value"
+    ],
+    "specs": {
+      "power": "USB-C rechargeable",
+      "length": "10 in",
+      "colorTemps": "3",
+      "count": "3"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/416K4YWR+7L._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "whitepoplar-ceiling-nightlight",
+    "name": "WhitePoplar Rechargeable Ceiling Motion Light",
+    "brand": "WhitePoplar",
+    "category": "motion-sensor-night-lights",
+    "subCategory": "ceiling",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGWK8KNX?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0CGWK8KNX",
+    "editorialImageFallback": "/images/products/whitepoplar-ceiling-nightlight.svg",
+    "shortDescription": "A bright 500-lumen overhead light with a huge 10000mAh battery lasting 60–90 days per charge — no wiring.",
+    "badge": "Best Ceiling-Mount",
+    "price": 19.22,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 2148,
+    "features": [
+      "500 lm / 300 sq ft coverage",
+      "10000mAh battery (60–90 days)",
+      "Motion 9–16 ft",
+      "Easy 8-minute install, no wiring"
+    ],
+    "pros": [
+      "Bright overhead light",
+      "Very long battery",
+      "Easy install"
+    ],
+    "cons": [
+      "Larger ceiling fixture"
+    ],
+    "bestFor": [
+      "closets",
+      "pantries",
+      "overhead lighting"
+    ],
+    "specs": {
+      "power": "Rechargeable (10000mAh)",
+      "brightness": "500 lm",
+      "coverage": "300 sq ft",
+      "mount": "Ceiling"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/3169pLWs9zL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "combuh-ceiling-nightlight",
+    "name": "Combuh Waterproof Ceiling Motion Light",
+    "brand": "Combuh",
+    "category": "motion-sensor-night-lights",
+    "subCategory": "ceiling",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5YF2K2R?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0D5YF2K2R",
+    "editorialImageFallback": "/images/products/combuh-ceiling-nightlight.svg",
+    "shortDescription": "An IP44 waterproof ceiling light safe for bathrooms, with 3 color temps, dimming, and a remote.",
+    "badge": "Best Waterproof",
+    "price": 19.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "features": [
+      "IP44 waterproof (bathroom-safe)",
+      "5000mAh battery (25–45 days sensor)",
+      "3 color temps, 5–100% dimming",
+      "Remote control included"
+    ],
+    "pros": [
+      "Shower/bathroom safe",
+      "Adjustable color + brightness",
+      "Remote included"
+    ],
+    "cons": [
+      "Smaller battery than WhitePoplar"
+    ],
+    "bestFor": [
+      "bathrooms",
+      "showers",
+      "humid areas"
+    ],
+    "specs": {
+      "power": "Rechargeable (5000mAh)",
+      "water": "IP44",
+      "colorTemps": "3",
+      "mount": "Ceiling"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41VGckXVT2L._SL500_.jpg",
     "imageSource": "creators-api",
     "lastVerified": "2026-06-14"
   }

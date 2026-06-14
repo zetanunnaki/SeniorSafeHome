@@ -78,5 +78,37 @@
     "shortDescription": "Tools that extend reach so seniors can dress and retrieve items safely.",
     "intro": "Reachers and dressing aids help seniors stay independent without bending, stretching, or climbing — common causes of falls. We assess grip strength, length, locking joints, and ease of use for arthritic hands.",
     "icon": "reacher"
+  },
+  {
+    "slug": "walkers-rollators",
+    "name": "Walkers & Rollators",
+    "cluster": "mobility-transfer",
+    "shortDescription": "Stable walking support — standard walkers, wheeled rollators, and seated rollators for getting around safely.",
+    "intro": "A walker or rollator gives a senior steady support and confidence on their feet, indoors and out. We look for a sturdy frame, smooth wheels, easy folding, a comfortable seat where included, and reliable brakes.",
+    "icon": "walker"
+  },
+  {
+    "slug": "canes",
+    "name": "Canes & Walking Sticks",
+    "cluster": "mobility-transfer",
+    "shortDescription": "Foldable, quad, wood, and bariatric canes that add a stable point of contact for steadier walking.",
+    "intro": "A well-chosen cane improves balance and takes weight off a sore hip or knee. We prioritize a secure non-slip tip, comfortable grip, correct height adjustment, and — for extra stability — pivoting or quad bases that stand on their own.",
+    "icon": "cane"
+  },
+  {
+    "slug": "bedside-commodes",
+    "name": "Bedside Commodes",
+    "cluster": "bathroom-safety",
+    "shortDescription": "3-in-1, drop-arm, padded, and bariatric commodes for safer overnight and limited-mobility toileting.",
+    "intro": "A bedside commode shortens the risky nighttime trip to the bathroom and supports seniors with limited mobility. We assess stability, weight capacity, easy-clean buckets, padded and drop-arm options, and dual-use 3-in-1 designs.",
+    "icon": "commode"
+  },
+  {
+    "slug": "motion-sensor-night-lights",
+    "name": "Motion-Sensor Night Lights",
+    "cluster": "fall-prevention",
+    "shortDescription": "Plug-in, rechargeable stick-on, and ceiling motion lights that switch on automatically for safer nighttime trips.",
+    "intro": "Most nighttime falls happen in the dark on the way to the bathroom. Motion-activated night lights remove that risk by lighting the path automatically — no fumbling for a switch. We look for reliable sensors, warm glare-free light, and long battery life or easy plug-in power.",
+    "icon": "light"
   }
 ]
