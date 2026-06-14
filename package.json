@@ -1,8 +1,8 @@
 {
-  "name": "seniorsafehome",
+  "name": "seniorsaferhome",
   "version": "0.1.0",
   "private": true,
-  "description": "SeniorSafeHome.com — home safety products for aging adults. File-based affiliate publisher, statically exported for GitHub Pages.",
+  "description": "SeniorSaferHome.com — home safety products for aging adults. File-based affiliate publisher, statically exported for GitHub Pages.",
   "scripts": {
     "enrich": "node scripts/enrich.mjs",
     "gen:placeholders": "node scripts/gen-placeholders.mjs",

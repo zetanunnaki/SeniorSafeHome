@@ -7,7 +7,7 @@ import { buildMetadata } from '@/lib/seo';
 export const metadata: Metadata = buildMetadata({
   title: 'Affiliate Disclosure',
   description:
-    'SeniorSafeHome is reader-supported. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you. Read our full affiliate disclosure.',
+    'SeniorSaferHome is reader-supported. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you. Read our full affiliate disclosure.',
   path: '/affiliate-disclosure',
 });
 
@@ -23,7 +23,7 @@ export default function AffiliateDisclosurePage() {
       <Container className="py-12">
         <div className="prose-ssh max-w-3xl">
           <p>
-            SeniorSafeHome is reader-supported. As an Amazon Associate, we may earn from qualifying
+            SeniorSaferHome is reader-supported. As an Amazon Associate, we may earn from qualifying
             purchases at no extra cost to you. When you click a link to Amazon on our site and make a
             purchase, we may receive a small commission.
           </p>
@@ -36,7 +36,7 @@ export default function AffiliateDisclosurePage() {
 
           <h2>Amazon Associates Program</h2>
           <p>
-            SeniorSafeHome is a participant in the Amazon Services LLC Associates Program, an
+            SeniorSaferHome is a participant in the Amazon Services LLC Associates Program, an
             affiliate advertising program designed to provide a means for sites to earn advertising
             fees by advertising and linking to Amazon.com. Amazon and the Amazon logo are trademarks
             of Amazon.com, Inc. or its affiliates.

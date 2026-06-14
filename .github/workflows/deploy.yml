@@ -22,10 +22,10 @@ jobs:
       # --- Deployment config (set these as repo Variables/Secrets) ---
       # For a custom apex domain, set CUSTOM_DOMAIN and leave BASE_PATH empty.
       # For a project site at https://USER.github.io/REPO, set BASE_PATH=/REPO.
-      NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL || 'https://seniorsafehome.com' }}
+      NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL || 'https://seniorsaferhome.com' }}
       NEXT_PUBLIC_BASE_PATH: ${{ vars.BASE_PATH }}
       NEXT_PUBLIC_CUSTOM_DOMAIN: ${{ vars.CUSTOM_DOMAIN }}
-      NEXT_PUBLIC_AMAZON_TAG: ${{ vars.AMAZON_TAG || 'seniorsafehome-20' }}
+      NEXT_PUBLIC_AMAZON_TAG: ${{ vars.AMAZON_TAG || 'seniorsaferhome-20' }}
       # --- Build-time Amazon enrichment (optional secrets; build works without) ---
       AMAZON_ACCESS_KEY: ${{ secrets.AMAZON_ACCESS_KEY }}
       AMAZON_SECRET_KEY: ${{ secrets.AMAZON_SECRET_KEY }}

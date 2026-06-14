@@ -236,7 +236,7 @@ export default function HomePage() {
                 SS
               </span>
               <div className="text-left">
-                <p className="font-semibold text-ink">SeniorSafeHome Editorial Team</p>
+                <p className="font-semibold text-ink">SeniorSaferHome Editorial Team</p>
                 <Link href="/editorial-policy" className="text-sm font-medium text-brand-700">
                   Read our editorial policy →
                 </Link>

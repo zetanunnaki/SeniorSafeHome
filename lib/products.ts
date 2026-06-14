@@ -45,7 +45,7 @@ export function productImage(product: Product): string {
 
 /** Affiliate URL, ensuring the Associates tag is present. */
 export function affiliateUrl(product: Product): string {
-  const tag = process.env.NEXT_PUBLIC_AMAZON_TAG || 'seniorsafehome-20';
+  const tag = process.env.NEXT_PUBLIC_AMAZON_TAG || 'seniorsaferhome-20';
   if (product.amazonUrl.includes('tag=')) return product.amazonUrl;
   const sep = product.amazonUrl.includes('?') ? '&' : '?';
   return `${product.amazonUrl}${sep}tag=${tag}`;

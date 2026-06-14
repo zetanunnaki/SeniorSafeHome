@@ -14,7 +14,7 @@ export function withBasePath(path: string): string {
 
 /** Public site origin, used for canonicals / sitemap / JSON-LD. */
 export function siteUrl(): string {
-  return (process.env.NEXT_PUBLIC_SITE_URL || 'https://seniorsafehome.com').replace(/\/$/, '');
+  return (process.env.NEXT_PUBLIC_SITE_URL || 'https://seniorsaferhome.com').replace(/\/$/, '');
 }
 
 /** Build a fully-qualified canonical URL for a site-relative path. */

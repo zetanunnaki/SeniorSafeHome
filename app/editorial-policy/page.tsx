@@ -7,7 +7,7 @@ import { buildMetadata } from '@/lib/seo';
 export const metadata: Metadata = buildMetadata({
   title: 'Editorial Policy',
   description:
-    'How SeniorSafeHome researches, evaluates, and recommends senior home safety products — our standards for accuracy, independence, and trust.',
+    'How SeniorSaferHome researches, evaluates, and recommends senior home safety products — our standards for accuracy, independence, and trust.',
   path: '/editorial-policy',
 });
 
@@ -24,7 +24,7 @@ export default function EditorialPolicyPage() {
         <div className="prose-ssh max-w-3xl">
           <p>
             This policy explains how we research, evaluate, and recommend products so you can trust
-            what you read on SeniorSafeHome.
+            what you read on SeniorSaferHome.
           </p>
 
           <h2>How we evaluate products</h2>
@@ -76,7 +76,7 @@ export default function EditorialPolicyPage() {
 
           <h2>How we make money</h2>
           <p>
-            SeniorSafeHome is reader-supported. We participate in the Amazon Associates program and
+            SeniorSaferHome is reader-supported. We participate in the Amazon Associates program and
             may earn a commission when you buy through our links, at no extra cost to you. This never
             influences our editorial judgment. See our{' '}
             <Link href="/affiliate-disclosure">affiliate disclosure</Link> for details.

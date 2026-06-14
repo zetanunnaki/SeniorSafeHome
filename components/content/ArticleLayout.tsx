@@ -48,7 +48,7 @@ export function ArticleLayout({
             {fm.title}
           </h1>
           <p className="mt-4 max-w-2xl text-lg text-ink-soft">{fm.description}</p>
-          <p className="mt-3 text-sm text-ink-muted">By {fm.author || 'SeniorSafeHome Editorial Team'}</p>
+          <p className="mt-3 text-sm text-ink-muted">By {fm.author || 'SeniorSaferHome Editorial Team'}</p>
         </Container>
       </div>
 

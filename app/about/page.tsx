@@ -5,9 +5,9 @@ import { Container } from '@/components/ui/Container';
 import { buildMetadata } from '@/lib/seo';
 
 export const metadata: Metadata = buildMetadata({
-  title: 'About SeniorSafeHome',
+  title: 'About SeniorSaferHome',
   description:
-    'SeniorSafeHome helps aging adults and their families choose home safety products with confidence through independent research, hands-on reviews, and practical guides.',
+    'SeniorSaferHome helps aging adults and their families choose home safety products with confidence through independent research, hands-on reviews, and practical guides.',
   path: '/about',
 });
 
@@ -27,7 +27,7 @@ export default function AboutPage() {
       <Container className="py-12">
         <div className="prose-ssh max-w-3xl">
           <p>
-            SeniorSafeHome is an independent publisher focused on one thing: helping older adults
+            SeniorSaferHome is an independent publisher focused on one thing: helping older adults
             live safely, comfortably, and independently in their own homes. We exist for the adult
             children, caregivers, and seniors who are trying to make confident decisions — often
             during a stressful time, like a recovery from surgery or after a fall.
@@ -38,7 +38,7 @@ export default function AboutPage() {
             Shopping for senior safety products is surprisingly hard. Retail listings are written to
             sell, not to help you choose. Specifications are buried, important safety details are
             glossed over, and it&apos;s difficult to tell whether a product actually suits your
-            parent&apos;s situation. We built SeniorSafeHome to cut through that noise with clear,
+            parent&apos;s situation. We built SeniorSaferHome to cut through that noise with clear,
             calm, practical guidance.
           </p>
 
@@ -71,7 +71,7 @@ export default function AboutPage() {
 
           <h2>A note on medical advice</h2>
           <p>
-            SeniorSafeHome provides general safety information, not medical advice. Every person&apos;s
+            SeniorSaferHome provides general safety information, not medical advice. Every person&apos;s
             needs are different. For questions about a specific health condition, mobility limitation,
             or fall risk, please consult a qualified healthcare professional.
           </p>

@@ -1,18 +1,18 @@
 {
-  "name": "SeniorSafeHome",
-  "domain": "seniorsafehome.com",
-  "url": "https://seniorsafehome.com",
+  "name": "SeniorSaferHome",
+  "domain": "seniorsaferhome.com",
+  "url": "https://seniorsaferhome.com",
   "tagline": "Helping aging adults stay safe, comfortable, and independent at home.",
   "description": "Practical product recommendations, hands-on reviews, and safety guides for families and caregivers choosing home safety products for seniors.",
-  "amazonTag": "seniorsafehome-20",
-  "logoText": "SeniorSafeHome",
-  "email": "hello@seniorsafehome.com",
-  "publisher": "SeniorSafeHome Editorial Team",
+  "amazonTag": "seniorsaferhome-20",
+  "logoText": "SeniorSaferHome",
+  "email": "hello@seniorsaferhome.com",
+  "publisher": "SeniorSaferHome Editorial Team",
   "foundingYear": 2026,
   "social": {
-    "twitter": "@seniorsafehome"
+    "twitter": "@seniorsaferhome"
   },
-  "disclosure": "SeniorSafeHome is reader-supported. As an Amazon Associate, we may earn from qualifying purchases at no extra cost to you.",
+  "disclosure": "SeniorSaferHome is reader-supported. As an Amazon Associate, we may earn from qualifying purchases at no extra cost to you.",
   "disclosureShort": "As an Amazon Associate we earn from qualifying purchases.",
   "nav": [
     { "label": "Best Picks", "href": "/best" },

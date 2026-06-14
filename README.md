@@ -1,4 +1,4 @@
-# SeniorSafeHome.com
+# SeniorSaferHome.com
 
 A fast, file-based Amazon affiliate content site about **home safety products for aging adults**. Built with **Next.js 14 (App Router), TypeScript, Tailwind CSS, and MDX**, with a single JSON product catalog and **no database**. Statically exported for **GitHub Pages**.
 
@@ -48,10 +48,10 @@ Configure these in **repo Settings → Secrets and variables → Actions**:
 
 | Type | Name | Purpose |
 | --- | --- | --- |
-| Variable | `SITE_URL` | Canonical site URL (e.g. `https://seniorsafehome.com`) |
+| Variable | `SITE_URL` | Canonical site URL (e.g. `https://seniorsaferhome.com`) |
 | Variable | `CUSTOM_DOMAIN` | Apex domain → writes `CNAME` (leave unset for project sites) |
 | Variable | `BASE_PATH` | `/RepoName` for project sites; empty for custom domains |
-| Variable | `AMAZON_TAG` | Associates tag (default `seniorsafehome-20`) |
+| Variable | `AMAZON_TAG` | Associates tag (default `seniorsaferhome-20`) |
 | Secret | `AMAZON_ACCESS_KEY` / `AMAZON_SECRET_KEY` / `AMAZON_PARTNER_TAG` | Optional PA-API enrichment |
 
 Then set **Settings → Pages → Source** to **GitHub Actions**.

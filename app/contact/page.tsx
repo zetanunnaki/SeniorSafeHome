@@ -8,9 +8,9 @@ import type { SiteConfig } from '@/lib/types';
 const site = siteData as SiteConfig;
 
 export const metadata: Metadata = buildMetadata({
-  title: 'Contact SeniorSafeHome',
+  title: 'Contact SeniorSaferHome',
   description:
-    'Get in touch with the SeniorSafeHome editorial team with questions, corrections, or product suggestions.',
+    'Get in touch with the SeniorSaferHome editorial team with questions, corrections, or product suggestions.',
   path: '/contact',
 });
 

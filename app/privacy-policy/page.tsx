@@ -7,7 +7,7 @@ import { buildMetadata } from '@/lib/seo';
 export const metadata: Metadata = buildMetadata({
   title: 'Privacy Policy',
   description:
-    'How SeniorSafeHome handles your information, including analytics, cookies, affiliate links, and your privacy choices.',
+    'How SeniorSaferHome handles your information, including analytics, cookies, affiliate links, and your privacy choices.',
   path: '/privacy-policy',
 });
 
@@ -23,7 +23,7 @@ export default function PrivacyPolicyPage() {
       <Container className="py-12">
         <div className="prose-ssh max-w-3xl">
           <p>
-            This Privacy Policy explains what information SeniorSafeHome collects, how we use it, and
+            This Privacy Policy explains what information SeniorSaferHome collects, how we use it, and
             the choices you have. By using this website, you agree to the practices described here.
           </p>
 

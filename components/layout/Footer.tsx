@@ -20,7 +20,7 @@ export function Footer() {
                 </svg>
               </span>
               <span className="font-display text-lg font-bold text-white">
-                Senior<span className="text-brand-300">Safe</span>Home
+                Senior<span className="text-brand-300">Safer</span>Home
               </span>
             </p>
             <p className="mt-4 max-w-xs text-sm text-white/70">{site.tagline}</p>

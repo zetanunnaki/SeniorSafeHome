@@ -50,7 +50,7 @@ export function Header() {
               transparent ? 'text-white' : 'text-ink'
             )}
           >
-            Senior<span className={transparent ? 'text-brand-300' : 'text-brand-600'}>Safe</span>Home
+            Senior<span className={transparent ? 'text-brand-300' : 'text-brand-600'}>Safer</span>Home
           </span>
         </Link>
 

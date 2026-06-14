@@ -31,7 +31,7 @@ export function buildMetadata({
   noindex = false,
 }: SeoArgs): Metadata {
   const canonical = absoluteUrl(path);
-  const ogImage = image ? absoluteUrl(image) : absoluteUrl('/images/og-default.svg');
+  const ogImage = image ? absoluteUrl(image) : absoluteUrl('/images/og-default.png');
   const fullTitle = title.includes(site.name) ? title : `${title} | ${site.name}`;
 
   return {
