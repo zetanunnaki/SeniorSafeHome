@@ -4100,7 +4100,7 @@
     "editorialImageFallback": "/images/products/hurrycane-folding-cane.svg",
     "shortDescription": "America's best-selling cane: a pivoting 3-point base that auto-adjusts on inclines and lets the cane stand on its own.",
     "badge": "Best Overall",
-    "price": 28.08,
+    "price": 28.07,
     "priceCurrency": "USD",
     "rating": 4.6,
     "reviewCount": 25853,
@@ -4516,7 +4516,7 @@
     "editorialImageFallback": "/images/products/nova-bariatric-cane.svg",
     "shortDescription": "A 500 lb-capacity bariatric cane with an offset handle and anti-rattle lock, still just 1 lb.",
     "badge": "Best Bariatric",
-    "price": 33.2,
+    "price": 33.18,
     "priceCurrency": "USD",
     "rating": 4.6,
     "reviewCount": 1855,
@@ -7403,6 +7403,147 @@
     "lastManualReview": "2026-06-14",
     "asinSource": "searchItems",
     "image": "https://m.media-amazon.com/images/I/51hH+8ra0OL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "superhandy-gorise-bath-lift",
+    "name": "SuperHandy GoRise LT Portable Floor & Bath Lift",
+    "brand": "SuperHandy",
+    "category": "bath-lifts",
+    "subCategory": "portable",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4B2RVPY?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0D4B2RVPY",
+    "editorialImageFallback": "/images/products/superhandy-gorise-bath-lift.svg",
+    "shortDescription": "A patented foldable lift that works in the tub, shower, or bedroom — ultralight at 19 lb, fully waterproof, and doubling as a floor-recovery lift.",
+    "badge": "Best Overall",
+    "price": 377.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 410,
+    "features": [
+      "Dual-purpose floor + bath lift",
+      "330 lb capacity, only 19 lb",
+      "IP68 waterproof, aluminum/stainless",
+      "Foldable; wide drainage seat"
+    ],
+    "pros": [
+      "Use in tub, shower, or bedroom",
+      "Very light and portable",
+      "Fully waterproof"
+    ],
+    "cons": [
+      "Premium price"
+    ],
+    "bestFor": [
+      "independent bathing",
+      "floor fall recovery",
+      "travel between rooms"
+    ],
+    "specs": {
+      "type": "Portable bath/floor lift",
+      "capacity": "330 lb",
+      "waterproof": "IP68",
+      "weight": "19 lb"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/417AZZKS+2L._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "perlecare-electric-bath-lift",
+    "name": "PERLECARE Electric Bath Lift Chair",
+    "brand": "PERLECARE",
+    "category": "bath-lifts",
+    "subCategory": "powered",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN49DB7D?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0FN49DB7D",
+    "editorialImageFallback": "/images/products/perlecare-electric-bath-lift.svg",
+    "shortDescription": "An IP68 waterproof powered lift that folds to just 6.4 inches for storage, with a stable 6-point base and a simple remote — the most affordable powered option.",
+    "badge": "Best Value",
+    "price": 209.97,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 80,
+    "features": [
+      "IP68 waterproof",
+      "308 lb capacity, 50+ cycles/charge",
+      "Folds to 6.4\" for storage",
+      "6-point stable base + remote"
+    ],
+    "pros": [
+      "Lowest-priced powered lift",
+      "Folds away compactly",
+      "Stable on tile or tub floor"
+    ],
+    "cons": [
+      "Fewer reviews than GoRise"
+    ],
+    "bestFor": [
+      "budget powered bathing",
+      "small bathrooms",
+      "easy storage"
+    ],
+    "specs": {
+      "type": "Powered bath lift",
+      "capacity": "308 lb",
+      "waterproof": "IP68",
+      "folds": "6.4 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/51KFETj6edL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-14"
+  },
+  {
+    "id": "superhandy-gorise-bath-lift-pink",
+    "name": "SuperHandy GoRise LT Bath Lift (EVA Cushion)",
+    "brand": "SuperHandy",
+    "category": "bath-lifts",
+    "subCategory": "portable",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNQ91K72?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0FNQ91K72",
+    "editorialImageFallback": "/images/products/superhandy-gorise-bath-lift-pink.svg",
+    "shortDescription": "The same GoRise LT platform with an added EVA comfort cushion for softer seating — a thoughtful, more comfortable choice with all the waterproof, foldable design.",
+    "badge": "Most Comfortable",
+    "price": 379.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 410,
+    "features": [
+      "Included EVA comfort cushion",
+      "330 lb capacity, 19 lb",
+      "IP68 waterproof, foldable",
+      "1-year warranty + US support"
+    ],
+    "pros": [
+      "Softer, cushioned seat",
+      "Same light, waterproof build",
+      "Backed by US support"
+    ],
+    "cons": [
+      "Premium price"
+    ],
+    "bestFor": [
+      "added seating comfort",
+      "independent bathing",
+      "gift choice"
+    ],
+    "specs": {
+      "type": "Portable bath/floor lift",
+      "capacity": "330 lb",
+      "waterproof": "IP68",
+      "seat": "EVA cushion"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31LEe3niOGL._SL500_.jpg",
     "imageSource": "creators-api",
     "lastVerified": "2026-06-14"
   }
