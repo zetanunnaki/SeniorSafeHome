@@ -7,6 +7,7 @@ import { TableOfContents } from './TableOfContents';
 import { FAQAccordion } from './FAQAccordion';
 import { RelatedArticles } from './RelatedArticles';
 import { DisclosureBox } from './DisclosureBox';
+import { StickyMobileCta } from '@/components/affiliate/StickyMobileCta';
 import { Mdx } from './Mdx';
 import { extractHeadings } from '@/lib/utils';
 import { getCategoryBySlug } from '@/lib/products';
@@ -23,12 +24,14 @@ export function ArticleLayout({
   related,
   topContent,
   showDisclosure = true,
+  stickyProductId,
 }: {
   doc: ContentDoc;
   crumbs: Crumb[];
   related: ContentSummary[];
   topContent?: React.ReactNode;
   showDisclosure?: boolean;
+  stickyProductId?: string;
 }) {
   const fm = doc.frontmatter;
   const headings = extractHeadings(doc.body);
@@ -86,6 +89,10 @@ export function ArticleLayout({
           </div>
         </div>
       </Container>
+
+      {/* Keeps the sticky bar from covering content on mobile */}
+      {stickyProductId && <div className="h-20 lg:hidden" aria-hidden="true" />}
+      <StickyMobileCta productId={stickyProductId} />
     </article>
   );
 }

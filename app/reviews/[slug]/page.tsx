@@ -55,6 +55,7 @@ export default function ReviewDetailPage({ params }: { params: { slug: string } 
         doc={doc}
         crumbs={crumbs}
         related={related}
+        stickyProductId={fm.productId}
         topContent={
           product ? (
             <ReviewSummaryBox product={product} rating={fm.rating} verdict={fm.verdict} />

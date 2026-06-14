@@ -84,6 +84,17 @@ export function contentHref(type: ContentType, slug: string): string {
   return `${TYPE_BASE[type]}/${slug}`;
 }
 
+/** Glossary terms for auto-linking: { match, slug } where match drops any
+ *  parenthetical (e.g. "Occupational Therapist (OT)" -> "Occupational Therapist"). */
+export function getGlossaryTerms(): Array<{ match: string; slug: string }> {
+  return getAllContent('glossary')
+    .map((d) => ({
+      match: (d.frontmatter.term || d.frontmatter.title).replace(/\s*\([^)]*\)\s*/g, '').trim(),
+      slug: d.slug,
+    }))
+    .filter((t) => t.match.length > 3);
+}
+
 /** Recent content across multiple types, newest first. */
 export function getLatestContent(
   types: ContentType[] = ['best', 'reviews', 'guides', 'gift-guides'],

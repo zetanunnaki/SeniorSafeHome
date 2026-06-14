@@ -26,9 +26,29 @@ const fraunces = Fraunces({
 
 export const metadata: Metadata = rootMetadata();
 
+// Content-Security-Policy (delivered via meta tag since GitHub Pages can't set
+// response headers). 'unsafe-inline' for scripts is required because a static
+// export can't use per-request nonces for the inline JSON-LD and analytics init.
+const CSP = [
+  "default-src 'self'",
+  "img-src 'self' https://m.media-amazon.com https://*.media-amazon.com https://*.ssl-images-amazon.com data:",
+  "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://plausible.io",
+  "connect-src 'self' https://www.google-analytics.com https://region1.google-analytics.com https://plausible.io",
+  "style-src 'self' 'unsafe-inline'",
+  "font-src 'self' data:",
+  "object-src 'none'",
+  "base-uri 'self'",
+  "form-action 'self' https: mailto:",
+  "frame-ancestors 'none'",
+  'upgrade-insecure-requests',
+].join('; ');
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${inter.variable} ${outfit.variable} ${fraunces.variable}`}>
+      <head>
+        <meta httpEquiv="Content-Security-Policy" content={CSP} />
+      </head>
       <body className="flex min-h-screen flex-col">
         <JsonLd data={[websiteSchema(), organizationSchema()]} />
         <a

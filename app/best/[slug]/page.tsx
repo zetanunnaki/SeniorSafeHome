@@ -48,7 +48,12 @@ export default function BestDetailPage({ params }: { params: { slug: string } })
   return (
     <>
       <JsonLd data={schemas} />
-      <ArticleLayout doc={doc} crumbs={crumbs} related={related} />
+      <ArticleLayout
+        doc={doc}
+        crumbs={crumbs}
+        related={related}
+        stickyProductId={(fm.featuredProductIds || fm.comparisonProductIds)?.[0]}
+      />
     </>
   );
 }

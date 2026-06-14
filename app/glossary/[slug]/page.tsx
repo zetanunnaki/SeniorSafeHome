@@ -74,7 +74,7 @@ export default function GlossaryDetailPage({ params }: { params: { slug: string 
       </div>
       <Container className="py-10">
         <div className="max-w-3xl">
-          <Mdx source={doc.body} />
+          <Mdx source={doc.body} excludeGlossarySlug={doc.slug} />
 
           {related.length > 0 && (
             <div className="mt-12">

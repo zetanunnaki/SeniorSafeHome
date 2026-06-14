@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 import { Container } from '@/components/ui/Container';
 import { ArticleCard } from '@/components/content/ArticleCard';
 import { DisclosureBox } from '@/components/content/DisclosureBox';
+import { NewsletterForm } from '@/components/ui/NewsletterForm';
 import { getAllProducts, getAllCategories, getAllTopics } from '@/lib/products';
 import { getContentSummaries, getLatestContent, getAllContent } from '@/lib/content';
 import { buildMetadata } from '@/lib/seo';
@@ -298,23 +299,9 @@ export default function HomePage() {
             </h2>
             <p className="mx-auto mt-4 max-w-xl text-white/75">
               Occasional, practical safety tips for keeping aging parents safe and independent. No
-              spam — just the essentials. (Sign-up coming soon.)
+              spam — just the essentials.
             </p>
-            <form className="mx-auto mt-8 flex max-w-md flex-col gap-3 sm:flex-row" aria-label="Email sign-up (placeholder)">
-              <label htmlFor="email" className="sr-only">
-                Email address
-              </label>
-              <input
-                id="email"
-                type="email"
-                disabled
-                placeholder="you@example.com"
-                className="w-full rounded-full border border-white/20 bg-white/10 px-5 py-3.5 text-white placeholder:text-white/50"
-              />
-              <button type="button" disabled className="btn-primary cursor-not-allowed whitespace-nowrap">
-                Notify me
-              </button>
-            </form>
+            <NewsletterForm variant="dark" />
           </div>
         </Container>
       </section>
