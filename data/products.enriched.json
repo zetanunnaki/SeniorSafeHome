@@ -446,7 +446,7 @@
       "feet": "Suction + rubber",
       "material": "Rust-resistant aluminum"
     },
-    "reviewSlug": null,
+    "reviewSlug": "medline-transfer-bench-review",
     "lastManualReview": "2026-06-14",
     "image": "https://m.media-amazon.com/images/I/312iUyDHREL._SL500_.jpg",
     "imageSource": "creators-api",
@@ -1202,7 +1202,7 @@
       "mounting": "Screw / stud",
       "material": "Brushed stainless"
     },
-    "reviewSlug": null,
+    "reviewSlug": "amazon-basics-grab-bar-review",
     "lastManualReview": "2026-06-14",
     "asinSource": "searchItems",
     "image": "https://m.media-amazon.com/images/I/21j3oLx5BBL._SL500_.jpg",
@@ -1659,7 +1659,7 @@
       "drainage": "Hexagonal holes",
       "material": "Soft-touch vinyl"
     },
-    "reviewSlug": null,
+    "reviewSlug": "slipx-power-grip-bath-mat-review",
     "lastManualReview": "2026-06-14",
     "asinSource": "searchItems",
     "image": "https://m.media-amazon.com/images/I/51eY1hbTSrL._SL500_.jpg",
@@ -2340,7 +2340,7 @@
       "certification": "ASTM F3186-17",
       "fits": "12-16 in mattress"
     },
-    "reviewSlug": null,
+    "reviewSlug": "stander-ez-adjust-bed-rail-review",
     "lastManualReview": "2026-06-14",
     "image": "https://m.media-amazon.com/images/I/41+WuhG36cL._SL500_.jpg",
     "imageSource": "creators-api",
@@ -2845,7 +2845,7 @@
       "days": "Color-coded",
       "size": "XL"
     },
-    "reviewSlug": null,
+    "reviewSlug": "auvon-pill-organizer-review",
     "lastManualReview": "2026-06-14",
     "image": "https://m.media-amazon.com/images/I/31kCJsuTvrL._SL500_.jpg",
     "imageSource": "creators-api",
@@ -3499,7 +3499,7 @@
     "editorialImageFallback": "/images/products/hamilton-captel-2400i-phone.svg",
     "shortDescription": "An ultra-clear amplified corded phone with a built-in medical alert button for emergencies.",
     "badge": "Best with Medical Alert",
-    "price": 110.98,
+    "price": 110.97,
     "priceCurrency": "USD",
     "rating": 4.3,
     "reviewCount": 1896,
