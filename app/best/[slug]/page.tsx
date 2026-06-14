@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import { ArticleLayout } from '@/components/content/ArticleLayout';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { getContent, getContentSlugs, getRelatedContent } from '@/lib/content';
-import { getProductsByIds } from '@/lib/products';
+import { getProductsByIds, firstProductImage } from '@/lib/products';
 import { buildMetadata } from '@/lib/seo';
 import { articleSchema, itemListSchema, faqSchema, breadcrumbSchema } from '@/lib/schema';
 
@@ -21,7 +21,7 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
     title: fm.title,
     description: fm.description,
     path: `/best/${doc.slug}`,
-    image: fm.featuredImage,
+    image: firstProductImage(fm.featuredProductIds || fm.comparisonProductIds) || fm.featuredImage,
     type: 'article',
     publishedTime: fm.datePublished,
     modifiedTime: fm.dateUpdated,

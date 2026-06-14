@@ -4,7 +4,7 @@ import { ArticleLayout } from '@/components/content/ArticleLayout';
 import { ReviewSummaryBox } from '@/components/content/ReviewSummaryBox';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { getContent, getContentSlugs, getRelatedContent } from '@/lib/content';
-import { getProductById } from '@/lib/products';
+import { getProductById, firstProductImage } from '@/lib/products';
 import { buildMetadata } from '@/lib/seo';
 import { reviewSchema, productSchema, faqSchema, breadcrumbSchema } from '@/lib/schema';
 
@@ -22,7 +22,7 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
     title: fm.title,
     description: fm.description,
     path: `/reviews/${doc.slug}`,
-    image: fm.featuredImage,
+    image: (fm.productId ? firstProductImage([fm.productId]) : undefined) || fm.featuredImage,
     type: 'article',
     publishedTime: fm.datePublished,
     modifiedTime: fm.dateUpdated,

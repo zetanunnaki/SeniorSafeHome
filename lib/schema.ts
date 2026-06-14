@@ -1,4 +1,4 @@
-import { absoluteUrl, siteUrl } from './utils';
+import { absoluteUrl, absoluteImage, siteUrl } from './utils';
 import { productImage, affiliateUrl } from './products';
 import siteData from '@/data/site.json';
 import type { SiteConfig, Product, FaqItem, ContentFrontmatter } from './types';
@@ -73,7 +73,7 @@ export function articleSchema(fm: ContentFrontmatter, path: string) {
       logo: { '@type': 'ImageObject', url: `${siteUrl()}/images/logo.svg` },
     },
     mainEntityOfPage: { '@type': 'WebPage', '@id': absoluteUrl(path) },
-    ...(fm.featuredImage ? { image: absoluteUrl(fm.featuredImage) } : {}),
+    ...(fm.featuredImage ? { image: absoluteImage(fm.featuredImage) } : {}),
   };
 }
 
@@ -108,7 +108,7 @@ export function productSchema(product: Product) {
     name: product.name,
     brand: { '@type': 'Brand', name: product.brand },
     description: product.shortDescription,
-    image: absoluteUrl(productImage(product)),
+    image: absoluteImage(productImage(product)),
     sku: product.asin,
     ...offers,
     ...rating,
@@ -129,7 +129,7 @@ export function reviewSchema(fm: ContentFrontmatter, product: Product, path: str
       '@type': 'Product',
       name: product.name,
       brand: { '@type': 'Brand', name: product.brand },
-      image: absoluteUrl(productImage(product)),
+      image: absoluteImage(productImage(product)),
       sku: product.asin,
     },
     ...(typeof fm.rating === 'number'

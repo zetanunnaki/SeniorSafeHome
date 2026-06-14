@@ -43,6 +43,19 @@ export function productImage(product: Product): string {
   return product.image || product.editorialImageFallback;
 }
 
+/**
+ * First real (enriched) product image among the given IDs — used as an
+ * article's OpenGraph image so social previews show a real product photo.
+ * Returns undefined if none have an enriched image yet.
+ */
+export function firstProductImage(ids: string[] = []): string | undefined {
+  for (const id of ids) {
+    const p = getProductById(id);
+    if (p?.image) return p.image;
+  }
+  return undefined;
+}
+
 /** Affiliate URL, ensuring the Associates tag is present. */
 export function affiliateUrl(product: Product): string {
   const tag = process.env.NEXT_PUBLIC_AMAZON_TAG || 'seniorsaferhome-20';

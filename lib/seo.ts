@@ -31,7 +31,13 @@ export function buildMetadata({
   noindex = false,
 }: SeoArgs): Metadata {
   const canonical = absoluteUrl(path);
-  const ogImage = image ? absoluteUrl(image) : absoluteUrl('/images/og-default.png');
+  // Image may already be an absolute URL (e.g. an Amazon product image) — only
+  // prefix the site origin for site-relative paths.
+  const ogImage = image
+    ? image.startsWith('http')
+      ? image
+      : absoluteUrl(image)
+    : absoluteUrl('/images/og-default.png');
   const fullTitle = title.includes(site.name) ? title : `${title} | ${site.name}`;
 
   return {

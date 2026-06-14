@@ -17,6 +17,11 @@ export function siteUrl(): string {
   return (process.env.NEXT_PUBLIC_SITE_URL || 'https://seniorsaferhome.com').replace(/\/$/, '');
 }
 
+/** Absolute URL for an image: pass through full URLs, prefix site-relative paths. */
+export function absoluteImage(src: string): string {
+  return src.startsWith('http') ? src : absoluteUrl(src);
+}
+
 /** Build a fully-qualified canonical URL for a site-relative path. */
 export function absoluteUrl(path: string): string {
   const base = process.env.NEXT_PUBLIC_BASE_PATH || '';
