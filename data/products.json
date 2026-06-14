@@ -1,274 +1,1450 @@
 [
   {
     "id": "medline-shower-chair",
-    "name": "Medline Shower Chair with Back",
+    "name": "Medline Shower Chair with Padded Arms & Back",
     "brand": "Medline",
     "category": "shower-chairs",
     "subCategory": "shower-chairs",
-    "amazonUrl": "https://www.amazon.com/dp/B001LF3IUK/?tag=seniorsaferhome-20",
-    "asin": "B001LF3IUK",
+    "amazonUrl": "https://www.amazon.com/dp/B01MSISJKG/?tag=seniorsaferhome-20",
+    "asin": "B01MSISJKG",
     "editorialImageFallback": "/images/products/medline-shower-chair.svg",
-    "shortDescription": "Stable, height-adjustable shower chair with a supportive back for safer bathing.",
+    "shortDescription": "The most-reviewed shower chair we recommend — padded arms and back, rock-solid, and easy to adjust.",
     "badge": "Best Overall",
-    "price": 39.99,
+    "price": 41.98,
     "priceCurrency": "USD",
     "rating": 4.7,
-    "reviewCount": 18420,
+    "reviewCount": 35286,
     "features": [
-      "Adjustable seat height (16\"–20\")",
+      "Padded armrests and backrest",
+      "Tool-free height 16\"–21\"",
       "Non-slip rubber feet",
-      "Lightweight rust-proof aluminum frame",
       "Drainage holes prevent pooling"
     ],
-    "pros": ["Very stable", "Easy to clean", "Tool-free assembly", "Holds up to 350 lb"],
-    "cons": ["Basic styling", "Back is not removable"],
-    "bestFor": ["daily shower use", "fall prevention", "post-surgery recovery"],
-    "notIdealFor": ["very small shower stalls"],
+    "pros": [
+      "Extremely stable",
+      "Comfortable padded support",
+      "Easy assembly"
+    ],
+    "cons": [
+      "Arms add width",
+      "Back not removable"
+    ],
+    "bestFor": [
+      "daily shower use",
+      "fall prevention",
+      "post-surgery recovery"
+    ],
+    "notIdealFor": [
+      "very small stalls"
+    ],
     "specs": {
       "weightCapacity": "350 lb",
-      "seatWidth": "19 in",
-      "heightRange": "16-20 in",
+      "heightRange": "16-21 in",
+      "feet": "Non-slip rubber",
       "material": "Aluminum / plastic"
     },
     "reviewSlug": "medline-shower-chair-review",
-    "lastManualReview": "2026-06-01"
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "medline-compact-shower-chair",
+    "name": "Medline Compact Shower Chair",
+    "brand": "Medline",
+    "category": "shower-chairs",
+    "subCategory": "shower-chairs",
+    "amazonUrl": "https://www.amazon.com/s?k=Medline+compact+shower+chair+padded+arms&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/medline-compact-shower-chair.svg",
+    "shortDescription": "A space-saving version of Medline's top chair, with the same padded arms and back.",
+    "badge": "Best Compact",
+    "price": 39.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 2675,
+    "features": [
+      "Compact footprint",
+      "Padded arms and back",
+      "Adjustable height 16\"–21\"",
+      "Non-slip rubber feet"
+    ],
+    "pros": [
+      "Fits tighter spaces",
+      "Padded comfort",
+      "Stable"
+    ],
+    "cons": [
+      "Smaller seat",
+      "Back not removable"
+    ],
+    "bestFor": [
+      "small bathrooms",
+      "everyday bathing"
+    ],
+    "notIdealFor": [
+      "larger users wanting a wide seat"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "heightRange": "16-21 in",
+      "feet": "Non-slip rubber",
+      "material": "Aluminum / plastic"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "drive-shower-chair",
+    "name": "Drive Medical Shower Chair (Removable Arms & Back)",
+    "brand": "Drive Medical",
+    "category": "shower-chairs",
+    "subCategory": "shower-chairs",
+    "amazonUrl": "https://www.amazon.com/s?k=Drive+Medical+shower+chair+removable+arms+back&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/drive-shower-chair.svg",
+    "shortDescription": "A versatile shower chair whose arms and back come off tool-free as needs change.",
+    "badge": "Most Adjustable",
+    "price": 39.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 1816,
+    "features": [
+      "Tool-free 1\" height increments",
+      "Removable arms and back",
+      "Non-slip rubber feet",
+      "Drainage holes"
+    ],
+    "pros": [
+      "Configurable as needs change",
+      "Sturdy frame",
+      "Easy to clean"
+    ],
+    "cons": [
+      "Padding is basic",
+      "Arms sold within set"
+    ],
+    "bestFor": [
+      "changing mobility needs",
+      "shared households"
+    ],
+    "notIdealFor": [
+      "those wanting plush padding"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "heightRange": "Tool-free increments",
+      "feet": "Non-slip rubber",
+      "material": "Aluminum / plastic"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "drive-suction-shower-chair",
+    "name": "Drive Medical Shower Chair with Suction Feet",
+    "brand": "Drive Medical",
+    "category": "shower-chairs",
+    "subCategory": "shower-chairs",
+    "amazonUrl": "https://www.amazon.com/s?k=Drive+Medical+shower+chair+suction+feet&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/drive-suction-shower-chair.svg",
+    "shortDescription": "Suction-cup feet grip wet floors for extra security, with push-button height adjustment.",
+    "badge": "Best Grip",
+    "price": 33.16,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 16113,
+    "features": [
+      "Suction-cup feet for max grip",
+      "Push-button height adjust",
+      "Removable back",
+      "Drainage holes"
+    ],
+    "pros": [
+      "Excellent grip on wet tile",
+      "Quick height changes",
+      "Well-reviewed"
+    ],
+    "cons": [
+      "Suction needs smooth surface",
+      "No armrests"
+    ],
+    "bestFor": [
+      "slippery tub floors",
+      "extra grip security"
+    ],
+    "notIdealFor": [
+      "textured tub bottoms"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "heightRange": "Push-button",
+      "feet": "Suction cups",
+      "material": "Aluminum / plastic"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "homland-shower-chair",
+    "name": "HOMLAND Heavy-Duty Shower Chair (500 lb)",
+    "brand": "HOMLAND",
+    "category": "shower-chairs",
+    "subCategory": "shower-chairs",
+    "amazonUrl": "https://www.amazon.com/s?k=HOMLAND+shower+chair+500+lb+heavy+duty&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/homland-shower-chair.svg",
+    "shortDescription": "A 500 lb aluminum-alloy chair with wide skid-resistant feet and removable arms and back.",
+    "badge": "Best Heavy-Duty",
+    "price": 44.98,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 2981,
+    "features": [
+      "500 lb capacity",
+      "Wide skid-resistant feet",
+      "Removable arms and back",
+      "1\" height increments"
+    ],
+    "pros": [
+      "High weight capacity",
+      "Very stable base",
+      "Reinforced feet"
+    ],
+    "cons": [
+      "Heavier to move",
+      "Basic padding"
+    ],
+    "bestFor": [
+      "larger users",
+      "maximum stability",
+      "bariatric needs"
+    ],
+    "notIdealFor": [
+      "very small showers"
+    ],
+    "specs": {
+      "weightCapacity": "500 lb",
+      "heightRange": "1 in increments",
+      "feet": "Wide skid-resistant",
+      "material": "Aluminum alloy"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "vfauosit-shower-chair",
+    "name": "VFAUOSIT Shower Chair (550 lb, 4-in-1)",
+    "brand": "VFAUOSIT",
+    "category": "shower-chairs",
+    "subCategory": "shower-chairs",
+    "amazonUrl": "https://www.amazon.com/s?k=VFAUOSIT+shower+chair+550+lb&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/vfauosit-shower-chair.svg",
+    "shortDescription": "Our highest-capacity pick at 550 lb, with a reinforced crossbar and configurable design.",
+    "badge": "Highest Capacity",
+    "price": 52.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 887,
+    "features": [
+      "550 lb capacity",
+      "Reinforced crossbar",
+      "6 height settings (27.5\"–32.5\")",
+      "4-in-1 configurable"
+    ],
+    "pros": [
+      "Outstanding weight rating",
+      "Very rigid frame",
+      "Flexible setup"
+    ],
+    "cons": [
+      "Fewer reviews",
+      "Bulkier build"
+    ],
+    "bestFor": [
+      "bariatric users",
+      "maximum capacity"
+    ],
+    "notIdealFor": [
+      "compact spaces"
+    ],
+    "specs": {
+      "weightCapacity": "550 lb",
+      "heightRange": "27.5-32.5 in (6 settings)",
+      "feet": "Non-slip rubber",
+      "material": "Reinforced aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "kingpavonini-shower-chair",
+    "name": "KingPavonini Heavy-Duty Shower Chair (550 lb)",
+    "brand": "KingPavonini",
+    "category": "shower-chairs",
+    "subCategory": "shower-chairs",
+    "amazonUrl": "https://www.amazon.com/s?k=KingPavonini+shower+chair+550+lb&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/kingpavonini-shower-chair.svg",
+    "shortDescription": "A 550 lb chair with M-shaped anti-slip padded handles and a reinforced crossing bar.",
+    "badge": "Best Heavy-Duty Value",
+    "price": 46.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 2198,
+    "features": [
+      "550 lb capacity",
+      "M-shape anti-slip padded handles",
+      "Reinforced crossing bar",
+      "Multiple drainage holes"
+    ],
+    "pros": [
+      "Strong capacity for the price",
+      "Secure padded handles",
+      "Good drainage"
+    ],
+    "cons": [
+      "Heavier",
+      "Plain look"
+    ],
+    "bestFor": [
+      "bariatric users on a budget",
+      "extra hand support"
+    ],
+    "notIdealFor": [
+      "small stalls"
+    ],
+    "specs": {
+      "weightCapacity": "550 lb",
+      "handles": "M-shape padded",
+      "feet": "4 rubber feet",
+      "material": "Reinforced aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "decoteak-teak-shower-bench",
+    "name": "DecoTeak Teak Wood Shower Bench",
+    "brand": "DecoTeak",
+    "category": "shower-chairs",
+    "subCategory": "shower-chairs",
+    "amazonUrl": "https://www.amazon.com/s?k=DecoTeak+teak+shower+bench+storage+shelf&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/decoteak-teak-shower-bench.svg",
+    "shortDescription": "Solid teak that never rusts or molds — a spa-like bench with a storage shelf.",
+    "badge": "Premium Pick",
+    "price": 99.98,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 657,
+    "features": [
+      "Waterproof solid teak",
+      "Anti-slip flared legs",
+      "Adjustable foot pads",
+      "Drainage slats + storage shelf"
+    ],
+    "pros": [
+      "Beautiful, non-clinical look",
+      "Naturally water-resistant",
+      "No rust ever"
+    ],
+    "cons": [
+      "Premium price",
+      "Heavier"
+    ],
+    "bestFor": [
+      "aesthetics",
+      "showers",
+      "long-term durability"
+    ],
+    "notIdealFor": [
+      "budget shoppers",
+      "inside high tubs"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "material": "Solid teak",
+      "drainage": "Slatted",
+      "extras": "Storage shelf"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "medline-transfer-bench",
+    "name": "Medline Tub Transfer Bench",
+    "brand": "Medline",
+    "category": "transfer-benches",
+    "subCategory": "transfer-benches",
+    "amazonUrl": "https://www.amazon.com/dp/B086TPM48Y/?tag=seniorsaferhome-20",
+    "asin": "B086TPM48Y",
+    "editorialImageFallback": "/images/products/medline-transfer-bench.svg",
+    "shortDescription": "Our top transfer bench — dual suction-and-rubber feet grip both inside and outside the tub.",
+    "badge": "Best Overall",
+    "price": 69.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 7328,
+    "features": [
+      "Reversible backrest",
+      "Suction feet inside + rubber feet outside",
+      "Push-button height 17.5\"–22.5\"",
+      "Drainage holes"
+    ],
+    "pros": [
+      "Secure dual-grip footing",
+      "Rust-resistant aluminum",
+      "Easy height adjustment"
+    ],
+    "cons": [
+      "Takes up space",
+      "Backrest assembly fiddly"
+    ],
+    "bestFor": [
+      "bathtub transfers",
+      "limited leg mobility",
+      "fall prevention"
+    ],
+    "notIdealFor": [
+      "walk-in showers without a curb"
+    ],
+    "specs": {
+      "weightCapacity": "400 lb",
+      "heightRange": "17.5-22.5 in",
+      "feet": "Suction + rubber",
+      "material": "Rust-resistant aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "medline-bamboo-transfer-bench",
+    "name": "Medline Padded Bamboo Transfer Bench",
+    "brand": "Medline",
+    "category": "transfer-benches",
+    "subCategory": "transfer-benches",
+    "amazonUrl": "https://www.amazon.com/s?k=Medline+padded+bamboo+transfer+bench&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/medline-bamboo-transfer-bench.svg",
+    "shortDescription": "A padded bamboo seat and back add comfort for longer, more relaxed bathing.",
+    "badge": "Most Comfortable",
+    "price": 71.95,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 555,
+    "features": [
+      "Padded bamboo seat and backrest",
+      "Reversible design",
+      "Suction-cup feet",
+      "Side arm for stability"
+    ],
+    "pros": [
+      "Cushioned comfort",
+      "Attractive finish",
+      "Extra side support"
+    ],
+    "cons": [
+      "Padding needs drying",
+      "Fewer reviews"
+    ],
+    "bestFor": [
+      "longer bathing",
+      "sensitive skin",
+      "added stability"
+    ],
+    "notIdealFor": [
+      "fast-drying needs"
+    ],
+    "specs": {
+      "weightCapacity": "400 lb",
+      "heightRange": "18-22 in",
+      "feet": "Suction cups",
+      "material": "Bamboo / aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
   },
   {
     "id": "drive-medical-transfer-bench",
-    "name": "Drive Medical Transfer Bench",
+    "name": "Drive Medical Tub Transfer Bench",
     "brand": "Drive Medical",
     "category": "transfer-benches",
     "subCategory": "transfer-benches",
-    "amazonUrl": "https://www.amazon.com/dp/B001M0J1Q2/?tag=seniorsaferhome-20",
-    "asin": "B001M0J1Q2",
-    "editorialImageFallback": "/images/products/drive-transfer-bench.svg",
-    "shortDescription": "Sturdy tub transfer bench that lets seniors slide safely over the tub wall.",
-    "badge": "Best for Tubs",
-    "price": 79.95,
+    "amazonUrl": "https://www.amazon.com/dp/B002VWK0T6/?tag=seniorsaferhome-20",
+    "asin": "B002VWK0T6",
+    "editorialImageFallback": "/images/products/drive-medical-transfer-bench.svg",
+    "shortDescription": "The most-reviewed transfer bench (32K+): a simple, dependable sit-and-slide A-frame.",
+    "badge": "Most Reviewed",
+    "price": 51.61,
     "priceCurrency": "USD",
     "rating": 4.6,
-    "reviewCount": 9650,
+    "reviewCount": 32221,
     "features": [
-      "Reversible design for left or right tub walls",
-      "Adjustable leg height",
-      "Blow-molded plastic seat with drainage",
-      "Padded backrest"
+      "Sit-and-slide A-frame design",
+      "Reversible for any layout",
+      "0.5\" height increments 17.5\"–22.5\"",
+      "Non-slip suction feet"
     ],
-    "pros": ["Bridges the tub wall safely", "Reversible", "Comfortable seat", "Holds up to 400 lb"],
-    "cons": ["Takes up space in small bathrooms", "Backrest assembly fiddly"],
-    "bestFor": ["bathtub transfers", "limited leg mobility", "post-stroke recovery"],
-    "notIdealFor": ["walk-in showers without a curb"],
+    "pros": [
+      "Proven, hugely popular",
+      "Easy to assemble",
+      "Eliminates stepping over the wall"
+    ],
+    "cons": [
+      "No padding",
+      "Bulky in small baths"
+    ],
+    "bestFor": [
+      "bathtub transfers",
+      "value seekers",
+      "fall prevention"
+    ],
+    "notIdealFor": [
+      "walk-in showers"
+    ],
     "specs": {
-      "weightCapacity": "400 lb",
-      "seatWidth": "19 in",
-      "heightRange": "18-23 in",
+      "weightCapacity": "350-400 lb",
+      "heightRange": "17.5-22.5 in",
+      "feet": "Suction",
       "material": "Plastic / aluminum"
     },
     "reviewSlug": "drive-medical-transfer-bench-review",
-    "lastManualReview": "2026-06-01"
+    "lastManualReview": "2026-06-14"
   },
   {
-    "id": "healthline-transfer-bench",
-    "name": "Healthline Padded Transfer Bench",
-    "brand": "Healthline",
+    "id": "carex-transfer-bench",
+    "name": "Carex Tub Transfer Bench (No-Rust)",
+    "brand": "Carex",
     "category": "transfer-benches",
     "subCategory": "transfer-benches",
-    "amazonUrl": "https://www.amazon.com/dp/B07GVMP7QF/?tag=seniorsaferhome-20",
-    "asin": "B07GVMP7QF",
-    "editorialImageFallback": "/images/products/healthline-transfer-bench.svg",
-    "shortDescription": "Padded transfer bench with armrests for extra comfort and support.",
-    "badge": "Most Comfortable",
-    "price": 89.99,
+    "amazonUrl": "https://www.amazon.com/s?k=Carex+tub+transfer+bench+handles&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/carex-transfer-bench.svg",
+    "shortDescription": "No metal to rust or corrode, with a backrest that has two built-in handles.",
+    "badge": "Best Durability",
+    "price": 69.99,
     "priceCurrency": "USD",
-    "rating": 4.5,
-    "reviewCount": 4120,
-    "features": ["Padded seat and backrest", "Cut-out handle for hygiene", "Adjustable non-slip legs"],
-    "pros": ["Cushioned comfort", "Solid armrests", "Good for longer bathing"],
-    "cons": ["Heavier to move", "Pads need drying"],
-    "bestFor": ["longer bathing sessions", "sensitive skin", "arthritis"],
-    "notIdealFor": ["fast drying needs"],
+    "rating": 4.6,
+    "reviewCount": 1385,
+    "features": [
+      "Converts to right or left entry",
+      "Backrest with 2 built-in handles",
+      "Non-slip rubber feet",
+      "Adjustable 17.5\"–22.5\""
+    ],
+    "pros": [
+      "Will never rust",
+      "Sturdy handles",
+      "Easy reconfiguration"
+    ],
+    "cons": [
+      "No padding",
+      "Mid-range price"
+    ],
+    "bestFor": [
+      "long-term wet-environment use",
+      "extra hand support"
+    ],
+    "notIdealFor": [
+      "those wanting cushioning"
+    ],
     "specs": {
       "weightCapacity": "400 lb",
-      "seatWidth": "20 in",
-      "heightRange": "17-21 in",
-      "material": "Padded plastic / aluminum"
+      "heightRange": "17.5-22.5 in",
+      "feet": "Non-slip rubber",
+      "material": "Non-corroding composite"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-01"
+    "lastManualReview": "2026-06-14"
   },
   {
-    "id": "vive-grab-bar",
-    "name": "Vive Suction Grab Bar (Set of 2)",
-    "brand": "Vive",
-    "category": "grab-bars",
-    "subCategory": "grab-bars",
-    "amazonUrl": "https://www.amazon.com/dp/B00ULBR706/?tag=seniorsaferhome-20",
-    "asin": "B00ULBR706",
-    "editorialImageFallback": "/images/products/vive-grab-bar.svg",
-    "shortDescription": "Suction-mounted grab bars with indicators for renters and temporary support.",
-    "badge": "Best for Renters",
-    "price": 24.99,
+    "id": "carex-aluminum-transfer-bench",
+    "name": "Carex Aluminum Transfer Bench",
+    "brand": "Carex",
+    "category": "transfer-benches",
+    "subCategory": "transfer-benches",
+    "amazonUrl": "https://www.amazon.com/s?k=Carex+aluminum+transfer+bench+reversible&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/carex-aluminum-transfer-bench.svg",
+    "shortDescription": "A lightweight, value-priced bench that disassembles quickly for storage or travel.",
+    "badge": "Best Value",
+    "price": 57.99,
     "priceCurrency": "USD",
-    "rating": 4.3,
-    "reviewCount": 26100,
-    "features": ["Dual suction cups", "Color indicators show grip status", "No drilling required"],
-    "pros": ["No installation", "Repositionable", "Indicator removes guesswork"],
-    "cons": ["Balance support only — not weight-bearing", "Needs smooth, non-porous tile"],
-    "bestFor": ["renters", "travel", "light balance support"],
-    "notIdealFor": ["full body-weight support", "textured or grout-heavy surfaces"],
+    "rating": 4.6,
+    "reviewCount": 8843,
+    "features": [
+      "Reversible seat back (left/right)",
+      "Anti-corrosive aluminum",
+      "Anti-slip flared feet",
+      "Adjustable 16\"–20\""
+    ],
+    "pros": [
+      "Affordable",
+      "Light and easy to store",
+      "Well-reviewed"
+    ],
+    "cons": [
+      "Lower 300 lb capacity",
+      "No handles"
+    ],
+    "bestFor": [
+      "value seekers",
+      "travel",
+      "smaller users"
+    ],
+    "notIdealFor": [
+      "heavier users"
+    ],
     "specs": {
-      "weightCapacity": "Balance support only",
-      "length": "13 in",
-      "mounting": "Suction",
-      "material": "ABS plastic"
+      "weightCapacity": "300 lb",
+      "heightRange": "16-20 in",
+      "feet": "Anti-slip flared",
+      "material": "Aluminum"
     },
-    "reviewSlug": "vive-grab-bar-review",
-    "lastManualReview": "2026-06-01"
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
   },
   {
-    "id": "moen-secure-grab-bar",
-    "name": "Moen Home Care Stainless Grab Bar (24\")",
+    "id": "homland-transfer-bench",
+    "name": "HOMLAND Transfer Bench (FSA/HSA)",
+    "brand": "HOMLAND",
+    "category": "transfer-benches",
+    "subCategory": "transfer-benches",
+    "amazonUrl": "https://www.amazon.com/s?k=HOMLAND+transfer+bench+A-frame&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/homland-transfer-bench.svg",
+    "shortDescription": "A budget-friendly 400 lb A-frame bench, FSA/HSA eligible, with a reversible backrest.",
+    "badge": "Best Budget Heavy-Duty",
+    "price": 65.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 753,
+    "features": [
+      "400 lb A-frame",
+      "Reversible backrest",
+      "Non-slip rubber feet",
+      "Push-button height 17.5\"–22.5\""
+    ],
+    "pros": [
+      "Good capacity for price",
+      "FSA/HSA eligible",
+      "Stable A-frame"
+    ],
+    "cons": [
+      "Fewer reviews",
+      "No padding"
+    ],
+    "bestFor": [
+      "budget shoppers",
+      "heavier users"
+    ],
+    "notIdealFor": [
+      "those wanting cushioning"
+    ],
+    "specs": {
+      "weightCapacity": "400 lb",
+      "heightRange": "17.5-22.5 in",
+      "feet": "Non-slip rubber",
+      "material": "Aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "vevor-sliding-transfer-bench",
+    "name": "VEVOR Sliding Transfer Bench (Swivel)",
+    "brand": "VEVOR",
+    "category": "transfer-benches",
+    "subCategory": "transfer-benches",
+    "amazonUrl": "https://www.amazon.com/s?k=VEVOR+sliding+transfer+bench+swivel&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/vevor-sliding-transfer-bench.svg",
+    "shortDescription": "A sliding, 360°-swivel seat with a safety belt for the easiest assisted transfers.",
+    "badge": "Best Sliding",
+    "price": 102.9,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 483,
+    "features": [
+      "Sliding seat + 360° swivel",
+      "15-level height 20.7\"–27.2\"",
+      "Waist safety belt",
+      "Showerhead holder"
+    ],
+    "pros": [
+      "Effortless lateral transfer",
+      "Highly adjustable",
+      "Added safety belt"
+    ],
+    "cons": [
+      "Pricier",
+      "More assembly"
+    ],
+    "bestFor": [
+      "very limited mobility",
+      "caregiver-assisted transfers"
+    ],
+    "notIdealFor": [
+      "budget shoppers"
+    ],
+    "specs": {
+      "weightCapacity": "400 lb",
+      "heightRange": "20.7-27.2 in (15 levels)",
+      "seat": "Sliding + swivel",
+      "material": "Aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "gozuna-swivel-transfer-bench",
+    "name": "Gozuna Swivel Transfer Bench (360°)",
+    "brand": "Gozuna",
+    "category": "transfer-benches",
+    "subCategory": "transfer-benches",
+    "amazonUrl": "https://www.amazon.com/s?k=Gozuna+swivel+transfer+bench+padded&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/gozuna-swivel-transfer-bench.svg",
+    "shortDescription": "A padded 360° swivel seat that locks every 90° for safe, controlled tub transfers.",
+    "badge": "Best Swivel",
+    "price": 69.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 76,
+    "features": [
+      "360° swivel locks at 90° intervals",
+      "Padded seat and armrests",
+      "Reinforced aluminum",
+      "Non-slip rubber feet"
+    ],
+    "pros": [
+      "Controlled swivel transfers",
+      "Comfortable padding",
+      "Sturdy"
+    ],
+    "cons": [
+      "Very few reviews yet",
+      "Higher seat range"
+    ],
+    "bestFor": [
+      "assisted transfers",
+      "comfort",
+      "reduced twisting"
+    ],
+    "notIdealFor": [
+      "shorter users"
+    ],
+    "specs": {
+      "weightCapacity": "400 lb",
+      "seat": "360° swivel (90° locks)",
+      "heightRange": "28-32 in",
+      "material": "Reinforced aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "moen-homecare-24-grab-bar",
+    "name": "Moen Home Care 24\" Grab Bar",
     "brand": "Moen",
     "category": "grab-bars",
     "subCategory": "grab-bars",
-    "amazonUrl": "https://www.amazon.com/dp/B00198L5JW/?tag=seniorsaferhome-20",
-    "asin": "B00198L5JW",
-    "editorialImageFallback": "/images/products/moen-grab-bar.svg",
-    "shortDescription": "Screw-mounted stainless steel grab bar rated for full body weight.",
+    "amazonUrl": "https://www.amazon.com/s?k=Moen+Home+Care+24+inch+grab+bar+stainless&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/moen-homecare-24-grab-bar.svg",
+    "shortDescription": "Our top grab bar: 500 lb stainless steel with concealed screws and a lifetime warranty.",
     "badge": "Best Overall",
-    "price": 32.5,
+    "price": 27.29,
     "priceCurrency": "USD",
     "rating": 4.8,
-    "reviewCount": 14300,
-    "features": ["Stainless steel construction", "Concealed mounting screws", "ADA-compliant when installed into studs"],
-    "pros": ["True weight-bearing", "Corrosion resistant", "Clean look"],
-    "cons": ["Requires drilling into studs", "Professional install recommended"],
-    "bestFor": ["permanent installs", "full body-weight support", "homeowners"],
-    "notIdealFor": ["renters who cannot drill"],
+    "reviewCount": 6021,
+    "features": [
+      "500 lb capacity (into studs)",
+      "Concealed mounting screws",
+      "ADA compliant",
+      "Stainless steel, corrosion-resistant"
+    ],
+    "pros": [
+      "True weight-bearing",
+      "Clean, concealed-screw look",
+      "Lifetime warranty"
+    ],
+    "cons": [
+      "Requires drilling into studs",
+      "SecureMount anchors sold separately"
+    ],
+    "bestFor": [
+      "permanent installs",
+      "full body-weight support",
+      "homeowners"
+    ],
+    "notIdealFor": [
+      "renters who cannot drill"
+    ],
     "specs": {
-      "weightCapacity": "500 lb (into studs)",
+      "weightCapacity": "500 lb",
       "length": "24 in",
-      "mounting": "Screw / stud",
+      "mounting": "Screw / stud or SecureMount",
       "material": "Stainless steel"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-01"
+    "lastManualReview": "2026-06-14"
   },
   {
-    "id": "medical-guardian-mini",
-    "name": "Medical Guardian Mini Guardian",
-    "brand": "Medical Guardian",
-    "category": "medical-alert-systems",
-    "subCategory": "mobile-alert",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5EXAMPLE/?tag=seniorsaferhome-20",
-    "asin": "B0C5EXAMPLE",
-    "editorialImageFallback": "/images/products/medical-guardian-mini.svg",
-    "shortDescription": "Lightweight mobile medical alert with GPS and optional fall detection.",
-    "badge": "Best Overall",
-    "price": 124.95,
+    "id": "moen-homecare-18-grab-bar",
+    "name": "Moen Home Care 18\" Grab Bar (1.5\" Grip)",
+    "brand": "Moen",
+    "category": "grab-bars",
+    "subCategory": "grab-bars",
+    "amazonUrl": "https://www.amazon.com/s?k=Moen+Home+Care+18+inch+grab+bar+1.5+diameter&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/moen-homecare-18-grab-bar.svg",
+    "shortDescription": "A larger 1.5\" diameter makes this 18\" bar easier to wrap a hand around.",
+    "badge": "Best Easy-Grip",
+    "price": 20.28,
     "priceCurrency": "USD",
-    "rating": 4.6,
-    "reviewCount": 3850,
-    "features": ["Nationwide 4G LTE coverage", "GPS location", "Optional automatic fall detection", "Up to 5-day battery"],
-    "pros": ["Works away from home", "Long battery life", "Clear two-way speaker"],
-    "cons": ["Requires monthly monitoring fee", "Fall detection costs extra"],
-    "bestFor": ["active seniors", "living alone", "out-and-about safety"],
-    "notIdealFor": ["those wanting no monthly fee"],
+    "rating": 4.8,
+    "reviewCount": 1596,
+    "features": [
+      "500 lb capacity",
+      "1.5\" diameter for easier grip",
+      "ADA compliant",
+      "Polished finish"
+    ],
+    "pros": [
+      "Easier to grip",
+      "Weight-bearing",
+      "Lifetime warranty"
+    ],
+    "cons": [
+      "Shorter 18\" length",
+      "Requires studs"
+    ],
+    "bestFor": [
+      "weaker grip strength",
+      "arthritis",
+      "toilet-side support"
+    ],
+    "notIdealFor": [
+      "renters who cannot drill"
+    ],
     "specs": {
-      "type": "Mobile (cellular)",
-      "fallDetection": "Optional add-on",
-      "battery": "Up to 5 days",
-      "monitoring": "24/7 US-based"
-    },
-    "reviewSlug": "medical-guardian-review",
-    "lastManualReview": "2026-06-01"
-  },
-  {
-    "id": "bay-alarm-smartwatch",
-    "name": "Bay Alarm SOS Smartwatch",
-    "brand": "Bay Alarm Medical",
-    "category": "medical-alert-systems",
-    "subCategory": "wearable-alert",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5EXAMPL2/?tag=seniorsaferhome-20",
-    "asin": "B0C5EXAMPL2",
-    "editorialImageFallback": "/images/products/bay-alarm-smartwatch.svg",
-    "shortDescription": "Discreet smartwatch-style alert with SOS button, step count, and GPS.",
-    "badge": "Best Wearable",
-    "price": 159.0,
-    "priceCurrency": "USD",
-    "rating": 4.4,
-    "reviewCount": 2110,
-    "features": ["Looks like a regular smartwatch", "Built-in SOS button", "Step and activity tracking", "GPS location"],
-    "pros": ["Discreet and stylish", "Less stigma than pendant", "Activity features"],
-    "cons": ["Shorter battery than pendant units", "Daily charging needed"],
-    "bestFor": ["seniors who dislike pendants", "active lifestyles"],
-    "notIdealFor": ["those who forget to charge devices"],
-    "specs": {
-      "type": "Wearable smartwatch",
-      "fallDetection": "Not available",
-      "battery": "~24 hours",
-      "monitoring": "24/7 US-based"
+      "weightCapacity": "500 lb",
+      "length": "18 in",
+      "diameter": "1.5 in",
+      "material": "Stainless steel"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-01"
+    "lastManualReview": "2026-06-14"
   },
   {
-    "id": "rms-bed-rail",
-    "name": "RMS Adjustable Bed Rail",
-    "brand": "RMS",
-    "category": "bed-rails",
-    "subCategory": "bed-rails",
-    "amazonUrl": "https://www.amazon.com/dp/B00P9F8L7E/?tag=seniorsaferhome-20",
-    "asin": "B00P9F8L7E",
-    "editorialImageFallback": "/images/products/rms-bed-rail.svg",
-    "shortDescription": "Adjustable bedside rail with a storage pouch for safer transfers in and out of bed.",
-    "badge": "Best Overall",
-    "price": 49.99,
+    "id": "moen-peened-12-grab-bar",
+    "name": "Moen 12\" Peened Grab Bar",
+    "brand": "Moen",
+    "category": "grab-bars",
+    "subCategory": "grab-bars",
+    "amazonUrl": "https://www.amazon.com/s?k=Moen+12+inch+peened+grab+bar&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/moen-peened-12-grab-bar.svg",
+    "shortDescription": "A peened, textured finish gives the best grip for wet hands in a compact 12\" bar.",
+    "badge": "Best Wet-Hand Grip",
+    "price": 17.37,
     "priceCurrency": "USD",
-    "rating": 4.5,
-    "reviewCount": 12780,
-    "features": ["Length adjustable 26\"–42\"", "Folds down to exit bed", "Storage pouch for phone/glasses", "Fits most home beds"],
-    "pros": ["Sturdy grip", "Easy to install", "Handy pouch"],
-    "cons": ["Not for hospital beds", "Some assembly needed"],
-    "bestFor": ["home beds", "getting in and out of bed", "preventing roll-outs"],
-    "notIdealFor": ["adjustable hospital beds"],
+    "rating": 4.8,
+    "reviewCount": 3015,
+    "features": [
+      "500 lb capacity",
+      "Peened slip-resistant texture",
+      "Concealed screws",
+      "ADA compliant"
+    ],
+    "pros": [
+      "Excellent wet-hand grip",
+      "Compact and versatile",
+      "Weight-bearing"
+    ],
+    "cons": [
+      "Short length",
+      "Requires studs"
+    ],
+    "bestFor": [
+      "wet-hand grip",
+      "shower entry",
+      "tight spots"
+    ],
+    "notIdealFor": [
+      "long horizontal spans"
+    ],
     "specs": {
-      "weightCapacity": "300 lb",
-      "length": "26-42 in adjustable",
-      "height": "Fits 6-24 in mattresses",
-      "material": "Steel / fabric"
+      "weightCapacity": "500 lb",
+      "length": "12 in",
+      "finish": "Peened textured",
+      "material": "Stainless steel"
     },
-    "reviewSlug": "rms-bed-rail-review",
-    "lastManualReview": "2026-06-01"
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
   },
   {
-    "id": "vaunn-raised-toilet-seat",
-    "name": "Vaunn Raised Toilet Seat with Handles",
-    "brand": "Vaunn",
+    "id": "moen-designer-16-grab-bar",
+    "name": "Moen Designer 16\" Grab Bar",
+    "brand": "Moen",
+    "category": "grab-bars",
+    "subCategory": "grab-bars",
+    "amazonUrl": "https://www.amazon.com/s?k=Moen+designer+16+inch+grab+bar+brushed+nickel&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/moen-designer-16-grab-bar.svg",
+    "shortDescription": "Looks like a towel bar, holds like a grab bar — finger notches and a brushed-nickel finish.",
+    "badge": "Best Designer",
+    "price": 39.04,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 1924,
+    "features": [
+      "500 lb capacity",
+      "Finger notches for secure grip",
+      "Brushed nickel finish",
+      "ADA compliant"
+    ],
+    "pros": [
+      "Blends into the bathroom",
+      "Secure finger grip",
+      "Weight-bearing"
+    ],
+    "cons": [
+      "Higher price",
+      "Requires studs"
+    ],
+    "bestFor": [
+      "décor-conscious homes",
+      "shared bathrooms"
+    ],
+    "notIdealFor": [
+      "budget installs"
+    ],
+    "specs": {
+      "weightCapacity": "500 lb",
+      "length": "16 in",
+      "finish": "Brushed nickel",
+      "material": "Stainless steel"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "moen-designer-24-grab-bar",
+    "name": "Moen Designer 24\" Curled-Grip Grab Bar",
+    "brand": "Moen",
+    "category": "grab-bars",
+    "subCategory": "grab-bars",
+    "amazonUrl": "https://www.amazon.com/s?k=Moen+designer+24+inch+curl+grip+grab+bar&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/moen-designer-24-grab-bar.svg",
+    "shortDescription": "A 24\" designer bar with a curled-grip handle and finger notches in brushed nickel.",
+    "badge": null,
+    "price": 31.68,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 935,
+    "features": [
+      "500 lb capacity",
+      "Curled-grip handle with finger notches",
+      "Brushed nickel",
+      "ADA compliant"
+    ],
+    "pros": [
+      "Stylish and secure",
+      "Longer 24\" reach",
+      "Weight-bearing"
+    ],
+    "cons": [
+      "Requires studs",
+      "Designer price"
+    ],
+    "bestFor": [
+      "décor-conscious homes",
+      "longer grip spans"
+    ],
+    "notIdealFor": [
+      "budget installs"
+    ],
+    "specs": {
+      "weightCapacity": "500 lb",
+      "length": "24 in",
+      "finish": "Brushed nickel",
+      "material": "Stainless steel"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "delta-contemporary-24-grab-bar",
+    "name": "Delta Contemporary 24\" Grab Bar",
+    "brand": "Delta",
+    "category": "grab-bars",
+    "subCategory": "grab-bars",
+    "amazonUrl": "https://www.amazon.com/s?k=Delta+contemporary+24+inch+grab+bar&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/delta-contemporary-24-grab-bar.svg",
+    "shortDescription": "A decorative, corrosion-resistant bar that looks like a designer fixture, ANSI-rated.",
+    "badge": "Premium Pick",
+    "price": 85.8,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 1271,
+    "features": [
+      "450–500 lb capacity",
+      "Zinc posts + stainless bar",
+      "Corrosion-resistant",
+      "ADA/ANSI approved"
+    ],
+    "pros": [
+      "Upscale look",
+      "Strong and certified",
+      "Lifetime warranty"
+    ],
+    "cons": [
+      "Premium price",
+      "Requires studs"
+    ],
+    "bestFor": [
+      "high-end bathrooms",
+      "decorative installs"
+    ],
+    "notIdealFor": [
+      "budget installs"
+    ],
+    "specs": {
+      "weightCapacity": "450-500 lb",
+      "length": "24 in",
+      "mounting": "Screw / stud",
+      "material": "Zinc + stainless"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "delta-bronze-18-grab-bar",
+    "name": "Delta 18\" Champagne Bronze Grab Bar",
+    "brand": "Delta",
+    "category": "grab-bars",
+    "subCategory": "grab-bars",
+    "amazonUrl": "https://www.amazon.com/s?k=Delta+18+inch+champagne+bronze+grab+bar&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/delta-bronze-18-grab-bar.svg",
+    "shortDescription": "A champagne-bronze finish for bathrooms where a clinical bar won't do.",
+    "badge": "Most Stylish",
+    "price": 92.16,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 1271,
+    "features": [
+      "450–500 lb capacity",
+      "Champagne bronze corrosion-resistant finish",
+      "ADA compliant",
+      "Concealed mounting"
+    ],
+    "pros": [
+      "Designer finish",
+      "Strong and certified",
+      "Lifetime warranty"
+    ],
+    "cons": [
+      "Highest price here",
+      "Requires studs"
+    ],
+    "bestFor": [
+      "high-end décor",
+      "matching bronze fixtures"
+    ],
+    "notIdealFor": [
+      "budget installs"
+    ],
+    "specs": {
+      "weightCapacity": "450-500 lb",
+      "length": "18 in",
+      "finish": "Champagne bronze",
+      "material": "Zinc + stainless"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "amazon-basics-24-grab-bar",
+    "name": "Amazon Basics 24\" Grab Bar",
+    "brand": "Amazon Basics",
+    "category": "grab-bars",
+    "subCategory": "grab-bars",
+    "amazonUrl": "https://www.amazon.com/s?k=Amazon+Basics+24+inch+grab+bar+stainless&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/amazon-basics-24-grab-bar.svg",
+    "shortDescription": "The value pick: 500 lb brushed stainless with thousands of strong reviews.",
+    "badge": "Best Value",
+    "price": 24.56,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 9343,
+    "features": [
+      "500 lb capacity",
+      "Brushed stainless, rust-resistant",
+      "ADA compliant",
+      "Concealed screws"
+    ],
+    "pros": [
+      "Excellent price",
+      "Highly rated",
+      "Weight-bearing"
+    ],
+    "cons": [
+      "Plain look",
+      "Requires studs"
+    ],
+    "bestFor": [
+      "budget installs",
+      "multiple bars",
+      "homeowners"
+    ],
+    "notIdealFor": [
+      "renters who cannot drill"
+    ],
+    "specs": {
+      "weightCapacity": "500 lb",
+      "length": "24 in",
+      "mounting": "Screw / stud",
+      "material": "Brushed stainless"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "vive-12-grab-bar",
+    "name": "Vive 12\" Grab Bar",
+    "brand": "Vive",
+    "category": "grab-bars",
+    "subCategory": "grab-bars",
+    "amazonUrl": "https://www.amazon.com/s?k=Vive+12+inch+grab+bar+stainless&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/vive-12-grab-bar.svg",
+    "shortDescription": "A compact, water-resistant 12\" bar with versatile angled mounting options.",
+    "badge": "Best Compact",
+    "price": 17.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 5245,
+    "features": [
+      "440–500 lb capacity",
+      "Water-resistant coating",
+      "Versatile angled mounting",
+      "ADA compliant"
+    ],
+    "pros": [
+      "Affordable",
+      "Flexible placement",
+      "Weight-bearing"
+    ],
+    "cons": [
+      "Short length",
+      "Requires studs"
+    ],
+    "bestFor": [
+      "tight spots",
+      "angled installs",
+      "shower entry"
+    ],
+    "notIdealFor": [
+      "long horizontal spans"
+    ],
+    "specs": {
+      "weightCapacity": "440-500 lb",
+      "length": "12 in",
+      "mounting": "Angled / stud",
+      "material": "Stainless steel"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "ravinte-16-grab-bar-2pack",
+    "name": "Ravinte 16\" Grab Bars (2-Pack)",
+    "brand": "Ravinte",
+    "category": "grab-bars",
+    "subCategory": "grab-bars",
+    "amazonUrl": "https://www.amazon.com/s?k=Ravinte+16+inch+grab+bar+2+pack+knurled&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/ravinte-16-grab-bar-2pack.svg",
+    "shortDescription": "Two knurled-grip stainless bars — the best value when you need more than one.",
+    "badge": "Best Value 2-Pack",
+    "price": 19.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 2645,
+    "features": [
+      "500 lb capacity",
+      "Knurled non-slip surface",
+      "Rust-resistant stainless",
+      "Two bars included"
+    ],
+    "pros": [
+      "Two bars for the price",
+      "Great wet-hand grip",
+      "Weight-bearing"
+    ],
+    "cons": [
+      "Industrial look",
+      "Requires studs"
+    ],
+    "bestFor": [
+      "outfitting a whole bathroom",
+      "wet-hand grip",
+      "value"
+    ],
+    "notIdealFor": [
+      "decorative bathrooms"
+    ],
+    "specs": {
+      "weightCapacity": "500 lb",
+      "length": "16 in (x2)",
+      "finish": "Knurled",
+      "material": "Stainless steel"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "bemis-raised-toilet-seat",
+    "name": "Bemis Snap 2 Secure Raised Toilet Seat",
+    "brand": "Bemis",
     "category": "raised-toilet-seats",
     "subCategory": "raised-toilet-seats",
-    "amazonUrl": "https://www.amazon.com/dp/B07R5EXAMPLE/?tag=seniorsaferhome-20",
-    "asin": "B07R5EXAMPLE",
-    "editorialImageFallback": "/images/products/vaunn-toilet-seat.svg",
-    "shortDescription": "Locking raised toilet seat with padded support arms for easier sitting and standing.",
-    "badge": "Best Overall",
-    "price": 54.99,
+    "amazonUrl": "https://www.amazon.com/dp/B083Y4M7YH/?tag=seniorsaferhome-20",
+    "asin": "B083Y4M7YH",
+    "editorialImageFallback": "/images/products/bemis-raised-toilet-seat.svg",
+    "shortDescription": "A 1,000 lb bolt-on seat that locks permanently and never wobbles — OT-recommended, made in USA.",
+    "badge": "Most Secure",
+    "price": 131,
     "priceCurrency": "USD",
-    "rating": 4.6,
-    "reviewCount": 7300,
-    "features": ["Adds ~5 inches of height", "Locking bracket", "Padded removable arms", "Tool-free install"],
-    "pros": ["Secure locking", "Supportive arms", "Easy to clean"],
-    "cons": ["Arms add bulk", "Check toilet shape fit"],
-    "bestFor": ["hip and knee strain", "post-surgery recovery", "limited mobility"],
-    "notIdealFor": ["very narrow toilets"],
+    "rating": 4.7,
+    "reviewCount": 1682,
+    "features": [
+      "1,000 lb capacity",
+      "Snap 2 Secure bolt-on (no wobble)",
+      "3\" raise + Clean Shield guard",
+      "Ergonomic aluminum arms"
+    ],
+    "pros": [
+      "Rock-solid, never wobbles",
+      "Occupational-therapist recommended",
+      "Made in USA"
+    ],
+    "cons": [
+      "Premium price",
+      "Permanent install"
+    ],
+    "bestFor": [
+      "maximum security",
+      "heavier users",
+      "long-term use"
+    ],
+    "notIdealFor": [
+      "quick-removal needs",
+      "tight budgets"
+    ],
     "specs": {
-      "weightCapacity": "300 lb",
-      "addedHeight": "5 in",
-      "fits": "Most standard & elongated bowls",
-      "material": "Plastic / aluminum arms"
+      "weightCapacity": "1000 lb",
+      "raise": "3 in",
+      "lock": "Bolt-on",
+      "arms": "Aluminum"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-01"
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "lunderg-raised-toilet-seat",
+    "name": "Lunderg Elevated Toilet Seat with Handles",
+    "brand": "Lunderg",
+    "category": "raised-toilet-seats",
+    "subCategory": "raised-toilet-seats",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXF42Y4L/?tag=seniorsaferhome-20",
+    "asin": "B0CXF42Y4L",
+    "editorialImageFallback": "/images/products/lunderg-raised-toilet-seat.svg",
+    "shortDescription": "An elegant bolt-on seat with removable wood-finish handles and a soft-close lid — no hospital look.",
+    "badge": "Best Designer",
+    "price": 134.95,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 1025,
+    "features": [
+      "Bolt-on design",
+      "3\" raise",
+      "Removable wood-finish handles",
+      "Soft-close lid + quick-release hinge"
+    ],
+    "pros": [
+      "Looks like a normal toilet",
+      "Removable handles for guests",
+      "FSA/HSA eligible"
+    ],
+    "cons": [
+      "Premium price",
+      "300 lb capacity"
+    ],
+    "bestFor": [
+      "shared bathrooms",
+      "décor-conscious homes"
+    ],
+    "notIdealFor": [
+      "very heavy users",
+      "tight budgets"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "raise": "3 in",
+      "lock": "Bolt-on",
+      "lid": "Soft-close"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "homland-toilet-safety-frame",
+    "name": "HOMLAND Freestanding Toilet Safety Frame",
+    "brand": "HOMLAND",
+    "category": "raised-toilet-seats",
+    "subCategory": "toilet-safety-frames",
+    "amazonUrl": "https://www.amazon.com/s?k=HOMLAND+toilet+safety+frame+adjustable&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/homland-toilet-safety-frame.svg",
+    "shortDescription": "A freestanding frame that adds support without modifying the toilet — height and width adjustable.",
+    "badge": "Best Freestanding",
+    "price": 65.65,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 1619,
+    "features": [
+      "400 lb capacity",
+      "Adjustable height 18.1\"–23\" and width",
+      "Non-slip padded armrests",
+      "Angled legs + welded crossbar"
+    ],
+    "pros": [
+      "No toilet modification",
+      "Very stable stance",
+      "FSA/HSA eligible"
+    ],
+    "cons": [
+      "Larger footprint",
+      "Doesn't add seat height itself"
+    ],
+    "bestFor": [
+      "renters",
+      "those who can't modify the toilet",
+      "sit-to-stand support"
+    ],
+    "notIdealFor": [
+      "very small bathrooms"
+    ],
+    "specs": {
+      "weightCapacity": "400 lb",
+      "heightRange": "18.1-23 in",
+      "type": "Freestanding frame",
+      "feet": "Rubber"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "medical-king-raised-toilet-seat",
+    "name": "Medical King Freestanding Raised Toilet Seat",
+    "brand": "Medical King",
+    "category": "raised-toilet-seats",
+    "subCategory": "toilet-safety-frames",
+    "amazonUrl": "https://www.amazon.com/s?k=Medical+King+raised+toilet+seat+freestanding&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/medical-king-raised-toilet-seat.svg",
+    "shortDescription": "A freestanding unit with an extra-large padded seat that folds for travel.",
+    "badge": "Best Value Freestanding",
+    "price": 49.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 862,
+    "features": [
+      "400 lb capacity",
+      "Extra-large 16.5\" padded seat",
+      "Adjustable height + width",
+      "Foldable for travel"
+    ],
+    "pros": [
+      "Roomy padded seat",
+      "Folds for storage/travel",
+      "Quick assembly"
+    ],
+    "cons": [
+      "Larger footprint",
+      "Doesn't bolt to toilet"
+    ],
+    "bestFor": [
+      "travel",
+      "renters",
+      "comfort"
+    ],
+    "notIdealFor": [
+      "very small bathrooms"
+    ],
+    "specs": {
+      "weightCapacity": "400 lb",
+      "seat": "16.5 in padded",
+      "type": "Freestanding (foldable)",
+      "adjust": "Height + width"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "soundfuse-raised-toilet-seat",
+    "name": "Soundfuse Freestanding Toilet Seat Riser",
+    "brand": "Soundfuse",
+    "category": "raised-toilet-seats",
+    "subCategory": "toilet-safety-frames",
+    "amazonUrl": "https://www.amazon.com/s?k=Soundfuse+toilet+seat+riser+adjustable+frame&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/soundfuse-raised-toilet-seat.svg",
+    "shortDescription": "Six height and width levels plus a waterproof padded seat and handy organizer.",
+    "badge": "Most Adjustable",
+    "price": 65.8,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 774,
+    "features": [
+      "400 lb capacity",
+      "6-level height 18.1\"–23\" + 6-level width",
+      "16.5\" waterproof padded seat",
+      "Tissue holder + organizer"
+    ],
+    "pros": [
+      "Highly adjustable",
+      "Comfortable padded seat",
+      "Handy extras"
+    ],
+    "cons": [
+      "Larger footprint",
+      "More assembly"
+    ],
+    "bestFor": [
+      "custom fit",
+      "comfort",
+      "renters"
+    ],
+    "notIdealFor": [
+      "very small bathrooms"
+    ],
+    "specs": {
+      "weightCapacity": "400 lb",
+      "heightRange": "18.1-23 in (6 levels)",
+      "seat": "16.5 in waterproof padded",
+      "type": "Freestanding"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
   },
   {
     "id": "gorilla-grip-bath-mat",
@@ -276,143 +1452,1896 @@
     "brand": "Gorilla Grip",
     "category": "non-slip-bath-mats",
     "subCategory": "non-slip-bath-mats",
-    "amazonUrl": "https://www.amazon.com/dp/B07B428M5C/?tag=seniorsaferhome-20",
-    "asin": "B07B428M5C",
+    "amazonUrl": "https://www.amazon.com/dp/B01F5K9YNS/?tag=seniorsaferhome-20",
+    "asin": "B01F5K9YNS",
     "editorialImageFallback": "/images/products/gorilla-grip-bath-mat.svg",
-    "shortDescription": "High-suction bath mat with drainage holes that grips wet tub floors firmly.",
-    "badge": "Best Value",
-    "price": 14.99,
+    "shortDescription": "The most-reviewed bath mat anywhere (111K+): hundreds of suction cups and proven grip.",
+    "badge": "Best Overall",
+    "price": 25.99,
     "priceCurrency": "USD",
-    "rating": 4.6,
-    "reviewCount": 58900,
-    "features": ["Hundreds of suction cups", "Drainage holes", "Machine washable", "Mildew resistant"],
-    "pros": ["Excellent grip", "Inexpensive", "Easy to clean"],
-    "cons": ["Needs smooth surface", "Suction weakens over time"],
-    "bestFor": ["slippery tubs", "budget safety upgrades", "fall prevention"],
-    "notIdealFor": ["textured non-slip tub floors"],
+    "rating": 4.5,
+    "reviewCount": 111281,
+    "features": [
+      "Patented suction-cup design",
+      "Drainage holes",
+      "BPA-free, machine washable",
+      "35 x 16 in"
+    ],
+    "pros": [
+      "Outstanding grip",
+      "Proven long-term performance",
+      "Easy to clean"
+    ],
+    "cons": [
+      "Needs smooth surface",
+      "Suction weakens over years"
+    ],
+    "bestFor": [
+      "slippery tubs",
+      "fall prevention",
+      "everyday use"
+    ],
+    "notIdealFor": [
+      "textured non-slip tubs"
+    ],
     "specs": {
-      "size": "21 x 21 in",
+      "size": "35 x 16 in",
       "mounting": "Suction",
       "washable": "Yes",
-      "material": "BPA-free PVC"
+      "material": "BPA-free"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-01"
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "slipx-power-grip-bath-mat",
+    "name": "SlipX Solutions Power Grip Bath Mat",
+    "brand": "SlipX Solutions",
+    "category": "non-slip-bath-mats",
+    "subCategory": "non-slip-bath-mats",
+    "amazonUrl": "https://www.amazon.com/s?k=SlipX+Solutions+Power+Grip+bath+mat&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/slipx-power-grip-bath-mat.svg",
+    "shortDescription": "365 oversized suction cups deliver the strongest grip for maximum security.",
+    "badge": "Strongest Suction",
+    "price": 14.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 20799,
+    "features": [
+      "365 suction cups (larger & stronger)",
+      "30% more coverage at 39 x 16\"",
+      "Hexagonal drain holes",
+      "Soft-touch vinyl"
+    ],
+    "pros": [
+      "Very powerful suction",
+      "Large coverage",
+      "Comfortable surface"
+    ],
+    "cons": [
+      "Needs smooth tub",
+      "Vinyl material"
+    ],
+    "bestFor": [
+      "maximum grip",
+      "larger tubs",
+      "fall prevention"
+    ],
+    "notIdealFor": [
+      "textured tubs"
+    ],
+    "specs": {
+      "size": "39 x 16 in",
+      "suctionCups": "365",
+      "drainage": "Hexagonal holes",
+      "material": "Soft-touch vinyl"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "othway-hair-catcher-bath-mat",
+    "name": "OTHWAY Bath Mat with Hair Catcher",
+    "brand": "OTHWAY",
+    "category": "non-slip-bath-mats",
+    "subCategory": "non-slip-bath-mats",
+    "amazonUrl": "https://www.amazon.com/s?k=OTHWAY+bath+mat+hair+catcher+TPE&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/othway-hair-catcher-bath-mat.svg",
+    "shortDescription": "604 drain holes (the most here) plus a detachable hair catcher to protect the drain.",
+    "badge": "Best Drainage",
+    "price": 13.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 777,
+    "features": [
+      "276 suction cups + 604 drain holes",
+      "Detachable hair catcher",
+      "Odorless TPE material",
+      "39 x 17 in"
+    ],
+    "pros": [
+      "Excellent drainage",
+      "Catches hair",
+      "Odorless material"
+    ],
+    "cons": [
+      "Fewer reviews",
+      "Needs smooth tub"
+    ],
+    "bestFor": [
+      "fast drainage",
+      "long-hair households"
+    ],
+    "notIdealFor": [
+      "textured tubs"
+    ],
+    "specs": {
+      "size": "39 x 17 in",
+      "suctionCups": "276",
+      "drainage": "604 holes",
+      "material": "TPE"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "homerella-bath-mat",
+    "name": "Homerella Anti-Mold Bath Mat",
+    "brand": "Homerella",
+    "category": "non-slip-bath-mats",
+    "subCategory": "non-slip-bath-mats",
+    "amazonUrl": "https://www.amazon.com/s?k=Homerella+anti+mold+bath+mat+drying+hooks&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/homerella-bath-mat.svg",
+    "shortDescription": "Antibacterial vinyl plus two drying hooks so the mat never sits in standing water.",
+    "badge": "Best Mold-Resistant",
+    "price": 23.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 12060,
+    "features": [
+      "Anti-mold antibacterial vinyl",
+      "250+ suction cups",
+      "Includes 2 drying hooks",
+      "BPA/latex-free, washable"
+    ],
+    "pros": [
+      "Resists mold and mildew",
+      "Drying hooks included",
+      "Strong grip"
+    ],
+    "cons": [
+      "Needs smooth tub",
+      "Vinyl material"
+    ],
+    "bestFor": [
+      "mold/mildew prevention",
+      "humid bathrooms"
+    ],
+    "notIdealFor": [
+      "textured tubs"
+    ],
+    "specs": {
+      "size": "35 x 16 in",
+      "mounting": "Suction",
+      "extras": "2 drying hooks",
+      "material": "Antibacterial vinyl"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "hargiis-bath-mat",
+    "name": "Hargiis Cut-to-Fit Bath Mat",
+    "brand": "Hargiis",
+    "category": "non-slip-bath-mats",
+    "subCategory": "non-slip-bath-mats",
+    "amazonUrl": "https://www.amazon.com/s?k=Hargiis+bath+mat+cut+to+fit+loofah&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/hargiis-bath-mat.svg",
+    "shortDescription": "A loofah-like, fast-drying mat you can trim to fit any tub or shower exactly.",
+    "badge": "Best Customizable",
+    "price": 17.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 16235,
+    "features": [
+      "Loofah-like surface texture",
+      "Hundreds of drain holes",
+      "Cut-to-fit customizable size",
+      "Fast drying"
+    ],
+    "pros": [
+      "Trim to any size",
+      "Dries fast",
+      "Gentle texture"
+    ],
+    "cons": [
+      "No suction (lay-flat)",
+      "Less grip than suction mats"
+    ],
+    "bestFor": [
+      "odd-shaped tubs",
+      "fast drying",
+      "custom fit"
+    ],
+    "notIdealFor": [
+      "those needing suction lock"
+    ],
+    "specs": {
+      "size": "24 x 16 in (trimmable)",
+      "surface": "Loofah texture",
+      "drying": "Fast",
+      "material": "PVC"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "othway-tpe-bath-mat",
+    "name": "OTHWAY TPE Ultra-Grip Bath Mat",
+    "brand": "OTHWAY",
+    "category": "non-slip-bath-mats",
+    "subCategory": "non-slip-bath-mats",
+    "amazonUrl": "https://www.amazon.com/s?k=OTHWAY+TPE+ultra+grip+bath+mat&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/othway-tpe-bath-mat.svg",
+    "shortDescription": "Recyclable, odorless TPE that air-dries in about 30 minutes with strong grip.",
+    "badge": "Best Eco / Fast-Dry",
+    "price": 11.89,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 1232,
+    "features": [
+      "198 ultra-grip suction cups + 360 drain holes",
+      "Recyclable, odorless TPR/TPE",
+      "Air-dries in 30 min",
+      "35 x 16 in"
+    ],
+    "pros": [
+      "Eco-friendly material",
+      "Dries quickly",
+      "Good grip"
+    ],
+    "cons": [
+      "Fewer reviews",
+      "Needs smooth tub"
+    ],
+    "bestFor": [
+      "eco-conscious buyers",
+      "fast drying"
+    ],
+    "notIdealFor": [
+      "textured tubs"
+    ],
+    "specs": {
+      "size": "35 x 16 in",
+      "suctionCups": "198",
+      "drainage": "360 holes",
+      "material": "TPR/TPE (recyclable)"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "yimobra-bath-mat",
+    "name": "Yimobra Extra-Long Bath Mat",
+    "brand": "Yimobra",
+    "category": "non-slip-bath-mats",
+    "subCategory": "non-slip-bath-mats",
+    "amazonUrl": "https://www.amazon.com/s?k=Yimobra+extra+long+bath+mat+40&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/yimobra-bath-mat.svg",
+    "shortDescription": "An extra-long 40-inch mat with a pebble-like massage surface and strong suction.",
+    "badge": "Best Extra-Long",
+    "price": 11.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 30470,
+    "features": [
+      "200 large suction cups + 176 drain holes",
+      "Pebble-like massage surface",
+      "Extra-long 40 x 16\"",
+      "BPA/latex/phthalate-free"
+    ],
+    "pros": [
+      "Long coverage",
+      "Comfortable texture",
+      "Affordable"
+    ],
+    "cons": [
+      "Needs smooth tub",
+      "PVC material"
+    ],
+    "bestFor": [
+      "long tubs",
+      "full coverage",
+      "value"
+    ],
+    "notIdealFor": [
+      "textured tubs"
+    ],
+    "specs": {
+      "size": "40 x 16 in",
+      "suctionCups": "200",
+      "drainage": "176 holes",
+      "material": "BPA-free"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "amazerbath-bath-mat",
+    "name": "AmazerBath Extra-Long Clear Bath Mat",
+    "brand": "AmazerBath",
+    "category": "non-slip-bath-mats",
+    "subCategory": "non-slip-bath-mats",
+    "amazonUrl": "https://www.amazon.com/s?k=AmazerBath+extra+long+clear+bath+mat&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/amazerbath-bath-mat.svg",
+    "shortDescription": "Budget-friendly, extra-long, and clear so it blends into the tub.",
+    "badge": "Best Value",
+    "price": 9.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 45982,
+    "features": [
+      "200 suction cups + 176 drain holes",
+      "Extra-long 40 x 16\" coverage",
+      "Clear, low-profile look",
+      "Machine washable"
+    ],
+    "pros": [
+      "Very affordable",
+      "Discreet clear design",
+      "Long coverage"
+    ],
+    "cons": [
+      "Needs smooth tub",
+      "PVC material"
+    ],
+    "bestFor": [
+      "budget upgrades",
+      "long tubs",
+      "subtle look"
+    ],
+    "notIdealFor": [
+      "textured tubs"
+    ],
+    "specs": {
+      "size": "40 x 16 in",
+      "suctionCups": "200",
+      "drainage": "176 holes",
+      "material": "PVC"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "teeshly-bath-mat",
+    "name": "TEESHLY Domed-Texture Bath Mat",
+    "brand": "TEESHLY",
+    "category": "non-slip-bath-mats",
+    "subCategory": "non-slip-bath-mats",
+    "amazonUrl": "https://www.amazon.com/s?k=TEESHLY+bath+mat+domed+pebble+texture&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/teeshly-bath-mat.svg",
+    "shortDescription": "A budget extra-long mat with a domed pebble texture for grip and gentle massage.",
+    "badge": "Best Budget",
+    "price": 9.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 11022,
+    "features": [
+      "200 large suction cups + 176 drain holes",
+      "Domed pebble texture",
+      "Extra-long 39 x 16\"",
+      "Machine washable vinyl"
+    ],
+    "pros": [
+      "Low price",
+      "Grippy texture",
+      "Long coverage"
+    ],
+    "cons": [
+      "Needs smooth tub",
+      "Vinyl material"
+    ],
+    "bestFor": [
+      "budget upgrades",
+      "long tubs"
+    ],
+    "notIdealFor": [
+      "textured tubs"
+    ],
+    "specs": {
+      "size": "39 x 16 in",
+      "suctionCups": "200",
+      "drainage": "176 holes",
+      "material": "Vinyl"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "bare-decor-teak-mat",
+    "name": "Bare Decor Giza Teak Shower Mat",
+    "brand": "Bare Decor",
+    "category": "non-slip-bath-mats",
+    "subCategory": "non-slip-bath-mats",
+    "amazonUrl": "https://www.amazon.com/s?k=Bare+Decor+Giza+teak+shower+mat&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/bare-decor-teak-mat.svg",
+    "shortDescription": "Solid teak that never molds or rusts — a beautiful, spa-like mat for shower floors.",
+    "badge": "Premium (Showers)",
+    "price": 120.86,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 945,
+    "features": [
+      "Solid teak, naturally high oil content",
+      "Slip-resistant slatted drainage",
+      "Oiled finish",
+      "36 x 20 in"
+    ],
+    "pros": [
+      "Never molds or rusts",
+      "Beautiful spa look",
+      "Naturally water-resistant"
+    ],
+    "cons": [
+      "Premium price",
+      "For showers, not inside tubs"
+    ],
+    "bestFor": [
+      "walk-in showers",
+      "aesthetics",
+      "long-term durability"
+    ],
+    "notIdealFor": [
+      "inside bathtubs",
+      "budgets"
+    ],
+    "specs": {
+      "size": "36 x 20 in",
+      "material": "Solid teak",
+      "drainage": "Slatted",
+      "mounting": "Lay-flat (no suction)"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "medical-guardian-mini",
+    "name": "Medical Guardian MGMini (Mobile Alert)",
+    "brand": "Medical Guardian",
+    "category": "medical-alert-systems",
+    "subCategory": "mobile-alert",
+    "amazonUrl": "https://www.amazon.com/s?k=Medical%20Guardian%20MGMini%20mobile%20medical%20alert&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/medical-guardian-mini.svg",
+    "shortDescription": "A compact under-1.2 oz mobile alert with 24/7 US operators, GPS, and up to 5-day battery.",
+    "badge": "Best Mobile",
+    "price": 39.95,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 3850,
+    "features": [
+      "24/7 U.S.-based operators",
+      "4G omniSIM picks best signal",
+      "GPS + step counter",
+      "Up to 5-day battery, optional fall detection"
+    ],
+    "pros": [
+      "Tiny and light",
+      "Strong signal coverage",
+      "Long battery"
+    ],
+    "cons": [
+      "Requires monthly monitoring plan"
+    ],
+    "bestFor": [
+      "active seniors",
+      "on-the-go safety"
+    ],
+    "specs": {
+      "type": "Mobile (cellular)",
+      "monitoring": "24/7 US-based",
+      "battery": "Up to 5 days",
+      "fallDetection": "Optional"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
   },
   {
     "id": "ezy-dose-pill-organizer",
-    "name": "Ezy Dose Weekly (7-Day) Pill Organizer",
+    "name": "Ezy Dose Push-Button AM/PM Weekly Pill Organizer",
     "brand": "Ezy Dose",
     "category": "pill-organizers",
     "subCategory": "pill-organizers",
-    "amazonUrl": "https://www.amazon.com/dp/B0007ZGUDA/?tag=seniorsaferhome-20",
-    "asin": "B0007ZGUDA",
+    "amazonUrl": "https://www.amazon.com/dp/B001OK1YUA/?tag=seniorsaferhome-20",
+    "asin": "B001OK1YUA",
     "editorialImageFallback": "/images/products/ezy-dose-pill-organizer.svg",
-    "shortDescription": "Large-compartment weekly pill organizer with easy-open lids and clear labels.",
+    "shortDescription": "Arthritis Foundation-commended one-handed push-button lids with extra-large compartments.",
     "badge": "Best Overall",
-    "price": 9.49,
-    "priceCurrency": "USD",
-    "rating": 4.7,
-    "reviewCount": 41200,
-    "features": ["7 large compartments", "Easy-press lids", "Bold day labels", "Holds large vitamins"],
-    "pros": ["Roomy compartments", "Readable labels", "Affordable"],
-    "cons": ["Single dose per day only", "Lids can pop if dropped"],
-    "bestFor": ["once-daily routines", "arthritic hands", "clear medication tracking"],
-    "notIdealFor": ["multiple doses per day"],
-    "specs": {
-      "doses": "1 per day, 7 days",
-      "compartmentSize": "Large",
-      "closure": "Press lid",
-      "material": "BPA-free plastic"
-    },
-    "reviewSlug": null,
-    "lastManualReview": "2026-06-01"
-  },
-  {
-    "id": "amplicom-large-button-phone",
-    "name": "AmpliCom PowerTel Large-Button Phone",
-    "brand": "AmpliCom",
-    "category": "large-button-phones",
-    "subCategory": "large-button-phones",
-    "amazonUrl": "https://www.amazon.com/dp/B003EXAMPLE/?tag=seniorsaferhome-20",
-    "asin": "B003EXAMPLE",
-    "editorialImageFallback": "/images/products/amplicom-phone.svg",
-    "shortDescription": "Amplified large-button phone with photo speed-dial and hearing-aid compatibility.",
-    "badge": "Best Overall",
-    "price": 64.95,
-    "priceCurrency": "USD",
-    "rating": 4.4,
-    "reviewCount": 3300,
-    "features": ["Extra-large high-contrast buttons", "Up to 40dB amplification", "Photo speed-dial keys", "Hearing-aid compatible"],
-    "pros": ["Very loud and clear", "Easy to see and press", "Photo dialing helps memory"],
-    "cons": ["Corded model", "Bulky on small tables"],
-    "bestFor": ["hearing loss", "low vision", "memory support"],
-    "notIdealFor": ["those wanting a sleek cordless"],
-    "specs": {
-      "type": "Corded landline",
-      "amplification": "Up to 40 dB",
-      "speedDial": "Photo keys",
-      "hearingAidCompatible": "Yes"
-    },
-    "reviewSlug": "philips-large-button-phone-review",
-    "lastManualReview": "2026-06-01"
-  },
-  {
-    "id": "vive-reacher-grabber",
-    "name": "Vive Reacher Grabber (32\")",
-    "brand": "Vive",
-    "category": "reachers-dressing-aids",
-    "subCategory": "reachers",
-    "amazonUrl": "https://www.amazon.com/dp/B00ULBPGM6/?tag=seniorsaferhome-20",
-    "asin": "B00ULBPGM6",
-    "editorialImageFallback": "/images/products/vive-reacher.svg",
-    "shortDescription": "Lightweight 32-inch reacher with a strong rotating jaw and magnetic tip.",
-    "badge": "Best Value",
-    "price": 16.99,
+    "price": 5.49,
     "priceCurrency": "USD",
     "rating": 4.6,
-    "reviewCount": 22400,
-    "features": ["32-inch reach", "Rotating 90° head", "Magnetic tip for keys/coins", "Ergonomic trigger"],
-    "pros": ["Strong grip", "Light to hold", "Rotating head reaches tight spots"],
-    "cons": ["Trigger needs some hand strength", "Not for very heavy items"],
-    "bestFor": ["avoiding bending", "dressing", "retrieving dropped items"],
-    "notIdealFor": ["heavy objects over 5 lb"],
+    "reviewCount": 92000,
+    "features": [
+      "One-handed push-button open",
+      "Arthritis Foundation commendation",
+      "XL AM/PM 7-day compartments",
+      "BPA-free"
+    ],
+    "pros": [
+      "Easiest open for weak hands",
+      "Roomy compartments",
+      "Inexpensive"
+    ],
+    "cons": [
+      "Twice-daily layout only"
+    ],
+    "bestFor": [
+      "arthritis",
+      "AM/PM dosing",
+      "clear tracking"
+    ],
+    "specs": {
+      "doses": "2 per day, 7 days",
+      "open": "Push-button (one-handed)",
+      "size": "XL",
+      "material": "BPA-free"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "kingpavonini-bed-rail",
+    "name": "KingPavonini L-Shape Bed Assist Rail",
+    "brand": "KingPavonini",
+    "category": "bed-rails",
+    "subCategory": "bed-rails",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX42MZJ7/?tag=seniorsaferhome-20",
+    "asin": "B0BX42MZJ7",
+    "editorialImageFallback": "/images/products/kingpavonini-bed-rail.svg",
+    "shortDescription": "ASTM-certified L-shape assist rail with an ergonomic curved handle and storage pocket.",
+    "badge": "Best Value",
+    "price": 39.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 2174,
+    "features": [
+      "380 lb capacity",
+      "ASTM F3186-17 certified",
+      "Non-slip curved handle",
+      "Adjustable height 17.7\"–20.9\""
+    ],
+    "pros": [
+      "High capacity",
+      "Easy tool-free setup",
+      "Fits Twin–King"
+    ],
+    "cons": [
+      "Assist-rail style (not full-length)"
+    ],
+    "bestFor": [
+      "getting in and out of bed",
+      "home beds"
+    ],
+    "specs": {
+      "weightCapacity": "380 lb",
+      "heightRange": "17.7-20.9 in",
+      "certification": "ASTM F3186-17",
+      "fits": "Twin–King"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "bigdolphin-bed-rail",
+    "name": "BigDolphin Curved Bed Rail (Spinnable Leg)",
+    "brand": "BigDolphin",
+    "category": "bed-rails",
+    "subCategory": "bed-rails",
+    "amazonUrl": "https://www.amazon.com/s?k=BigDolphin%20bed%20rail%20spinnable%20leg%20curved%20handle&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/bigdolphin-bed-rail.svg",
+    "shortDescription": "A spinnable leg bottom self-adjusts to uneven floors, eliminating dangerous gaps.",
+    "badge": "Best Gap Control",
+    "price": 44.79,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 430,
+    "features": [
+      "350 lb capacity, ASTM approved",
+      "30° ergonomic curved handle",
+      "Spinnable leg eliminates floor gaps",
+      "Waterproof non-slip foam grip"
+    ],
+    "pros": [
+      "Adapts to uneven floors",
+      "Comfortable curved grip",
+      "Tool-free"
+    ],
+    "cons": [
+      "Shorter handle range"
+    ],
+    "bestFor": [
+      "uneven floors",
+      "standing support"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "heightRange": "16.5-19.7 in",
+      "certification": "ASTM",
+      "grip": "Waterproof foam"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "bigdolphin-reinforced-bed-rail",
+    "name": "BigDolphin Reinforced Mattress-Grip Bed Rail",
+    "brand": "BigDolphin",
+    "category": "bed-rails",
+    "subCategory": "bed-rails",
+    "amazonUrl": "https://www.amazon.com/s?k=BigDolphin%20reinforced%20bed%20rail%20multi-layer%20foam%20mattress%20grip&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/bigdolphin-reinforced-bed-rail.svg",
+    "shortDescription": "Multi-layer non-slip foam grips the mattress, with extra reinforcement bars for stability.",
+    "badge": "Best Mattress Grip",
+    "price": 32.78,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 336,
+    "features": [
+      "350 lb capacity, ASTM approved",
+      "Multi-layer mattress-grip foam",
+      "Extra reinforcement bars",
+      "Fits 2\"–10\" mattresses"
+    ],
+    "pros": [
+      "Very secure mattress hold",
+      "Reinforced frame",
+      "Affordable"
+    ],
+    "cons": [
+      "Lower handle range"
+    ],
+    "bestFor": [
+      "thinner mattresses",
+      "secure grip"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "heightRange": "16.9-21.3 in",
+      "certification": "ASTM",
+      "fits": "2-10 in mattress"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "stander-ez-adjust-bed-rail",
+    "name": "Stander EZ Adjust Bed Rail",
+    "brand": "Stander",
+    "category": "bed-rails",
+    "subCategory": "bed-rails",
+    "amazonUrl": "https://www.amazon.com/dp/B000GUFFQS/?tag=seniorsaferhome-20",
+    "asin": "B000GUFFQS",
+    "editorialImageFallback": "/images/products/stander-ez-adjust-bed-rail.svg",
+    "shortDescription": "A full-length guard rail that adjusts 26\"–42\" and folds flat for bedding changes.",
+    "badge": "Best Full-Length",
+    "price": 119.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 7730,
+    "features": [
+      "300 lb, ASTM F3186-17 certified",
+      "Adjusts 26\"–42\" length",
+      "Folds 180° flat",
+      "Safety strap + organizer pouch"
+    ],
+    "pros": [
+      "Long fall-prevention barrier",
+      "Folds out of the way",
+      "Secures to bed frame"
+    ],
+    "cons": [
+      "Higher price",
+      "Larger footprint"
+    ],
+    "bestFor": [
+      "roll-out prevention",
+      "full-length support"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "length": "26-42 in",
+      "certification": "ASTM F3186-17",
+      "fits": "12-16 in mattress"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "yrheiper-bed-rail",
+    "name": "YrHeiper Bed Rail with Stabilizing Leg",
+    "brand": "YrHeiper",
+    "category": "bed-rails",
+    "subCategory": "bed-rails",
+    "amazonUrl": "https://www.amazon.com/s?k=YrHeiper%20bed%20rail%20stabilizing%20leg&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/yrheiper-bed-rail.svg",
+    "shortDescription": "A stabilizing floor leg plus heavy-duty tie-down straps add extra support.",
+    "badge": "Best Stabilizing Leg",
+    "price": 45.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 271,
+    "features": [
+      "350 lb, ASTM F3186-17 certified",
+      "Stabilizing floor leg",
+      "Heavy-duty tie-down straps",
+      "Ergonomic foam grip"
+    ],
+    "pros": [
+      "Extra-stable with floor leg",
+      "Secure tie-downs",
+      "Tool-free"
+    ],
+    "cons": [
+      "Fewer reviews"
+    ],
+    "bestFor": [
+      "extra stability",
+      "home beds"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "certification": "ASTM F3186-17",
+      "fits": "7.9-13 in mattress",
+      "grip": "Foam"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "yrheiper-compact-bed-rail",
+    "name": "YrHeiper Compact Bed Rail",
+    "brand": "YrHeiper",
+    "category": "bed-rails",
+    "subCategory": "bed-rails",
+    "amazonUrl": "https://www.amazon.com/s?k=YrHeiper%20compact%20bed%20rail%20tie-down%20mesh%20pocket&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/yrheiper-compact-bed-rail.svg",
+    "shortDescription": "Slides under the mattress with tie-down straps for dual-point security in a compact size.",
+    "badge": "Best Compact",
+    "price": 38.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 236,
+    "features": [
+      "350 lb, ASTM certified",
+      "Under-mattress + tie-down anchoring",
+      "Non-slip foam handle",
+      "Integrated mesh pocket"
+    ],
+    "pros": [
+      "Dual-point security",
+      "Compact",
+      "Handy pocket"
+    ],
+    "cons": [
+      "Smaller grip area"
+    ],
+    "bestFor": [
+      "compact spaces",
+      "secure anchoring"
+    ],
+    "specs": {
+      "weightCapacity": "350 lb",
+      "certification": "ASTM",
+      "mounting": "Under-mattress + straps",
+      "extras": "Mesh pocket"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "seesmile-bed-rail",
+    "name": "SEESMILE Stand-Alone Bed Rail",
+    "brand": "SEESMILE",
+    "category": "bed-rails",
+    "subCategory": "bed-rails",
+    "amazonUrl": "https://www.amazon.com/dp/B0FC5X257D/?tag=seniorsaferhome-20",
+    "asin": "B0FC5X257D",
+    "editorialImageFallback": "/images/products/seesmile-bed-rail.svg",
+    "shortDescription": "The only rail here compatible with adjustable bed frames — padded handles on both sides.",
+    "badge": "Best for Adjustable Beds",
+    "price": 46.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 131,
+    "features": [
+      "300 lb capacity",
+      "Adjustable height + width",
+      "Works with adjustable bed frames",
+      "Padded handles both sides"
+    ],
+    "pros": [
+      "Fits adjustable beds",
+      "Support on both sides",
+      "Tool-free"
+    ],
+    "cons": [
+      "Lower 300 lb capacity"
+    ],
+    "bestFor": [
+      "adjustable beds",
+      "two-sided support"
+    ],
+    "specs": {
+      "weightCapacity": "300 lb",
+      "type": "Stand-alone frame",
+      "fits": "Twin–King + adjustable",
+      "extras": "2 storage bags"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "rms-reacher-2pack",
+    "name": "RMS 32\" Reacher Grabber (2-Pack)",
+    "brand": "RMS",
+    "category": "reachers-dressing-aids",
+    "subCategory": "reachers",
+    "amazonUrl": "https://www.amazon.com/dp/B07PHL4DKP/?tag=seniorsaferhome-20",
+    "asin": "B07PHL4DKP",
+    "editorialImageFallback": "/images/products/rms-reacher-2pack.svg",
+    "shortDescription": "The most arthritis-friendly grabber: a full-hand trigger and rotating jaw, two to a pack.",
+    "badge": "Best Overall",
+    "price": 35.99,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 27982,
+    "features": [
+      "Rotating rubberized jaw",
+      "Full-hand ergonomic trigger",
+      "Lightweight rust-resistant aluminum",
+      "Clips to walker/wheelchair"
+    ],
+    "pros": [
+      "Easy for low grip strength",
+      "Two for every room",
+      "Strong grip"
+    ],
+    "cons": [
+      "Not for heavy items"
+    ],
+    "bestFor": [
+      "arthritis",
+      "avoiding bending",
+      "dressing"
+    ],
     "specs": {
       "length": "32 in",
-      "rotatingHead": "Yes (90°)",
-      "magneticTip": "Yes",
+      "jaw": "Rotating rubberized",
+      "trigger": "Full-hand",
       "material": "Aluminum"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-01"
+    "lastManualReview": "2026-06-14"
   },
   {
-    "id": "drive-medical-bath-bench",
-    "name": "Drive Medical Bath Bench (No Back)",
-    "brand": "Drive Medical",
-    "category": "shower-chairs",
-    "subCategory": "shower-chairs",
-    "amazonUrl": "https://www.amazon.com/dp/B001M0J3EXAMP/?tag=seniorsaferhome-20",
-    "asin": "B001M0J3EXAMP",
-    "editorialImageFallback": "/images/products/drive-bath-bench.svg",
-    "shortDescription": "Compact backless shower bench for tight stalls and easy maneuvering.",
-    "badge": "Best for Small Showers",
-    "price": 29.99,
+    "id": "rms-reacher-combo",
+    "name": "RMS 34\" + 21\" Reacher Combo",
+    "brand": "RMS",
+    "category": "reachers-dressing-aids",
+    "subCategory": "reachers",
+    "amazonUrl": "https://www.amazon.com/dp/B07PGK2BH1/?tag=seniorsaferhome-20",
+    "asin": "B07PGK2BH1",
+    "editorialImageFallback": "/images/products/rms-reacher-combo.svg",
+    "shortDescription": "A long reacher for standing plus a short one for seated use — wheelchair, recliner, or bed.",
+    "badge": "Best Standing + Seated",
+    "price": 35.99,
     "priceCurrency": "USD",
-    "rating": 4.5,
-    "reviewCount": 11200,
-    "features": ["Backless space-saving design", "Adjustable legs", "Drainage holes", "Aluminum frame"],
-    "pros": ["Fits small stalls", "Lightweight", "Easy to store"],
-    "cons": ["No back support", "Less comfortable for long use"],
-    "bestFor": ["small shower stalls", "good upper-body strength", "quick showers"],
-    "notIdealFor": ["seniors needing back support"],
+    "rating": 4.8,
+    "reviewCount": 11713,
+    "features": [
+      "34\" long-reach + 21\" short grabber",
+      "Rotating jaw",
+      "Full-hand ergonomic trigger",
+      "Soft non-slip grip"
+    ],
+    "pros": [
+      "Covers standing and seated",
+      "Arthritis-friendly",
+      "Versatile"
+    ],
+    "cons": [
+      "Two lengths to store"
+    ],
+    "bestFor": [
+      "wheelchair/recliner use",
+      "mixed standing and seated"
+    ],
     "specs": {
-      "weightCapacity": "300 lb",
-      "seatWidth": "16 in",
-      "heightRange": "15-20 in",
-      "material": "Aluminum / plastic"
+      "length": "34 in + 21 in",
+      "jaw": "Rotating",
+      "trigger": "Full-hand",
+      "material": "Aluminum"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-01"
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "rms-foldable-reacher",
+    "name": "RMS 34\" Foldable Reacher",
+    "brand": "RMS",
+    "category": "reachers-dressing-aids",
+    "subCategory": "reachers",
+    "amazonUrl": "https://www.amazon.com/s?k=RMS%2034%20inch%20foldable%20reacher%20grabber&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/rms-foldable-reacher.svg",
+    "shortDescription": "Folds compact for a walker bag or bedside, with a rotating jaw and steel-cable mechanism.",
+    "badge": "Best Budget",
+    "price": 9.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 19289,
+    "features": [
+      "Folds compact",
+      "Rotating rubberized jaw",
+      "Full-hand ergonomic trigger",
+      "Steel-cable mechanism"
+    ],
+    "pros": [
+      "Very affordable",
+      "Packs away small",
+      "Reliable grip"
+    ],
+    "cons": [
+      "Single unit"
+    ],
+    "bestFor": [
+      "travel",
+      "walker storage",
+      "budget"
+    ],
+    "specs": {
+      "length": "34 in",
+      "folds": "Yes",
+      "jaw": "Rotating",
+      "material": "Aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "rms-featherweight-reacher",
+    "name": "RMS Featherweight 32\" Reacher (2-Pack)",
+    "brand": "RMS",
+    "category": "reachers-dressing-aids",
+    "subCategory": "reachers",
+    "amazonUrl": "https://www.amazon.com/s?k=RMS%20featherweight%20reacher%20grabber%202%20pack%20magnetic&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/rms-featherweight-reacher.svg",
+    "shortDescription": "Ultra-light aluminum ideal for severe arthritis, with a wide claw and magnetic tip.",
+    "badge": "Best for Severe Arthritis",
+    "price": 30.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 24226,
+    "features": [
+      "Ultra-lightweight aluminum",
+      "Textured wide rubber claw",
+      "Magnetic tip for keys/coins",
+      "Clip for cane/walker"
+    ],
+    "pros": [
+      "Easiest to lift",
+      "Wide secure claw",
+      "Two-pack"
+    ],
+    "cons": [
+      "Lighter-duty"
+    ],
+    "bestFor": [
+      "severe arthritis",
+      "weak grip"
+    ],
+    "specs": {
+      "length": "32 in",
+      "weight": "Ultra-light",
+      "tip": "Magnetic",
+      "material": "Aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "kekoy-36-reacher",
+    "name": "Kekoy 36\" Rotating Reacher",
+    "brand": "Kekoy",
+    "category": "reachers-dressing-aids",
+    "subCategory": "reachers",
+    "amazonUrl": "https://www.amazon.com/s?k=Kekoy%2036%20inch%20reacher%20grabber%20360%20rotating%20claw&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/kekoy-36-reacher.svg",
+    "shortDescription": "A 360° anti-slip rotating jaw reaches awkward angles; folds under 12\" with a magnet.",
+    "badge": "Best Rotating Jaw",
+    "price": 15.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 4565,
+    "features": [
+      "360° anti-slip rotating jaw",
+      "4\" wide claw + magnet",
+      "Folds under 12\"",
+      "FSA/HSA eligible, walker strap"
+    ],
+    "pros": [
+      "Reaches tight angles",
+      "Compact fold",
+      "Affordable"
+    ],
+    "cons": [
+      "Lighter-duty"
+    ],
+    "bestFor": [
+      "awkward angles",
+      "travel"
+    ],
+    "specs": {
+      "length": "36 in",
+      "jaw": "360° rotating",
+      "folds": "Under 12 in",
+      "tip": "Magnet"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "phantawell-dressing-stick",
+    "name": "Phantawell 2-in-1 Dressing Stick & Shoe Horn",
+    "brand": "Phantawell",
+    "category": "reachers-dressing-aids",
+    "subCategory": "dressing-aids",
+    "amazonUrl": "https://www.amazon.com/s?k=Phantawell%20dressing%20stick%20shoe%20horn%20adjustable%20arthritis&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/phantawell-dressing-stick.svg",
+    "shortDescription": "Dress without bending — an adjustable stick with an S-hook for pants, socks, and shirts.",
+    "badge": "Best Dressing Stick",
+    "price": 9.79,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 3747,
+    "features": [
+      "Adjustable 22.5\"–35.5\"",
+      "S-hook for pants/socks/shirts",
+      "No sharp edges",
+      "Arthritis-friendly"
+    ],
+    "pros": [
+      "No bending or reaching",
+      "2-in-1 with shoe horn",
+      "Gentle on hands"
+    ],
+    "cons": [
+      "Single purpose tool"
+    ],
+    "bestFor": [
+      "post hip/knee surgery",
+      "dressing without bending"
+    ],
+    "specs": {
+      "length": "22.5-35.5 in",
+      "functions": "Dressing stick + shoe horn",
+      "edges": "Rounded",
+      "use": "Wheelchair accessible"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "rms-sock-aid",
+    "name": "RMS Deluxe Sock Aid",
+    "brand": "RMS",
+    "category": "reachers-dressing-aids",
+    "subCategory": "dressing-aids",
+    "amazonUrl": "https://www.amazon.com/dp/B00U9TWCXU/?tag=seniorsaferhome-20",
+    "asin": "B00U9TWCXU",
+    "editorialImageFallback": "/images/products/rms-sock-aid.svg",
+    "shortDescription": "Put socks on without bending — a flexible shell built for weak hand strength.",
+    "badge": "Best Sock Aid",
+    "price": 9.97,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 41830,
+    "features": [
+      "Flexible contoured shell",
+      "Slip-resistant foam pad",
+      "Adjustable rope length",
+      "Works with most regular socks"
+    ],
+    "pros": [
+      "No bending required",
+      "Designed for weak grip",
+      "Hugely popular"
+    ],
+    "cons": [
+      "Takes practice at first"
+    ],
+    "bestFor": [
+      "post-surgery recovery",
+      "arthritis",
+      "limited mobility"
+    ],
+    "specs": {
+      "type": "Sock aid",
+      "shell": "Flexible contoured",
+      "rope": "Adjustable",
+      "socks": "Most regular"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "auvon-spring-open-pill-organizer",
+    "name": "AUVON Spring-Open Weekly Pill Organizer",
+    "brand": "AUVON",
+    "category": "pill-organizers",
+    "subCategory": "pill-organizers",
+    "amazonUrl": "https://www.amazon.com/dp/B07794YMY7/?tag=seniorsaferhome-20",
+    "asin": "B07794YMY7",
+    "editorialImageFallback": "/images/products/auvon-spring-open-pill-organizer.svg",
+    "shortDescription": "Spring-assisted lids pop open one-handed, with color-coded days and XL compartments.",
+    "badge": "Best Spring-Open",
+    "price": 5.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 59000,
+    "features": [
+      "Spring-assisted auto-open lids",
+      "One-handed operation",
+      "Color-coded days",
+      "XL compartments (holds 8 fish oils)"
+    ],
+    "pros": [
+      "Pops open by itself",
+      "Great for arthritis",
+      "Big compartments"
+    ],
+    "cons": [
+      "Once-daily layout"
+    ],
+    "bestFor": [
+      "arthritis",
+      "large vitamins",
+      "once-daily"
+    ],
+    "specs": {
+      "doses": "1 per day, 7 days",
+      "open": "Spring-assisted",
+      "days": "Color-coded",
+      "size": "XL"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "auvon-180-pill-organizer",
+    "name": "AUVON 180° Easy-Fill AM/PM Pill Organizer",
+    "brand": "AUVON",
+    "category": "pill-organizers",
+    "subCategory": "pill-organizers",
+    "amazonUrl": "https://www.amazon.com/s?k=AUVON%20180%20degree%20same%20side%20opening%20AM%20PM%20pill%20organizer&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/auvon-180-pill-organizer.svg",
+    "shortDescription": "Lids open 180° and stay open on the same side for effortless weekly filling.",
+    "badge": "Best for Easy Filling",
+    "price": 7.99,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 24000,
+    "features": [
+      "180° same-side opening",
+      "Stays fully open for filling",
+      "AM/PM 14 compartments",
+      "Detachable daily dispensers"
+    ],
+    "pros": [
+      "Easiest to fill",
+      "Take one day on the go",
+      "High rated"
+    ],
+    "cons": [
+      "Twice-daily layout"
+    ],
+    "bestFor": [
+      "easy filling",
+      "AM/PM dosing",
+      "travel days"
+    ],
+    "specs": {
+      "doses": "2 per day, 7 days",
+      "open": "180° same-side",
+      "extras": "Detachable daily pods",
+      "privacy": "Black tint"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "auvon-moisture-proof-pill-organizer",
+    "name": "AUVON Moisture-Proof 4x-Daily Pill Organizer",
+    "brand": "AUVON",
+    "category": "pill-organizers",
+    "subCategory": "pill-organizers",
+    "amazonUrl": "https://www.amazon.com/dp/B074MC6HJR/?tag=seniorsaferhome-20",
+    "asin": "B074MC6HJR",
+    "editorialImageFallback": "/images/products/auvon-moisture-proof-pill-organizer.svg",
+    "shortDescription": "Snap-lock, moisture-proof daily containers keep pills dry and travel-ready.",
+    "badge": "Best Moisture-Proof",
+    "price": 9.98,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 22000,
+    "features": [
+      "Moisture-proof snap-lock lids",
+      "7 removable daily containers",
+      "Translucent for monitoring",
+      "4 times a day"
+    ],
+    "pros": [
+      "Keeps pills dry",
+      "Grab one day to go",
+      "Easy to monitor"
+    ],
+    "cons": [
+      "Larger footprint"
+    ],
+    "bestFor": [
+      "4x-daily dosing",
+      "travel",
+      "humid climates"
+    ],
+    "specs": {
+      "doses": "4 per day, 7 days",
+      "seal": "Moisture-proof snap-lock",
+      "containers": "7 removable",
+      "view": "Translucent"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "daviky-pill-organizer",
+    "name": "Daviky 7-Day 3x-Daily Pill Organizer",
+    "brand": "Daviky",
+    "category": "pill-organizers",
+    "subCategory": "pill-organizers",
+    "amazonUrl": "https://www.amazon.com/dp/B08ZH7DD36/?tag=seniorsaferhome-20",
+    "asin": "B08ZH7DD36",
+    "editorialImageFallback": "/images/products/daviky-pill-organizer.svg",
+    "shortDescription": "A 21-compartment three-times-daily organizer with bold permanent labels and a protective shell.",
+    "badge": "Best 3x-Daily",
+    "price": 7.98,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 10000,
+    "features": [
+      "7-day, 3x daily (21 compartments)",
+      "Bold permanent printing",
+      "Double-protection outer shell",
+      "Detachable daily pods"
+    ],
+    "pros": [
+      "Labels never rub off",
+      "Protective case",
+      "Take a day at a time"
+    ],
+    "cons": [
+      "Three-dose layout only"
+    ],
+    "bestFor": [
+      "3x-daily dosing",
+      "clear labeling"
+    ],
+    "specs": {
+      "doses": "3 per day, 7 days",
+      "compartments": "21",
+      "labels": "Permanent",
+      "extras": "Detachable pods"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "pillex-pill-organizer",
+    "name": "Pillex Locking-Latch Weekly Pill Organizer",
+    "brand": "Pillex",
+    "category": "pill-organizers",
+    "subCategory": "pill-organizers",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCZHDCG8/?tag=seniorsaferhome-20",
+    "asin": "B0DCZHDCG8",
+    "editorialImageFallback": "/images/products/pillex-pill-organizer.svg",
+    "shortDescription": "A mountaineering-style latch keeps lids from popping open in a bag, with a humidity seal.",
+    "badge": "Best for Travel",
+    "price": 7.99,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 2700,
+    "features": [
+      "Locking latch (won’t pop open)",
+      "180°+ open lid",
+      "AAA-grade humidity seal",
+      "Slim pocket profile"
+    ],
+    "pros": [
+      "Travel-secure",
+      "Stays sealed against humidity",
+      "Slim"
+    ],
+    "cons": [
+      "Smaller compartments"
+    ],
+    "bestFor": [
+      "travel",
+      "purses/bags",
+      "humid climates"
+    ],
+    "specs": {
+      "lock": "Latch",
+      "seal": "Humidity",
+      "lid": "180°+ open",
+      "profile": "Slim"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "lifewit-monthly-pill-organizer",
+    "name": "Lifewit 28-Day Monthly Pill Organizer",
+    "brand": "Lifewit",
+    "category": "pill-organizers",
+    "subCategory": "pill-organizers",
+    "amazonUrl": "https://www.amazon.com/dp/B0B466L59F/?tag=seniorsaferhome-20",
+    "asin": "B0B466L59F",
+    "editorialImageFallback": "/images/products/lifewit-monthly-pill-organizer.svg",
+    "shortDescription": "A full month of doses in four detachable 7-day boxes with extra-large compartments.",
+    "badge": "Best Monthly",
+    "price": 9.99,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 3500,
+    "features": [
+      "28-day monthly capacity",
+      "4 detachable 7-day boxes",
+      "XL compartments (9 fish oils each)",
+      "Opaque privacy protection"
+    ],
+    "pros": [
+      "Fill once a month",
+      "Grab a week at a time",
+      "Roomy"
+    ],
+    "cons": [
+      "Bulkier to store"
+    ],
+    "bestFor": [
+      "monthly filling",
+      "large vitamin counts"
+    ],
+    "specs": {
+      "doses": "1 per day, 28 days",
+      "boxes": "4 x 7-day",
+      "size": "XL",
+      "privacy": "Opaque"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "barhon-pill-organizer",
+    "name": "Barhon Extra-Large Weekly Pill Organizer",
+    "brand": "Barhon",
+    "category": "pill-organizers",
+    "subCategory": "pill-organizers",
+    "amazonUrl": "https://www.amazon.com/dp/B09CL246NW/?tag=seniorsaferhome-20",
+    "asin": "B09CL246NW",
+    "editorialImageFallback": "/images/products/barhon-pill-organizer.svg",
+    "shortDescription": "The biggest single-dose compartments here — up to 35 capsules each — with etched labels.",
+    "badge": "Largest Compartments",
+    "price": 7.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 10000,
+    "features": [
+      "Holds 35 capsules per compartment",
+      "Permanent etched labels",
+      "Protruding lid edges for grip",
+      "Light-protected frosted body"
+    ],
+    "pros": [
+      "Huge capacity",
+      "Labels never fade",
+      "Easy-grip lids"
+    ],
+    "cons": [
+      "Once-daily layout"
+    ],
+    "bestFor": [
+      "high pill counts",
+      "arthritic grip"
+    ],
+    "specs": {
+      "doses": "1 per day, 7 days",
+      "capacity": "35 capsules/compartment",
+      "labels": "Etched",
+      "body": "Frosted (light-protected)"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "att-cd4930-phone",
+    "name": "AT&T CD4930 Large-Button Corded Phone",
+    "brand": "AT&T",
+    "category": "large-button-phones",
+    "subCategory": "large-button-phones",
+    "amazonUrl": "https://www.amazon.com/s?k=AT%26T%20CD4930%20large%20button%20corded%20phone%20answering%20machine&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/att-cd4930-phone.svg",
+    "shortDescription": "A big-button corded phone with a tilt display, audio-assist boost, and answering machine.",
+    "badge": "Best Overall Corded",
+    "price": 50.59,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 14474,
+    "features": [
+      "Extra-large backlit tilt display",
+      "Audio-assist volume boost",
+      "4-preset equalizer profiles",
+      "Answering machine, hearing-aid compatible"
+    ],
+    "pros": [
+      "Great everyday value",
+      "Adjustable sound profiles",
+      "Easy to read and hear"
+    ],
+    "cons": [
+      "Corded only"
+    ],
+    "bestFor": [
+      "everyday use",
+      "mild–moderate hearing loss"
+    ],
+    "specs": {
+      "type": "Corded",
+      "amplification": "Audio-assist boost",
+      "display": "Backlit tilt",
+      "hac": "Yes"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "clarity-p300-phone",
+    "name": "Clarity P300 Amplified Photo Phone",
+    "brand": "Clarity",
+    "category": "large-button-phones",
+    "subCategory": "large-button-phones",
+    "amazonUrl": "https://www.amazon.com/s?k=Clarity%20P300%20amplified%20phone%20photo%20memory&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/clarity-p300-phone.svg",
+    "shortDescription": "Amplifies up to 26 dB with high-frequency enhancement and 9 photo-memory buttons.",
+    "badge": "Best for High-Frequency Loss",
+    "price": 55.65,
+    "priceCurrency": "USD",
+    "reviewCount": 892,
+    "features": [
+      "Up to 26 dB amplification",
+      "High-frequency enhancement",
+      "75 dB ringer + visual flash",
+      "9 photo memory buttons"
+    ],
+    "pros": [
+      "Targets high-frequency loss",
+      "Works during power outages",
+      "Photo dialing"
+    ],
+    "cons": [
+      "Corded"
+    ],
+    "bestFor": [
+      "high-frequency hearing loss",
+      "memory support"
+    ],
+    "specs": {
+      "type": "Corded (line-powered)",
+      "amplification": "Up to 26 dB",
+      "ringer": "75 dB + flash",
+      "hac": "Yes"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "serene-hd40p-phone",
+    "name": "Serene Innovations HD40P Amplified Photo Phone",
+    "brand": "Serene Innovations",
+    "category": "large-button-phones",
+    "subCategory": "large-button-phones",
+    "amazonUrl": "https://www.amazon.com/s?k=Serene%20Innovations%20HD40P%20amplified%20photo%20phone&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/serene-hd40p-phone.svg",
+    "shortDescription": "Nine photo speed-dial buttons make calling intuitive for dementia and memory loss.",
+    "badge": "Best for Dementia",
+    "price": 115.95,
+    "priceCurrency": "USD",
+    "reviewCount": 778,
+    "features": [
+      "26 dB amplification",
+      "85 dB ringer + flashing light",
+      "9 photo speed-dial buttons",
+      "Answering machine"
+    ],
+    "pros": [
+      "Dementia/Alzheimer’s friendly",
+      "Bright visual ringer",
+      "Loud and clear"
+    ],
+    "cons": [
+      "Higher price",
+      "Corded"
+    ],
+    "bestFor": [
+      "dementia/memory loss",
+      "low vision"
+    ],
+    "specs": {
+      "type": "Corded (line-powered)",
+      "amplification": "26 dB",
+      "ringer": "85 dB + flash",
+      "dialing": "9 photo buttons"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "vtech-sn5147-phone",
+    "name": "VTech SN5147 Amplified Corded/Cordless Combo",
+    "brand": "VTech",
+    "category": "large-button-phones",
+    "subCategory": "large-button-phones",
+    "amazonUrl": "https://www.amazon.com/s?k=VTech%20SN5147%20amplified%20corded%20cordless%20senior%20phone&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/vtech-sn5147-phone.svg",
+    "shortDescription": "A corded base plus cordless handset with a 90 dB ringer and one-touch 50 dB audio boost.",
+    "badge": "Best Cordless Combo",
+    "price": 109.95,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 2333,
+    "features": [
+      "90 dB ringer",
+      "50 dB one-touch audio boost",
+      "Photo speed dial + visual flash ringer",
+      "1,000-number call blocker"
+    ],
+    "pros": [
+      "Very loud",
+      "Blocks robocalls",
+      "Base + cordless"
+    ],
+    "cons": [
+      "Pricier"
+    ],
+    "bestFor": [
+      "hearing loss",
+      "whole-home use",
+      "robocall blocking"
+    ],
+    "specs": {
+      "type": "Corded + cordless",
+      "ringer": "90 dB",
+      "boost": "50 dB",
+      "extras": "Call blocker, answering machine"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "vtech-sn5127-phone",
+    "name": "VTech SN5127 Amplified Cordless Phone",
+    "brand": "VTech",
+    "category": "large-button-phones",
+    "subCategory": "large-button-phones",
+    "amazonUrl": "https://www.amazon.com/s?k=VTech%20SN5127%20amplified%20cordless%20big%20button%20phone&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/vtech-sn5127-phone.svg",
+    "shortDescription": "A loud, big-button cordless phone with audio boost, photo dial, and slow message playback.",
+    "badge": "Best Value Cordless",
+    "price": 59.96,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 4127,
+    "features": [
+      "90 dB ringer",
+      "50 dB audio boost",
+      "High-contrast big buttons",
+      "4 photo speed dials + robocall blocking"
+    ],
+    "pros": [
+      "Affordable and loud",
+      "Slow playback helps comprehension",
+      "Robocall blocking"
+    ],
+    "cons": [
+      "Cordless needs charging"
+    ],
+    "bestFor": [
+      "hearing loss",
+      "value",
+      "cordless convenience"
+    ],
+    "specs": {
+      "type": "Cordless",
+      "ringer": "90 dB",
+      "boost": "50 dB",
+      "extras": "Robocall block, slow playback"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "vtech-sn5127-bundle-phone",
+    "name": "VTech SN5127 + SN5107 Two-Handset Bundle",
+    "brand": "VTech",
+    "category": "large-button-phones",
+    "subCategory": "large-button-phones",
+    "amazonUrl": "https://www.amazon.com/s?k=VTech%20SN5127%20SN5107%202%20handset%20amplified%20phone%20bundle&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/vtech-sn5127-bundle-phone.svg",
+    "shortDescription": "Two handsets for whole-home coverage, with battery backup during power outages.",
+    "badge": "Best Whole-Home",
+    "price": 96.91,
+    "priceCurrency": "USD",
+    "features": [
+      "Two-handset whole-home coverage",
+      "90 dB ringer, 50 dB audio boost",
+      "Photo speed dial",
+      "Battery backup during outages"
+    ],
+    "pros": [
+      "Coverage in two rooms",
+      "Stays working in outages",
+      "Hearing-aid compatible"
+    ],
+    "cons": [
+      "Cordless needs charging"
+    ],
+    "bestFor": [
+      "larger homes",
+      "two-room coverage"
+    ],
+    "specs": {
+      "type": "Cordless (2 handsets)",
+      "ringer": "90 dB",
+      "boost": "50 dB",
+      "backup": "Battery during outages"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "geemarc-ampli550-phone",
+    "name": "Geemarc Ampli550 Amplified Phone",
+    "brand": "Geemarc",
+    "category": "large-button-phones",
+    "subCategory": "large-button-phones",
+    "amazonUrl": "https://www.amazon.com/s?k=Geemarc%20Ampli550%20amplified%20phone%20talking%20caller%20ID&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/geemarc-ampli550-phone.svg",
+    "shortDescription": "Up to 55 dB amplification with talking caller ID and a talking keypad for severe hearing loss.",
+    "badge": "Best for Severe Loss",
+    "price": 167.64,
+    "priceCurrency": "USD",
+    "features": [
+      "55 dB TrueSound amplification",
+      "95 dB ringer",
+      "Talking caller ID + talking keypad",
+      "3 color-coded emergency buttons"
+    ],
+    "pros": [
+      "Powerful amplification",
+      "Announces callers aloud",
+      "Audiologist-trusted brand"
+    ],
+    "cons": [
+      "Premium price"
+    ],
+    "bestFor": [
+      "severe hearing loss",
+      "low vision"
+    ],
+    "specs": {
+      "type": "Corded",
+      "amplification": "55 dB",
+      "ringer": "95 dB",
+      "extras": "Talking caller ID + keypad"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "geemarc-amplipower60-phone",
+    "name": "Geemarc AmpliPOWER60 Ultra-Amplified Phone",
+    "brand": "Geemarc",
+    "category": "large-button-phones",
+    "subCategory": "large-button-phones",
+    "amazonUrl": "https://www.amazon.com/s?k=Geemarc%20AmpliPOWER60%20loudest%20amplified%20phone%2065dB&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/geemarc-amplipower60-phone.svg",
+    "shortDescription": "The loudest phone here: up to 65 dB TrueSound amplification with an extra-bright call strobe.",
+    "badge": "Loudest Available",
+    "price": 189,
+    "priceCurrency": "USD",
+    "features": [
+      "65 dB TrueSound amplification",
+      "95 dB ringer",
+      "Extra-bright incoming-call strobe",
+      "3 color-coded emergency keys"
+    ],
+    "pros": [
+      "Maximum amplification",
+      "Impossible-to-miss ringer",
+      "40+ year trusted brand"
+    ],
+    "cons": [
+      "Highest price"
+    ],
+    "bestFor": [
+      "profound hearing loss",
+      "maximum volume"
+    ],
+    "specs": {
+      "type": "Corded",
+      "amplification": "65 dB",
+      "ringer": "95 dB + strobe",
+      "dialing": "9 quick-dial keys"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "hamilton-captel-2400i-phone",
+    "name": "Hamilton CapTel 2400i Captioned Phone",
+    "brand": "Hamilton CapTel",
+    "category": "large-button-phones",
+    "subCategory": "large-button-phones",
+    "amazonUrl": "https://www.amazon.com/s?k=Hamilton%20CapTel%202400i%20captioned%20phone%20touchscreen&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/hamilton-captel-2400i-phone.svg",
+    "shortDescription": "A large touchscreen shows real-time captions of every word the caller says.",
+    "badge": "Best Captioned",
+    "price": 75,
+    "priceCurrency": "USD",
+    "rating": 4.3,
+    "reviewCount": 1896,
+    "features": [
+      "Real-time word-for-word captions",
+      "Large touch screen",
+      "40 dB amplification + Wi-Fi",
+      "Captioned answering machine"
+    ],
+    "pros": [
+      "Read what you can’t hear",
+      "Free federally-funded captions",
+      "Touchscreen"
+    ],
+    "cons": [
+      "Requires internet + hearing-loss registration"
+    ],
+    "bestFor": [
+      "severe/profound hearing loss",
+      "reading captions"
+    ],
+    "specs": {
+      "type": "Captioned (Wi-Fi)",
+      "captions": "Real-time",
+      "amplification": "40 dB",
+      "display": "Touch screen"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "hamilton-captel-840i-phone",
+    "name": "Hamilton CapTel 840i Captioned Phone",
+    "brand": "Hamilton CapTel",
+    "category": "large-button-phones",
+    "subCategory": "large-button-phones",
+    "amazonUrl": "https://www.amazon.com/s?k=Hamilton%20CapTel%20840i%20captioned%20phone%20large%20button&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/hamilton-captel-840i-phone.svg",
+    "shortDescription": "Large-button captioned phone with real-time captions and a captioned answering machine.",
+    "badge": "Best Captioned (Budget)",
+    "price": 75,
+    "priceCurrency": "USD",
+    "reviewCount": 464,
+    "features": [
+      "Real-time captions (auto or operator)",
+      "Large-button navigation",
+      "40 dB amplification",
+      "95+ contact storage"
+    ],
+    "pros": [
+      "Simple button navigation",
+      "Free caption service",
+      "Works with analog/VoIP/DSL"
+    ],
+    "cons": [
+      "Requires hearing-loss registration"
+    ],
+    "bestFor": [
+      "severe hearing loss",
+      "button (non-touch) users"
+    ],
+    "specs": {
+      "type": "Captioned",
+      "captions": "Real-time",
+      "amplification": "40 dB",
+      "contacts": "95+"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
+  },
+  {
+    "id": "calltou-caregiver-pager",
+    "name": "CallToU Wireless Caregiver Pager (2+2 Set)",
+    "brand": "CallToU",
+    "category": "medical-alert-systems",
+    "subCategory": "caregiver-pager",
+    "amazonUrl": "https://www.amazon.com/s?k=CallToU%20caregiver%20pager%20call%20button%20system&tag=seniorsaferhome-20",
+    "asin": "",
+    "editorialImageFallback": "/images/products/calltou-caregiver-pager.svg",
+    "shortDescription": "No monthly fee — a wearable call button pages a caregiver in the same home, up to 500 ft.",
+    "badge": "Best No-Fee (Caregiver Present)",
+    "price": 37.79,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 7141,
+    "features": [
+      "500+ ft range",
+      "55 ringtones, up to 110 dB",
+      "5 volume levels, IP55 waterproof",
+      "Wearable pendant button + plug-in receivers"
+    ],
+    "pros": [
+      "No monthly fee",
+      "Loud and adjustable",
+      "Simple to use"
+    ],
+    "cons": [
+      "Does NOT dispatch 911 — alerts a caregiver only"
+    ],
+    "bestFor": [
+      "caregiver in the home",
+      "no-subscription needs"
+    ],
+    "specs": {
+      "type": "Caregiver pager",
+      "range": "500+ ft",
+      "volume": "Up to 110 dB",
+      "monthlyFee": "None"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14"
   }
 ]

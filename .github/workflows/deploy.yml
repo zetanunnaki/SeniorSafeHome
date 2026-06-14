@@ -27,11 +27,9 @@ jobs:
       NEXT_PUBLIC_CUSTOM_DOMAIN: ${{ vars.CUSTOM_DOMAIN }}
       NEXT_PUBLIC_AMAZON_TAG: ${{ vars.AMAZON_TAG || 'seniorsaferhome-20' }}
       # --- Build-time Amazon enrichment (optional secrets; build works without) ---
-      AMAZON_ACCESS_KEY: ${{ secrets.AMAZON_ACCESS_KEY }}
-      AMAZON_SECRET_KEY: ${{ secrets.AMAZON_SECRET_KEY }}
+      AMAZON_CREATORS_CLIENT_ID: ${{ secrets.AMAZON_CREATORS_CLIENT_ID }}
+      AMAZON_CREATORS_CLIENT_SECRET: ${{ secrets.AMAZON_CREATORS_CLIENT_SECRET }}
       AMAZON_PARTNER_TAG: ${{ secrets.AMAZON_PARTNER_TAG || vars.AMAZON_TAG }}
-      AMAZON_HOST: ${{ vars.AMAZON_HOST || 'webservices.amazon.com' }}
-      AMAZON_REGION: ${{ vars.AMAZON_REGION || 'us-east-1' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
