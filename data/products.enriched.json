@@ -1416,8 +1416,8 @@
     "id": "homland-toilet-safety-frame",
     "name": "HOMLAND Freestanding Toilet Safety Frame",
     "brand": "HOMLAND",
-    "category": "raised-toilet-seats",
-    "subCategory": "toilet-safety-frames",
+    "category": "toilet-safety-frames",
+    "subCategory": "freestanding",
     "amazonUrl": "https://www.amazon.com/dp/B0DSBMZMX1?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
     "asin": "B0DSBMZMX1",
     "editorialImageFallback": "/images/products/homland-toilet-safety-frame.svg",
@@ -10365,6 +10365,1041 @@
     "lastManualReview": "2026-06-14",
     "asinSource": "searchItems",
     "image": "https://m.media-amazon.com/images/I/41pG9XjAxjL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "lianjindun-toilet-safety-frame",
+    "name": "Lianjindun Adjustable Toilet Safety Frame",
+    "brand": "Lianjindun",
+    "category": "toilet-safety-frames",
+    "subCategory": "freestanding",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBJMPYZX?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0CBJMPYZX",
+    "editorialImageFallback": "/images/products/lianjindun-toilet-safety-frame.svg",
+    "shortDescription": "A freestanding aluminum frame that adjusts in height and width to fit any toilet, with soft foam grips, suction-cup and rubber feet, and a fold for travel.",
+    "badge": "Best Overall",
+    "price": 44.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 3795,
+    "features": [
+      "Adjustable height 24–31\" & width 20–25\"",
+      "350 lb capacity, corrosion-resistant aluminum",
+      "Soft foam grips",
+      "Suction cups + rubber feet, foldable"
+    ],
+    "pros": [
+      "Fits virtually any toilet",
+      "No tools or wall damage",
+      "Folds for travel"
+    ],
+    "cons": [
+      "Takes some floor space"
+    ],
+    "bestFor": [
+      "renters",
+      "sit-to-stand help",
+      "travel"
+    ],
+    "specs": {
+      "height": "24–31\"",
+      "width": "20–25\"",
+      "capacity": "350 lb",
+      "material": "Aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41FZmKpF3tL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "medical-king-7047-toilet-frame",
+    "name": "Medical King Stand-Alone Toilet Safety Rail",
+    "brand": "Medical King",
+    "category": "toilet-safety-frames",
+    "subCategory": "freestanding",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRQVXJMK?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0BRQVXJMK",
+    "editorialImageFallback": "/images/products/medical-king-7047-toilet-frame.svg",
+    "shortDescription": "A budget-friendly freestanding rail with extra-strong suction-cup feet and a 2-minute, no-tool assembly — adjustable to fit most toilets.",
+    "badge": "Best Value",
+    "price": 34.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 3931,
+    "features": [
+      "Adjustable height 24–31\" & width 20–25\"",
+      "300 lb capacity, rustproof aluminum",
+      "Extra-strong suction-cup feet",
+      "2-minute no-tool assembly"
+    ],
+    "pros": [
+      "Lowest price here",
+      "Strong suction footing",
+      "Quick to set up"
+    ],
+    "cons": [
+      "300 lb capacity (lowest here)"
+    ],
+    "bestFor": [
+      "budget buyers",
+      "most standard toilets",
+      "easy setup"
+    ],
+    "specs": {
+      "height": "24–31\"",
+      "width": "20–25\"",
+      "capacity": "300 lb",
+      "feet": "Suction"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41ilbLIf6DL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "pelegon-toilet-safety-frame",
+    "name": "PELEGON TSR01 Lightweight Toilet Safety Rail",
+    "brand": "PELEGON",
+    "category": "toilet-safety-frames",
+    "subCategory": "freestanding",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8P6DFV8?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0C8P6DFV8",
+    "editorialImageFallback": "/images/products/pelegon-toilet-safety-frame.svg",
+    "shortDescription": "A lab-tested, post-surgery-focused frame and the lightest here at 5.56 lb — easy to position and move, with tool-free assembly and video guides.",
+    "badge": "Best for Recovery",
+    "price": 69.97,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 1525,
+    "features": [
+      "Lightest frame (5.56 lb)",
+      "350 lb capacity, lab-tested stability",
+      "Height 24–30\" & width 19–24.5\"",
+      "Tool-free assembly + video guides"
+    ],
+    "pros": [
+      "Very light to move/position",
+      "Designed for post-surgery",
+      "Verified stability"
+    ],
+    "cons": [
+      "Priciest frame"
+    ],
+    "bestFor": [
+      "hip/knee recovery",
+      "easy repositioning",
+      "lab-tested reassurance"
+    ],
+    "specs": {
+      "weight": "5.56 lb",
+      "capacity": "350 lb",
+      "height": "24–30\"",
+      "width": "19–24.5\""
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41avP6AQ1WL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "luxe-neo-120-bidet",
+    "name": "LUXE Bidet NEO 120 Non-Electric Bidet Attachment",
+    "brand": "LUXE Bidet",
+    "category": "bidet-attachments",
+    "subCategory": "non-electric",
+    "amazonUrl": "https://www.amazon.com/dp/B00JG2DETM?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B00JG2DETM",
+    "editorialImageFallback": "/images/products/luxe-neo-120-bidet.svg",
+    "shortDescription": "Amazon's best-selling bidet — a single rear-wash nozzle with a self-cleaning guard gate and braided-steel hoses, installed in about 15 minutes with no plumber.",
+    "badge": "Best Overall",
+    "price": 39.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 101807,
+    "features": [
+      "Single rear-wash nozzle",
+      "Self-cleaning nozzle guard gate",
+      "Retractable nozzle, braided steel hoses",
+      "18-month warranty"
+    ],
+    "pros": [
+      "Most-reviewed bidet on Amazon",
+      "Simple, reliable, affordable",
+      "Easy no-plumber install"
+    ],
+    "cons": [
+      "Cold water only, single nozzle"
+    ],
+    "bestFor": [
+      "first-time bidet buyers",
+      "renters",
+      "everyday hygiene"
+    ],
+    "specs": {
+      "type": "Non-electric",
+      "nozzles": "1 (rear)",
+      "water": "Cold",
+      "install": "~15 min"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41GCpxs4l5L._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "luxe-neo-185-bidet",
+    "name": "LUXE Bidet NEO 185 Dual-Nozzle Bidet Attachment",
+    "brand": "LUXE Bidet",
+    "category": "bidet-attachments",
+    "subCategory": "non-electric",
+    "amazonUrl": "https://www.amazon.com/dp/B00P2XZIP2?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B00P2XZIP2",
+    "editorialImageFallback": "/images/products/luxe-neo-185-bidet.svg",
+    "shortDescription": "Dual nozzles add a frontal feminine wash alongside the rear wash, with a self-cleaning guard gate, adjustable pressure, and stainless-steel hinges.",
+    "badge": "Best Dual-Nozzle",
+    "price": 49.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 54510,
+    "features": [
+      "Dual nozzles (rear + feminine)",
+      "Self-cleaning guard gate",
+      "Adjustable water pressure",
+      "Braided steel hoses, steel hinges"
+    ],
+    "pros": [
+      "Adds feminine wash",
+      "Great for postpartum/UTI prevention",
+      "Durable build"
+    ],
+    "cons": [
+      "Cold water only"
+    ],
+    "bestFor": [
+      "feminine hygiene",
+      "post-surgery / postpartum",
+      "couples"
+    ],
+    "specs": {
+      "type": "Non-electric",
+      "nozzles": "2",
+      "water": "Cold",
+      "warranty": "18 mo"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/311e73iwczL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "pikets-bidet",
+    "name": "PIKETS Dual-Nozzle Bidet Attachment",
+    "brand": "PIKETS",
+    "category": "bidet-attachments",
+    "subCategory": "non-electric",
+    "amazonUrl": "https://www.amazon.com/dp/B09QPDWXWC?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B09QPDWXWC",
+    "editorialImageFallback": "/images/products/pikets-bidet.svg",
+    "shortDescription": "A budget dual-nozzle attachment with button-mode switching, a self-cleaning nozzle, adjustable pressure, and the longest warranty here at 20 months.",
+    "badge": "Best Budget",
+    "price": 25.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 8374,
+    "features": [
+      "Dual nozzles (frontal + rear)",
+      "Button-mode switching",
+      "Self-cleaning nozzle",
+      "20-month warranty"
+    ],
+    "pros": [
+      "Lowest price with dual nozzles",
+      "Longest warranty here",
+      "Adjustable pressure"
+    ],
+    "cons": [
+      "Cold water only"
+    ],
+    "bestFor": [
+      "budget buyers",
+      "dual-nozzle on a budget",
+      "renters"
+    ],
+    "specs": {
+      "type": "Non-electric",
+      "nozzles": "2",
+      "water": "Cold",
+      "warranty": "20 mo"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31xD14+e3zL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "luxe-neo-185-plus-bidet",
+    "name": "LUXE Bidet NEO 185 Plus (Slide-In Install)",
+    "brand": "LUXE Bidet",
+    "category": "bidet-attachments",
+    "subCategory": "non-electric",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1GX6GYV?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0B1GX6GYV",
+    "editorialImageFallback": "/images/products/luxe-neo-185-plus-bidet.svg",
+    "shortDescription": "An upgraded dual-nozzle attachment with a patented slide-in install (no removing the seat), a 360° self-clean mode, EZ-Lift hinges, and a premium chrome finish.",
+    "badge": "Easiest Install",
+    "price": 55.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 7902,
+    "features": [
+      "Patented slide-in install",
+      "360° self-clean mode",
+      "EZ-Lift hinges for deep cleaning",
+      "Dual nozzles, chrome finish"
+    ],
+    "pros": [
+      "Easiest install (no seat removal)",
+      "Easy to lift and deep-clean",
+      "Premium look"
+    ],
+    "cons": [
+      "Cold water only"
+    ],
+    "bestFor": [
+      "easiest setup",
+      "easy cleaning",
+      "dual-nozzle wash"
+    ],
+    "specs": {
+      "type": "Non-electric",
+      "nozzles": "2",
+      "install": "Slide-in",
+      "finish": "Chrome"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41tjNJdqRHL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "tushy-fresh-bidet",
+    "name": "TUSHY Fresh Ultra-Slim Bidet Attachment",
+    "brand": "TUSHY",
+    "category": "bidet-attachments",
+    "subCategory": "non-electric",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL83ZHGX?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0CL83ZHGX",
+    "editorialImageFallback": "/images/products/tushy-fresh-bidet.svg",
+    "shortDescription": "An ultra-slim attachment (52% thinner than standard) with a patented self-rinsing Smart Nozzle, a bamboo control knob, and a 10-minute install on 98% of toilets.",
+    "badge": "Best Ultra-Slim",
+    "price": 49,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 1962,
+    "features": [
+      "Ultra-slim (52% thinner)",
+      "Self-rinsing Smart Nozzle",
+      "Fits 98% of toilets, <10-min install",
+      "Adjustable pressure, bamboo knob"
+    ],
+    "pros": [
+      "Fits tight toilet gaps",
+      "Self-cleaning nozzle",
+      "Stylish, quick install"
+    ],
+    "cons": [
+      "Cold water only"
+    ],
+    "bestFor": [
+      "modern/tight toilets",
+      "minimalist look",
+      "quick install"
+    ],
+    "specs": {
+      "type": "Non-electric",
+      "profile": "Ultra-slim",
+      "nozzle": "Self-rinsing",
+      "install": "<10 min"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31FHiACVjnL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "tushy-classic-bidet",
+    "name": "TUSHY Classic 3.0 Bidet Attachment",
+    "brand": "TUSHY",
+    "category": "bidet-attachments",
+    "subCategory": "non-electric",
+    "amazonUrl": "https://www.amazon.com/dp/B08VS11Z1N?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B08VS11Z1N",
+    "editorialImageFallback": "/images/products/tushy-classic-bidet.svg",
+    "shortDescription": "TUSHY's most refined attachment, with a precision nozzle adjuster for front-and-rear targeting, patented self-cleaning SmartSpray, and a brushed-nickel finish.",
+    "badge": "Best Premium",
+    "price": 129,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 9526,
+    "features": [
+      "Precision nozzle adjuster (front + rear)",
+      "Patented self-cleaning SmartSpray",
+      "Buildup-resistant design",
+      "Brushed nickel finish"
+    ],
+    "pros": [
+      "Precise spray targeting",
+      "Refined, durable design",
+      "Self-cleaning"
+    ],
+    "cons": [
+      "Priciest non-electric attachment"
+    ],
+    "bestFor": [
+      "precise control",
+      "design-conscious buyers",
+      "long-term use"
+    ],
+    "specs": {
+      "type": "Non-electric",
+      "nozzles": "Adjustable",
+      "finish": "Brushed nickel",
+      "water": "Cold"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31RCyMCGJRL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "biobidet-bb2000-seat",
+    "name": "Bio Bidet BB2000 Bliss Electric Bidet Toilet Seat",
+    "brand": "Bio Bidet",
+    "category": "bidet-attachments",
+    "subCategory": "electric-seat",
+    "amazonUrl": "https://www.amazon.com/dp/B00GRM11R6?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B00GRM11R6",
+    "editorialImageFallback": "/images/products/biobidet-bb2000-seat.svg",
+    "shortDescription": "A full electric bidet seat — heated seat, unlimited warm water, warm-air dryer, night light, deodorizer, and a remote — that can eliminate toilet paper entirely.",
+    "badge": "Best Electric Seat",
+    "price": 459,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 4252,
+    "features": [
+      "Heated seat + unlimited warm water",
+      "Warm-air dryer, deodorizer, night light",
+      "Pulsating, oscillating + feminine wash",
+      "Remote control, 3-yr warranty"
+    ],
+    "pros": [
+      "Total hands-free hygiene",
+      "Warm water + dryer (no TP)",
+      "Named a top bidet by Forbes 2025"
+    ],
+    "cons": [
+      "Needs a nearby outlet",
+      "Highest price"
+    ],
+    "bestFor": [
+      "full independence",
+      "arthritis / limited mobility",
+      "no-toilet-paper hygiene"
+    ],
+    "specs": {
+      "type": "Electric seat",
+      "water": "Warm (unlimited)",
+      "dryer": "Warm air",
+      "control": "Remote"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31RxgLyaVsL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "arofa-handheld-bidet",
+    "name": "Arofa Handheld Toilet Bidet Sprayer",
+    "brand": "Arofa",
+    "category": "bidet-attachments",
+    "subCategory": "handheld-sprayer",
+    "amazonUrl": "https://www.amazon.com/dp/B086W1YZSH?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B086W1YZSH",
+    "editorialImageFallback": "/images/products/arofa-handheld-bidet.svg",
+    "shortDescription": "A one-hand ergonomic sprayer with adjustable pressure from gentle to jet — letting a seated user aim directly, ideal for limited mobility, arthritis, and recovery.",
+    "badge": "Best for Independence",
+    "price": 25.48,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 26576,
+    "features": [
+      "One-hand ergonomic design",
+      "Adjustable pressure (gentle to jet)",
+      "304 stainless + brass valve, 47\" hose",
+      "Wall or tank mount"
+    ],
+    "pros": [
+      "Full directional control while seated",
+      "Great for limited grip/mobility",
+      "Reduces or eliminates wiping"
+    ],
+    "cons": [
+      "Mounting needs a few minutes"
+    ],
+    "bestFor": [
+      "arthritis / weak grip",
+      "post-surgery & postpartum",
+      "maximum independence"
+    ],
+    "specs": {
+      "type": "Handheld sprayer",
+      "control": "One-hand",
+      "hose": "47\"",
+      "mount": "Wall/tank"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41NGjY5nRFL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "purrfectzone-handheld-bidet",
+    "name": "PurrfectZone Handheld Bidet Sprayer Kit",
+    "brand": "PurrfectZone",
+    "category": "bidet-attachments",
+    "subCategory": "handheld-sprayer",
+    "amazonUrl": "https://www.amazon.com/dp/B076G9M9JG?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B076G9M9JG",
+    "editorialImageFallback": "/images/products/purrfectzone-handheld-bidet.svg",
+    "shortDescription": "An American-brand handheld kit with adjustable flow from soft to jet, a leakproof braided stainless hose, precision fittings, and everything needed to install.",
+    "badge": "Best Handheld Kit",
+    "price": 28.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 20203,
+    "features": [
+      "Adjustable flow (soft to jet)",
+      "Leakproof braided stainless hose",
+      "Precision-engineered fittings",
+      "Compact, all fittings included"
+    ],
+    "pros": [
+      "Complete kit, easy install",
+      "Reliable leakproof fittings",
+      "Compact for small bathrooms"
+    ],
+    "cons": [
+      "Mounted sprayer, not an attachment"
+    ],
+    "bestFor": [
+      "small bathrooms",
+      "directional control",
+      "DIY install"
+    ],
+    "specs": {
+      "type": "Handheld sprayer",
+      "flow": "Adjustable",
+      "hose": "Braided stainless",
+      "brand": "USA"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/419NRHFOTfL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "auvon-anti-bedsore-cushion",
+    "name": "AUVON Anti-Bedsore Ventilated Seat Cushion",
+    "brand": "AUVON",
+    "category": "seat-cushions",
+    "subCategory": "wheelchair-gel",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJ94RG6S?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0CJ94RG6S",
+    "editorialImageFallback": "/images/products/auvon-anti-bedsore-cushion.svg",
+    "shortDescription": "The highest-rated cushion here — built for pressure-sore prevention with 30 air holes and 11 ventilation grooves for heat dissipation, a waterproof membrane, and supportive memory foam.",
+    "badge": "Best for Pressure Sores",
+    "price": 24.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 2341,
+    "features": [
+      "30 air holes + 11 ventilation grooves",
+      "Waterproof membrane",
+      "Supportive memory foam",
+      "Anti-slip cover"
+    ],
+    "pros": [
+      "Designed for bedsore prevention",
+      "Excellent airflow / cooling",
+      "Waterproof for incontinence"
+    ],
+    "cons": [
+      "Firmer feel"
+    ],
+    "bestFor": [
+      "pressure-sore prevention",
+      "wheelchair users",
+      "long sitting"
+    ],
+    "specs": {
+      "type": "Ventilated foam",
+      "airflow": "30 holes",
+      "waterproof": "Yes",
+      "use": "Wheelchair"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31xiL79-gWL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "everlasting-wheelchair-cushion",
+    "name": "Everlasting Comfort Ventilated Wheelchair Cushion",
+    "brand": "Everlasting Comfort",
+    "category": "seat-cushions",
+    "subCategory": "wheelchair-gel",
+    "amazonUrl": "https://www.amazon.com/dp/B07LB8TRL3?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B07LB8TRL3",
+    "editorialImageFallback": "/images/products/everlasting-wheelchair-cushion.svg",
+    "shortDescription": "A ventilated gel-infused memory-foam cushion made for all-day wheelchair sitting, with a non-slip base, breathable mesh cover, OEKO-TEX certification, and a lifetime replacement policy.",
+    "badge": "Best Wheelchair Cushion",
+    "price": 37.39,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 8056,
+    "features": [
+      "Gel-infused memory foam",
+      "Non-slip rubberized base",
+      "Breathable mesh cover, OEKO-TEX",
+      "FSA/HSA, lifetime replacement"
+    ],
+    "pros": [
+      "Cool gel + supportive foam",
+      "Stays put on the seat",
+      "Lifetime replacement"
+    ],
+    "cons": [
+      "One firmness level"
+    ],
+    "bestFor": [
+      "daily wheelchair use",
+      "all-day sitting",
+      "cooling support"
+    ],
+    "specs": {
+      "type": "Gel + memory foam",
+      "base": "Non-slip",
+      "cover": "Mesh",
+      "use": "Wheelchair"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/51GjtdGR7cL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "comfilife-gel-memory-cushion",
+    "name": "ComfiLife Gel Enhanced Memory Foam Seat Cushion",
+    "brand": "ComfiLife",
+    "category": "seat-cushions",
+    "subCategory": "coccyx-foam",
+    "amazonUrl": "https://www.amazon.com/dp/B08HPQVJMW?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B08HPQVJMW",
+    "editorialImageFallback": "/images/products/comfilife-gel-memory-cushion.svg",
+    "shortDescription": "A cooling gel top layer over premium memory foam with a U-shaped coccyx cutout, a non-slip base, and a built-in carry handle — one of the most-reviewed cushions anywhere.",
+    "badge": "Most Reviewed",
+    "price": 45.95,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 108519,
+    "features": [
+      "Cooling gel + memory foam",
+      "U-shaped coccyx cutout",
+      "Non-slip rubber base",
+      "Carry handle, washable cover"
+    ],
+    "pros": [
+      "Cool gel + supportive foam",
+      "Relieves tailbone pressure",
+      "Hugely popular"
+    ],
+    "cons": [
+      "Heavier than plain foam"
+    ],
+    "bestFor": [
+      "tailbone pain",
+      "office & car",
+      "long sitting"
+    ],
+    "specs": {
+      "type": "Gel + memory foam",
+      "cutout": "U-shaped",
+      "base": "Non-slip",
+      "cover": "Washable"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41YjtmRRWeL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "everlasting-coccyx-cushion",
+    "name": "Everlasting Comfort Memory Foam Seat Cushion",
+    "brand": "Everlasting Comfort",
+    "category": "seat-cushions",
+    "subCategory": "coccyx-foam",
+    "amazonUrl": "https://www.amazon.com/dp/B01EBDV9BU?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B01EBDV9BU",
+    "editorialImageFallback": "/images/products/everlasting-coccyx-cushion.svg",
+    "shortDescription": "An orthopedist-recommended memory-foam cushion with a U-shaped tailbone cutout, a breathable moisture-wicking cover, and a non-slip base — fits chairs and wheelchairs.",
+    "badge": "Best for Tailbone",
+    "price": 47.97,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 123215,
+    "features": [
+      "Orthopedist recommended",
+      "U-shaped coccyx cutout",
+      "Breathable moisture-wicking cover",
+      "Non-slip base"
+    ],
+    "pros": [
+      "Very high review count",
+      "Targets tailbone pressure",
+      "Breathable cover"
+    ],
+    "cons": [
+      "Firms up in cold rooms"
+    ],
+    "bestFor": [
+      "coccyx pain",
+      "8+ hour sitting",
+      "office & wheelchair"
+    ],
+    "specs": {
+      "type": "Memory foam",
+      "cutout": "U-shaped",
+      "cover": "Moisture-wicking",
+      "base": "Non-slip"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41BG9kQRj3L._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "cushionlab-pressure-relief-cushion",
+    "name": "Cushion Lab Patented Pressure Relief Seat Cushion",
+    "brand": "Cushion Lab",
+    "category": "seat-cushions",
+    "subCategory": "coccyx-foam",
+    "amazonUrl": "https://www.amazon.com/dp/B08J88HV2P?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B08J88HV2P",
+    "editorialImageFallback": "/images/products/cushionlab-pressure-relief-cushion.svg",
+    "shortDescription": "An ergonomist-designed split-shape cushion in extra-dense charcoal memory foam that distributes lower-body weight evenly, with a grippy base and odor-free build.",
+    "badge": "Best Ergonomic",
+    "price": 74.99,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 20690,
+    "features": [
+      "Ergonomist-designed split shape",
+      "Extra-dense charcoal memory foam",
+      "Even weight distribution",
+      "Grippy base, odor-free"
+    ],
+    "pros": [
+      "Premium, firm support",
+      "Distributes weight evenly",
+      "Doesn’t flatten quickly"
+    ],
+    "cons": [
+      "Priciest cushion here"
+    ],
+    "bestFor": [
+      "serious back/tailbone pain",
+      "long desk hours",
+      "firm support"
+    ],
+    "specs": {
+      "type": "Dense memory foam",
+      "shape": "Split ergonomic",
+      "base": "Grippy",
+      "odor": "Free"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31fCnrk8InL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "kysmotic-gel-cushion",
+    "name": "KYSMOTIC Honeycomb Gel Seat Cushion (Jumbo)",
+    "brand": "KYSMOTIC",
+    "category": "seat-cushions",
+    "subCategory": "gel",
+    "amazonUrl": "https://www.amazon.com/dp/B08YRRNCCK?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B08YRRNCCK",
+    "editorialImageFallback": "/images/products/kysmotic-gel-cushion.svg",
+    "shortDescription": "A jumbo 18.5\" double-layer honeycomb gel cushion with thousands of air columns that disperse pressure and heat — so you stay cool with no sweaty seat.",
+    "badge": "Best Cooling",
+    "price": 29.99,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 8989,
+    "features": [
+      "Jumbo 18.5\"×18.5\"",
+      "Double-layer honeycomb gel",
+      "Thousands of air columns",
+      "Non-slip cover, PVC-free"
+    ],
+    "pros": [
+      "Stays cool all day",
+      "Even pressure dispersion",
+      "Easy to rinse clean"
+    ],
+    "cons": [
+      "Gel feel isn’t for everyone"
+    ],
+    "bestFor": [
+      "hot climates / summer",
+      "cooling comfort",
+      "long sitting"
+    ],
+    "specs": {
+      "type": "Honeycomb gel",
+      "size": "18.5\"",
+      "cooling": "Air columns",
+      "material": "PVC-free"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/51TNuyjLfBL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "omcozy-gel-cushion",
+    "name": "OMCOZY Super Large Honeycomb Gel Seat Cushion",
+    "brand": "OMCOZY",
+    "category": "seat-cushions",
+    "subCategory": "gel",
+    "amazonUrl": "https://www.amazon.com/dp/B08XX3W5KR?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B08XX3W5KR",
+    "editorialImageFallback": "/images/products/omcozy-gel-cushion.svg",
+    "shortDescription": "A super-large double-layer honeycomb gel cushion with free-flowing air channels and a detachable zippered cover — durable (egg-test rated) and wheelchair compatible.",
+    "badge": "Best Value Gel",
+    "price": 25.99,
+    "priceCurrency": "USD",
+    "rating": 4.3,
+    "reviewCount": 14848,
+    "features": [
+      "Super-large 18.9\"×17.7\"",
+      "Double-layer honeycomb gel",
+      "Free-flowing air channels",
+      "Detachable zippered cover"
+    ],
+    "pros": [
+      "Great value gel cushion",
+      "Very durable construction",
+      "Fits wheelchairs"
+    ],
+    "cons": [
+      "Lowest rating in our list"
+    ],
+    "bestFor": [
+      "budget cooling cushion",
+      "wheelchair use",
+      "durability"
+    ],
+    "specs": {
+      "type": "Honeycomb gel",
+      "size": "18.9\"",
+      "cover": "Zippered",
+      "use": "Wheelchair"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/51a3GYS0lTL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "fomi-all-gel-cushion",
+    "name": "FOMI Premium All-Gel Orthopedic Seat Cushion",
+    "brand": "FOMI",
+    "category": "seat-cushions",
+    "subCategory": "gel",
+    "amazonUrl": "https://www.amazon.com/dp/B06XGRT9VT?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B06XGRT9VT",
+    "editorialImageFallback": "/images/products/fomi-all-gel-cushion.svg",
+    "shortDescription": "A medical-grade pure-gel cushion using column-buckling technology to disperse weight evenly for pressure-sore relief, with a cooling structure and built-in carry handles.",
+    "badge": "Best Pure Gel",
+    "price": 49.99,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 1876,
+    "features": [
+      "Medical-grade gel",
+      "Column-buckling weight dispersion",
+      "Cooling structure",
+      "Carry handles, latex-free"
+    ],
+    "pros": [
+      "Clinical-style pressure relief",
+      "Cooling all-gel feel",
+      "Easy to carry"
+    ],
+    "cons": [
+      "Heavier than foam"
+    ],
+    "bestFor": [
+      "pressure-sore relief",
+      "cooling comfort",
+      "wheelchair / chair"
+    ],
+    "specs": {
+      "type": "All gel",
+      "tech": "Column-buckling",
+      "cooling": "Yes",
+      "latex": "Free"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/51RfUr8YAUL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "5stars-donut-cushion",
+    "name": "5 Stars United Memory Foam Donut Cushion",
+    "brand": "5 Stars United",
+    "category": "seat-cushions",
+    "subCategory": "donut",
+    "amazonUrl": "https://www.amazon.com/dp/B0B61478T9?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0B61478T9",
+    "editorialImageFallback": "/images/products/5stars-donut-cushion.svg",
+    "shortDescription": "A large memory-foam donut with a heat-reactive core and a U-shaped cutout that lifts all contact off sensitive areas — relief for hemorrhoids, postpartum, and coccyx pain.",
+    "badge": "Best Donut",
+    "price": 29.95,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 4331,
+    "features": [
+      "Large memory-foam donut",
+      "Heat-reactive core",
+      "U-shaped cutout",
+      "Breathable mesh cover"
+    ],
+    "pros": [
+      "No contact on sensitive area",
+      "Molds to the body",
+      "Fits wheelchairs"
+    ],
+    "cons": [
+      "Donut shape less universal"
+    ],
+    "bestFor": [
+      "hemorrhoids / post-surgery",
+      "postpartum",
+      "coccyx fracture"
+    ],
+    "specs": {
+      "type": "Donut foam",
+      "core": "Heat-reactive",
+      "cutout": "U-shaped",
+      "cover": "Mesh"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/513g5X+W7jL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "blisstrends-donut-cushion",
+    "name": "BlissTrends Memory Foam Donut Cushion",
+    "brand": "BlissTrends",
+    "category": "seat-cushions",
+    "subCategory": "donut",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZPQH141?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0BZPQH141",
+    "editorialImageFallback": "/images/products/blisstrends-donut-cushion.svg",
+    "shortDescription": "A soft, lightweight (1 lb) memory-foam donut with a U-shaped cutout, a non-slip base, and a machine-washable zippered cover — the lowest-priced cushion here.",
+    "badge": "Best Budget Donut",
+    "price": 19.99,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 3720,
+    "features": [
+      "Soft memory foam donut",
+      "U-shaped cutout",
+      "Non-slip base",
+      "Washable zippered cover, 1 lb"
+    ],
+    "pros": [
+      "Lowest price",
+      "Very light for travel",
+      "Easy-clean cover"
+    ],
+    "cons": [
+      "Thinner than premium donuts"
+    ],
+    "bestFor": [
+      "budget buyers",
+      "travel & recovery",
+      "postpartum"
+    ],
+    "specs": {
+      "type": "Donut foam",
+      "weight": "1 lb",
+      "cutout": "U-shaped",
+      "cover": "Washable"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41+67q47fiL._SL500_.jpg",
     "imageSource": "creators-api",
     "lastVerified": "2026-06-15"
   }

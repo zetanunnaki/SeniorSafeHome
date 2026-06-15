@@ -222,5 +222,29 @@
     "shortDescription": "Hospital-style socks with silicone or rubber tread that grip hard floors — simple, cheap fall protection for slippery tile, hardwood, and stairs.",
     "intro": "Non-slip grip socks are one of the cheapest, easiest fall-prevention tools there is: a sock with silicone or rubber tread on the sole that grips slick tile, hardwood, and stairs the way a bare or stocking foot never could. They're ideal for the risky barefoot trips around the house — to the bathroom at night, on cold floors, or after surgery. We compare grip quality, cushioning, cuff comfort for swollen feet, warmth, and ease of putting on for arthritic hands or caregivers.",
     "icon": "grip-sock"
+  },
+  {
+    "slug": "toilet-safety-frames",
+    "name": "Toilet Safety Frames & Rails",
+    "cluster": "bathroom-safety",
+    "shortDescription": "Freestanding frames with armrests that surround the toilet for safe, steady sitting and standing — no drilling, fits most toilets.",
+    "intro": "A toilet safety frame places sturdy armrests on either side of the toilet, giving a senior something solid to push up from and lower down onto — one of the most strained moments in the bathroom. Freestanding frames need no tools or wall damage, making them ideal for renters, and most adjust in height and width to fit any toilet. We compare stability, weight capacity, grip comfort, and adjustability. If you also need extra seat height, see [raised toilet seats](/categories/raised-toilet-seats); for a frame that doubles as a bedside toilet, see [bedside commodes](/categories/bedside-commodes).",
+    "icon": "toilet-frame"
+  },
+  {
+    "slug": "bidet-attachments",
+    "name": "Bidet Attachments & Sprayers",
+    "cluster": "bathroom-safety",
+    "shortDescription": "Non-electric bidet attachments, warm-water and electric seats, and handheld sprayers that make toilet hygiene easier and more independent.",
+    "intro": "A bidet restores toileting independence and dignity for seniors who find wiping difficult — after surgery, with arthritis, or with limited reach. Most non-electric attachments install in under 20 minutes between the existing seat and bowl, with no plumber and no wall damage, making them renter-friendly. We compare single- and dual-nozzle attachments, warm-water and electric heated-seat models, and handheld sprayers that let a seated user control the spray directly. Handheld sprayers and electric seats are especially helpful for limited mobility and arthritis.",
+    "icon": "bidet"
+  },
+  {
+    "slug": "seat-cushions",
+    "name": "Seat & Pressure-Relief Cushions",
+    "cluster": "daily-living",
+    "shortDescription": "Coccyx, donut, and gel cushions that relieve tailbone pain and prevent pressure sores for seniors who sit for long periods.",
+    "intro": "For seniors who spend long hours in a chair or wheelchair, the right cushion eases tailbone and lower-back pain and — importantly — helps prevent pressure sores. We compare memory-foam coccyx cushions with a tailbone cutout, donut cushions for post-surgery and hemorrhoid relief, cooling honeycomb gel cushions, and ventilated medical-grade wheelchair cushions designed for pressure-ulcer prevention. For anyone with an existing or high-risk pressure sore, a wound-care nurse or occupational therapist can recommend a clinical-grade alternating-pressure system.",
+    "icon": "cushion"
   }
 ]
