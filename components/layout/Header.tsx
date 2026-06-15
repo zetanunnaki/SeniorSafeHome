@@ -39,12 +39,14 @@ export function Header() {
         <Link href="/" className="flex items-center gap-2.5 no-underline" onClick={() => setOpen(false)}>
           <span
             className={cn(
-              'flex h-9 w-9 items-center justify-center rounded-xl text-white',
-              transparent ? 'bg-brand-500' : 'bg-brand-700'
+              'flex h-9 w-9 items-center justify-center rounded-xl shadow-sm ring-1 ring-inset transition-colors',
+              transparent
+                ? 'bg-gradient-to-b from-brand-400 to-brand-600 ring-white/20'
+                : 'bg-gradient-to-b from-brand-500 to-brand-700 ring-black/5'
             )}
             aria-hidden="true"
           >
-            <ShieldIcon />
+            <ShieldHomeIcon />
           </span>
           <span
             className={cn(
@@ -127,16 +129,16 @@ export function Header() {
   );
 }
 
-function ShieldIcon() {
+/** Brand mark: a protective shield enclosing a home (protection + home). */
+function ShieldHomeIcon() {
   return (
-    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+    <svg width="21" height="21" viewBox="0 0 32 32" fill="none" aria-hidden="true">
       <path
-        d="M12 2l7 3v6c0 4.5-3 8.5-7 9.9C8 19.5 5 15.5 5 11V5l7-3z"
-        stroke="currentColor"
-        strokeWidth="2"
-        strokeLinejoin="round"
+        d="M16 6l8 3.4v6.8c0 5.1-3.4 9.6-8 11.2-4.6-1.6-8-6.1-8-11.2V9.4L16 6z"
+        fill="#ffffff"
       />
-      <path d="M9 12l2 2 4-4" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M16 11l6 4.7h-2v5.8h-8v-5.8H10L16 11z" fill="#0f766e" />
+      <path d="M14.6 21.5v-2.9a1.4 1.4 0 0 1 2.8 0v2.9z" fill="#ffffff" />
     </svg>
   );
 }

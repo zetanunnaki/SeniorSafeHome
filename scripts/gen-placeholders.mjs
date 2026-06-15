@@ -25,14 +25,14 @@ function productSvg(name, brand) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-label="${safeName}">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#eff6ff"/>
-      <stop offset="1" stop-color="#dbeafe"/>
+      <stop offset="0" stop-color="#f0fdfa"/>
+      <stop offset="1" stop-color="#ccfbf1"/>
     </linearGradient>
   </defs>
   <rect width="400" height="400" fill="url(#g)"/>
-  <rect x="120" y="110" width="160" height="160" rx="20" fill="#fff" stroke="#bfdbfe" stroke-width="3"/>
-  <text x="200" y="205" font-family="system-ui, sans-serif" font-size="56" font-weight="700" fill="#2563eb" text-anchor="middle" dominant-baseline="middle">${initials}</text>
-  <text x="200" y="320" font-family="system-ui, sans-serif" font-size="20" font-weight="600" fill="#334155" text-anchor="middle">${brand.replace(/&/g, '&amp;')}</text>
+  <rect x="120" y="110" width="160" height="160" rx="20" fill="#fff" stroke="#99f6e4" stroke-width="3"/>
+  <text x="200" y="205" font-family="system-ui, sans-serif" font-size="56" font-weight="700" fill="#0f766e" text-anchor="middle" dominant-baseline="middle">${initials}</text>
+  <text x="200" y="320" font-family="system-ui, sans-serif" font-size="20" font-weight="600" fill="#33484a" text-anchor="middle">${brand.replace(/&/g, '&amp;')}</text>
 </svg>
 `;
 }
@@ -53,8 +53,8 @@ ensureDir(guidesDir);
 fs.writeFileSync(
   path.join(guidesDir, 'prevent-bathroom-falls.svg'),
   `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <rect width="1200" height="630" fill="#eff6ff"/>
-  <text x="600" y="315" font-family="system-ui, sans-serif" font-size="48" font-weight="700" fill="#1e3a8a" text-anchor="middle" dominant-baseline="middle">Bathroom Safety for Seniors</text>
+  <rect width="1200" height="630" fill="#f0fdfa"/>
+  <text x="600" y="315" font-family="system-ui, sans-serif" font-size="48" font-weight="700" fill="#115e59" text-anchor="middle" dominant-baseline="middle">Bathroom Safety for Seniors</text>
 </svg>
 `
 );
@@ -62,22 +62,49 @@ fs.writeFileSync(
 // Logo + default OG
 const imagesDir = path.join(root, 'public', 'images');
 ensureDir(imagesDir);
+const markPaths = `
+    <path d="M16 6l8 3.4v6.8c0 5.1-3.4 9.6-8 11.2-4.6-1.6-8-6.1-8-11.2V9.4L16 6z" fill="#ffffff"/>
+    <path d="M16 11l6 4.7h-2v5.8h-8v-5.8H10L16 11z" fill="#0f766e"/>
+    <path d="M14.6 21.5v-2.9a1.4 1.4 0 0 1 2.8 0v2.9z" fill="#ffffff"/>`;
 fs.writeFileSync(
   path.join(imagesDir, 'logo.svg'),
-  `<svg xmlns="http://www.w3.org/2000/svg" width="240" height="60" viewBox="0 0 240 60">
-  <rect width="60" height="60" rx="12" fill="#2563eb"/>
-  <path d="M30 14l14 6v10c0 9-6 17-14 19-8-2-14-10-14-19V20l14-6z" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round"/>
-  <path d="M24 30l4 4 8-8" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="74" y="38" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#0f172a">SeniorSaferHome</text>
+  `<svg xmlns="http://www.w3.org/2000/svg" width="248" height="60" viewBox="0 0 248 60">
+  <defs>
+    <linearGradient id="ssh-logo-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14b8a6"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <g transform="scale(1.875)">
+    <rect width="32" height="32" rx="8" fill="url(#ssh-logo-bg)"/>${markPaths}
+  </g>
+  <text x="72" y="38" font-family="'Outfit', system-ui, sans-serif" font-size="23" font-weight="700" letter-spacing="-0.3">
+    <tspan fill="#122a2c">Senior</tspan><tspan fill="#0d9488">Safer</tspan><tspan fill="#122a2c">Home</tspan>
+  </text>
 </svg>
 `
 );
 fs.writeFileSync(
   path.join(imagesDir, 'og-default.svg'),
   `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <rect width="1200" height="630" fill="#2563eb"/>
-  <text x="600" y="300" font-family="system-ui, sans-serif" font-size="64" font-weight="800" fill="#fff" text-anchor="middle">SeniorSaferHome</text>
-  <text x="600" y="370" font-family="system-ui, sans-serif" font-size="30" fill="#dbeafe" text-anchor="middle">Helping aging adults stay safe at home</text>
+  <defs>
+    <linearGradient id="ssh-og-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c272d"/>
+      <stop offset="1" stop-color="#115e59"/>
+    </linearGradient>
+    <linearGradient id="ssh-og-mark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14b8a6"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#ssh-og-bg)"/>
+  <g transform="translate(434 150) scale(3.5)">
+    <rect width="32" height="32" rx="8" fill="url(#ssh-og-mark)"/>${markPaths}
+  </g>
+  <text x="600" y="375" font-family="'Outfit', system-ui, sans-serif" font-size="66" font-weight="800" text-anchor="middle">
+    <tspan fill="#ffffff">Senior</tspan><tspan fill="#5eead4">Safer</tspan><tspan fill="#ffffff">Home</tspan>
+  </text>
+  <text x="600" y="430" font-family="system-ui, sans-serif" font-size="28" fill="#a7c6c4" text-anchor="middle">Helping aging adults stay safe, comfortable, and independent at home</text>
 </svg>
 `
 );
