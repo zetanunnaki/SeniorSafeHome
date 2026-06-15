@@ -246,5 +246,21 @@
     "shortDescription": "Coccyx, donut, and gel cushions that relieve tailbone pain and prevent pressure sores for seniors who sit for long periods.",
     "intro": "For seniors who spend long hours in a chair or wheelchair, the right cushion eases tailbone and lower-back pain and — importantly — helps prevent pressure sores. We compare memory-foam coccyx cushions with a tailbone cutout, donut cushions for post-surgery and hemorrhoid relief, cooling honeycomb gel cushions, and ventilated medical-grade wheelchair cushions designed for pressure-ulcer prevention. For anyone with an existing or high-risk pressure sore, a wound-care nurse or occupational therapist can recommend a clinical-grade alternating-pressure system.",
     "icon": "cushion"
+  },
+  {
+    "slug": "furniture-bed-risers",
+    "name": "Furniture & Bed Risers",
+    "cluster": "bedroom-safety",
+    "shortDescription": "Stackable and heavy-duty risers that raise a bed, sofa, or chair to a safer height for easier, lower-strain sitting and standing.",
+    "intro": "Raising a bed, sofa, or chair just a few inches can make getting up far easier on aging knees and hips — and a higher bed can be matched to wheelchair-seat height for safer transfers. Risers need no tools and are fully reversible, so they're ideal for renters and care homes. We compare stackable adjustable risers, heavy-duty bariatric models, and risers with built-in USB and power outlets, plus a sturdy step stool for bed entry and exit. After hip or knee surgery, ask a physical therapist about the ideal bed height.",
+    "icon": "riser"
+  },
+  {
+    "slug": "dementia-clocks",
+    "name": "Dementia Day Clocks",
+    "cluster": "dementia-wandering",
+    "shortDescription": "Large-display clocks that spell out the full day, date, and time of day to reduce confusion for people with dementia or memory loss.",
+    "intro": "For someone with dementia or memory loss, not knowing the day or whether it's morning or night is a real source of distress. A dementia day clock shows the full, unabbreviated day, date, and a clear time-of-day phase (morning, afternoon, evening, night) in large high-contrast type — plus alarms for medications and appointments. We compare display size and contrast, time-of-day clarity, alarm and reminder options, voice announcement, auto-dimming for night, and ease of caregiver setup.",
+    "icon": "clock"
   }
 ]

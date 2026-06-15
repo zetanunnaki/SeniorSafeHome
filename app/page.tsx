@@ -390,6 +390,8 @@ function categoryEmoji(slug: string): string {
     'toilet-safety-frames': '🦺',
     'bidet-attachments': '💦',
     'seat-cushions': '💺',
+    'furniture-bed-risers': '⬆️',
+    'dementia-clocks': '🕘',
     'transport-wheelchairs': '♿',
     'hearing-amplifiers': '👂',
     'automatic-pill-dispensers': '⏰',
