@@ -47,53 +47,6 @@
     "lastManualReview": "2026-06-14"
   },
   {
-    "id": "medline-compact-shower-chair",
-    "name": "Medline Compact Shower Chair",
-    "brand": "Medline",
-    "category": "shower-chairs",
-    "subCategory": "shower-chairs",
-    "amazonUrl": "https://www.amazon.com/s?k=Medline+compact+shower+chair+padded+arms&tag=seniorsaferhome-20",
-    "asin": "B01MSISJKG",
-    "editorialImageFallback": "/images/products/medline-compact-shower-chair.svg",
-    "shortDescription": "A space-saving version of Medline's top chair, with the same padded arms and back.",
-    "badge": "Best Compact",
-    "price": 39.99,
-    "priceCurrency": "USD",
-    "rating": 4.6,
-    "reviewCount": 2675,
-    "features": [
-      "Compact footprint",
-      "Padded arms and back",
-      "Adjustable height 16\"–21\"",
-      "Non-slip rubber feet"
-    ],
-    "pros": [
-      "Fits tighter spaces",
-      "Padded comfort",
-      "Stable"
-    ],
-    "cons": [
-      "Smaller seat",
-      "Back not removable"
-    ],
-    "bestFor": [
-      "small bathrooms",
-      "everyday bathing"
-    ],
-    "notIdealFor": [
-      "larger users wanting a wide seat"
-    ],
-    "specs": {
-      "weightCapacity": "350 lb",
-      "heightRange": "16-21 in",
-      "feet": "Non-slip rubber",
-      "material": "Aluminum / plastic"
-    },
-    "reviewSlug": null,
-    "lastManualReview": "2026-06-14",
-    "asinSource": "searchItems"
-  },
-  {
     "id": "drive-shower-chair",
     "name": "Drive Medical Shower Chair (Removable Arms & Back)",
     "brand": "Drive Medical",
@@ -562,54 +515,6 @@
       "heightRange": "17.5-22.5 in",
       "feet": "Non-slip rubber",
       "material": "Non-corroding composite"
-    },
-    "reviewSlug": null,
-    "lastManualReview": "2026-06-14",
-    "asinSource": "searchItems"
-  },
-  {
-    "id": "carex-aluminum-transfer-bench",
-    "name": "Carex Aluminum Transfer Bench",
-    "brand": "Carex",
-    "category": "transfer-benches",
-    "subCategory": "transfer-benches",
-    "amazonUrl": "https://www.amazon.com/s?k=Carex+aluminum+transfer+bench+reversible&tag=seniorsaferhome-20",
-    "asin": "B000AEGCOO",
-    "editorialImageFallback": "/images/products/carex-aluminum-transfer-bench.svg",
-    "shortDescription": "A lightweight, value-priced bench that disassembles quickly for storage or travel.",
-    "badge": "Best Value",
-    "price": 57.99,
-    "priceCurrency": "USD",
-    "rating": 4.6,
-    "reviewCount": 8843,
-    "features": [
-      "Reversible seat back (left/right)",
-      "Anti-corrosive aluminum",
-      "Anti-slip flared feet",
-      "Adjustable 16\"–20\""
-    ],
-    "pros": [
-      "Affordable",
-      "Light and easy to store",
-      "Well-reviewed"
-    ],
-    "cons": [
-      "Lower 300 lb capacity",
-      "No handles"
-    ],
-    "bestFor": [
-      "value seekers",
-      "travel",
-      "smaller users"
-    ],
-    "notIdealFor": [
-      "heavier users"
-    ],
-    "specs": {
-      "weightCapacity": "300 lb",
-      "heightRange": "16-20 in",
-      "feet": "Anti-slip flared",
-      "material": "Aluminum"
     },
     "reviewSlug": null,
     "lastManualReview": "2026-06-14",
@@ -1086,54 +991,6 @@
       "material": "Zinc + stainless"
     },
     "reviewSlug": null,
-    "lastManualReview": "2026-06-14",
-    "asinSource": "searchItems"
-  },
-  {
-    "id": "amazon-basics-24-grab-bar",
-    "name": "Amazon Basics 24\" Grab Bar",
-    "brand": "Amazon Basics",
-    "category": "grab-bars",
-    "subCategory": "grab-bars",
-    "amazonUrl": "https://www.amazon.com/s?k=Amazon+Basics+24+inch+grab+bar+stainless&tag=seniorsaferhome-20",
-    "asin": "B00084F76K",
-    "editorialImageFallback": "/images/products/amazon-basics-24-grab-bar.svg",
-    "shortDescription": "The value pick: 500 lb brushed stainless with thousands of strong reviews.",
-    "badge": "Best Value",
-    "price": 24.56,
-    "priceCurrency": "USD",
-    "rating": 4.8,
-    "reviewCount": 9343,
-    "features": [
-      "500 lb capacity",
-      "Brushed stainless, rust-resistant",
-      "ADA compliant",
-      "Concealed screws"
-    ],
-    "pros": [
-      "Excellent price",
-      "Highly rated",
-      "Weight-bearing"
-    ],
-    "cons": [
-      "Plain look",
-      "Requires studs"
-    ],
-    "bestFor": [
-      "budget installs",
-      "multiple bars",
-      "homeowners"
-    ],
-    "notIdealFor": [
-      "renters who cannot drill"
-    ],
-    "specs": {
-      "weightCapacity": "500 lb",
-      "length": "24 in",
-      "mounting": "Screw / stud",
-      "material": "Brushed stainless"
-    },
-    "reviewSlug": "amazon-basics-grab-bar-review",
     "lastManualReview": "2026-06-14",
     "asinSource": "searchItems"
   },
@@ -2243,49 +2100,6 @@
       "certification": "ASTM F3186-17",
       "fits": "7.9-13 in mattress",
       "grip": "Foam"
-    },
-    "reviewSlug": null,
-    "lastManualReview": "2026-06-14",
-    "asinSource": "searchItems"
-  },
-  {
-    "id": "yrheiper-compact-bed-rail",
-    "name": "YrHeiper Compact Bed Rail",
-    "brand": "YrHeiper",
-    "category": "bed-rails",
-    "subCategory": "bed-rails",
-    "amazonUrl": "https://www.amazon.com/s?k=YrHeiper%20compact%20bed%20rail%20tie-down%20mesh%20pocket&tag=seniorsaferhome-20",
-    "asin": "B0FC5S1X66",
-    "editorialImageFallback": "/images/products/yrheiper-compact-bed-rail.svg",
-    "shortDescription": "Slides under the mattress with tie-down straps for dual-point security in a compact size.",
-    "badge": "Best Compact",
-    "price": 38.99,
-    "priceCurrency": "USD",
-    "rating": 4.6,
-    "reviewCount": 236,
-    "features": [
-      "350 lb, ASTM certified",
-      "Under-mattress + tie-down anchoring",
-      "Non-slip foam handle",
-      "Integrated mesh pocket"
-    ],
-    "pros": [
-      "Dual-point security",
-      "Compact",
-      "Handy pocket"
-    ],
-    "cons": [
-      "Smaller grip area"
-    ],
-    "bestFor": [
-      "compact spaces",
-      "secure anchoring"
-    ],
-    "specs": {
-      "weightCapacity": "350 lb",
-      "certification": "ASTM",
-      "mounting": "Under-mattress + straps",
-      "extras": "Mesh pocket"
     },
     "reviewSlug": null,
     "lastManualReview": "2026-06-14",
@@ -4436,49 +4250,6 @@
       "heightRange": "17-23 in",
       "bucket": "7.5 qt",
       "type": "3-in-1"
-    },
-    "reviewSlug": null,
-    "lastManualReview": "2026-06-14",
-    "asinSource": "searchItems"
-  },
-  {
-    "id": "drive-folding-steel-commode",
-    "name": "Drive Medical Folding Steel Commode",
-    "brand": "Drive Medical",
-    "category": "bedside-commodes",
-    "subCategory": "commodes",
-    "amazonUrl": "https://www.amazon.com/s?k=Drive%20Medical%20folding%20steel%20commode%20push%20button&tag=seniorsaferhome-20",
-    "asin": "B001HP7AQE",
-    "editorialImageFallback": "/images/products/drive-folding-steel-commode.svg",
-    "shortDescription": "A push-button-height folding steel commode with a protective cover and splash guard.",
-    "badge": "Best Push-Button",
-    "price": 58.05,
-    "priceCurrency": "USD",
-    "rating": 4.5,
-    "reviewCount": 2634,
-    "features": [
-      "Push-button height 17\"–23\"",
-      "7.5 qt bucket + cover",
-      "Splash guard",
-      "Powder-coated foldable steel"
-    ],
-    "pros": [
-      "Easy push-button adjustment",
-      "Folds flat",
-      "Durable finish"
-    ],
-    "cons": [
-      "Heavier steel"
-    ],
-    "bestFor": [
-      "easy height changes",
-      "storage"
-    ],
-    "specs": {
-      "weightCapacity": "350 lb",
-      "heightRange": "17-23 in",
-      "bucket": "7.5 qt",
-      "frame": "Powder-coated steel"
     },
     "reviewSlug": null,
     "lastManualReview": "2026-06-14",
