@@ -9314,5 +9314,401 @@
     "reviewSlug": null,
     "lastManualReview": "2026-06-14",
     "asinSource": "searchItems"
+  },
+  {
+    "id": "ozaiic-grip-socks",
+    "name": "Ozaiic Non-Slip Grip Socks for Women (2 Pairs)",
+    "brand": "Ozaiic",
+    "category": "non-slip-grip-socks",
+    "subCategory": "womens",
+    "amazonUrl": "https://www.amazon.com/s?k=Ozaiic%20pilates%20grip%20socks%20women%20non%20slip%20silicone%20no%20show&tag=seniorsaferhome-20",
+    "asin": "B07CQM36X3",
+    "editorialImageFallback": "/images/products/ozaiic-grip-socks.svg",
+    "shortDescription": "The most-reviewed grip sock here — a patented no-show design with 100% silicone gel grips, a full cushioned sole, and a never-slip heel strip.",
+    "badge": "Best Overall",
+    "price": 13.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 46271,
+    "features": [
+      "Patented no-show design",
+      "100% silicone gel grips",
+      "Full cushioned sole",
+      "Never-slip heel strip"
+    ],
+    "pros": [
+      "Tens of thousands of reviews",
+      "Excellent floor grip",
+      "Cushioned comfort"
+    ],
+    "cons": [
+      "No-show cut, not for warmth"
+    ],
+    "bestFor": [
+      "everyday fall prevention",
+      "tile & hardwood",
+      "pilates & home"
+    ],
+    "specs": {
+      "fit": "Women 5.5–11",
+      "grip": "Silicone gel",
+      "cut": "No-show",
+      "sole": "Cushioned"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "yufree-mens-grip-socks",
+    "name": "Yufree Men's Non-Slip Grip Socks (4 Pairs)",
+    "brand": "Yufree",
+    "category": "non-slip-grip-socks",
+    "subCategory": "mens",
+    "amazonUrl": "https://www.amazon.com/s?k=Yufree%20mens%20grip%20socks%20non%20slip%20silica%20gel%20arch%20support%20mid%20calf&tag=seniorsaferhome-20",
+    "asin": "B08YW38K6W",
+    "editorialImageFallback": "/images/products/yufree-mens-grip-socks.svg",
+    "shortDescription": "The thickest grips here — full-coverage silica-gel tread over 1mm thick, with arch support, a reinforced toe, and a mid-calf height that stays up.",
+    "badge": "Best for Men",
+    "price": 14.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 5968,
+    "features": [
+      "Full-coverage silica-gel grips (1mm+)",
+      "Arch support",
+      "Reinforced toe",
+      "Mid-calf height"
+    ],
+    "pros": [
+      "Thickest, grippiest tread",
+      "Stays up without compression",
+      "Durable reinforced toe"
+    ],
+    "cons": [
+      "Men’s sizing"
+    ],
+    "bestFor": [
+      "men in hospital/rehab",
+      "maximum grip",
+      "all-day wear"
+    ],
+    "specs": {
+      "fit": "Men's",
+      "grip": "Silica gel 1mm+",
+      "height": "Mid-calf",
+      "support": "Arch"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "wanzhihui-grip-socks",
+    "name": "WANZHIHUI Grip Socks (12 Pairs)",
+    "brand": "WANZHIHUI",
+    "category": "non-slip-grip-socks",
+    "subCategory": "unisex",
+    "amazonUrl": "https://www.amazon.com/s?k=WANZHIHUI%2012%20pairs%20grip%20socks%20non%20slip%20hospital%20elderly%20pilates&tag=seniorsaferhome-20",
+    "asin": "B093FXM9YZ",
+    "editorialImageFallback": "/images/products/wanzhihui-grip-socks.svg",
+    "shortDescription": "Twelve pairs with thick PVC-silicone grip dots and arch support — the most cost-effective way to supply a whole household at about $1.79 a pair.",
+    "badge": "Best Value",
+    "price": 21.49,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 5703,
+    "features": [
+      "12 pairs, assorted colors",
+      "Thick PVC silicone grip dots",
+      "Arch support",
+      "For women & men"
+    ],
+    "pros": [
+      "Best price per pair",
+      "Strong grip on hard floors",
+      "Stock the whole house"
+    ],
+    "cons": [
+      "Assorted colors not chosen"
+    ],
+    "bestFor": [
+      "whole-household supply",
+      "fall prevention",
+      "value"
+    ],
+    "specs": {
+      "pack": "12 pairs",
+      "grip": "PVC silicone",
+      "support": "Arch",
+      "fit": "Unisex"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "bulinlulu-fuzzy-grip-socks",
+    "name": "Bulinlulu Fuzzy Hospital Grip Socks (7 Pairs)",
+    "brand": "Bulinlulu",
+    "category": "non-slip-grip-socks",
+    "subCategory": "fuzzy",
+    "amazonUrl": "https://www.amazon.com/s?k=Bulinlulu%20fuzzy%20socks%20with%20grips%20warm%20hospital%20slipper%20socks%20unisex&tag=seniorsaferhome-20",
+    "asin": "B09NH1XZ4Y",
+    "editorialImageFallback": "/images/products/bulinlulu-fuzzy-grip-socks.svg",
+    "shortDescription": "Super-soft fluffy mid-top socks with rubber tread grips — warm enough to wear to bed, with grip that works on cold tile and hardwood in the dark.",
+    "badge": "Warmest",
+    "price": 18.49,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 5283,
+    "features": [
+      "7 pairs, super-soft fluffy",
+      "Rubber tread grips",
+      "Mid-top keeps feet warm",
+      "Stretches to fit most adults"
+    ],
+    "pros": [
+      "Cozy and warm",
+      "Good nighttime grip",
+      "Stretchy one-size fit"
+    ],
+    "cons": [
+      "Bulkier than thin grip socks"
+    ],
+    "bestFor": [
+      "nighttime bathroom trips",
+      "cold floors",
+      "warmth + grip"
+    ],
+    "specs": {
+      "pack": "7 pairs",
+      "grip": "Rubber tread",
+      "warmth": "Fluffy mid-top",
+      "fit": "Most adults"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "fnovco-fuzzy-grip-socks",
+    "name": "FNOVCO Fuzzy Non-Slip Grip Socks (6 Pairs)",
+    "brand": "FNOVCO",
+    "category": "non-slip-grip-socks",
+    "subCategory": "fuzzy",
+    "amazonUrl": "https://www.amazon.com/s?k=FNOVCO%20non%20slip%20fuzzy%20fluffy%20hospital%20grip%20socks%20women%20candy%20colors&tag=seniorsaferhome-20",
+    "asin": "B099S4MQWZ",
+    "editorialImageFallback": "/images/products/fnovco-fuzzy-grip-socks.svg",
+    "shortDescription": "Cloud-soft fluffy slipper socks with silicone rubber gripper soles and an elasticated cuff that is easy for caregivers — or arthritic hands — to pull on and off.",
+    "badge": "Easiest to Put On",
+    "price": 11.72,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 3727,
+    "features": [
+      "6 pairs, cloud-soft fluffy",
+      "Silicone rubber gripper soles",
+      "Elasticated easy-on cuff",
+      "Warm for bed or lounging"
+    ],
+    "pros": [
+      "Easy on/off for caregivers",
+      "Soft and warm",
+      "Good grip on tile"
+    ],
+    "cons": [
+      "Slipper-style, less snug"
+    ],
+    "bestFor": [
+      "caregiver-assisted dressing",
+      "arthritic hands",
+      "warmth"
+    ],
+    "specs": {
+      "pack": "6 pairs",
+      "grip": "Silicone rubber",
+      "cuff": "Elasticated",
+      "warmth": "Fluffy"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "caidienu-crew-grip-socks",
+    "name": "CaiDieNu Non-Slip Crew Grip Socks for Women (5 Pairs)",
+    "brand": "CaiDieNu",
+    "category": "non-slip-grip-socks",
+    "subCategory": "womens",
+    "amazonUrl": "https://www.amazon.com/s?k=CaiDieNu%20non%20slip%20crew%20grip%20socks%20women%20rubberized%20sole%20wide%20cuff&tag=seniorsaferhome-20",
+    "asin": "B0DR8MJCT9",
+    "editorialImageFallback": "/images/products/caidienu-crew-grip-socks.svg",
+    "shortDescription": "Crew-length socks with a wide rubberized sole and a non-binding stretchable cuff — comfortable on swollen feet and ankles, ideal for elderly or pregnant wearers.",
+    "badge": "Best Wide-Cuff Crew",
+    "price": 16.98,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 771,
+    "features": [
+      "5 pairs, crew length",
+      "Wide rubberized sole",
+      "Non-binding wide cuff",
+      "85% cotton"
+    ],
+    "pros": [
+      "Kind to swollen feet/ankles",
+      "Wide grip sole",
+      "Soft cotton blend"
+    ],
+    "cons": [
+      "Women’s sizing"
+    ],
+    "bestFor": [
+      "swollen feet / edema",
+      "maternity & elderly",
+      "extended wear"
+    ],
+    "specs": {
+      "pack": "5 pairs",
+      "length": "Crew",
+      "cuff": "Wide non-binding",
+      "material": "85% cotton"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "yeug-grip-socks",
+    "name": "yeuG Cotton Grip Socks for Women (4 Pairs)",
+    "brand": "yeuG",
+    "category": "non-slip-grip-socks",
+    "subCategory": "womens",
+    "amazonUrl": "https://www.amazon.com/s?k=yeuG%20pilates%20grip%20socks%20women%20cotton%20silicone%20dot%20non%20slip%20ankle&tag=seniorsaferhome-20",
+    "asin": "B0GL1718WX",
+    "editorialImageFallback": "/images/products/yeug-grip-socks.svg",
+    "shortDescription": "Soft 90% cotton ankle socks with silicone dot grips and moisture-wicking comfort — a great everyday choice for hospital and rehab use.",
+    "badge": "Best for Rehab",
+    "price": 9.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 5138,
+    "features": [
+      "4 pairs, 90% cotton/10% spandex",
+      "Soft silicone dot grips",
+      "Moisture-wicking",
+      "Ankle-high"
+    ],
+    "pros": [
+      "Soft, breathable cotton",
+      "Reliable dot grip",
+      "Affordable four-pack"
+    ],
+    "cons": [
+      "Ankle-height, no warmth"
+    ],
+    "bestFor": [
+      "hospital & rehab",
+      "everyday wear",
+      "breathability"
+    ],
+    "specs": {
+      "pack": "4 pairs",
+      "material": "90% cotton",
+      "grip": "Silicone dots",
+      "length": "Ankle"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "muezna-grip-socks",
+    "name": "Muezna Minimalist No-Show Grip Socks (6 Pairs)",
+    "brand": "Muezna",
+    "category": "non-slip-grip-socks",
+    "subCategory": "womens",
+    "amazonUrl": "https://www.amazon.com/s?k=Muezna%20pilates%20grip%20socks%20women%20minimalist%20silicone%20dots%20no%20show&tag=seniorsaferhome-20",
+    "asin": "B0DQ53GSP5",
+    "editorialImageFallback": "/images/products/muezna-grip-socks.svg",
+    "shortDescription": "A sleek six-pack with discreet silicone dot grips (no dated polka dots) in a breathable cotton blend — the lowest price per pair for post-surgery and hospital use.",
+    "badge": "Best Budget",
+    "price": 7.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 1766,
+    "features": [
+      "6 pairs, 6 colors",
+      "Sleek silicone dot design",
+      "Breathable cotton blend",
+      "No-show cut"
+    ],
+    "pros": [
+      "Lowest cost per pair",
+      "Discreet, modern look",
+      "Breathable"
+    ],
+    "cons": [
+      "No-show, not for warmth"
+    ],
+    "bestFor": [
+      "budget buyers",
+      "post-surgery",
+      "discreet wear"
+    ],
+    "specs": {
+      "pack": "6 pairs",
+      "grip": "Silicone dots",
+      "cut": "No-show",
+      "material": "Cotton blend"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "horuru-crew-grip-socks",
+    "name": "Horuru Unisex Crew Grip Socks (4 Pairs)",
+    "brand": "Horuru",
+    "category": "non-slip-grip-socks",
+    "subCategory": "unisex",
+    "amazonUrl": "https://www.amazon.com/s?k=Horuru%20non%20slip%20grip%20socks%20men%20women%20crew%20hospital%20pilates%20combed%20cotton&tag=seniorsaferhome-20",
+    "asin": "B0FJXF421K",
+    "editorialImageFallback": "/images/products/horuru-crew-grip-socks.svg",
+    "shortDescription": "Unisex crew socks with silicone dot soles, ergonomic arch support, and combed-cotton comfort — sized broadly for men 7–14 and women 6–15.",
+    "badge": "Best Unisex Crew",
+    "price": 14.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 561,
+    "features": [
+      "4 pairs, crew length",
+      "Silicone dot soles",
+      "Ergonomic arch support",
+      "Combed cotton, wide sizing"
+    ],
+    "pros": [
+      "Fits men and women",
+      "Supportive arch",
+      "Soft combed cotton"
+    ],
+    "cons": [
+      "Fewer reviews than top picks"
+    ],
+    "bestFor": [
+      "couples/shared use",
+      "wider feet",
+      "hospital & home"
+    ],
+    "specs": {
+      "pack": "4 pairs",
+      "length": "Crew",
+      "fit": "Men 7–14 / Women 6–15",
+      "grip": "Silicone dots"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   }
 ]

@@ -386,6 +386,7 @@ function categoryEmoji(slug: string): string {
     'lift-chairs': '🛋️',
     'adaptive-eating-aids': '🍴',
     'wheelchair-ramps': '📐',
+    'non-slip-grip-socks': '🦶',
     'transport-wheelchairs': '♿',
     'hearing-amplifiers': '👂',
     'automatic-pill-dispensers': '⏰',
