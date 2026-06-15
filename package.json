@@ -9,12 +9,13 @@
     "gen:llms": "node scripts/gen-llms.mjs",
     "predev": "node scripts/enrich.mjs",
     "dev": "next dev",
-    "prebuild": "node scripts/enrich.mjs && node scripts/gen-llms.mjs",
+    "prebuild": "node scripts/enrich.mjs && node scripts/gen-llms.mjs && node scripts/gen-adstxt.mjs",
     "build": "next build",
     "postbuild": "node scripts/postbuild.mjs",
     "start": "next start",
     "lint": "next lint",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "gen:adstxt": "node scripts/gen-adstxt.mjs"
   },
   "dependencies": {
     "next": "14.2.35",
