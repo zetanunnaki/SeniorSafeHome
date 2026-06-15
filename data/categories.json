@@ -270,5 +270,21 @@
     "shortDescription": "Natural-daylight desk and floor lamps with high color rendering that reduce eye strain and make reading and close work easier for aging and low-vision eyes.",
     "intro": "Aging eyes need far more light — and the right quality of light — to read and do close work comfortably. Natural-daylight LED lamps (around 5000–6000K with high color rendering) cut eye strain, reveal true colors for crafts, and make low-vision reading far easier, especially alongside a [magnifier](/categories/low-vision-magnifiers). We compare desk and floor lamps on brightness, color temperature and CRI, glare control, flexible positioning, and remote or touch controls, plus 2-in-1 light-therapy lamps that also help with winter low mood.",
     "icon": "lamp"
+  },
+  {
+    "slug": "smart-home-for-seniors",
+    "name": "Smart Home & Voice Assistants",
+    "cluster": "communication",
+    "shortDescription": "Voice assistants, smart displays, and smart-home devices that help seniors stay connected, control their home hands-free, and live more safely and independently.",
+    "intro": "Smart-home technology can make a real difference for aging at home: hands-free voice control for anyone with limited mobility, video calling that fights isolation, smart lighting that prevents falls in the dark, and reminders for medications and appointments. We compare easy smart speakers, video-calling smart displays, a senior-specific tablet, and accessories like voice-controlled light switches and IR hubs — chosen for ease of use, connection features, and home-safety value. A caregiver usually sets these up; from there, most are operated by simple voice commands.",
+    "icon": "smart-home"
+  },
+  {
+    "slug": "walker-wheelchair-accessories",
+    "name": "Walker & Wheelchair Accessories",
+    "cluster": "mobility-transfer",
+    "shortDescription": "Trays, baskets, bags, and cup holders that let walker and wheelchair users carry meals, drinks, and belongings hands-free.",
+    "intro": "The right accessory turns a walker or wheelchair into a way to carry things — so a senior can bring a meal, a drink, a phone, and their medications from room to room in one safe trip instead of risking a fall with full hands. We compare snap-on trays, tip-resistant baskets and bags, universal cup holders, and wheelchair side pouches, looking at capacity, secure attachment, balance, and ease of cleaning. A basket plus a cup holder covers most daily carrying needs. For a rolling table that serves both bed and wheelchair, see [overbed tables](/categories/overbed-tables).",
+    "icon": "accessory"
   }
 ]

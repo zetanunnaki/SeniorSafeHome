@@ -11823,5 +11823,797 @@
     "reviewSlug": null,
     "lastManualReview": "2026-06-14",
     "asinSource": "searchItems"
+  },
+  {
+    "id": "echo-dot-speaker",
+    "name": "Amazon Echo Dot Smart Speaker (Newest)",
+    "brand": "Amazon",
+    "category": "smart-home-for-seniors",
+    "subCategory": "smart-speaker",
+    "amazonUrl": "https://www.amazon.com/s?k=Amazon%20Echo%20Dot%20newest%20smart%20speaker%20Alexa%20motion%20temperature%20sensor&tag=seniorsaferhome-20",
+    "asin": "B09B8V1LZ3",
+    "editorialImageFallback": "/images/products/echo-dot-speaker.svg",
+    "shortDescription": "The easiest entry to a voice assistant — just say \"Alexa\" for reminders, calls, music, and the weather, with motion and temperature sensors that can trigger lights automatically.",
+    "badge": "Best Starting Point",
+    "price": 49.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 193823,
+    "features": [
+      "Hands-free Alexa, no screen to learn",
+      "Motion + temperature sensors",
+      "Multi-room audio, Fire TV pairing",
+      "Built-in eero Wi-Fi extender"
+    ],
+    "pros": [
+      "Cheapest, simplest start",
+      "Most-reviewed device here (4.7★)",
+      "Great for reminders & calls"
+    ],
+    "cons": [
+      "No screen for video calls"
+    ],
+    "bestFor": [
+      "first-time voice assistant",
+      "medication reminders",
+      "hands-free help"
+    ],
+    "specs": {
+      "type": "Smart speaker",
+      "assistant": "Alexa",
+      "sensors": "Motion + temp",
+      "screen": "None"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "echo-show-8-display",
+    "name": "Amazon Echo Show 8 Smart Display (4th Gen, 8.7\")",
+    "brand": "Amazon",
+    "category": "smart-home-for-seniors",
+    "subCategory": "smart-display",
+    "amazonUrl": "https://www.amazon.com/s?k=Amazon%20Echo%20Show%208%20newest%204th%20gen%20smart%20display%20video%20calling%20auto%20framing%20camera&tag=seniorsaferhome-20",
+    "asin": "B0DC8ZMR1P",
+    "editorialImageFallback": "/images/products/echo-show-8-display.svg",
+    "shortDescription": "The best video-calling display for seniors — an 8.7\" HD screen with an auto-framing camera that keeps the person centered, one-tap calls, a family photo frame, and a built-in smart-home hub.",
+    "badge": "Best for Video Calls",
+    "price": 179.99,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 5125,
+    "features": [
+      "8.7\" vibrant HD touchscreen",
+      "Auto-framing camera, one-tap calling",
+      "Family photo frame when idle",
+      "Built-in smart home hub, presence detection"
+    ],
+    "pros": [
+      "Easy one-tap video calls",
+      "Camera follows the person",
+      "Doubles as photo frame"
+    ],
+    "cons": [
+      "Pricier; touchscreen to learn"
+    ],
+    "bestFor": [
+      "video calls with family",
+      "staying connected",
+      "caregiver check-ins"
+    ],
+    "specs": {
+      "type": "Smart display",
+      "size": "8.7\"",
+      "camera": "Auto-framing",
+      "hub": "Built-in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "echo-show-5-display",
+    "name": "Amazon Echo Show 5 Compact Smart Display (Newest)",
+    "brand": "Amazon",
+    "category": "smart-home-for-seniors",
+    "subCategory": "smart-display",
+    "amazonUrl": "https://www.amazon.com/s?k=Amazon%20Echo%20Show%205%20newest%20compact%20smart%20display%20bedside%20camera%20video%20calling&tag=seniorsaferhome-20",
+    "asin": "B09B2SBHQK",
+    "editorialImageFallback": "/images/products/echo-show-5-display.svg",
+    "shortDescription": "A compact 5.5\" bedside display with a camera and privacy shutter, video calling, a rotating family-photo slideshow, smart-home control, and Ring doorbell integration.",
+    "badge": "Best Bedside Display",
+    "price": 89.99,
+    "priceCurrency": "USD",
+    "rating": 4.2,
+    "reviewCount": 67673,
+    "features": [
+      "5.5\" screen, camera with shutter",
+      "Video calling",
+      "Family photo slideshow",
+      "Smart home + Ring doorbell control"
+    ],
+    "pros": [
+      "Perfect nightstand size",
+      "Affordable display with camera",
+      "Shows who is at the door"
+    ],
+    "cons": [
+      "Small screen for video calls"
+    ],
+    "bestFor": [
+      "bedroom nightstand",
+      "photo display + calls",
+      "doorbell viewing"
+    ],
+    "specs": {
+      "type": "Smart display",
+      "size": "5.5\"",
+      "camera": "With shutter",
+      "use": "Bedside"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "echo-spot-clock-speaker",
+    "name": "Amazon Echo Spot Smart Alarm Clock (Newest)",
+    "brand": "Amazon",
+    "category": "smart-home-for-seniors",
+    "subCategory": "smart-speaker",
+    "amazonUrl": "https://www.amazon.com/s?k=Amazon%20Echo%20Spot%20newest%20smart%20alarm%20clock%20customizable%20display%20motion%20detection&tag=seniorsaferhome-20",
+    "asin": "B0BFC7WQ6R",
+    "editorialImageFallback": "/images/products/echo-spot-clock-speaker.svg",
+    "shortDescription": "A bedside smart alarm clock with an at-a-glance time/weather face, gradual light wake-up routines, motion-activated smart-home routines, and simple touchscreen controls.",
+    "badge": "Best Smart Clock",
+    "price": 79.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 42715,
+    "features": [
+      "Customizable clock face (time/weather)",
+      "Gradual light wake-up routines",
+      "Motion-activated routines",
+      "Touchscreen controls, Wi-Fi extender"
+    ],
+    "pros": [
+      "Great bedside companion",
+      "Gentle wake-up routines",
+      "Voice + touch control"
+    ],
+    "cons": [
+      "Small, no video calling"
+    ],
+    "bestFor": [
+      "nightstand clock + Alexa",
+      "gentle wake-ups",
+      "sundowning routines"
+    ],
+    "specs": {
+      "type": "Smart clock speaker",
+      "display": "Customizable",
+      "motion": "Yes",
+      "assistant": "Alexa"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "echo-dot-max-speaker",
+    "name": "Amazon Echo Dot Max Smart Speaker (Newest)",
+    "brand": "Amazon",
+    "category": "smart-home-for-seniors",
+    "subCategory": "smart-speaker",
+    "amazonUrl": "https://www.amazon.com/s?k=Amazon%20Echo%20Dot%20Max%20newest%20room%20filling%20sound%20built%20in%20smart%20home%20hub&tag=seniorsaferhome-20",
+    "asin": "B0D6SX8VLQ",
+    "editorialImageFallback": "/images/products/echo-dot-max-speaker.svg",
+    "shortDescription": "A louder Echo with nearly 3× the bass and a built-in smart-home hub — so it controls compatible lights, locks, and plugs by voice without a separate hub device.",
+    "badge": "Best Sound + Hub",
+    "price": 99.99,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 3587,
+    "features": [
+      "Room-filling sound, ~3× bass",
+      "Built-in smart home hub",
+      "Presence detection (Omnisense)",
+      "AZ3 chip, hands-free Alexa"
+    ],
+    "pros": [
+      "Better audio for hard of hearing",
+      "No separate hub needed",
+      "Controls many devices"
+    ],
+    "cons": [
+      "Costlier than a Dot"
+    ],
+    "bestFor": [
+      "living rooms",
+      "controlling smart devices",
+      "fuller sound"
+    ],
+    "specs": {
+      "type": "Smart speaker",
+      "audio": "~3× bass",
+      "hub": "Built-in",
+      "screen": "None"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "echo-hub-control-panel",
+    "name": "Amazon Echo Hub Smart Home Control Panel",
+    "brand": "Amazon",
+    "category": "smart-home-for-seniors",
+    "subCategory": "control-panel",
+    "amazonUrl": "https://www.amazon.com/s?k=Amazon%20Echo%20Hub%208%20inch%20smart%20home%20control%20panel%20wall%20mount%20dashboard%20Alexa&tag=seniorsaferhome-20",
+    "asin": "B0BCR7M9KX",
+    "editorialImageFallback": "/images/products/echo-hub-control-panel.svg",
+    "shortDescription": "An 8\" wall-mountable control panel with a customizable dashboard of widgets that controls thousands of Alexa-compatible devices — locks, thermostats, cameras, and plugs — by touch or voice.",
+    "badge": "Best Control Panel",
+    "price": 179.99,
+    "priceCurrency": "USD",
+    "rating": 4,
+    "reviewCount": 1681,
+    "features": [
+      "8\" wall-mount control panel",
+      "Customizable widget dashboard",
+      "Controls thousands of devices",
+      "Zigbee/Matter/Thread + voice"
+    ],
+    "pros": [
+      "One place to control the home",
+      "Caregiver-configurable",
+      "Touch + voice"
+    ],
+    "cons": [
+      "Lowest rating here; setup-heavy"
+    ],
+    "bestFor": [
+      "caregiver-set smart homes",
+      "central control",
+      "whole-home automation"
+    ],
+    "specs": {
+      "type": "Control panel",
+      "size": "8\"",
+      "mount": "Wall/tabletop",
+      "control": "Touch + voice"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "grandpad-senior-tablet",
+    "name": "GrandPad Easy-to-Use Senior Tablet & Phone",
+    "brand": "GrandPad",
+    "category": "smart-home-for-seniors",
+    "subCategory": "senior-tablet",
+    "amazonUrl": "https://www.amazon.com/s?k=GrandPad%20senior%20tablet%20phone%20large%20icons%20scam%20blocking%20video%20calls%20wireless%20charging&tag=seniorsaferhome-20",
+    "asin": "B09S6THZJ1",
+    "editorialImageFallback": "/images/products/grandpad-senior-tablet.svg",
+    "shortDescription": "A tablet purpose-built for seniors with no learning curve — large icons, a scam-blocking private network, one-tap video and voice calls, family photo sharing, and 24/7 US-based support.",
+    "badge": "Best Senior Tablet",
+    "price": 399.99,
+    "priceCurrency": "USD",
+    "rating": 4.3,
+    "reviewCount": 130,
+    "features": [
+      "Large icons, no tech knowledge needed",
+      "Scam-blocking private network",
+      "Easy video/voice calls + photo sharing",
+      "Family companion app, 24/7 US support"
+    ],
+    "pros": [
+      "Truly senior-friendly, scam-proof",
+      "Family sets it up remotely",
+      "Live support answers the phone"
+    ],
+    "cons": [
+      "Subscription plan required"
+    ],
+    "bestFor": [
+      "seniors who avoid tech",
+      "staying connected safely",
+      "family caregiving"
+    ],
+    "specs": {
+      "type": "Senior tablet",
+      "icons": "Large",
+      "security": "Scam-blocking",
+      "support": "24/7 US"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "treatlife-smart-switches",
+    "name": "TREATLIFE Smart Light Switches (4-Pack)",
+    "brand": "TREATLIFE",
+    "category": "smart-home-for-seniors",
+    "subCategory": "smart-accessory",
+    "amazonUrl": "https://www.amazon.com/s?k=TREATLIFE%20smart%20light%20switch%20single%20pole%204%20pack%20Alexa%20Google%20no%20hub&tag=seniorsaferhome-20",
+    "asin": "B07WWYQJFR",
+    "editorialImageFallback": "/images/products/treatlife-smart-switches.svg",
+    "shortDescription": "Voice- and app-controlled light switches that replace existing ones (no hub) — schedule hallway and porch lights at sunset so a senior never walks to a switch in the dark.",
+    "badge": "Best Fall-Prevention Upgrade",
+    "price": 39.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 9118,
+    "features": [
+      "Works with Alexa + Google + SmartThings",
+      "App + voice + timer control",
+      "No hub required",
+      "Replaces existing switches, 2-yr warranty"
+    ],
+    "pros": [
+      "Lights on without getting up",
+      "Auto sunset schedules",
+      "Strong fall-prevention value"
+    ],
+    "cons": [
+      "Requires wiring a switch"
+    ],
+    "bestFor": [
+      "fall prevention (lighting)",
+      "no fumbling in the dark",
+      "voice/app lighting"
+    ],
+    "specs": {
+      "type": "Smart switch",
+      "pack": "4",
+      "hub": "Not required",
+      "works": "Alexa/Google"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "switchbot-hub-2",
+    "name": "SwitchBot Hub 2 Smart IR Remote & Sensor",
+    "brand": "SwitchBot",
+    "category": "smart-home-for-seniors",
+    "subCategory": "smart-accessory",
+    "amazonUrl": "https://www.amazon.com/s?k=SwitchBot%20Hub%202%20smart%20IR%20remote%20thermometer%20hygrometer%20Alexa%20Google%20Apple%20Matter&tag=seniorsaferhome-20",
+    "asin": "B0BM8VS13P",
+    "editorialImageFallback": "/images/products/switchbot-hub-2.svg",
+    "shortDescription": "Turns existing IR devices — TV, AC, fans, cable box — into voice-controlled smart devices without replacing them, with a built-in thermometer and two physical buttons for non-voice users.",
+    "badge": "Best for Existing Devices",
+    "price": 59.99,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 11315,
+    "features": [
+      "Converts existing IR remotes to voice",
+      "Built-in thermometer/hygrometer",
+      "Works with Alexa/Google/Apple Home (Matter)",
+      "2 physical smart buttons"
+    ],
+    "pros": [
+      "No new appliances needed",
+      "Great for arthritis (no remotes)",
+      "Physical buttons as backup"
+    ],
+    "cons": [
+      "Initial IR setup needed"
+    ],
+    "bestFor": [
+      "controlling the TV/AC by voice",
+      "arthritis / remote trouble",
+      "reusing current devices"
+    ],
+    "specs": {
+      "type": "IR hub + sensor",
+      "controls": "TV/AC/fans",
+      "sensor": "Temp/humidity",
+      "buttons": "2"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "dotday-walker-basket",
+    "name": "Dotday Foldable Walker Basket with Cup Holder",
+    "brand": "Dotday",
+    "category": "walker-wheelchair-accessories",
+    "subCategory": "basket",
+    "amazonUrl": "https://www.amazon.com/s?k=Dotday%20foldable%20walker%20basket%20cup%20holder%207%20compartments%20never%20tipping&tag=seniorsaferhome-20",
+    "asin": "B09MHL52JR",
+    "editorialImageFallback": "/images/products/dotday-walker-basket.svg",
+    "shortDescription": "The highest-rated walker basket — 7 compartments, a hexagonal cup holder with elastic bands, and an optimized center of balance that resists tipping, in water-resistant 600D Oxford.",
+    "badge": "Best Overall",
+    "price": 19.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 5667,
+    "features": [
+      "7 compartments + cup holder",
+      "2 elastic bands secure the cup",
+      "Water-resistant 600D Oxford",
+      "Balanced design resists tipping"
+    ],
+    "pros": [
+      "Holds tablet, bottle, phone, snacks",
+      "Top rating, won’t tip",
+      "Folds away"
+    ],
+    "cons": [
+      "Bag-style (not a flat tray)"
+    ],
+    "bestFor": [
+      "hands-free carrying",
+      "walker users",
+      "daily essentials"
+    ],
+    "specs": {
+      "type": "Basket/bag",
+      "compartments": "7",
+      "fabric": "600D Oxford",
+      "cup": "Yes"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "accmor-cup-holder",
+    "name": "Accmor Universal 360° Walker & Wheelchair Cup Holder",
+    "brand": "Accmor",
+    "category": "walker-wheelchair-accessories",
+    "subCategory": "cup-holder",
+    "amazonUrl": "https://www.amazon.com/s?k=Accmor%20universal%20walker%20wheelchair%20cup%20holder%20360%20spring%20cage%20adjustable%20clamp&tag=seniorsaferhome-20",
+    "asin": "B086TZXKMJ",
+    "editorialImageFallback": "/images/products/accmor-cup-holder.svg",
+    "shortDescription": "The most-reviewed cup holder — a 360° universal holder with a 3-spring cage that secures bottles and an adjustable clamp (0.55–1.7\") that fits any walker, wheelchair, rollator, or scooter bar.",
+    "badge": "Best Cup Holder",
+    "price": 8.73,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 19932,
+    "features": [
+      "360° rotation, 3-spring cage",
+      "Adjustable clamp 0.55–1.7\"",
+      "Fits walkers/wheelchairs/scooters",
+      "Tool-free, ABS + rubber"
+    ],
+    "pros": [
+      "Fits almost any bar",
+      "Holds bottles securely",
+      "Cheap and popular"
+    ],
+    "cons": [
+      "Cup holder only"
+    ],
+    "bestFor": [
+      "hydration within reach",
+      "any mobility aid",
+      "medication drinks"
+    ],
+    "specs": {
+      "type": "Cup holder",
+      "rotation": "360°",
+      "clamp": "0.55–1.7\"",
+      "mount": "Tool-free"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "rhino-valley-walker-bag",
+    "name": "Rhino Valley Walker Bag with Cup Holder",
+    "brand": "Rhino Valley",
+    "category": "walker-wheelchair-accessories",
+    "subCategory": "bag",
+    "amazonUrl": "https://www.amazon.com/s?k=Rhino%20Valley%20walker%20bag%20cup%20holder%208%20compartments%20buckle%20machine%20washable&tag=seniorsaferhome-20",
+    "asin": "B0B9RVDYNK",
+    "editorialImageFallback": "/images/products/rhino-valley-walker-bag.svg",
+    "shortDescription": "An 8-compartment walker bag with an upgraded buckle system (not Velcro), a water-bottle holder, and an 11 lb capacity — designed to fit Drive Medical and most folding walkers.",
+    "badge": "Best for Rollators",
+    "price": 16.24,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 1917,
+    "features": [
+      "8 compartments",
+      "Upgraded buckle (no Velcro)",
+      "Water bottle holder, 11 lb capacity",
+      "Machine washable"
+    ],
+    "pros": [
+      "Secure buckles won’t slip",
+      "High capacity",
+      "Washable"
+    ],
+    "cons": [
+      "Front-bar mount needed"
+    ],
+    "bestFor": [
+      "rollators & folding walkers",
+      "lots of storage",
+      "secure attachment"
+    ],
+    "specs": {
+      "type": "Bag",
+      "compartments": "8",
+      "capacity": "11 lb",
+      "attach": "Buckle"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "healthsmart-walker-basket",
+    "name": "HealthSmart Walker Basket with Tray & Cup Holder",
+    "brand": "HealthSmart",
+    "category": "walker-wheelchair-accessories",
+    "subCategory": "basket",
+    "amazonUrl": "https://www.amazon.com/s?k=HealthSmart%20DMI%20walker%20basket%20removable%20tray%20insert%20cup%20holder%20rust%20resistant&tag=seniorsaferhome-20",
+    "asin": "B0009STN1A",
+    "editorialImageFallback": "/images/products/healthsmart-walker-basket.svg",
+    "shortDescription": "A classic rigid walker basket with a removable plastic tray insert and built-in cup holder, a rust-resistant coating, and a machine-washable design that fits most walkers and rollators.",
+    "badge": "Best Classic Basket",
+    "price": 15.91,
+    "priceCurrency": "USD",
+    "rating": 4.3,
+    "reviewCount": 12329,
+    "features": [
+      "Rigid basket + removable tray insert",
+      "Built-in cup holder",
+      "Rust-resistant coating",
+      "No tools, machine washable"
+    ],
+    "pros": [
+      "Sturdy rigid basket",
+      "Tray insert for stability",
+      "Heavily reviewed"
+    ],
+    "cons": [
+      "Bulkier than fabric bags"
+    ],
+    "bestFor": [
+      "classic walkers",
+      "a firm carrying surface",
+      "facility use"
+    ],
+    "specs": {
+      "type": "Rigid basket",
+      "insert": "Tray",
+      "cup": "Yes",
+      "warranty": "1 yr"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "guiseapue-cup-phone-holder",
+    "name": "Guiseapue 2-in-1 Cup & Phone Holder",
+    "brand": "Guiseapue",
+    "category": "walker-wheelchair-accessories",
+    "subCategory": "cup-holder",
+    "amazonUrl": "https://www.amazon.com/s?k=Guiseapue%202%20in%201%20cup%20phone%20holder%20walker%20wheelchair%20rollator%20360%20rotation&tag=seniorsaferhome-20",
+    "asin": "B094N4HRLX",
+    "editorialImageFallback": "/images/products/guiseapue-cup-phone-holder.svg",
+    "shortDescription": "A 2-in-1 cup and phone holder with a 3-second tool-free install, 360° rotation, and 4 silicone grips — fits walkers, wheelchairs, rollators, and scooters, and holds Stanley/YETI mugs.",
+    "badge": "Best Cup + Phone",
+    "price": 9.98,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 10275,
+    "features": [
+      "Holds a cup and a phone",
+      "360° rotation, tool-free install",
+      "4 silicone grips",
+      "Fits Stanley/YETI/mugs"
+    ],
+    "pros": [
+      "Phone + drink in reach",
+      "Fast install",
+      "Fits large tumblers"
+    ],
+    "cons": [
+      "Two items add some bulk"
+    ],
+    "bestFor": [
+      "keeping phone in reach",
+      "hydration",
+      "any mobility aid"
+    ],
+    "specs": {
+      "type": "Cup + phone holder",
+      "rotation": "360°",
+      "grips": "4 silicone",
+      "install": "Tool-free"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "vive-wheelchair-side-bag",
+    "name": "Vive Health Wheelchair Side Bag",
+    "brand": "Vive Health",
+    "category": "walker-wheelchair-accessories",
+    "subCategory": "side-pouch",
+    "amazonUrl": "https://www.amazon.com/s?k=Vive%20Health%20wheelchair%20side%20bag%206%20compartments%204%20point%20strap%20arthritic%20zipper&tag=seniorsaferhome-20",
+    "asin": "B07VVF9P51",
+    "editorialImageFallback": "/images/products/vive-wheelchair-side-bag.svg",
+    "shortDescription": "A 6-compartment wheelchair side bag with a 4-point adjustable strap attachment and large o-ring zipper pulls for arthritic hands — fits wheelchairs, scooters, and walkers, 10 lb capacity.",
+    "badge": "Best Wheelchair Pouch",
+    "price": 18.99,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 1489,
+    "features": [
+      "6 compartments, 10 lb capacity",
+      "4-point adjustable attachment",
+      "Large o-ring zipper pulls (arthritis)",
+      "Water-resistant polyester"
+    ],
+    "pros": [
+      "Stays secure at any speed",
+      "Easy zippers for stiff hands",
+      "Stays on when folding"
+    ],
+    "cons": [
+      "Side-mount style"
+    ],
+    "bestFor": [
+      "wheelchairs & scooters",
+      "arthritic hands",
+      "organized storage"
+    ],
+    "specs": {
+      "type": "Side pouch",
+      "compartments": "6",
+      "capacity": "10 lb",
+      "attach": "4-point"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "okxiri-walker-bag",
+    "name": "Okxiri Large Waterproof Walker Bag",
+    "brand": "Okxiri",
+    "category": "walker-wheelchair-accessories",
+    "subCategory": "bag",
+    "amazonUrl": "https://www.amazon.com/s?k=Okxiri%20walker%20bag%20basket%20cup%20holder%20waterproof%20Oxford%205%20straps%20machine%20washable&tag=seniorsaferhome-20",
+    "asin": "B0FPCVRYPX",
+    "editorialImageFallback": "/images/products/okxiri-walker-bag.svg",
+    "shortDescription": "A large 15.7×11\" waterproof Oxford walker bag with 5 adjustable hook-and-loop straps, a cup holder, a zippered pocket, and two mesh holders — the most storage at the lowest price.",
+    "badge": "Best Budget",
+    "price": 7.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 303,
+    "features": [
+      "Large 15.7×11\" PVC waterproof Oxford",
+      "5 adjustable straps",
+      "Cup holder + zip pocket + 2 mesh",
+      "Machine washable, D-ring"
+    ],
+    "pros": [
+      "Lowest price, big capacity",
+      "Waterproof",
+      "Fits many walkers"
+    ],
+    "cons": [
+      "Hook-and-loop (not buckle)"
+    ],
+    "bestFor": [
+      "budget buyers",
+      "maximum storage",
+      "all-weather use"
+    ],
+    "specs": {
+      "type": "Bag",
+      "size": "15.7×11\"",
+      "straps": "5",
+      "fabric": "Waterproof Oxford"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "dmi-walker-tray",
+    "name": "DMI Folding Walker Tray with Two Cup Holders",
+    "brand": "DMI",
+    "category": "walker-wheelchair-accessories",
+    "subCategory": "tray",
+    "amazonUrl": "https://www.amazon.com/s?k=DMI%20folding%20walker%20tray%20two%20cup%20holders%20non%20slip%20tool%20free%20standard%20walker&tag=seniorsaferhome-20",
+    "asin": "B000CSOQJQ",
+    "editorialImageFallback": "/images/products/dmi-walker-tray.svg",
+    "shortDescription": "A snap-on folding tray with two cup holders, a 2\" anti-spill lip, and a textured non-slip surface — carries a meal, drink, and phone in one trip and folds flat for storage.",
+    "badge": "Best Tray Table",
+    "price": 29.99,
+    "priceCurrency": "USD",
+    "rating": 4.1,
+    "reviewCount": 5779,
+    "features": [
+      "2 cup holders (different sizes)",
+      "2\" lip prevents spills",
+      "Textured non-slip surface",
+      "Snaps on tool-free, folds flat"
+    ],
+    "pros": [
+      "Flat surface for meals",
+      "Spill-resistant lip",
+      "Trusted brand, 1-yr warranty"
+    ],
+    "cons": [
+      "5 lb capacity; lower rating"
+    ],
+    "bestFor": [
+      "carrying meals",
+      "a flat work surface",
+      "standard walkers"
+    ],
+    "specs": {
+      "type": "Tray",
+      "cups": "2",
+      "capacity": "5 lb",
+      "fit": "18.5\" walkers"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "medical-king-bamboo-tray",
+    "name": "Medical King Bamboo Walker Tray Table",
+    "brand": "Medical King",
+    "category": "walker-wheelchair-accessories",
+    "subCategory": "tray",
+    "amazonUrl": "https://www.amazon.com/s?k=Medical%20King%20bamboo%20walker%20tray%20table%20cup%20holder%20foldable%20removable%20mat&tag=seniorsaferhome-20",
+    "asin": "B0CLBL3ZL7",
+    "editorialImageFallback": "/images/products/medical-king-bamboo-tray.svg",
+    "shortDescription": "A large 21×16\" bamboo walker tray with two cup holders, raised edges, and a removable non-slip mat — the biggest surface here, and it folds in half for storage.",
+    "badge": "Best Bamboo Tray",
+    "price": 27.99,
+    "priceCurrency": "USD",
+    "rating": 4.1,
+    "reviewCount": 1307,
+    "features": [
+      "Large 21×16\" bamboo surface",
+      "2 cup holders, raised edges",
+      "Removable non-slip mat",
+      "Folds in half, no tools"
+    ],
+    "pros": [
+      "Largest tray surface",
+      "Stylish bamboo finish",
+      "Removable washable mat"
+    ],
+    "cons": [
+      "Lower rating; heavier"
+    ],
+    "bestFor": [
+      "bigger meals",
+      "a stylish tray",
+      "standard walkers"
+    ],
+    "specs": {
+      "type": "Tray",
+      "size": "21×16\"",
+      "material": "Bamboo",
+      "mat": "Removable"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
   }
 ]

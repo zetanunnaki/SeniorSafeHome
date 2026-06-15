@@ -393,6 +393,8 @@ function categoryEmoji(slug: string): string {
     'furniture-bed-risers': '⬆️',
     'dementia-clocks': '🕘',
     'daylight-task-lamps': '🪔',
+    'smart-home-for-seniors': '🔊',
+    'walker-wheelchair-accessories': '🧺',
     'transport-wheelchairs': '♿',
     'hearing-amplifiers': '👂',
     'automatic-pill-dispensers': '⏰',
