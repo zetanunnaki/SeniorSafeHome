@@ -7906,5 +7906,1105 @@
     "reviewSlug": null,
     "lastManualReview": "2026-06-14",
     "asinSource": "searchItems"
+  },
+  {
+    "id": "improvia-washable-underpads",
+    "name": "IMPROVIA Washable Underpads 34\"×36\" (4-Pack)",
+    "brand": "IMPROVIA",
+    "category": "incontinence-bed-protection",
+    "subCategory": "reusable-bed-pad",
+    "amazonUrl": "https://www.amazon.com/s?k=IMPROVIA%20washable%20underpads%2034x36%20incontinence%20bed%20pads%204%20pack&tag=seniorsaferhome-20",
+    "asin": "B0927X3YS8",
+    "editorialImageFallback": "/images/products/improvia-washable-underpads.svg",
+    "shortDescription": "A 4-layer TPU waterproof bed pad with a soft quilted top and non-slip bottom — OEKO-TEX and PFAS-free, rated for 500+ washes.",
+    "badge": "Best Overall",
+    "price": 21.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 25012,
+    "features": [
+      "4-layer TPU waterproof barrier",
+      "Soft quilted top, non-slip bottom",
+      "OEKO-TEX + PFAS-free + latex-free",
+      "500+ wash durability"
+    ],
+    "pros": [
+      "Excellent durability",
+      "Certified safe materials",
+      "Stays put on the bed"
+    ],
+    "cons": [
+      "34×36\" covers part of the bed"
+    ],
+    "bestFor": [
+      "nighttime incontinence",
+      "protecting the mattress",
+      "sensitive skin"
+    ],
+    "specs": {
+      "size": "34×36 in",
+      "layers": "4",
+      "pack": "4",
+      "washes": "500+"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "rms-incontinence-bed-pad",
+    "name": "RMS Ultra Soft 4-Layer Washable Bed Pad 34\"×36\"",
+    "brand": "RMS",
+    "category": "incontinence-bed-protection",
+    "subCategory": "reusable-bed-pad",
+    "amazonUrl": "https://www.amazon.com/s?k=RMS%20ultra%20soft%204%20layer%20washable%20reusable%20incontinence%20bed%20pad%2034x36&tag=seniorsaferhome-20",
+    "asin": "B01LXS330T",
+    "editorialImageFallback": "/images/products/rms-incontinence-bed-pad.svg",
+    "shortDescription": "The most-reviewed incontinence pad on Amazon — a healthcare-designed 4-layer waterproof pad that is machine washable and dryer safe.",
+    "badge": "Most Reviewed",
+    "price": 19.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 38246,
+    "features": [
+      "Designed by healthcare professionals",
+      "4-layer waterproof construction",
+      "Latex-free",
+      "Machine washable + dryer safe"
+    ],
+    "pros": [
+      "Trusted by tens of thousands",
+      "Soft and absorbent",
+      "Dryer safe"
+    ],
+    "cons": [
+      "Single pad, not a multi-pack"
+    ],
+    "bestFor": [
+      "everyday protection",
+      "healthcare-grade quality",
+      "overnight use"
+    ],
+    "specs": {
+      "size": "34×36 in",
+      "layers": "4",
+      "care": "Wash + dry",
+      "material": "Latex-free"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "utopia-washable-underpads",
+    "name": "Utopia Bedding Washable Underpads 34\"×36\" (4-Pack)",
+    "brand": "Utopia Bedding",
+    "category": "incontinence-bed-protection",
+    "subCategory": "reusable-bed-pad",
+    "amazonUrl": "https://www.amazon.com/s?k=Utopia%20Bedding%20washable%20underpads%2034x36%20waterproof%20reusable%20bed%20pads%204%20pack&tag=seniorsaferhome-20",
+    "asin": "B0B6PY91LD",
+    "editorialImageFallback": "/images/products/utopia-washable-underpads.svg",
+    "shortDescription": "A four-pack of waterproof reusable pads holding up to 6 cups (1600cc) — versatile for beds, sofas, and wheelchairs at a great per-pad price.",
+    "badge": "Best Value",
+    "price": 22.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 24173,
+    "features": [
+      "Up to 6 cups (1600cc) absorbency",
+      "Polyester waterproof barrier",
+      "500-wash durability",
+      "Works on beds, sofas, wheelchairs"
+    ],
+    "pros": [
+      "Great value four-pack",
+      "High absorbency",
+      "Versatile placement"
+    ],
+    "cons": [
+      "Thinner top than premium pads"
+    ],
+    "bestFor": [
+      "budget protection",
+      "multi-room use",
+      "heavier absorbency"
+    ],
+    "specs": {
+      "size": "34×36 in",
+      "absorbency": "6 cups",
+      "pack": "4",
+      "washes": "500"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "epica-bed-pads",
+    "name": "Epica Washable Waterproof Bed Pads 34\"×52\" (2-Pack)",
+    "brand": "Epica",
+    "category": "incontinence-bed-protection",
+    "subCategory": "reusable-bed-pad",
+    "amazonUrl": "https://www.amazon.com/s?k=Epica%20bed%20pads%20washable%20waterproof%2034x52%20incontinence%202%20pack&tag=seniorsaferhome-20",
+    "asin": "B01N4L4KLV",
+    "editorialImageFallback": "/images/products/epica-bed-pads.svg",
+    "shortDescription": "A larger 34\"×52\" pad that fits a twin mattress lengthwise, with a cotton-poly quilted top, non-slip backing, and a 500-wash rating.",
+    "badge": "Best Large Size",
+    "price": 35.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 18020,
+    "features": [
+      "Large 34\"×52\" coverage",
+      "Cotton + polyester quilted top",
+      "Non-slip backing",
+      "500-wash rated"
+    ],
+    "pros": [
+      "Covers more of the bed",
+      "Soft quilted surface",
+      "Durable"
+    ],
+    "cons": [
+      "Pricier two-pack"
+    ],
+    "bestFor": [
+      "fuller bed coverage",
+      "active sleepers",
+      "twin beds"
+    ],
+    "specs": {
+      "size": "34×52 in",
+      "pack": "2",
+      "top": "Cotton/poly",
+      "washes": "500"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "gorilla-grip-underpads",
+    "name": "Gorilla Grip Washable Underpads 52\"×34\"",
+    "brand": "Gorilla Grip",
+    "category": "incontinence-bed-protection",
+    "subCategory": "reusable-bed-pad",
+    "amazonUrl": "https://www.amazon.com/s?k=Gorilla%20Grip%20washable%20underpads%2052x34%20waterproof%20incontinence%20non%20slip&tag=seniorsaferhome-20",
+    "asin": "B0B94Q5V14",
+    "editorialImageFallback": "/images/products/gorilla-grip-underpads.svg",
+    "shortDescription": "Holds up to 8 cups of liquid with an exclusive non-skid backing that stays in place all night — OEKO-TEX certified and FSA/HSA eligible.",
+    "badge": "Best Non-Slip",
+    "price": 18.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 12714,
+    "features": [
+      "Up to 8 cups absorbency",
+      "Exclusive non-skid backing",
+      "OEKO-TEX certified",
+      "300-wash durability"
+    ],
+    "pros": [
+      "Highest absorbency here",
+      "Grips the bed firmly",
+      "Large 52×34\" size"
+    ],
+    "cons": [
+      "Lower wash rating than some"
+    ],
+    "bestFor": [
+      "heavy overnight incontinence",
+      "restless sleepers",
+      "wide coverage"
+    ],
+    "specs": {
+      "size": "52×34 in",
+      "absorbency": "8 cups",
+      "backing": "Non-skid",
+      "washes": "300"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "fygrip-washable-underpads",
+    "name": "FYGRIP Extra-Heavy Washable Underpads 36\"×36\" (4-Pack)",
+    "brand": "FYGRIP",
+    "category": "incontinence-bed-protection",
+    "subCategory": "reusable-bed-pad",
+    "amazonUrl": "https://www.amazon.com/s?k=FYGRIP%20washable%20underpads%2036x36%20extra%20heavy%20absorbency%204%20pack&tag=seniorsaferhome-20",
+    "asin": "B0DBM3QNDG",
+    "editorialImageFallback": "/images/products/fygrip-washable-underpads.svg",
+    "shortDescription": "Extra-heavy 5+ cup absorbency with an ultra-soft loop-velvet top and wave-texture double-sewn edges for durability and quick drying.",
+    "badge": "Best Premium Quilted",
+    "price": 27.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 3143,
+    "features": [
+      "Extra-heavy 5+ cup absorbency",
+      "Ultra-soft loop-velvet top",
+      "Double-sewn wave-texture edges",
+      "500+ wash durability"
+    ],
+    "pros": [
+      "Very soft against skin",
+      "Durable reinforced edges",
+      "Quick-drying"
+    ],
+    "cons": [
+      "Fewer reviews than top sellers"
+    ],
+    "bestFor": [
+      "comfort-focused users",
+      "heavy absorbency",
+      "long-term use"
+    ],
+    "specs": {
+      "size": "36×36 in",
+      "absorbency": "5+ cups",
+      "pack": "4",
+      "washes": "500+"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "utopia-zippered-mattress-encasement",
+    "name": "Utopia Bedding Zippered Waterproof Mattress Encasement (Queen)",
+    "brand": "Utopia Bedding",
+    "category": "incontinence-bed-protection",
+    "subCategory": "mattress-protector",
+    "amazonUrl": "https://www.amazon.com/s?k=Utopia%20Bedding%20queen%20zippered%20mattress%20encasement%20waterproof%20bed%20bug%20proof&tag=seniorsaferhome-20",
+    "asin": "B00U6HREPQ",
+    "editorialImageFallback": "/images/products/utopia-zippered-mattress-encasement.svg",
+    "shortDescription": "The most-reviewed mattress protector on Amazon — a 6-sided zippered encasement that is 100% waterproof and bed-bug and dust-mite proof.",
+    "badge": "Best Full Encasement",
+    "price": 26.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 131242,
+    "features": [
+      "360° 6-sided full encasement",
+      "100% waterproof",
+      "Bed bug + dust mite proof",
+      "Non-crinkling, stretchy fit"
+    ],
+    "pros": [
+      "Total mattress protection",
+      "Bed-bug proof",
+      "Quiet, no crinkle"
+    ],
+    "cons": [
+      "Encasement is more effort to fit"
+    ],
+    "bestFor": [
+      "complete mattress protection",
+      "allergy/bed-bug concerns",
+      "under the sheet"
+    ],
+    "specs": {
+      "type": "Zippered encasement",
+      "size": "Queen",
+      "waterproof": "100%",
+      "sides": "6"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "plushdeluxe-bamboo-mattress-protector",
+    "name": "PlushDeluxe Premium Bamboo Mattress Protector (Queen)",
+    "brand": "PlushDeluxe",
+    "category": "incontinence-bed-protection",
+    "subCategory": "mattress-protector",
+    "amazonUrl": "https://www.amazon.com/s?k=PlushDeluxe%20premium%20bamboo%20mattress%20protector%20queen%20waterproof%20breathable&tag=seniorsaferhome-20",
+    "asin": "B07HC2WHS1",
+    "editorialImageFallback": "/images/products/plushdeluxe-bamboo-mattress-protector.svg",
+    "shortDescription": "A 60% bamboo-viscose protector with a noiseless, breathable moisture-wicking membrane — hypoallergenic and fitting up to 18-inch mattresses.",
+    "badge": "Best Breathable",
+    "price": 37.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 41739,
+    "features": [
+      "60% bamboo viscose, breathable",
+      "Noiseless (no crinkle)",
+      "Moisture-wicking membrane",
+      "Fits up to 18\" deep"
+    ],
+    "pros": [
+      "Cool and breathable",
+      "Silent, soft surface",
+      "Hypoallergenic"
+    ],
+    "cons": [
+      "Fitted style, not full encasement"
+    ],
+    "bestFor": [
+      "hot sleepers",
+      "comfort + protection",
+      "sensitive skin"
+    ],
+    "specs": {
+      "type": "Fitted protector",
+      "size": "Queen",
+      "material": "Bamboo viscose",
+      "depth": "18 in"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "bedlore-quilted-mattress-protector",
+    "name": "BEDLORE Quilted Waterproof Mattress Protector (Queen)",
+    "brand": "BEDLORE",
+    "category": "incontinence-bed-protection",
+    "subCategory": "mattress-protector",
+    "amazonUrl": "https://www.amazon.com/s?k=BEDLORE%20waterproof%20mattress%20protector%20queen%20quilted%20noiseless%20deep%20pocket&tag=seniorsaferhome-20",
+    "asin": "B0C1NM42PN",
+    "editorialImageFallback": "/images/products/bedlore-quilted-mattress-protector.svg",
+    "shortDescription": "An OEKO-TEX certified quilted protector with a no-pinhole TPU layer, soft brushed microfiber top, and a 360° skirt fitting 6–18 inch mattresses.",
+    "badge": "Best Quilted",
+    "price": 25.49,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 21005,
+    "features": [
+      "OEKO-TEX certified",
+      "Wireless quilted no-pinhole TPU",
+      "Soft brushed microfiber top",
+      "360° elastic skirt (6–18\")"
+    ],
+    "pros": [
+      "Soft, mattress-pad feel",
+      "Secure deep-pocket fit",
+      "Odor-free"
+    ],
+    "cons": [
+      "Fitted style, not encasement"
+    ],
+    "bestFor": [
+      "added comfort",
+      "deep mattresses",
+      "everyday protection"
+    ],
+    "specs": {
+      "type": "Quilted protector",
+      "size": "Queen",
+      "depth": "6–18 in",
+      "barrier": "TPU"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "sures-vive-chair-pads",
+    "name": "Sures by Vive Waterproof Chair Pads 22\"×21\" (2-Pack)",
+    "brand": "Sures by Vive",
+    "category": "incontinence-bed-protection",
+    "subCategory": "chair-pad",
+    "amazonUrl": "https://www.amazon.com/s?k=Sures%20Vive%20waterproof%20chair%20pads%20incontinence%2022x21%20washable%202%20pack&tag=seniorsaferhome-20",
+    "asin": "B0FCLKCJ5Q",
+    "editorialImageFallback": "/images/products/sures-vive-chair-pads.svg",
+    "shortDescription": "Seat-sized 4-layer waterproof pads that absorb up to 2 cups with a non-slip base — sized for wheelchairs, recliners, car seats, and sofas.",
+    "badge": "Best Chair Pad",
+    "price": 22.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 1996,
+    "features": [
+      "4-layer waterproof construction",
+      "Absorbs up to 2 cups",
+      "Non-slip base, FSA/HSA eligible",
+      "Portable for travel"
+    ],
+    "pros": [
+      "Sized for chairs & wheelchairs",
+      "Stays put on seats",
+      "Travel-friendly"
+    ],
+    "cons": [
+      "Smaller, seat-only coverage"
+    ],
+    "bestFor": [
+      "wheelchairs & recliners",
+      "car seats",
+      "daytime protection"
+    ],
+    "specs": {
+      "size": "22×21 in",
+      "layers": "4",
+      "absorbency": "2 cups",
+      "pack": "2"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "improvia-positioning-bed-pad",
+    "name": "IMPROVIA Positioning Bed Pad 34\"×52\" with 8 Handles",
+    "brand": "IMPROVIA",
+    "category": "incontinence-bed-protection",
+    "subCategory": "positioning-pad",
+    "amazonUrl": "https://www.amazon.com/s?k=IMPROVIA%20positioning%20bed%20pad%2034x52%208%20handles%20waterproof%20caregiver&tag=seniorsaferhome-20",
+    "asin": "B0FF6MV6KC",
+    "editorialImageFallback": "/images/products/improvia-positioning-bed-pad.svg",
+    "shortDescription": "A dual-purpose pad with eight reinforced handles for safe lifting, turning, and transferring — rated to 400 lb, OEKO-TEX, and quick-drying.",
+    "badge": "Best Caregiver Assist",
+    "price": 27.99,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 1877,
+    "features": [
+      "8 reinforced lifting handles",
+      "400 lb capacity",
+      "10-min quick-dry, waterproof",
+      "OEKO-TEX + latex-free, 500-wash"
+    ],
+    "pros": [
+      "Helps caregivers lift & turn",
+      "Reduces caregiver back strain",
+      "Highest rating here"
+    ],
+    "cons": [
+      "Needs two people for safe lifting"
+    ],
+    "bestFor": [
+      "caregiver-assisted turning",
+      "limited-mobility patients",
+      "incontinence + repositioning"
+    ],
+    "specs": {
+      "size": "34×52 in",
+      "handles": "8",
+      "capacity": "400 lb",
+      "washes": "500"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "mcombo-lift-recliner-brown",
+    "name": "MCombo Power Lift Recliner with Extended Footrest (Brown)",
+    "brand": "MCombo",
+    "category": "lift-chairs",
+    "subCategory": "standard",
+    "amazonUrl": "https://www.amazon.com/s?k=MCombo%20power%20lift%20recliner%20chair%20extended%20footrest%20fabric%20brown&tag=seniorsaferhome-20",
+    "asin": "B07MGZTLDB",
+    "editorialImageFallback": "/images/products/mcombo-lift-recliner-brown.svg",
+    "shortDescription": "A simple, reliable 3-position power lift recliner with a 140° recline, extended footrest, and USB-C ports — no massage electronics to fail.",
+    "badge": "Best Overall",
+    "price": 499.9,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 3696,
+    "features": [
+      "3-position power lift, 140° recline",
+      "350 lb capacity, extended 4.7\" footrest",
+      "USB-C port + cup holder",
+      "FSC wood frame, 2-yr warranty"
+    ],
+    "pros": [
+      "Simple 2-button operation",
+      "Fewer parts to fail",
+      "Sturdy wood frame"
+    ],
+    "cons": [
+      "No massage or heat"
+    ],
+    "bestFor": [
+      "simplicity",
+      "arthritic hands",
+      "everyday standing assist"
+    ],
+    "specs": {
+      "lift": "3-position",
+      "recline": "140°",
+      "capacity": "350 lb",
+      "warranty": "2 yr"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "mcombo-lift-recliner-gray",
+    "name": "MCombo Power Lift Recliner with Extended Footrest (Dark Gray)",
+    "brand": "MCombo",
+    "category": "lift-chairs",
+    "subCategory": "standard",
+    "amazonUrl": "https://www.amazon.com/s?k=MCombo%20power%20lift%20recliner%20chair%20extended%20footrest%20fabric%20dark%20gray&tag=seniorsaferhome-20",
+    "asin": "B0FF4R7G67",
+    "editorialImageFallback": "/images/products/mcombo-lift-recliner-gray.svg",
+    "shortDescription": "The same trusted MCombo lift recliner in dark gray — 140° recline, 350 lb capacity, USB ports and cup holders, with no massage or heat to manage.",
+    "badge": "Simplest Controls",
+    "price": 499.9,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 3696,
+    "features": [
+      "3-position power lift, 140° recline",
+      "350 lb capacity, extended footrest",
+      "USB ports + cup holders",
+      "No massage/heat (fewer failure points)"
+    ],
+    "pros": [
+      "Easy two-button remote",
+      "Neutral dark-gray fabric",
+      "Reliable, low-maintenance"
+    ],
+    "cons": [
+      "No massage or heat"
+    ],
+    "bestFor": [
+      "dementia-friendly simplicity",
+      "modern decor",
+      "reliability"
+    ],
+    "specs": {
+      "lift": "3-position",
+      "recline": "140°",
+      "capacity": "350 lb",
+      "frame": "FSC wood"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "mcombo-massage-lift-recliner",
+    "name": "MCombo Power Lift Recliner with Massage & Heat",
+    "brand": "MCombo",
+    "category": "lift-chairs",
+    "subCategory": "massage-heat",
+    "amazonUrl": "https://www.amazon.com/s?k=MCombo%20electric%20power%20lift%20recliner%20massage%20heat%20faux%20leather&tag=seniorsaferhome-20",
+    "asin": "B096MBDKTK",
+    "editorialImageFallback": "/images/products/mcombo-massage-lift-recliner.svg",
+    "shortDescription": "A full-featured lift recliner with 8-point vibration massage, lumbar heat, a 140° recline, and a TUV-certified lift motor — the most-reviewed model here.",
+    "badge": "Most Reviewed",
+    "price": 549.9,
+    "priceCurrency": "USD",
+    "rating": 4.4,
+    "reviewCount": 6774,
+    "features": [
+      "8-point full-body vibration massage",
+      "Lumbar heat, 140° recline",
+      "350 lb capacity, TUV-certified motor",
+      "Dual USB + 2 cup holders, 2-yr warranty"
+    ],
+    "pros": [
+      "Massage and heat for comfort",
+      "Heavily reviewed and proven",
+      "Plenty of extras"
+    ],
+    "cons": [
+      "Recline could go flatter"
+    ],
+    "bestFor": [
+      "all-day comfort",
+      "back relief",
+      "full-featured value"
+    ],
+    "specs": {
+      "lift": "3-position",
+      "recline": "140°",
+      "capacity": "350 lb",
+      "extras": "Massage + heat"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "canmov-bigtall-lift-recliner",
+    "name": "CANMOV Big & Tall Power Lift Recliner with Massage & Heat",
+    "brand": "CANMOV",
+    "category": "lift-chairs",
+    "subCategory": "big-tall",
+    "amazonUrl": "https://www.amazon.com/s?k=CANMOV%20large%20power%20lift%20recliner%20big%20and%20tall%20450%20lb%20massage%20heat&tag=seniorsaferhome-20",
+    "asin": "B09VBN15T4",
+    "editorialImageFallback": "/images/products/canmov-bigtall-lift-recliner.svg",
+    "shortDescription": "A big-and-tall lift recliner rated to 450 lb with a 30\" extended backrest, 21\" wide seat, five massage modes, heat, and a durable OKIN motor.",
+    "badge": "Best Big & Tall",
+    "price": 379.99,
+    "priceCurrency": "USD",
+    "rating": 4.3,
+    "reviewCount": 655,
+    "features": [
+      "450 lb capacity, Big & Tall design",
+      "5 massage modes + 8-point massage, heat",
+      "30\" extended backrest, 21\" wide seat",
+      "OKIN motor, 2 cup holders + USB"
+    ],
+    "pros": [
+      "High weight capacity",
+      "Tall, wide seating",
+      "Strong OKIN lift motor"
+    ],
+    "cons": [
+      "Lower star rating than top picks"
+    ],
+    "bestFor": [
+      "taller or larger users",
+      "extra support",
+      "value bariatric option"
+    ],
+    "specs": {
+      "capacity": "450 lb",
+      "seat": "21\" wide",
+      "back": "30\"",
+      "extras": "Massage + heat"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "merous-dualmotor-lift-recliner",
+    "name": "MEROUS Dual-Motor Infinite-Position Lift Recliner",
+    "brand": "MEROUS",
+    "category": "lift-chairs",
+    "subCategory": "infinite-position",
+    "amazonUrl": "https://www.amazon.com/s?k=MEROUS%20dual%20motor%20infinite%20position%20power%20lift%20recliner%20leather%20lay%20flat&tag=seniorsaferhome-20",
+    "asin": "B0G527HKLN",
+    "editorialImageFallback": "/images/products/merous-dualmotor-lift-recliner.svg",
+    "shortDescription": "A dual-motor, infinite-position recliner whose back and footrest adjust independently and lay flat — with massage, heat, and leather upholstery.",
+    "badge": "Best Lay-Flat",
+    "price": 599,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 63,
+    "features": [
+      "Dual-motor infinite position",
+      "Lay-flat for overnight sleeping",
+      "Massage + heat, leather upholstery",
+      "350 lb capacity, USB ports"
+    ],
+    "pros": [
+      "Independent back/footrest control",
+      "Lies flat to sleep",
+      "Highest rating in our roundup"
+    ],
+    "cons": [
+      "Fewer reviews than MCombo"
+    ],
+    "bestFor": [
+      "chronic back pain",
+      "post-surgery recovery",
+      "sleeping in the chair"
+    ],
+    "specs": {
+      "motors": "Dual",
+      "position": "Infinite",
+      "recline": "Lay-flat",
+      "capacity": "350 lb"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "brage-living-lift-recliner",
+    "name": "Brage Living Power Lift Recliner with Massage & Heat",
+    "brand": "Brage Living",
+    "category": "lift-chairs",
+    "subCategory": "budget",
+    "amazonUrl": "https://www.amazon.com/s?k=Brage%20Living%20power%20lift%20recliner%20PU%20leather%20massage%20heat%20black&tag=seniorsaferhome-20",
+    "asin": "B0G2B687SH",
+    "editorialImageFallback": "/images/products/brage-living-lift-recliner.svg",
+    "shortDescription": "A budget-friendly PU-leather lift recliner with a 160° three-position recline, 8-point vibration massage, lumbar heat, and a reinforced steel frame.",
+    "badge": "Best Budget",
+    "price": 299.99,
+    "priceCurrency": "USD",
+    "rating": 4.3,
+    "reviewCount": 152,
+    "features": [
+      "PU leather, 350 lb capacity",
+      "160° recline (3 positions)",
+      "8-point massage + lumbar heat",
+      "Reinforced steel frame, USB port"
+    ],
+    "pros": [
+      "Lowest price with massage + heat",
+      "Wipe-clean PU leather",
+      "Sturdy steel frame"
+    ],
+    "cons": [
+      "Lower star rating"
+    ],
+    "bestFor": [
+      "tight budgets",
+      "first lift chair",
+      "easy-clean upholstery"
+    ],
+    "specs": {
+      "recline": "160°",
+      "capacity": "350 lb",
+      "material": "PU leather",
+      "extras": "Massage + heat"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "maidesite-stand-assist-lift",
+    "name": "MAIDeSITe Portable Electric Stand-Assist Chair Lift",
+    "brand": "MAIDeSITe",
+    "category": "lift-chairs",
+    "subCategory": "stand-assist",
+    "amazonUrl": "https://www.amazon.com/s?k=MAIDeSITe%20electric%20floor%20chair%20lift%20stand%20assist%20portable%20cordless&tag=seniorsaferhome-20",
+    "asin": "B09JGBCN8C",
+    "editorialImageFallback": "/images/products/maidesite-stand-assist-lift.svg",
+    "shortDescription": "A motorized cushion lift that attaches to any existing sofa, chair, or bed to help a senior stand — no new furniture needed, with a cordless remote.",
+    "badge": "Best Portable Assist",
+    "price": 199.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 2532,
+    "features": [
+      "Works on any sofa/chair/bed",
+      "Motorized stand assist, 300 lb capacity",
+      "Height adjusts 3.4\"–19.5\"",
+      "100,000+ cycle tested, cordless remote"
+    ],
+    "pros": [
+      "Keeps your existing chair",
+      "Portable and affordable",
+      "Rechargeable, cordless"
+    ],
+    "cons": [
+      "Lifts you, not a full recliner"
+    ],
+    "bestFor": [
+      "keeping current furniture",
+      "budget stand assistance",
+      "travel between rooms"
+    ],
+    "specs": {
+      "type": "Stand-assist cushion",
+      "capacity": "300 lb",
+      "lift": "3.4–19.5\"",
+      "power": "Cordless"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "vincere-weighted-utensils",
+    "name": "Vincere Weighted Utensils for Tremors (4-Piece Set)",
+    "brand": "Vincere",
+    "category": "adaptive-eating-aids",
+    "subCategory": "weighted-utensils",
+    "amazonUrl": "https://www.amazon.com/s?k=Vincere%20weighted%20utensils%20tremors%20Parkinsons%204%20piece%20set%20travel%20bag&tag=seniorsaferhome-20",
+    "asin": "B07YNSJDW6",
+    "editorialImageFallback": "/images/products/vincere-weighted-utensils.svg",
+    "shortDescription": "A premium 4-piece weighted set (7 oz each) whose stabilizing mass counteracts hand tremors, with ergonomic non-slip handles and a roll-up travel bag.",
+    "badge": "Best Overall",
+    "price": 54.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 1142,
+    "features": [
+      "4-piece set, 7 oz per utensil",
+      "Heavy weight steadies tremors",
+      "Ergonomic wide non-slip handles",
+      "Dishwasher safe + travel bag"
+    ],
+    "pros": [
+      "Effectively reduces tremor spill",
+      "Discreet, premium look for dining out",
+      "Comes with a travel roll"
+    ],
+    "cons": [
+      "Priciest set here"
+    ],
+    "bestFor": [
+      "Parkinson’s and tremors",
+      "dining out",
+      "steadier eating"
+    ],
+    "specs": {
+      "type": "Weighted",
+      "pieces": "4",
+      "weight": "7 oz each",
+      "care": "Dishwasher safe"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "bunmo-adaptive-utensils",
+    "name": "BUNMO Adaptive Utensils (4-Piece Set)",
+    "brand": "BUNMO",
+    "category": "adaptive-eating-aids",
+    "subCategory": "adaptive-utensils",
+    "amazonUrl": "https://www.amazon.com/s?k=BUNMO%20adaptive%20utensils%20elderly%20weighted%20hand%20tremors%204%20piece%20foam&tag=seniorsaferhome-20",
+    "asin": "B07L6CTHXX",
+    "editorialImageFallback": "/images/products/bunmo-adaptive-utensils.svg",
+    "shortDescription": "The most-reviewed adaptive set: lightweight foam handles that reduce grip strain, plus a curved rocker knife that cuts without a sawing motion.",
+    "badge": "Best for Arthritis",
+    "price": 23.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 7220,
+    "features": [
+      "4 pieces with curved rocker knife",
+      "Lightweight foam handles",
+      "Reduce grip strain",
+      "Dishwasher safe + travel wrap"
+    ],
+    "pros": [
+      "Easy on weak, arthritic hands",
+      "Rocker knife needs no sawing",
+      "Most-reviewed, great value"
+    ],
+    "cons": [
+      "Lighter — less tremor damping than weighted"
+    ],
+    "bestFor": [
+      "arthritis and weak grip",
+      "one-handed cutting",
+      "everyday use"
+    ],
+    "specs": {
+      "type": "Built-up foam",
+      "pieces": "4",
+      "knife": "Rocker",
+      "care": "Dishwasher safe"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "weighted-silverware-cuffs",
+    "name": "Weighted Silverware Set with 2 Universal Cuffs (4-Piece)",
+    "brand": "Adaptive",
+    "category": "adaptive-eating-aids",
+    "subCategory": "weighted-utensils",
+    "amazonUrl": "https://www.amazon.com/s?k=weighted%20silverware%20hand%20tremors%20Parkinsons%204%20piece%20universal%20cuffs&tag=seniorsaferhome-20",
+    "asin": "B0DG9NZ46F",
+    "editorialImageFallback": "/images/products/weighted-silverware-cuffs.svg",
+    "shortDescription": "A heavy-duty weighted 4-piece set that includes two universal cuffs to strap a utensil to the hand — built for Parkinson’s, stroke recovery, and neuropathy.",
+    "badge": "Best with Grip Cuffs",
+    "price": 32.39,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 126,
+    "features": [
+      "4-piece weighted set",
+      "2 universal hand cuffs included",
+      "Premium stainless steel",
+      "Dishwasher safe"
+    ],
+    "pros": [
+      "Cuffs help a very weak grip",
+      "Heavy enough to steady tremors",
+      "Good for stroke recovery"
+    ],
+    "cons": [
+      "Fewer reviews than top sellers"
+    ],
+    "bestFor": [
+      "very weak grip",
+      "stroke and neuropathy",
+      "tremor + grip issues"
+    ],
+    "specs": {
+      "type": "Weighted",
+      "pieces": "4",
+      "extras": "2 cuffs",
+      "material": "Stainless"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "nourislif-adaptive-utensils",
+    "name": "Nourislif Adaptive Utensils (4-Piece, Foam Grip)",
+    "brand": "Nourislif",
+    "category": "adaptive-eating-aids",
+    "subCategory": "adaptive-utensils",
+    "amazonUrl": "https://www.amazon.com/s?k=Nourislif%20adaptive%20utensils%20foam%20grip%20handles%20rocker%20knife%204%20piece&tag=seniorsaferhome-20",
+    "asin": "B0C5CYGZDY",
+    "editorialImageFallback": "/images/products/nourislif-adaptive-utensils.svg",
+    "shortDescription": "A budget 4-piece set with 1.25\" built-up foam grips and a rocker knife — rustproof stainless steel, backed by a 1-year guarantee.",
+    "badge": "Best Budget",
+    "price": 9.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 1461,
+    "features": [
+      "Tablespoon, teaspoon, fork + rocker knife",
+      "1.25\" wide foam grip handles",
+      "Rustproof stainless steel",
+      "1-year guarantee"
+    ],
+    "pros": [
+      "Lowest price here",
+      "Comfortable built-up grips",
+      "Includes a rocker knife"
+    ],
+    "cons": [
+      "Not weighted for tremors"
+    ],
+    "bestFor": [
+      "budget buyers",
+      "mild arthritis",
+      "trying adaptive utensils"
+    ],
+    "specs": {
+      "type": "Built-up foam",
+      "pieces": "4",
+      "grip": "1.25\"",
+      "knife": "Rocker"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "providence-scoop-plate",
+    "name": "Providence Spillproof 9\" Adaptive Scoop Plate (3-Pack)",
+    "brand": "Providence Spillproof",
+    "category": "adaptive-eating-aids",
+    "subCategory": "scoop-plate",
+    "amazonUrl": "https://www.amazon.com/s?k=Providence%20Spillproof%20scoop%20plate%20adaptive%20bowl%20raised%20edges%203%20pack&tag=seniorsaferhome-20",
+    "asin": "B088W8X8H9",
+    "editorialImageFallback": "/images/products/providence-scoop-plate.svg",
+    "shortDescription": "A scoop plate with built-in raised edges that let food be scooped in one motion, on a non-slip base — microwave and dishwasher safe.",
+    "badge": "Best Scoop Plate",
+    "price": 28.09,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 1434,
+    "features": [
+      "Raised edges for one-motion scooping",
+      "Non-slip base",
+      "Microwave + dishwasher safe",
+      "BPA-free, 25+ yr brand"
+    ],
+    "pros": [
+      "Great for one-handed eating",
+      "Keeps food from sliding off",
+      "Trusted brand"
+    ],
+    "cons": [
+      "Plain white only"
+    ],
+    "bestFor": [
+      "one-handed / stroke recovery",
+      "tremors",
+      "independent eating"
+    ],
+    "specs": {
+      "type": "Scoop plate",
+      "size": "9\"",
+      "pack": "3",
+      "base": "Non-slip"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "special-supplies-scoop-plates",
+    "name": "Special Supplies Adaptive Scoop Plates (3-Pack, High-Contrast)",
+    "brand": "Special Supplies",
+    "category": "adaptive-eating-aids",
+    "subCategory": "scoop-plate",
+    "amazonUrl": "https://www.amazon.com/s?k=Special%20Supplies%20adaptive%20scoop%20plates%20high%20contrast%20white%20blue%20red%203%20pack&tag=seniorsaferhome-20",
+    "asin": "B0DQVGM8CR",
+    "editorialImageFallback": "/images/products/special-supplies-scoop-plates.svg",
+    "shortDescription": "High-sloped scoop plates in high-contrast white, blue, and red — the bold colors aid food recognition for low vision and dementia — with non-slip rings.",
+    "badge": "Best High-Contrast",
+    "price": 24.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 64,
+    "features": [
+      "High sloped rim for scooping",
+      "High-contrast colors (white/blue/red)",
+      "Non-slip ring",
+      "Microwave + dishwasher safe"
+    ],
+    "pros": [
+      "Contrast aids low vision / dementia",
+      "High wall keeps food in",
+      "Set of three colors"
+    ],
+    "cons": [
+      "Newer listing, fewer reviews"
+    ],
+    "bestFor": [
+      "low vision and dementia",
+      "food recognition",
+      "one-handed eating"
+    ],
+    "specs": {
+      "type": "Scoop plate",
+      "pack": "3",
+      "feature": "High-contrast",
+      "base": "Non-slip ring"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "luter-jar-opener",
+    "name": "LUTER Rubber Jar Opener Gripper Pads (4-Pack)",
+    "brand": "LUTER",
+    "category": "adaptive-eating-aids",
+    "subCategory": "jar-opener",
+    "amazonUrl": "https://www.amazon.com/s?k=LUTER%20rubber%20jar%20opener%20gripper%20pads%20arthritis%204%20pack&tag=seniorsaferhome-20",
+    "asin": "B0BV9G4ST8",
+    "editorialImageFallback": "/images/products/luter-jar-opener.svg",
+    "shortDescription": "Textured rubber gripper pads in two shapes that add the grip needed to twist open stubborn lids — and double as heat-insulating coasters.",
+    "badge": "Best Jar Opener",
+    "price": 5.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 3339,
+    "features": [
+      "Textured rubber grip",
+      "2 shapes (round + square)",
+      "Fits most jar sizes",
+      "Doubles as a hot-pad/coaster"
+    ],
+    "pros": [
+      "Extremely affordable",
+      "Real help for weak grip",
+      "Multi-purpose"
+    ],
+    "cons": [
+      "Very tight lids may still need leverage"
+    ],
+    "bestFor": [
+      "arthritis",
+      "weak hand grip",
+      "everyday kitchen use"
+    ],
+    "specs": {
+      "type": "Jar gripper",
+      "pack": "4",
+      "shapes": "2",
+      "material": "Rubber"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems"
   }
 ]

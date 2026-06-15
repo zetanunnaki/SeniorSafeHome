@@ -182,5 +182,29 @@
     "shortDescription": "Alarmed, locking automatic dispensers that release the right dose at the right time — with reminders and caregiver tracking.",
     "intro": "An automatic pill dispenser goes beyond a simple organizer: it sounds an alarm at dose time, shows or releases only the pills due, and — on smarter models — alerts a caregiver if a dose is missed. We compare 28-day rotating dispensers, locking and privacy designs for dementia care, and app-connected models on capacity, alarm clarity, locking security, and ease of refilling. For a simpler manual option, see [pill organizers](/categories/pill-organizers).",
     "icon": "dispenser"
+  },
+  {
+    "slug": "incontinence-bed-protection",
+    "name": "Incontinence & Bed Protection",
+    "cluster": "bedroom-safety",
+    "shortDescription": "Washable reusable bed pads, waterproof mattress protectors, and chair pads that keep beds and furniture clean, dry, and dignified.",
+    "intro": "Managing incontinence at home is far easier — and more dignified — with the right layered protection. Washable bed pads catch overnight accidents without a full bedding change, waterproof mattress protectors guard the mattress underneath, and chair pads protect recliners and wheelchairs. We compare absorbency, washability and durability, non-slip backing, noiselessness, and comfort, plus caregiver-assist positioning pads with lifting handles. A common setup layers a mattress protector under the sheet with a reusable pad on top.",
+    "icon": "bed-protection"
+  },
+  {
+    "slug": "lift-chairs",
+    "name": "Lift Chairs & Power Recliners",
+    "cluster": "mobility-transfer",
+    "shortDescription": "Power lift recliners that tilt forward to help a senior stand — plus portable stand-assist lifts for the chair they already own.",
+    "intro": "A power lift recliner gently tilts the whole chair forward to help a senior rise to their feet, then reclines for all-day comfort — a major help for anyone who struggles to stand from a seated position. We compare simple 2-button models, massage-and-heat recliners, big-and-tall and bariatric options, infinite-position lay-flat chairs, and portable stand-assist lifts that work on existing furniture, looking at lift capacity, recline range, controls, and reliability. A lift chair is not a leisure zero-gravity recliner; it has a powered motor specifically to assist standing.",
+    "icon": "lift-chair"
+  },
+  {
+    "slug": "adaptive-eating-aids",
+    "name": "Adaptive Eating Aids",
+    "cluster": "daily-living",
+    "shortDescription": "Weighted and built-up utensils, scoop plates, and easy-grip jar openers that make eating independent again — for tremors, arthritis, and one-handed use.",
+    "intro": "The right adaptive utensils and tableware let a senior with tremors, arthritis, Parkinson's, or stroke recovery feed themselves with dignity again. We compare weighted utensils that steady a shaky hand, built-up foam-handle utensils for a weak grip, scoop plates with raised edges for one-handed eating, and arthritis-friendly jar openers — looking at weight, grip comfort, stability, and ease of cleaning. A complete dining kit usually pairs the right utensils with a scoop plate.",
+    "icon": "utensils"
   }
 ]
