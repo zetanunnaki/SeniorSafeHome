@@ -206,5 +206,13 @@
     "shortDescription": "Weighted and built-up utensils, scoop plates, and easy-grip jar openers that make eating independent again — for tremors, arthritis, and one-handed use.",
     "intro": "The right adaptive utensils and tableware let a senior with tremors, arthritis, Parkinson's, or stroke recovery feed themselves with dignity again. We compare weighted utensils that steady a shaky hand, built-up foam-handle utensils for a weak grip, scoop plates with raised edges for one-handed eating, and arthritis-friendly jar openers — looking at weight, grip comfort, stability, and ease of cleaning. A complete dining kit usually pairs the right utensils with a scoop plate.",
     "icon": "utensils"
+  },
+  {
+    "slug": "wheelchair-ramps",
+    "name": "Wheelchair & Threshold Ramps",
+    "cluster": "mobility-transfer",
+    "shortDescription": "Rubber threshold ramps for doorways and portable folding aluminum ramps for steps — smoothing every transition for wheelchairs, walkers, and scooters.",
+    "intro": "A ramp removes the bumps and steps that stop a wheelchair, walker, rollator, or scooter — at a raised doorway threshold, a single step, or a porch. We compare cuttable rubber threshold ramps for low door transitions and portable folding aluminum ramps for steps and vehicles, looking at rise height, width, weight capacity, non-slip surface, and portability. The most important step is measuring the vertical rise first, then matching the ramp length to it; for a permanent home entrance, a Certified Aging-in-Place Specialist or occupational therapist can help.",
+    "icon": "ramp"
   }
 ]
