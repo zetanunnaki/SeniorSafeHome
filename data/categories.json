@@ -286,5 +286,21 @@
     "shortDescription": "Trays, baskets, bags, and cup holders that let walker and wheelchair users carry meals, drinks, and belongings hands-free.",
     "intro": "The right accessory turns a walker or wheelchair into a way to carry things — so a senior can bring a meal, a drink, a phone, and their medications from room to room in one safe trip instead of risking a fall with full hands. We compare snap-on trays, tip-resistant baskets and bags, universal cup holders, and wheelchair side pouches, looking at capacity, secure attachment, balance, and ease of cleaning. A basket plus a cup holder covers most daily carrying needs. For a rolling table that serves both bed and wheelchair, see [overbed tables](/categories/overbed-tables).",
     "icon": "accessory"
+  },
+  {
+    "slug": "car-transfer-aids",
+    "name": "Car Transfer Aids",
+    "cluster": "mobility-transfer",
+    "shortDescription": "Swivel seat cushions, car-door grab handles, and leg lifters that make getting in and out of a vehicle safer and easier — especially after hip or knee surgery.",
+    "intro": "Getting into and out of a car is one of the hardest, highest-strain transfers a senior makes — and a frequent source of injury after hip or knee surgery. The right aids make it manageable: a swivel cushion rotates the whole body out without twisting the hip, a portable grab handle latches into the door frame for a sturdy handhold, and a rigid leg lifter moves a weak or post-op leg in and out without bending. We compare these on stability, weight capacity, and ease of use. After hip replacement, follow your surgeon's rotation precautions before using a swivel cushion.",
+    "icon": "car-transfer"
+  },
+  {
+    "slug": "adaptive-clothing",
+    "name": "Adaptive Clothing",
+    "cluster": "daily-living",
+    "shortDescription": "Magnetic-closure shirts, open-back tops, and easy-on pants that make dressing possible without fine motor skills, arm-raising, or bending.",
+    "intro": "Adaptive clothing is designed so a senior — or their caregiver — can dress with far less effort, pain, or risk. Magnetic closures replace fiddly buttons for arthritic hands, tear-away and open-back designs let someone dress without raising a sore shoulder, and side-snap pants slide on without lifting a leg past a surgical precaution. Many pieces look identical to ordinary clothing, preserving dignity. We compare closures, fit, and the specific needs each serves — post-surgery recovery, stroke, Parkinson's, and full-time wheelchair use. (Adaptive clothing is a newer niche on Amazon, so some trusted-brand items have fewer reviews than mainstream clothing.)",
+    "icon": "clothing"
   }
 ]

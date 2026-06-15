@@ -12615,5 +12615,621 @@
     "reviewSlug": null,
     "lastManualReview": "2026-06-15",
     "asinSource": "searchItems"
+  },
+  {
+    "id": "kounatsuri-grab-handle-2pack",
+    "name": "KOUNATSURI Car Door Grab Handle (2-Pack)",
+    "brand": "KOUNATSURI",
+    "category": "car-transfer-aids",
+    "subCategory": "grab-handle",
+    "amazonUrl": "https://www.amazon.com/s?k=KOUNATSURI%20car%20door%20handle%20assist%202%20pack%20400%20lb%20forged%20steel%20grab%20support&tag=seniorsaferhome-20",
+    "asin": "B0B81CFWYC",
+    "editorialImageFallback": "/images/products/kounatsuri-grab-handle-2pack.svg",
+    "shortDescription": "The highest-rated car aid here — a forged-steel grab handle rated to 400 lb that latches into the U-shaped door striker for a sturdy handhold, with an ergonomic grip and emergency tools.",
+    "badge": "Best Grab Handle",
+    "price": 16.98,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 6757,
+    "features": [
+      "400 lb capacity, forged steel",
+      "Latches into U-shaped door striker",
+      "Ergonomic anti-rust sponge grip",
+      "Doubles as emergency tool"
+    ],
+    "pros": [
+      "Very strong and stable",
+      "Top-rated, most reviewed",
+      "Pack of two (both doors)"
+    ],
+    "cons": [
+      "Only fits U-shaped latches"
+    ],
+    "bestFor": [
+      "sit-to-stand from a car",
+      "sturdy door handhold",
+      "most vehicles"
+    ],
+    "specs": {
+      "type": "Grab handle",
+      "capacity": "400 lb",
+      "material": "Forged steel",
+      "pack": "2"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "nova-swivel-cushion",
+    "name": "NOVA 360° Swivel Seat Cushion",
+    "brand": "NOVA",
+    "category": "car-transfer-aids",
+    "subCategory": "swivel-cushion",
+    "amazonUrl": "https://www.amazon.com/s?k=NOVA%20360%20swivel%20seat%20cushion%20car%20non%20skid%20washable%20padded%20transfer&tag=seniorsaferhome-20",
+    "asin": "B01E4EQ7HC",
+    "editorialImageFallback": "/images/products/nova-swivel-cushion.svg",
+    "shortDescription": "An OT-recommended 360° swivel cushion with 2\" high-density foam and a non-skid base — rotate the whole body out of the car without twisting the hip, key after hip surgery.",
+    "badge": "Best Swivel Cushion",
+    "price": 34.95,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 610,
+    "features": [
+      "360° rotation",
+      "2\" high-density foam",
+      "Non-skid base, washable cover",
+      "225 lb capacity"
+    ],
+    "pros": [
+      "No hip twisting to exit",
+      "OT-recommended design",
+      "Comfortable padding"
+    ],
+    "cons": [
+      "Check hip precautions first"
+    ],
+    "bestFor": [
+      "post-hip surgery car exit",
+      "reducing pivot strain",
+      "easier turning"
+    ],
+    "specs": {
+      "type": "Swivel cushion",
+      "rotation": "360°",
+      "foam": "2\"",
+      "capacity": "225 lb"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "rms-leg-lifter",
+    "name": "RMS 35\" Rigid Leg Lifter",
+    "brand": "RMS",
+    "category": "car-transfer-aids",
+    "subCategory": "leg-lifter",
+    "amazonUrl": "https://www.amazon.com/s?k=RMS%20premium%2035%20inch%20rigid%20leg%20lifter%20metal%20rod%20hand%20foot%20loops%20post%20surgery&tag=seniorsaferhome-20",
+    "asin": "B076CP2DS3",
+    "editorialImageFallback": "/images/products/rms-leg-lifter.svg",
+    "shortDescription": "The most-reviewed leg lifter — a 35\" strap with an internal metal rod and oversized hand and foot loops that move a weak or post-op leg into the car without bending forward.",
+    "badge": "Best Leg Lifter",
+    "price": 9.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 15112,
+    "features": [
+      "Internal zinc metal rod (stays rigid)",
+      "Oversized hand + foot loops",
+      "Fits any foot or cast",
+      "Foldable and portable"
+    ],
+    "pros": [
+      "PT/OT recommended",
+      "Rigid loop is easy to use",
+      "Tiny price, huge reviews"
+    ],
+    "cons": [
+      "35\" may be short for tall users"
+    ],
+    "bestFor": [
+      "post-hip/knee surgery",
+      "lifting a weak leg",
+      "car & bed transfers"
+    ],
+    "specs": {
+      "type": "Leg lifter",
+      "length": "35\"",
+      "rod": "Zinc metal",
+      "portable": "Foldable"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "homymusy-leg-lifter",
+    "name": "Homymusy 42\" Leg Lifter with Triangle Foot Loop",
+    "brand": "Homymusy",
+    "category": "car-transfer-aids",
+    "subCategory": "leg-lifter",
+    "amazonUrl": "https://www.amazon.com/s?k=Homymusy%2042%20inch%20leg%20lifter%20aluminum%20rod%20triangle%20foot%20loop%20multiple%20grips&tag=seniorsaferhome-20",
+    "asin": "B0D1Q8ZZ57",
+    "editorialImageFallback": "/images/products/homymusy-leg-lifter.svg",
+    "shortDescription": "A longer 42\" leg lifter with an aluminum-reinforced rod, a large triangle foot loop, and multiple hand grips (top and side) — extra reach for taller users and deep car seats.",
+    "badge": "Best Long Leg Lifter",
+    "price": 9.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 1398,
+    "features": [
+      "42\" length, aluminum rod",
+      "Large triangle foot loop",
+      "Top + side hand grips",
+      "Foldable, 365-day guarantee"
+    ],
+    "pros": [
+      "Extra reach",
+      "Easy-to-open triangle loop",
+      "Multiple grip options"
+    ],
+    "cons": [
+      "Longer to store"
+    ],
+    "bestFor": [
+      "taller users",
+      "deep car seats",
+      "post-surgery leg lifts"
+    ],
+    "specs": {
+      "type": "Leg lifter",
+      "length": "42\"",
+      "loop": "Triangle",
+      "rod": "Aluminum"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "valorcielo-grab-handle",
+    "name": "Valorcielo Auto Cane Vehicle Support Handle",
+    "brand": "Valorcielo",
+    "category": "car-transfer-aids",
+    "subCategory": "grab-handle",
+    "amazonUrl": "https://www.amazon.com/s?k=Valorcielo%20auto%20cane%20vehicle%20support%20handle%20T%20shape%20compact%20glove%20box%20grab&tag=seniorsaferhome-20",
+    "asin": "B08PRWY7VN",
+    "editorialImageFallback": "/images/products/valorcielo-grab-handle.svg",
+    "shortDescription": "A compact T-shaped aluminum support handle (300 lb) with non-slip rubber grip dots that latches into the door striker and stows in the glove box — simple, cheap, no caregiver needed.",
+    "badge": "Best Budget Handle",
+    "price": 8.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 5027,
+    "features": [
+      "T-shaped aluminum, 300 lb",
+      "Non-slip rubber grip dots",
+      "Universal U-latch fit",
+      "Compact (fits glove box)"
+    ],
+    "pros": [
+      "Lowest price",
+      "Stows away easily",
+      "Good for independent drivers"
+    ],
+    "cons": [
+      "Single handle"
+    ],
+    "bestFor": [
+      "independent drivers",
+      "a packable handhold",
+      "budget buyers"
+    ],
+    "specs": {
+      "type": "Grab handle",
+      "shape": "T",
+      "capacity": "300 lb",
+      "storage": "Glove box"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "kounatsuri-handle-strap",
+    "name": "KOUNATSURI Car Handle + Adjustable Window Strap",
+    "brand": "KOUNATSURI",
+    "category": "car-transfer-aids",
+    "subCategory": "grab-handle",
+    "amazonUrl": "https://www.amazon.com/s?k=KOUNATSURI%20car%20handle%20adjustable%20window%20strap%20400%20lb%20emergency%20tools%20grab%20support&tag=seniorsaferhome-20",
+    "asin": "B0B823GRRV",
+    "editorialImageFallback": "/images/products/kounatsuri-handle-strap.svg",
+    "shortDescription": "A 400 lb door-striker grab handle bundled with a height-adjustable window strap, so there is a stable handhold whether the door is open or closed — with built-in emergency tools.",
+    "badge": "Best Handle + Strap",
+    "price": 13.99,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 1815,
+    "features": [
+      "400 lb capacity handle",
+      "Adjustable window strap included",
+      "Ergonomic palm-fit foam grip",
+      "Window breaker + seatbelt cutter"
+    ],
+    "pros": [
+      "Two handholds in one",
+      "Strap works with door closed",
+      "Safety tools built in"
+    ],
+    "cons": [
+      "Strap needs fitting"
+    ],
+    "bestFor": [
+      "flexible handholds",
+      "extra reach",
+      "safety-minded buyers"
+    ],
+    "specs": {
+      "type": "Handle + strap",
+      "capacity": "400 lb",
+      "strap": "Adjustable",
+      "tools": "Emergency"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "pelegon-grab-handle-2pack",
+    "name": "PELEGON Car Door Grab Handle (2-Pack)",
+    "brand": "PELEGON",
+    "category": "car-transfer-aids",
+    "subCategory": "grab-handle",
+    "amazonUrl": "https://www.amazon.com/s?k=PELEGON%20car%20door%20handle%20assist%202%20pack%20aluminum%20alloy%20anti%20slip%20scratch%20protection&tag=seniorsaferhome-20",
+    "asin": "B0FL19F91L",
+    "editorialImageFallback": "/images/products/pelegon-grab-handle-2pack.svg",
+    "shortDescription": "A two-pack of aluminum-alloy grab handles (300 lb) with an anti-slip TPE grip and a protective rubber tip that prevents scratching the car frame — fits driver and passenger doors.",
+    "badge": "Best Scratch-Safe 2-Pack",
+    "price": 16.97,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 370,
+    "features": [
+      "Aluminum alloy + reinforced ABS",
+      "300 lb capacity",
+      "Anti-slip TPE grip",
+      "Rubber tip prevents scratches"
+    ],
+    "pros": [
+      "Won’t scratch the car frame",
+      "Pack of two",
+      "Secure grip"
+    ],
+    "cons": [
+      "Newer listing, fewer reviews"
+    ],
+    "bestFor": [
+      "both car doors",
+      "protecting the car frame",
+      "sturdy handhold"
+    ],
+    "specs": {
+      "type": "Grab handle",
+      "capacity": "300 lb",
+      "grip": "TPE",
+      "pack": "2"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "deyeek-openback-nightgown",
+    "name": "Deyeek Open-Back Adaptive Nightgown (Snap)",
+    "brand": "Deyeek",
+    "category": "adaptive-clothing",
+    "subCategory": "open-back",
+    "amazonUrl": "https://www.amazon.com/s?k=Deyeek%20womens%20snap%20open%20back%20adaptive%20nightgown%20shoulder%20long%20sleeve%20pockets&tag=seniorsaferhome-20",
+    "asin": "B0DNQ4V53S",
+    "editorialImageFallback": "/images/products/deyeek-openback-nightgown.svg",
+    "shortDescription": "A long-sleeve nightgown with shoulder snaps and an overlapping open back, so it can be put on from behind without raising the arms — ideal for post-surgery and home care.",
+    "badge": "Best Open-Back Nightgown",
+    "price": 26.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 243,
+    "features": [
+      "Shoulder snaps + overlapping back",
+      "Long sleeve, with pockets",
+      "95% polyester/5% spandex",
+      "Machine washable"
+    ],
+    "pros": [
+      "Dress without arm-raising",
+      "Comfortable for all-day wear",
+      "Most-reviewed item here"
+    ],
+    "cons": [
+      "Nightgown style only"
+    ],
+    "bestFor": [
+      "post-surgery recovery",
+      "nursing-home dressing",
+      "limited shoulder movement"
+    ],
+    "specs": {
+      "type": "Open-back nightgown",
+      "closure": "Shoulder snaps",
+      "sleeve": "Long",
+      "care": "Machine wash"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "ajohc-openback-gown",
+    "name": "AJOHC Open-Back Hospital Gown with Snaps",
+    "brand": "AJOHC",
+    "category": "adaptive-clothing",
+    "subCategory": "open-back",
+    "amazonUrl": "https://www.amazon.com/s?k=AJOHC%20womens%20open%20back%20hospital%20gown%20snaps%20adaptive%20shoulder%20surgery%20knee%20length&tag=seniorsaferhome-20",
+    "asin": "B0FM85KD9X",
+    "editorialImageFallback": "/images/products/ajohc-openback-gown.svg",
+    "shortDescription": "A snap open-back gown for shoulder and rotator-cuff recovery — knee length in a soft poly-viscose-spandex blend, easy for caregivers to put on without any arm movement.",
+    "badge": "Best Value Gown",
+    "price": 19.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 44,
+    "features": [
+      "Snap open-back design",
+      "Knee length",
+      "Poly-viscose-spandex blend",
+      "For shoulder / rotator-cuff recovery"
+    ],
+    "pros": [
+      "Lowest price here",
+      "Quick caregiver dressing",
+      "Soft, stretchy fabric"
+    ],
+    "cons": [
+      "Newer listing, fewer reviews"
+    ],
+    "bestFor": [
+      "shoulder surgery recovery",
+      "assisted dressing",
+      "home & nursing care"
+    ],
+    "specs": {
+      "type": "Open-back gown",
+      "closure": "Snaps",
+      "length": "Knee",
+      "use": "Recovery"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "recorah-tearaway-shirt",
+    "name": "Recorah Magnetic Tear-Away Post-Surgery Shirt (Unisex)",
+    "brand": "Recorah",
+    "category": "adaptive-clothing",
+    "subCategory": "recovery-shirt",
+    "amazonUrl": "https://www.amazon.com/s?k=Recorah%20magnetic%20post%20surgery%20shirt%20tear%20away%20unisex%20IV%20access%20dialysis%20one%20handed&tag=seniorsaferhome-20",
+    "asin": "B0GYP338NW",
+    "editorialImageFallback": "/images/products/recorah-tearaway-shirt.svg",
+    "shortDescription": "The highest-rated piece here — a unisex tear-away magnetic shirt for one-handed dressing that opens for IV and dialysis-port access without removing the whole garment.",
+    "badge": "Best Post-Surgery",
+    "price": 38.99,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "features": [
+      "Tear-away magnetic closure",
+      "One-handed dressing",
+      "IV + dialysis port access",
+      "70% cotton/30% polyester, loose fit"
+    ],
+    "pros": [
+      "Opens fully for medical access",
+      "Great for shoulder surgery",
+      "Soft cotton blend"
+    ],
+    "cons": [
+      "Few reviews (newer)"
+    ],
+    "bestFor": [
+      "shoulder-surgery recovery",
+      "dialysis / IV patients",
+      "one-handed dressing"
+    ],
+    "specs": {
+      "type": "Magnetic recovery shirt",
+      "closure": "Tear-away magnets",
+      "fit": "Loose",
+      "access": "IV/dialysis"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "ecavus-magnetic-shirt",
+    "name": "Ecavus Women's Magnetic Tear-Away Crew Neck Shirt",
+    "brand": "Ecavus",
+    "category": "adaptive-clothing",
+    "subCategory": "recovery-shirt",
+    "amazonUrl": "https://www.amazon.com/s?k=Ecavus%20womens%20magnetic%20button%20post%20surgery%20shirt%20tear%20away%20crew%20neck%20full%20open%20side&tag=seniorsaferhome-20",
+    "asin": "B0GFMTHHQX",
+    "editorialImageFallback": "/images/products/ecavus-magnetic-shirt.svg",
+    "shortDescription": "A women’s crew-neck shirt with securely stitched magnets and a full open side that accommodates slings and bandages — made for chemo-port, mastectomy, and rotator-cuff recovery.",
+    "badge": "Best Value Women's",
+    "price": 24.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 37,
+    "features": [
+      "Securely stitched magnets",
+      "Full open side",
+      "95% polyester/5% spandex",
+      "Fits slings + bandages"
+    ],
+    "pros": [
+      "Affordable women’s option",
+      "Opens fully on one side",
+      "Stretchy, comfortable"
+    ],
+    "cons": [
+      "Few reviews (newer)"
+    ],
+    "bestFor": [
+      "mastectomy / chemo port",
+      "rotator-cuff recovery",
+      "one-sided dressing"
+    ],
+    "specs": {
+      "type": "Magnetic shirt",
+      "closure": "Side magnets",
+      "neck": "Crew",
+      "fit": "Stretch"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "silverts-magnetic-shirt",
+    "name": "Silverts Men's Magnetic Button Shirt",
+    "brand": "Silverts",
+    "category": "adaptive-clothing",
+    "subCategory": "magnetic-shirt",
+    "amazonUrl": "https://www.amazon.com/s?k=Silverts%20mens%20adaptive%20magnetic%20button%20shirt%20short%20sleeve%20OT%20recommended&tag=seniorsaferhome-20",
+    "asin": "B0GF8K339K",
+    "editorialImageFallback": "/images/products/silverts-magnetic-shirt.svg",
+    "shortDescription": "From the most trusted adaptive-clothing brand — a short-sleeve shirt whose magnetic closures replace every button, so arthritic or weak hands can dress without threading buttons.",
+    "badge": "Most Trusted Brand",
+    "price": 73.98,
+    "priceCurrency": "USD",
+    "rating": 4.5,
+    "reviewCount": 50,
+    "features": [
+      "Magnetic closures replace all buttons",
+      "Button-down collar, short sleeve",
+      "55% cotton/45% polyester",
+      "OT-recommended brand"
+    ],
+    "pros": [
+      "Trusted adaptive specialist",
+      "No button threading",
+      "Looks like a normal shirt"
+    ],
+    "cons": [
+      "Premium price"
+    ],
+    "bestFor": [
+      "arthritis / weak grip",
+      "one-handed dressing",
+      "maintaining appearance"
+    ],
+    "specs": {
+      "type": "Magnetic shirt",
+      "closure": "Magnets",
+      "sleeve": "Short",
+      "material": "Cotton blend"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "joe-bella-magnetic-shirt",
+    "name": "Joe & Bella Men's Magnetic Dress Shirt",
+    "brand": "Joe & Bella",
+    "category": "adaptive-clothing",
+    "subCategory": "magnetic-shirt",
+    "amazonUrl": "https://www.amazon.com/s?k=Joe%20Bella%20mens%20magnetic%20button%20adaptive%20dress%20shirt%20hidden%20magnets%20enlarged%20armholes&tag=seniorsaferhome-20",
+    "asin": "B0FJMR2Y6K",
+    "editorialImageFallback": "/images/products/joe-bella-magnetic-shirt.svg",
+    "shortDescription": "An award-winning dress shirt with magnets hidden behind traditional-looking buttons, enlarged armholes, and flexible stretch cuffs — adaptive dressing with no visible difference.",
+    "badge": "Best Dress Shirt",
+    "price": 84,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 32,
+    "features": [
+      "Hidden magnets behind real-looking buttons",
+      "Enlarged armholes",
+      "Flexible stretch cuffs",
+      "Moisture-wicking, wrinkle-resistant"
+    ],
+    "pros": [
+      "Looks like a normal dress shirt",
+      "One-handed close, even with tremors",
+      "Dignified for Parkinson’s"
+    ],
+    "cons": [
+      "Highest price here"
+    ],
+    "bestFor": [
+      "Parkinson’s / tremors",
+      "dress occasions",
+      "preserving dignity"
+    ],
+    "specs": {
+      "type": "Magnetic dress shirt",
+      "closure": "Hidden magnets",
+      "armholes": "Enlarged",
+      "cuffs": "Stretch"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
+  },
+  {
+    "id": "silverts-wheelchair-cape",
+    "name": "Silverts Adaptive Fleece Wheelchair Cape with Hood",
+    "brand": "Silverts",
+    "category": "adaptive-clothing",
+    "subCategory": "outerwear",
+    "amazonUrl": "https://www.amazon.com/s?k=Silverts%20adaptive%20fleece%20wheelchair%20cape%20hood%20open%20back%20front%20zipper%20unisex&tag=seniorsaferhome-20",
+    "asin": "B0G4WH9P6K",
+    "editorialImageFallback": "/images/products/silverts-wheelchair-cape.svg",
+    "shortDescription": "A unisex fleece cape with an open back and front zipper that drapes over a wheelchair user without bunching behind them — a shorter back hem keeps it clear of the wheels.",
+    "badge": "Best for Wheelchair Users",
+    "price": 68.98,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 42,
+    "features": [
+      "100% polyester fleece, hooded",
+      "Open back + front zipper",
+      "Shorter back clears the wheels",
+      "One size, unisex"
+    ],
+    "pros": [
+      "Warm without bulk behind the back",
+      "Easy front-zip on/off",
+      "Stays out of the wheels"
+    ],
+    "cons": [
+      "Cape style, one size"
+    ],
+    "bestFor": [
+      "full-time wheelchair users",
+      "warmth while seated",
+      "easy outerwear"
+    ],
+    "specs": {
+      "type": "Wheelchair cape",
+      "closure": "Front zip",
+      "back": "Open",
+      "material": "Fleece"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-15",
+    "asinSource": "searchItems"
   }
 ]

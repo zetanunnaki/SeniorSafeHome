@@ -395,6 +395,8 @@ function categoryEmoji(slug: string): string {
     'daylight-task-lamps': '🪔',
     'smart-home-for-seniors': '🔊',
     'walker-wheelchair-accessories': '🧺',
+    'car-transfer-aids': '🚗',
+    'adaptive-clothing': '👕',
     'transport-wheelchairs': '♿',
     'hearing-amplifiers': '👂',
     'automatic-pill-dispensers': '⏰',
