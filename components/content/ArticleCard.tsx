@@ -28,7 +28,12 @@ export function ArticleCard({ item, showType = true }: { item: ContentSummary; s
         </Link>
       </h3>
       <p className="mt-2 flex-1 text-ink-soft">{item.description}</p>
-      <span className="mt-5 text-sm font-semibold text-brand-700">Read more →</span>
+      <span className="mt-5 inline-flex items-center gap-1.5 text-sm font-semibold text-brand-700">
+        Read more
+        <span aria-hidden="true" className="transition-transform duration-300 group-hover:translate-x-1">
+          →
+        </span>
+      </span>
     </article>
   );
 }

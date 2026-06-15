@@ -129,14 +129,14 @@ export default function HomePage() {
             href="/categories"
             linkLabel="All categories"
           />
-          <div className="mt-10 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-5">
+          <div className="mt-10 grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
             {categories.map((c) => (
               <Link
                 key={c.slug}
                 href={`/categories/${c.slug}`}
-                className="group rounded-2xl border border-ink/10 bg-white p-5 text-center no-underline shadow-card transition hover:-translate-y-1 hover:border-brand-300 hover:shadow-lift"
+                className="group rounded-2xl border border-ink/10 bg-white p-5 text-center no-underline shadow-card transition duration-300 hover:-translate-y-1 hover:border-brand-300 hover:shadow-lift"
               >
-                <div className="mx-auto flex h-14 w-14 items-center justify-center rounded-2xl bg-cream text-2xl transition group-hover:bg-brand-100" aria-hidden="true">
+                <div className="mx-auto flex h-14 w-14 items-center justify-center rounded-2xl bg-cream text-2xl transition duration-300 group-hover:scale-110 group-hover:bg-brand-100" aria-hidden="true">
                   {categoryEmoji(c.slug)}
                 </div>
                 <p className="mt-3 text-sm font-semibold text-ink group-hover:text-brand-700">{c.name}</p>

@@ -8,6 +8,23 @@
     -webkit-text-size-adjust: 100%;
   }
 
+  /* Respect users who prefer reduced motion: disable the hover lifts, scroll
+     animation, and entrance reveals rather than forcing motion on them.
+     Important for an older audience and vestibular sensitivity. */
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
   body {
     @apply bg-surface text-ink antialiased;
     font-family: var(--font-sans), system-ui, sans-serif;
@@ -120,5 +137,32 @@
     background-color: theme('colors.night.DEFAULT');
     background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px);
     background-size: 22px 22px;
+  }
+
+  /* Interactive card: gentle lift + accent border on hover/focus-within.
+     Shared by product and article cards for a consistent feel. */
+  .card-interactive {
+    @apply transition duration-300 will-change-transform hover:-translate-y-1 hover:border-brand-200 hover:shadow-lift focus-within:-translate-y-1 focus-within:border-brand-200 focus-within:shadow-lift;
+  }
+
+  /* Product image that zooms slightly when its card is hovered. */
+  .img-zoom {
+    @apply transition-transform duration-500 ease-out group-hover:scale-[1.06];
+  }
+
+  /* Guarantee comfortable tap targets on touch devices (senior-friendly). */
+  @media (pointer: coarse) {
+    a[data-affiliate],
+    .btn-primary,
+    .btn-secondary,
+    .btn-on-dark {
+      min-height: 48px;
+    }
+  }
+
+  /* Honor iOS safe-area insets so the sticky mobile CTA never sits under the
+     home indicator. */
+  .pb-safe {
+    padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
   }
 }

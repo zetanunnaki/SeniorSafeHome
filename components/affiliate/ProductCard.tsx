@@ -26,25 +26,25 @@ export function ProductCard({
   return (
     <article
       className={cn(
-        'flex h-full flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition hover:shadow-md',
+        'group card-interactive flex h-full flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-card',
         className
       )}
     >
-      <div className="relative flex items-center justify-center bg-slate-50 p-6">
+      <div className="relative flex items-center justify-center overflow-hidden bg-slate-50 p-6">
         {product.badge && (
-          <div className="absolute left-3 top-3">
+          <div className="absolute left-3 top-3 z-10">
             <Badge>{product.badge}</Badge>
           </div>
         )}
         {typeof rank === 'number' && (
-          <div className="absolute right-3 top-3 flex h-8 w-8 items-center justify-center rounded-full bg-brand-600 text-sm font-bold text-white">
+          <div className="absolute right-3 top-3 z-10 flex h-8 w-8 items-center justify-center rounded-full bg-brand-600 text-sm font-bold text-white shadow-sm">
             {rank}
           </div>
         )}
         <Img
           src={productImage(product)}
           alt={`${product.name} — ${product.shortDescription}`}
-          className="h-40 w-auto object-contain"
+          className="img-zoom h-40 w-auto object-contain"
         />
       </div>
 

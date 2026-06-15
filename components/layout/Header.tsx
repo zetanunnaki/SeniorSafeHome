@@ -29,8 +29,10 @@ export function Header() {
   return (
     <header
       className={cn(
-        'sticky top-0 z-40 transition-colors duration-300',
-        transparent ? 'bg-transparent' : 'border-b border-ink/10 bg-surface/95 backdrop-blur'
+        'sticky top-0 z-40 transition-all duration-300',
+        transparent
+          ? 'bg-transparent'
+          : cn('border-b border-ink/10 bg-surface/95 backdrop-blur', scrolled && 'shadow-sm')
       )}
     >
       <Container className="flex h-[72px] items-center justify-between gap-4">
@@ -88,18 +90,36 @@ export function Header() {
       </Container>
 
       {open && (
-        <nav id="mobile-nav" className="border-t border-ink/10 bg-surface lg:hidden" aria-label="Mobile">
-          <Container className="flex flex-col py-2">
-            {site.nav.map((item) => (
-              <Link
-                key={item.href}
-                href={item.href}
-                onClick={() => setOpen(false)}
-                className="rounded-lg px-2 py-3 text-base font-semibold text-ink-soft no-underline hover:bg-cream"
-              >
-                {item.label}
-              </Link>
-            ))}
+        <nav
+          id="mobile-nav"
+          className="animate-fade-up border-t border-ink/10 bg-surface shadow-sm lg:hidden"
+          aria-label="Mobile"
+        >
+          <Container className="flex flex-col gap-1 py-3">
+            {site.nav.map((item) => {
+              const active = pathname === item.href || pathname.startsWith(`${item.href}/`);
+              return (
+                <Link
+                  key={item.href}
+                  href={item.href}
+                  onClick={() => setOpen(false)}
+                  aria-current={active ? 'page' : undefined}
+                  className={cn(
+                    'rounded-xl px-3 py-3 text-base font-semibold no-underline transition-colors',
+                    active ? 'bg-brand-50 text-brand-700' : 'text-ink-soft hover:bg-cream'
+                  )}
+                >
+                  {item.label}
+                </Link>
+              );
+            })}
+            <Link
+              href="/best"
+              onClick={() => setOpen(false)}
+              className="btn-primary mt-2 w-full no-underline"
+            >
+              Browse Best Picks
+            </Link>
           </Container>
         </nav>
       )}
