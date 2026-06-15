@@ -12154,5 +12154,475 @@
     "image": "https://m.media-amazon.com/images/I/410I0fXUsNL._SL500_.jpg",
     "imageSource": "creators-api",
     "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "lepro-task-lamp",
+    "name": "Lepro LED Desk Lamp (Forbes Vetted)",
+    "brand": "Lepro",
+    "category": "daylight-task-lamps",
+    "subCategory": "desk-lamp",
+    "amazonUrl": "https://www.amazon.com/dp/B0963L9XXB?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0963L9XXB",
+    "editorialImageFallback": "/images/products/lepro-task-lamp.svg",
+    "shortDescription": "A Forbes-vetted task lamp with 800 lumens, 5 color modes × 5 brightness levels, a flexible arm, a memory function, and flicker-free light — versatile for reading and crafts.",
+    "badge": "Best Overall",
+    "price": 22.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 8043,
+    "features": [
+      "800 lumens, 9.5W",
+      "5 color modes × 5 brightness",
+      "Flexible arm + memory function",
+      "Non-flickering, 2-yr warranty"
+    ],
+    "pros": [
+      "Bright and adjustable",
+      "Flicker-free (easy on eyes)",
+      "Great value"
+    ],
+    "cons": [
+      "Desk-only (no floor option)"
+    ],
+    "bestFor": [
+      "reading & crafts",
+      "low-vision desk work",
+      "bedside table"
+    ],
+    "specs": {
+      "lumens": "800",
+      "modes": "5 color × 5",
+      "arm": "Flexible",
+      "warranty": "2 yr"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/313ENXAKREL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "ottlite-softtouch-desk-lamp",
+    "name": "OttLite Soft Touch LED Desk Lamp (Natural Daylight)",
+    "brand": "OttLite",
+    "category": "daylight-task-lamps",
+    "subCategory": "desk-lamp",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNBKRSQ9?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0CNBKRSQ9",
+    "editorialImageFallback": "/images/products/ottlite-softtouch-desk-lamp.svg",
+    "shortDescription": "A 5000K natural-daylight lamp from the brand founded by a photobiologist — clinically designed to reduce eye strain, with 3 brightness levels and a flexible 8–18\" neck.",
+    "badge": "Best for Low Vision",
+    "price": 49.99,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 1136,
+    "features": [
+      "5000K natural daylight LED",
+      "3 brightness levels, touch control",
+      "Flexible neck 8–18\"",
+      "40,000-hour LED"
+    ],
+    "pros": [
+      "Trusted low-vision brand",
+      "Reduces eye strain",
+      "Highly rated"
+    ],
+    "cons": [
+      "Pricier than basic lamps"
+    ],
+    "bestFor": [
+      "macular degeneration / low vision",
+      "long reading sessions",
+      "detail work"
+    ],
+    "specs": {
+      "color": "5000K",
+      "cri": "High",
+      "neck": "8–18\"",
+      "brightness": "3"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41DPc9grqOL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "ottlite-creativecurves-desk-lamp",
+    "name": "OttLite Creative Curves LED Desk Lamp",
+    "brand": "OttLite",
+    "category": "daylight-task-lamps",
+    "subCategory": "desk-lamp",
+    "amazonUrl": "https://www.amazon.com/dp/B01BHIRHKE?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B01BHIRHKE",
+    "editorialImageFallback": "/images/products/ottlite-creativecurves-desk-lamp.svg",
+    "shortDescription": "A 5000K natural-daylight lamp with a 20\" extending neck for precise positioning, 4 brightness levels, touch controls, and superior color rendering.",
+    "badge": "Best Adjustable Neck",
+    "price": 49.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 2222,
+    "features": [
+      "5000K natural daylight",
+      "4 brightness levels, touch controls",
+      "Extends 20\" for positioning",
+      "Energy-efficient LED"
+    ],
+    "pros": [
+      "Long reach for precise light",
+      "Daylight color accuracy",
+      "Easy touch control"
+    ],
+    "cons": [
+      "Desk lamp only"
+    ],
+    "bestFor": [
+      "needlework & hobbies",
+      "aiming light precisely",
+      "low-vision reading"
+    ],
+    "specs": {
+      "color": "5000K",
+      "neck": "20\" reach",
+      "brightness": "4",
+      "control": "Touch"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31PJvWvg7CL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "lepower-rg0-desk-lamp",
+    "name": "LEPOWER 12W Eye-Safe LED Desk Lamp (RG0)",
+    "brand": "LEPOWER",
+    "category": "daylight-task-lamps",
+    "subCategory": "desk-lamp",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKT611XR?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0BKT611XR",
+    "editorialImageFallback": "/images/products/lepower-rg0-desk-lamp.svg",
+    "shortDescription": "RG0-certified (100% blue-light-hazard free) with 800 lumens, 50 lighting modes, a 360° gooseneck, and a 50\" wide coverage panel — ideal after cataract surgery or for glare sensitivity.",
+    "badge": "Best Eye-Safe",
+    "price": 26.98,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 2848,
+    "features": [
+      "RG0 certified (no blue-light hazard)",
+      "800 lumens, 50 lighting modes",
+      "360° gooseneck",
+      "50\" wide coverage panel"
+    ],
+    "pros": [
+      "Safest for sensitive eyes",
+      "Wide, even light",
+      "Many modes, great value"
+    ],
+    "cons": [
+      "Desk-only"
+    ],
+    "bestFor": [
+      "post-cataract surgery",
+      "glare sensitivity",
+      "wide desk coverage"
+    ],
+    "specs": {
+      "lumens": "800",
+      "safety": "RG0",
+      "arm": "360° gooseneck",
+      "modes": "50"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31-NplFJYPL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "marctronic-floor-lamp",
+    "name": "marctronic 1800lm LED Floor Lamp (Remote)",
+    "brand": "marctronic",
+    "category": "daylight-task-lamps",
+    "subCategory": "floor-lamp",
+    "amazonUrl": "https://www.amazon.com/dp/B0C14D5CX6?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0C14D5CX6",
+    "editorialImageFallback": "/images/products/marctronic-floor-lamp.svg",
+    "shortDescription": "A bright 1800-lumen floor lamp with 4 color temperatures, stepless 5–100% dimming, a 50-ft remote (great for arthritis), a 360° gooseneck, and a 5-year warranty.",
+    "badge": "Best Value Floor Lamp",
+    "price": 29.98,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 3104,
+    "features": [
+      "18W / 1800 lumens",
+      "4 color temps (2700–6500K)",
+      "Stepless dimming + 50-ft remote",
+      "360° gooseneck, 5-yr warranty"
+    ],
+    "pros": [
+      "Remote (no reaching)",
+      "Very bright and adjustable",
+      "Long warranty"
+    ],
+    "cons": [
+      "Floor footprint"
+    ],
+    "bestFor": [
+      "reading chairs / recliners",
+      "arthritis (remote)",
+      "no table needed"
+    ],
+    "specs": {
+      "lumens": "1800",
+      "temps": "2700–6500K",
+      "remote": "50 ft",
+      "warranty": "5 yr"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/51pZd4xqoDL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "brightech-litespan-floor-lamp",
+    "name": "Brightech Litespan LED Floor Lamp (Daylight)",
+    "brand": "Brightech",
+    "category": "daylight-task-lamps",
+    "subCategory": "floor-lamp",
+    "amazonUrl": "https://www.amazon.com/dp/B00VJ4SFZI?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B00VJ4SFZI",
+    "editorialImageFallback": "/images/products/brightech-litespan-floor-lamp.svg",
+    "shortDescription": "A pure 6000K cool-daylight floor lamp ideal for detail work, with a flexible 42–53\" gooseneck, a touch switch, and a head that stays cool to the touch — heavily reviewed.",
+    "badge": "Best Daylight Floor Lamp",
+    "price": 54.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 20531,
+    "features": [
+      "6000K cool daylight, 950 lumens",
+      "Flexible gooseneck 42–53\"",
+      "Touch switch, stays cool",
+      "3-year warranty"
+    ],
+    "pros": [
+      "Crisp daylight for detail",
+      "Aims over the shoulder",
+      "Most-reviewed floor lamp here"
+    ],
+    "cons": [
+      "Single color temperature"
+    ],
+    "bestFor": [
+      "crafts & reading",
+      "over-chair lighting",
+      "detail work"
+    ],
+    "specs": {
+      "color": "6000K",
+      "lumens": "950",
+      "neck": "42–53\"",
+      "control": "Touch"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/31ztKHDrAYL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "yikuneng-floor-lamp",
+    "name": "Yikuneng 1800lm LED Floor Lamp (Reading Mode)",
+    "brand": "Yikuneng",
+    "category": "daylight-task-lamps",
+    "subCategory": "floor-lamp",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKL4RBY3?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0CKL4RBY3",
+    "editorialImageFallback": "/images/products/yikuneng-floor-lamp.svg",
+    "shortDescription": "An 1800-lumen floor lamp with stepless dimming, a 50-ft RF remote, and six preset modes including dedicated Reading and gentle Nursing modes for nighttime checks.",
+    "badge": "Best Reading Mode",
+    "price": 29.99,
+    "priceCurrency": "USD",
+    "rating": 4.7,
+    "reviewCount": 813,
+    "features": [
+      "18W / 1800 lumens, 2700–6500K",
+      "Stepless 5–100% dimming",
+      "6 presets (Reading/Working/Night/Nursing)",
+      "50-ft RF remote, memory"
+    ],
+    "pros": [
+      "Dedicated reading & nursing modes",
+      "Remote control",
+      "Very bright"
+    ],
+    "cons": [
+      "Fewer reviews"
+    ],
+    "bestFor": [
+      "reading chairs",
+      "nighttime caregiving",
+      "dementia-friendly soft light"
+    ],
+    "specs": {
+      "lumens": "1800",
+      "presets": "6",
+      "remote": "RF 50 ft",
+      "dimming": "Stepless"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/41elOl-dN6L._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "ottlite-clearsun-floor-lamp",
+    "name": "OttLite ClearSun LED Floor Lamp (95+ CRI)",
+    "brand": "OttLite",
+    "category": "daylight-task-lamps",
+    "subCategory": "floor-lamp",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2JJKND9?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0D2JJKND9",
+    "editorialImageFallback": "/images/products/ottlite-clearsun-floor-lamp.svg",
+    "shortDescription": "A premium 5000K floor lamp with 95+ CRI ClearSun LEDs for true color, an adjustable 47.5–64\" height, touch controls, and a weighted base — excellent over a reading chair.",
+    "badge": "Best Premium Floor Lamp",
+    "price": 129.99,
+    "priceCurrency": "USD",
+    "rating": 4.8,
+    "reviewCount": 363,
+    "features": [
+      "ClearSun LED, 95+ CRI, 5000K",
+      "3 brightness levels",
+      "Adjustable height 47.5–64\"",
+      "Touch controls, weighted base"
+    ],
+    "pros": [
+      "Exceptional color accuracy",
+      "Stable weighted base",
+      "Trusted low-vision brand"
+    ],
+    "cons": [
+      "Premium price"
+    ],
+    "bestFor": [
+      "over-chair reading",
+      "low vision",
+      "true-color crafts"
+    ],
+    "specs": {
+      "color": "5000K",
+      "cri": "95+",
+      "height": "47.5–64\"",
+      "base": "Weighted"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/319n1GXflIL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "verilux-happylight-duo-lamp",
+    "name": "Verilux HappyLight Duo Light-Therapy & Task Lamp",
+    "brand": "Verilux",
+    "category": "daylight-task-lamps",
+    "subCategory": "light-therapy",
+    "amazonUrl": "https://www.amazon.com/dp/B09RD1H9SN?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B09RD1H9SN",
+    "editorialImageFallback": "/images/products/verilux-happylight-duo-lamp.svg",
+    "shortDescription": "A 2-in-1 lamp delivering 10,000 lux UV-free full-spectrum light therapy and doubling as a task reading lamp — 7 brightness and 3 color settings, with a 360° gooseneck.",
+    "badge": "Best Light Therapy",
+    "price": 79,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 539,
+    "features": [
+      "10,000 lux UV-free light therapy",
+      "7 brightness + 3 color temps",
+      "360° gooseneck, USB charging port",
+      "Clinically reduces eye strain"
+    ],
+    "pros": [
+      "Therapy + reading in one",
+      "Helps winter low mood",
+      "Flexible positioning"
+    ],
+    "cons": [
+      "Smaller task footprint"
+    ],
+    "bestFor": [
+      "winter blues + low vision",
+      "energy/mood boost",
+      "desk reading"
+    ],
+    "specs": {
+      "lux": "10000",
+      "uv": "Free",
+      "brightness": "7",
+      "temps": "3"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/21s4pPUGioL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
+  },
+  {
+    "id": "daylight-slimline4-lamp",
+    "name": "Daylight Company Slimline 4 LED Table Lamp (95+ CRI)",
+    "brand": "Daylight Company",
+    "category": "daylight-task-lamps",
+    "subCategory": "desk-lamp",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPJ77MLP?tag=seniorsaferhome-20&linkCode=ogi&th=1&psc=1",
+    "asin": "B0DPJ77MLP",
+    "editorialImageFallback": "/images/products/daylight-slimline4-lamp.svg",
+    "shortDescription": "A professional-grade 6000K / 3,200-lux lamp with 95+ CRI and an anti-glare diffuser that reveals true thread, fabric, and paint colors — with a USB-C port and clamp or screw mount.",
+    "badge": "Best for Crafts",
+    "price": 223.99,
+    "priceCurrency": "USD",
+    "rating": 4.6,
+    "reviewCount": 1748,
+    "features": [
+      "6000K, 3,200 lux, 95+ CRI",
+      "Anti-glare diffuser",
+      "4 brightness levels, USB-C",
+      "Table clamp or screw mount"
+    ],
+    "pros": [
+      "Studio-grade color accuracy",
+      "Glare-free bright light",
+      "Clamp saves desk space"
+    ],
+    "cons": [
+      "Most expensive lamp here"
+    ],
+    "bestFor": [
+      "needlepoint & embroidery",
+      "true-color detail work",
+      "serious crafters"
+    ],
+    "specs": {
+      "color": "6000K",
+      "lux": "3200",
+      "cri": "95+",
+      "mount": "Clamp/screw"
+    },
+    "reviewSlug": null,
+    "lastManualReview": "2026-06-14",
+    "asinSource": "searchItems",
+    "image": "https://m.media-amazon.com/images/I/11ElQm4RQWL._SL500_.jpg",
+    "imageSource": "creators-api",
+    "lastVerified": "2026-06-15"
   }
 ]

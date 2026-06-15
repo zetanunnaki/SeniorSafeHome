@@ -262,5 +262,13 @@
     "shortDescription": "Large-display clocks that spell out the full day, date, and time of day to reduce confusion for people with dementia or memory loss.",
     "intro": "For someone with dementia or memory loss, not knowing the day or whether it's morning or night is a real source of distress. A dementia day clock shows the full, unabbreviated day, date, and a clear time-of-day phase (morning, afternoon, evening, night) in large high-contrast type — plus alarms for medications and appointments. We compare display size and contrast, time-of-day clarity, alarm and reminder options, voice announcement, auto-dimming for night, and ease of caregiver setup.",
     "icon": "clock"
+  },
+  {
+    "slug": "daylight-task-lamps",
+    "name": "Daylight Reading & Task Lamps",
+    "cluster": "daily-living",
+    "shortDescription": "Natural-daylight desk and floor lamps with high color rendering that reduce eye strain and make reading and close work easier for aging and low-vision eyes.",
+    "intro": "Aging eyes need far more light — and the right quality of light — to read and do close work comfortably. Natural-daylight LED lamps (around 5000–6000K with high color rendering) cut eye strain, reveal true colors for crafts, and make low-vision reading far easier, especially alongside a [magnifier](/categories/low-vision-magnifiers). We compare desk and floor lamps on brightness, color temperature and CRI, glare control, flexible positioning, and remote or touch controls, plus 2-in-1 light-therapy lamps that also help with winter low mood.",
+    "icon": "lamp"
   }
 ]
